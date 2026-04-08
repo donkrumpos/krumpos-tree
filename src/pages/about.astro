@@ -27,8 +27,8 @@ import BaseLayout from '../layouts/BaseLayout.astro';
     <h2>Privacy</h2>
     <p>
       Only deceased ancestors are included. No living relatives appear on this site.
-      If you believe any information here is incorrect or should be removed, please contact
-      Don Krumpos.
+      If you believe any information here is incorrect or should be removed, use the
+      contact form below.
     </p>
 
     <h2 id="contribute">Contribute a memory</h2>
@@ -36,10 +36,6 @@ import BaseLayout from '../layouts/BaseLayout.astro';
       If you knew any of the people documented here — a story, a memory, a photo, a correction —
       we'd love to hear from you. Every person's page has a "Remember something?" form at the bottom.
       Submissions are reviewed before being added to the site.
-    </p>
-    <p>
-      You can also reach out directly to Don Krumpos at
-      <a href="mailto:don@krumpos.org">don@krumpos.org</a>.
     </p>
 
     <h2>Sources</h2>
@@ -55,4 +51,95 @@ import BaseLayout from '../layouts/BaseLayout.astro';
       Jim Krumpos, great-grandson of Donald and Dorothy (Coppersmith) Krumpos.
     </p>
   </article>
+
+  <div class="mt-8 p-6 bg-white/50 border border-[var(--color-parchment-dark)] rounded" id="contact">
+    <h2 class="text-lg font-serif text-[var(--color-dark-brown)] mb-2">Contact</h2>
+    <p class="text-sm text-[var(--color-warm-gray)] mb-4">
+      Questions, corrections, or just want to say hello? Send a message here.
+    </p>
+
+    <form class="contact-form space-y-3">
+      <div class="grid grid-cols-1 sm:grid-cols-2 gap-3">
+        <div>
+          <label class="block text-sm text-[var(--color-warm-gray)] mb-1" for="contact-name">Your name *</label>
+          <input
+            type="text"
+            id="contact-name"
+            name="submitter_name"
+            required
+            class="w-full px-3 py-2 border border-[var(--color-parchment-dark)] rounded bg-white text-sm focus:outline-none focus:border-[var(--color-accent)]"
+          />
+        </div>
+        <div>
+          <label class="block text-sm text-[var(--color-warm-gray)] mb-1" for="contact-email">Email (optional)</label>
+          <input
+            type="email"
+            id="contact-email"
+            name="submitter_email"
+            class="w-full px-3 py-2 border border-[var(--color-parchment-dark)] rounded bg-white text-sm focus:outline-none focus:border-[var(--color-accent)]"
+          />
+        </div>
+      </div>
+
+      <div>
+        <label class="block text-sm text-[var(--color-warm-gray)] mb-1" for="contact-message">Message *</label>
+        <textarea
+          id="contact-message"
+          name="memory"
+          required
+          rows="4"
+          class="w-full px-3 py-2 border border-[var(--color-parchment-dark)] rounded bg-white text-sm focus:outline-none focus:border-[var(--color-accent)] resize-y"
+        ></textarea>
+      </div>
+
+      <button
+        type="submit"
+        class="px-4 py-2 bg-[var(--color-dark-brown)] text-[var(--color-parchment)] rounded text-sm hover:bg-[var(--color-dark-brown-light)] transition-colors"
+      >
+        Send message
+      </button>
+
+      <p class="form-status text-sm hidden"></p>
+    </form>
+  </div>
+
+  <script>
+    import { supabase } from '../lib/supabase';
+
+    document.querySelector('.contact-form')?.addEventListener('submit', async (e) => {
+      e.preventDefault();
+      const f = e.target as HTMLFormElement;
+      const status = f.querySelector('.form-status') as HTMLElement;
+      const button = f.querySelector('button[type="submit"]') as HTMLButtonElement;
+
+      const data = {
+        person_id: 'contact',
+        person_name: 'General Contact',
+        submitter_name: (f.elements.namedItem('submitter_name') as HTMLInputElement).value.trim(),
+        submitter_email: (f.elements.namedItem('submitter_email') as HTMLInputElement).value.trim(),
+        submitter_relationship: '',
+        memory: (f.elements.namedItem('memory') as HTMLTextAreaElement).value.trim(),
+      };
+
+      if (!data.submitter_name || !data.memory) return;
+
+      button.disabled = true;
+      button.textContent = 'Sending...';
+      status.classList.add('hidden');
+
+      const { error } = await supabase.from('memories').insert(data);
+
+      if (error) {
+        status.textContent = 'Something went wrong. Please try again.';
+        status.className = 'form-status text-sm text-red-600 mt-2';
+        button.disabled = false;
+        button.textContent = 'Send message';
+      } else {
+        status.textContent = 'Message sent. Thank you!';
+        status.className = 'form-status text-sm text-green-700 mt-2';
+        f.reset();
+        button.textContent = 'Sent';
+      }
+    });
+  </script>
 </BaseLayout>
