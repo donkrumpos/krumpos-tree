@@ -1,11 +1,11 @@
 ---
-title: The Lines That Made Foggy
+title: The Lines That Made Don
 created: '2026-04-09'
 type: narrative
 ---
-# The Lines That Made Foggy
+# The Lines That Made Don
 
-A narrative of the ancestry of Don "Foggy" Krumpos, traced across ten countries, three centuries, and one recurring fact: everyone ended up in Wisconsin.
+A narrative of the ancestry of Don Krumpos, traced across ten countries, three centuries, and one recurring fact: everyone ended up in Wisconsin.
 
 ---
 
@@ -53,7 +53,7 @@ Henry Martin farmed in Sevastopol for thirty-eight years. His house burned down 
 
 But the youngest — Life — survived. Life Martin married Mildred Amelia Guernsey, a woman from Ionia, Michigan, whose father John Loami Guernsey had lost his own father at age two and his first wife at twenty-three. Mildred had lost her mother at three. Life and Mildred settled on Peter Street in Sturgeon Bay and raised four children. Life worked as a laborer. The family attended the Christian Science Society — unusual for Door County, where the churches were Lutheran, Moravian, and Catholic. Life lived to eighty-seven.
 
-Meanwhile, the Schmidt and Kendall lines were converging in Minnesota. Charles Frederick Schmidt — son of John from Mecklenburg and Elizabeth Rabe — married Maria Katharina Wilhelmina Vollmer, whose parents had come from Hanover and Baden. Their son Frederick married Mary Jane Kendall, whose father was descended from the Kendalls and Forstalls of Kent, England, and whose mother Margaret Schindler was the daughter of German immigrants. Frederick and Mary Jane's son Clifford would become Foggy's maternal grandfather.
+Meanwhile, the Schmidt and Kendall lines were converging in Minnesota. Charles Frederick Schmidt — son of John from Mecklenburg and Elizabeth Rabe — married Maria Katharina Wilhelmina Vollmer, whose parents had come from Hanover and Baden. Their son Frederick married Mary Jane Kendall, whose father was descended from the Kendalls and Forstalls of Kent, England, and whose mother Margaret Schindler was the daughter of German immigrants. Frederick and Mary Jane's son Clifford would become Don's maternal grandfather.
 
 And on the Krumpos side, Lawrence Antone Krumpos — son of the Bohemian immigrant Joseph — married twice. His second wife, Matilda Schneider, gave him a son named Donald. Donald married Dorothy Coppersmith, whose family traced to the Belgian Settlement and the French-Canadian parishes of Quebec. Dorothy carried the gene for Huntington's disease, though no one knew it yet.
 
@@ -71,11 +71,11 @@ Gerald Martin died at twenty-eight. His daughter Helen was seven.
 
 Three consecutive generations where a parent was taken young. Mildred Guernsey grew up without a mother, watched her own son die at twenty-eight, and lived to ninety-one carrying all of it.
 
-Gerald Martin — Foggy's great-grandfather — was a rivet heater at the Leathem D. Smith shipyard in Sturgeon Bay. He married Hazel Mielke of Clay Banks on January 29, 1921. They were both teenagers. He died at home on North Church Street on a Sunday morning in June 1931, after two months of illness. His youngest son Gerald Jr. was two months old. The funeral was held at his parents' house on Peter Street. The Door County News called him simply "Gerald Martin, age 28."
+Gerald Martin — Don's great-grandfather — was a rivet heater at the Leathem D. Smith shipyard in Sturgeon Bay. He married Hazel Mielke of Clay Banks on January 29, 1921. They were both teenagers. He died at home on North Church Street on a Sunday morning in June 1931, after two months of illness. His youngest son Gerald Jr. was two months old. The funeral was held at his parents' house on Peter Street. The Door County News called him simply "Gerald Martin, age 28."
 
-Hazel remarried within a year — Clarence Lau, on May 7, 1932. She lived to eighty-four. Her daughter Helen — Gerald's daughter, Foggy's grandmother — married Clifford Schmidt, had a daughter named Betty, and died in 1974 at age forty-nine. Betty married Keith Krumpos, had children including Don, and died in 1993 at forty-six.
+Hazel remarried within a year — Clarence Lau, on May 7, 1932. She lived to eighty-four. Her daughter Helen — Gerald's daughter, Don's grandmother — married Clifford Schmidt, had a daughter named Betty, and died in 1974 at age forty-nine. Betty married Keith Krumpos, had children including Don, and died in 1993 at forty-six.
 
-Donald Howard Krumpos — Foggy's paternal grandfather — died in 1964 at thirty-nine. Dorothy, his wife, succumbed to Huntington's in 2002.
+Donald Howard Krumpos — Don's paternal grandfather — died in 1964 at thirty-nine. Dorothy, his wife, succumbed to Huntington's in 2002.
 
 The short lives are not the whole story. But they are part of the inheritance.
 
