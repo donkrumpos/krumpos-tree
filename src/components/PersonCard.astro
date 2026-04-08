@@ -1,0 +1,26 @@
+---
+interface Props {
+  name: string;
+  id: string;
+  surname: string;
+  birth: string;
+  death: string;
+  status: string;
+}
+
+const { name, id, surname, birth, death, status } = Astro.props;
+
+function yearFrom(d: string): string {
+  if (!d) return '?';
+  const s = String(d);
+  if (s.match(/^\d{4}/)) return s.slice(0, 4);
+  return s;
+}
+
+const lifespan = `${yearFrom(birth)}–${yearFrom(death)}`;
+---
+<a href={`/person/${surname}/${id}`} class="block py-2 no-underline hover:bg-[var(--color-parchment-dark)] -mx-2 px-2 rounded transition-colors">
+  <span class="text-[var(--color-ink)]">{name}</span>
+  <span class="text-sm text-[var(--color-muted)] ml-2">{lifespan}</span>
+  {status === 'research-target' && <span class="text-xs text-red-600 ml-1">research needed</span>}
+</a>

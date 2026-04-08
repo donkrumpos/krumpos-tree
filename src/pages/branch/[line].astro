@@ -1,0 +1,90 @@
+---
+import { getCollection } from 'astro:content';
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import PersonCard from '../../components/PersonCard.astro';
+
+export async function getStaticPaths() {
+  const { branchDefs } = await import('../../lib/branches');
+  return Object.keys(branchDefs).map((line) => ({
+    params: { line },
+    props: { branch: branchDefs[line], line },
+  }));
+}
+
+const { branch } = Astro.props;
+
+const allPeople = await getCollection('people');
+const byId = new Map(allPeople.map(p => [p.data.id, p]));
+
+// Collect people in this branch by surname membership
+const branchSurnames = new Set(branch.surnames.map((s: string) => s.toLowerCase()));
+const branchPeople = allPeople
+  .filter(p => branchSurnames.has(p.data.surname.toLowerCase()))
+  .sort((a, b) => {
+    const aYear = String(a.data.birth).slice(0, 4) || '9999';
+    const bYear = String(b.data.birth).slice(0, 4) || '9999';
+    return aYear.localeCompare(bYear);
+  });
+
+// Group by surname for display
+const bySurname = new Map<string, typeof branchPeople>();
+for (const person of branchPeople) {
+  const s = person.data.surname;
+  if (!bySurname.has(s)) bySurname.set(s, []);
+  bySurname.get(s)!.push(person);
+}
+
+// Root person
+const rootPerson = byId.get(branch.rootId);
+---
+<BaseLayout title={branch.title} description={branch.description}>
+  <h1 class="text-3xl mb-4">{branch.title}</h1>
+  <p class="text-lg text-[var(--color-warm-gray)] mb-8">{branch.description}</p>
+
+  {rootPerson && (
+    <div class="mb-8 p-4 border border-[var(--color-parchment-dark)] rounded bg-white/50">
+      <p class="text-sm text-[var(--color-muted)] uppercase tracking-wide mb-1">Root ancestor</p>
+      <a href={`/person/${rootPerson.data.surname}/${rootPerson.data.id}`} class="text-lg font-serif text-[var(--color-dark-brown)]">
+        {rootPerson.data.name}
+      </a>
+      <span class="text-[var(--color-muted)] ml-2">
+        {String(rootPerson.data.birth).slice(0, 4) || '?'}–{String(rootPerson.data.death).slice(0, 4) || '?'}
+      </span>
+    </div>
+  )}
+
+  <p class="text-[var(--color-muted)] mb-6">{branchPeople.length} people across {bySurname.size} surnames</p>
+
+  {Array.from(bySurname.entries()).map(([surname, members]) => (
+    <section class="mb-8">
+      <h2 class="text-xl mb-2">
+        <a href={`/surname/${surname.toLowerCase()}`}>{surname}</a>
+      </h2>
+      <ul class="space-y-1">
+        {members.map((person: any) => (
+          <li>
+            <PersonCard
+              name={person.data.name}
+              id={person.data.id}
+              surname={person.data.surname}
+              birth={person.data.birth}
+              death={person.data.death}
+              status={person.data.status}
+            />
+          </li>
+        ))}
+      </ul>
+    </section>
+  ))}
+
+  <hr />
+
+  <div class="mt-8 p-6 bg-white/50 border border-[var(--color-parchment-dark)] rounded">
+    <h2 class="text-lg font-serif text-[var(--color-dark-brown)] mb-2">Remember something?</h2>
+    <p class="text-sm text-[var(--color-warm-gray)] mb-3">
+      If you knew any of these people — a story, a memory, a correction — we'd love to hear it.
+      Memories submitted here help preserve our family's history.
+    </p>
+    <a href="/about#contribute" class="text-sm">Learn how to contribute &rarr;</a>
+  </div>
+</BaseLayout>

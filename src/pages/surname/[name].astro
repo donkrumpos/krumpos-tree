@@ -1,0 +1,55 @@
+---
+import { getCollection } from 'astro:content';
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import PersonCard from '../../components/PersonCard.astro';
+
+export async function getStaticPaths() {
+  const people = await getCollection('people');
+
+  // Group by surname
+  const bySurname = new Map<string, typeof people>();
+  for (const person of people) {
+    const surname = person.data.surname;
+    const key = surname.toLowerCase();
+    if (!bySurname.has(key)) bySurname.set(key, []);
+    bySurname.get(key)!.push(person);
+  }
+
+  return Array.from(bySurname.entries()).map(([key, members]) => ({
+    params: { name: key },
+    props: {
+      surname: members[0].data.surname,
+      members: members.sort((a, b) => {
+        const aYear = String(a.data.birth).slice(0, 4) || '9999';
+        const bYear = String(b.data.birth).slice(0, 4) || '9999';
+        return aYear.localeCompare(bYear);
+      }),
+    },
+  }));
+}
+
+const { surname, members } = Astro.props;
+---
+<BaseLayout title={`${surname} Family`}>
+  <h1 class="text-3xl mb-2">{surname} Family</h1>
+  <p class="text-[var(--color-muted)] mb-6">{members.length} {members.length === 1 ? 'person' : 'people'} documented</p>
+
+  <ul class="space-y-1">
+    {members.map((person: any) => (
+      <li>
+        <PersonCard
+          name={person.data.name}
+          id={person.data.id}
+          surname={person.data.surname}
+          birth={person.data.birth}
+          death={person.data.death}
+          status={person.data.status}
+        />
+      </li>
+    ))}
+  </ul>
+
+  <nav class="mt-8 text-sm text-[var(--color-muted)]">
+    <a href="/">&larr; Back to home</a>
+  </nav>
+</BaseLayout>

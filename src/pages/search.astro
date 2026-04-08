@@ -1,0 +1,32 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+---
+<BaseLayout title="Search">
+  <h1 class="text-3xl mb-6">Search</h1>
+  <p class="text-[var(--color-warm-gray)] mb-6">Find any ancestor by name, place, date, or keyword.</p>
+  <div id="search" class="mb-8"></div>
+  <link href="/pagefind/pagefind-ui.css" rel="stylesheet" />
+  <script is:inline src="/pagefind/pagefind-ui.js"></script>
+  <script is:inline>
+    window.addEventListener('DOMContentLoaded', () => {
+      new PagefindUI({
+        element: '#search',
+        showSubResults: true,
+        showImages: false,
+      });
+    });
+  </script>
+  <style is:global>
+    .pagefind-ui__search-input {
+      font-family: var(--font-sans) !important;
+      border-color: var(--color-parchment-dark) !important;
+      background: white !important;
+    }
+    .pagefind-ui__result-link {
+      color: var(--color-accent) !important;
+    }
+    .pagefind-ui__result-excerpt {
+      color: var(--color-warm-gray) !important;
+    }
+  </style>
+</BaseLayout>

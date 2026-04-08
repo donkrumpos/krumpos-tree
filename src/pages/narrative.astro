@@ -1,0 +1,22 @@
+---
+import { getCollection, render } from 'astro:content';
+import BaseLayout from '../layouts/BaseLayout.astro';
+
+const narratives = await getCollection('narratives');
+const lineage = narratives.find(n => n.id === 'lineage-narrative');
+
+let Content: any = null;
+if (lineage) {
+  const rendered = await render(lineage);
+  Content = rendered.Content;
+}
+---
+<BaseLayout title="The Lines That Made Foggy" description="A narrative tracing every ancestral line from the Old Countries to Wisconsin.">
+  {Content ? (
+    <article class="prose">
+      <Content />
+    </article>
+  ) : (
+    <p>Narrative not found.</p>
+  )}
+</BaseLayout>

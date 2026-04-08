@@ -1,0 +1,22 @@
+---
+import { getCollection, render } from 'astro:content';
+import BaseLayout from '../layouts/BaseLayout.astro';
+
+const narratives = await getCollection('narratives');
+const origins = narratives.find(n => n.id === 'surname-origins');
+
+let Content: any = null;
+if (origins) {
+  const rendered = await render(origins);
+  Content = rendered.Content;
+}
+---
+<BaseLayout title="Surname Origins" description="Where the family names came from and how they changed across generations and countries.">
+  {Content ? (
+    <article class="prose">
+      <Content />
+    </article>
+  ) : (
+    <p>Surname origins document not found.</p>
+  )}
+</BaseLayout>

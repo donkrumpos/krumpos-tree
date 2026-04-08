@@ -1,0 +1,41 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+---
+<BaseLayout title="Home">
+  <h1 class="text-3xl mb-6">The Lines That Made Foggy</h1>
+  <p class="text-lg text-[var(--color-warm-gray)] mb-8">
+    A family archive spanning ten countries, three centuries, and one recurring fact: everyone ended up in Wisconsin.
+  </p>
+
+  <section class="mb-12">
+    <h2 class="text-xl mb-4">Family Branches</h2>
+    <div class="grid grid-cols-1 sm:grid-cols-2 gap-4">
+      <a href="/branch/krumpos" class="block p-4 border border-[var(--color-parchment-dark)] rounded no-underline hover:bg-[var(--color-parchment-dark)] transition-colors">
+        <h3 class="font-serif text-lg text-[var(--color-dark-brown)] mb-1">Krumpos</h3>
+        <p class="text-sm text-[var(--color-warm-gray)]">Bohemia to Oconto County. The immigrant Joseph, the WWII sailor Donald, and everyone between.</p>
+      </a>
+      <a href="/branch/coppersmith" class="block p-4 border border-[var(--color-parchment-dark)] rounded no-underline hover:bg-[var(--color-parchment-dark)] transition-colors">
+        <h3 class="font-serif text-lg text-[var(--color-dark-brown)] mb-1">Coppersmith</h3>
+        <p class="text-sm text-[var(--color-warm-gray)]">Belgian settlers and French-Canadian river families. Dorothy's side.</p>
+      </a>
+      <a href="/branch/martin" class="block p-4 border border-[var(--color-parchment-dark)] rounded no-underline hover:bg-[var(--color-parchment-dark)] transition-colors">
+        <h3 class="font-serif text-lg text-[var(--color-dark-brown)] mb-1">Martin</h3>
+        <p class="text-sm text-[var(--color-warm-gray)]">Irish famine immigrants to Door County pioneers. Helen's line through Life Martin.</p>
+      </a>
+      <a href="/branch/schmidt" class="block p-4 border border-[var(--color-parchment-dark)] rounded no-underline hover:bg-[var(--color-parchment-dark)] transition-colors">
+        <h3 class="font-serif text-lg text-[var(--color-dark-brown)] mb-1">Schmidt</h3>
+        <p class="text-sm text-[var(--color-warm-gray)]">Germany, England, and Scotland converging in Minnesota. Clifford's line.</p>
+      </a>
+    </div>
+  </section>
+
+  <section>
+    <h2 class="text-xl mb-4">Explore</h2>
+    <ul class="space-y-2">
+      <li><a href="/narrative">The Full Story</a> — a narrative tracing every line from the Old Countries to Wisconsin</li>
+      <li><a href="/origins">Surname Origins</a> — where the names came from and how they changed</li>
+      <li><a href="/themes">Patterns</a> — longevity, synchronized deaths, naming traditions, and geographic clustering</li>
+      <li><a href="/search">Search</a> — find any ancestor by name, place, or date</li>
+    </ul>
+  </section>
+</BaseLayout>

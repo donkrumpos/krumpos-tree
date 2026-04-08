@@ -1,0 +1,22 @@
+---
+import { getCollection, render } from 'astro:content';
+import BaseLayout from '../layouts/BaseLayout.astro';
+
+const narratives = await getCollection('narratives');
+const themes = narratives.find(n => n.id === 'cross-cutting-themes');
+
+let Content: any = null;
+if (themes) {
+  const rendered = await render(themes);
+  Content = rendered.Content;
+}
+---
+<BaseLayout title="Patterns & Themes" description="Cross-cutting patterns across the family tree — longevity, synchronized deaths, naming traditions, and geographic clustering.">
+  {Content ? (
+    <article class="prose">
+      <Content />
+    </article>
+  ) : (
+    <p>Themes document not found.</p>
+  )}
+</BaseLayout>

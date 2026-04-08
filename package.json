@@ -1,0 +1,24 @@
+{
+  "name": "krumpos-tree",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "Family tree website for the Krumpos, Schmidt, Martin, Coppersmith, and allied families",
+  "engines": {
+    "node": ">=22.12.0"
+  },
+  "scripts": {
+    "dev": "astro dev",
+    "build": "astro build && npx pagefind --site dist",
+    "preview": "astro preview",
+    "export": "python3 scripts/export-from-reliquary.py --source ~/Documents/active_projects_local/reliquary/corpus/memoir/notes/family-tree --dest .",
+    "astro": "astro"
+  },
+  "dependencies": {
+    "@astrojs/cloudflare": "^13.1.8",
+    "@astrojs/sitemap": "^3.7.2",
+    "@tailwindcss/vite": "^4.2.2",
+    "astro": "^6.1.5",
+    "pagefind": "^1.5.0",
+    "tailwindcss": "^4.2.2"
+  }
+}

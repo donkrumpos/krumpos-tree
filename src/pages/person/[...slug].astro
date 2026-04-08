@@ -1,0 +1,134 @@
+---
+import { getCollection, render } from 'astro:content';
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import AncestryBreadcrumb from '../../components/AncestryBreadcrumb.astro';
+import RelationshipLink from '../../components/RelationshipLink.astro';
+
+export async function getStaticPaths() {
+  const people = await getCollection('people');
+  return people.map((person) => ({
+    params: { slug: `${person.data.surname}/${person.data.id}` },
+    props: { person },
+  }));
+}
+
+const { person } = Astro.props;
+const { data } = person;
+const { Content } = await render(person);
+
+// Format lifespan
+function formatDate(d: string): string {
+  if (!d) return '?';
+  const s = String(d);
+  // If it's a full ISO date, show just the year for the header
+  if (s.match(/^\d{4}-\d{2}-\d{2}/)) return s.slice(0, 4);
+  return s;
+}
+
+function formatDateFull(d: string): string {
+  if (!d) return 'Unknown';
+  const s = String(d);
+  if (s.match(/^\d{4}-\d{2}-\d{2}$/)) {
+    const date = new Date(s + 'T00:00:00');
+    return date.toLocaleDateString('en-US', { year: 'numeric', month: 'long', day: 'numeric' });
+  }
+  return s;
+}
+
+const birthYear = formatDate(data.birth);
+const deathYear = formatDate(data.death);
+const lifespan = `${birthYear}–${deathYear}`;
+
+// Status badge
+const statusColors: Record<string, string> = {
+  confirmed: 'bg-green-100 text-green-800',
+  probable: 'bg-yellow-100 text-yellow-800',
+  'research-target': 'bg-red-100 text-red-800',
+};
+const statusClass = statusColors[data.status] || statusColors.confirmed;
+
+// Check for media files
+const mediaFiles: string[] = [];
+// We'll check for common patterns — census, certificates, photos
+const possibleMedia = [
+  // These are discovered at build time from public/media/
+];
+
+// Build relationship pairs: [name, linked_slug]
+function zipRelationships(names: string[], links: string[]): [string, string][] {
+  return names.map((name, i) => [name, links[i] || '']);
+}
+
+const parentPairs = zipRelationships(data.parents, data.linked_parents);
+const spousePairs = zipRelationships(data.spouses, data.linked_spouses);
+const childPairs = zipRelationships(data.children, data.linked_children);
+---
+<BaseLayout title={data.name} description={`${data.name} (${lifespan}) — family history and genealogy.`}>
+  <AncestryBreadcrumb personId={data.id} />
+
+  <header class="mb-8">
+    <h1 class="text-3xl mb-2">{data.name}</h1>
+    <div class="flex items-center gap-3 text-[var(--color-warm-gray)]">
+      <span class="text-lg">{lifespan}</span>
+      {data.immigration && <span>· Immigrated {data.immigration}</span>}
+      <span class={`text-xs px-2 py-0.5 rounded ${statusClass}`}>{data.status}</span>
+    </div>
+    {data.burial && (
+      <p class="text-sm text-[var(--color-muted)] mt-1">Buried at {data.burial}</p>
+    )}
+  </header>
+
+  {/* Relationships */}
+  <section class="mb-8">
+    <h2 class="text-xl mb-3">Relationships</h2>
+
+    {parentPairs.length > 0 && (
+      <div class="mb-3">
+        <span class="text-sm font-semibold text-[var(--color-warm-gray)] uppercase tracking-wide">Parents</span>
+        <ul class="mt-1">
+          {parentPairs.map(([name, slug]) => (
+            <li><RelationshipLink name={name} slug={slug} /></li>
+          ))}
+        </ul>
+      </div>
+    )}
+
+    {spousePairs.length > 0 && (
+      <div class="mb-3">
+        <span class="text-sm font-semibold text-[var(--color-warm-gray)] uppercase tracking-wide">
+          {spousePairs.length === 1 ? 'Spouse' : 'Spouses'}
+        </span>
+        <ul class="mt-1">
+          {spousePairs.map(([name, slug]) => (
+            <li><RelationshipLink name={name} slug={slug} /></li>
+          ))}
+        </ul>
+      </div>
+    )}
+
+    {childPairs.length > 0 && (
+      <div class="mb-3">
+        <span class="text-sm font-semibold text-[var(--color-warm-gray)] uppercase tracking-wide">Children</span>
+        <ul class="mt-1">
+          {childPairs.map(([name, slug]) => (
+            <li><RelationshipLink name={name} slug={slug} /></li>
+          ))}
+        </ul>
+      </div>
+    )}
+  </section>
+
+  <hr />
+
+  {/* Markdown body — summary, sources, research notes */}
+  <section class="prose mb-8">
+    <Content />
+  </section>
+
+  <hr />
+
+  {/* Surname link */}
+  <nav class="text-sm text-[var(--color-muted)] mt-8">
+    <a href={`/surname/${data.surname.toLowerCase()}`}>All {data.surname} family members &rarr;</a>
+  </nav>
+</BaseLayout>

@@ -1,0 +1,19 @@
+---
+interface Props {
+  name: string;
+  slug: string;
+}
+
+const { name, slug } = Astro.props;
+
+// Strip marriage info for display but keep it as annotation
+const marriageMatch = name.match(/\(m\.\s*([^)]+)\)/);
+const displayName = name.replace(/\s*\(m\..*?\)/, '').trim();
+const marriageDate = marriageMatch ? marriageMatch[1] : null;
+---
+{slug ? (
+  <a href={`/person/${slug}`}>{displayName}</a>
+) : (
+  <span>{displayName}</span>
+)}
+{marriageDate && <span class="text-[var(--color-muted)] text-sm"> (m. {marriageDate})</span>}
