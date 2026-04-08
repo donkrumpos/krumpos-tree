@@ -3,6 +3,7 @@ import { getCollection, render } from 'astro:content';
 import BaseLayout from '../../layouts/BaseLayout.astro';
 import AncestryBreadcrumb from '../../components/AncestryBreadcrumb.astro';
 import RelationshipLink from '../../components/RelationshipLink.astro';
+import MemoryForm from '../../components/MemoryForm.astro';
 
 export async function getStaticPaths() {
   const people = await getCollection('people');
@@ -126,6 +127,8 @@ const childPairs = zipRelationships(data.children, data.linked_children);
   </section>
 
   <hr />
+
+  <MemoryForm personId={data.id} personName={data.name} />
 
   {/* Surname link */}
   <nav class="text-sm text-[var(--color-muted)] mt-8">

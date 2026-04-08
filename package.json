@@ -16,6 +16,7 @@
   "dependencies": {
     "@astrojs/cloudflare": "^13.1.8",
     "@astrojs/sitemap": "^3.7.2",
+    "@supabase/supabase-js": "^2.102.1",
     "@tailwindcss/vite": "^4.2.2",
     "astro": "^6.1.5",
     "pagefind": "^1.5.0",

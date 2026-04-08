@@ -1,0 +1,115 @@
+---
+interface Props {
+  personId: string;
+  personName: string;
+}
+
+const { personId, personName } = Astro.props;
+---
+<div class="mt-8 p-6 bg-white/50 border border-[var(--color-parchment-dark)] rounded" id={`memory-form-${personId}`}>
+  <h2 class="text-lg font-serif text-[var(--color-dark-brown)] mb-2">Remember something about {personName}?</h2>
+  <p class="text-sm text-[var(--color-warm-gray)] mb-4">
+    A story, a memory, a correction — anything helps preserve our family's history.
+  </p>
+
+  <form class="memory-form space-y-3" data-person-id={personId} data-person-name={personName}>
+    <div class="grid grid-cols-1 sm:grid-cols-2 gap-3">
+      <div>
+        <label class="block text-sm text-[var(--color-warm-gray)] mb-1" for={`name-${personId}`}>Your name *</label>
+        <input
+          type="text"
+          id={`name-${personId}`}
+          name="submitter_name"
+          required
+          class="w-full px-3 py-2 border border-[var(--color-parchment-dark)] rounded bg-white text-sm focus:outline-none focus:border-[var(--color-accent)]"
+        />
+      </div>
+      <div>
+        <label class="block text-sm text-[var(--color-warm-gray)] mb-1" for={`rel-${personId}`}>Your relationship</label>
+        <input
+          type="text"
+          id={`rel-${personId}`}
+          name="submitter_relationship"
+          placeholder="e.g., niece, grandson"
+          class="w-full px-3 py-2 border border-[var(--color-parchment-dark)] rounded bg-white text-sm focus:outline-none focus:border-[var(--color-accent)]"
+        />
+      </div>
+    </div>
+
+    <div>
+      <label class="block text-sm text-[var(--color-warm-gray)] mb-1" for={`email-${personId}`}>Email (optional, for follow-up)</label>
+      <input
+        type="email"
+        id={`email-${personId}`}
+        name="submitter_email"
+        class="w-full px-3 py-2 border border-[var(--color-parchment-dark)] rounded bg-white text-sm focus:outline-none focus:border-[var(--color-accent)]"
+      />
+    </div>
+
+    <div>
+      <label class="block text-sm text-[var(--color-warm-gray)] mb-1" for={`memory-${personId}`}>Your memory *</label>
+      <textarea
+        id={`memory-${personId}`}
+        name="memory"
+        required
+        rows="4"
+        placeholder="What do you remember?"
+        class="w-full px-3 py-2 border border-[var(--color-parchment-dark)] rounded bg-white text-sm focus:outline-none focus:border-[var(--color-accent)] resize-y"
+      ></textarea>
+    </div>
+
+    <button
+      type="submit"
+      class="px-4 py-2 bg-[var(--color-dark-brown)] text-[var(--color-parchment)] rounded text-sm hover:bg-[var(--color-dark-brown-light)] transition-colors"
+    >
+      Submit memory
+    </button>
+
+    <p class="form-status text-sm hidden"></p>
+  </form>
+</div>
+
+<script>
+  import { supabase } from '../lib/supabase';
+
+  document.querySelectorAll('.memory-form').forEach((form) => {
+    form.addEventListener('submit', async (e) => {
+      e.preventDefault();
+      const f = e.target as HTMLFormElement;
+      const status = f.querySelector('.form-status') as HTMLElement;
+      const button = f.querySelector('button[type="submit"]') as HTMLButtonElement;
+
+      const personId = f.dataset.personId!;
+      const personName = f.dataset.personName!;
+
+      const data = {
+        person_id: personId,
+        person_name: personName,
+        submitter_name: (f.elements.namedItem('submitter_name') as HTMLInputElement).value.trim(),
+        submitter_relationship: (f.elements.namedItem('submitter_relationship') as HTMLInputElement).value.trim(),
+        submitter_email: (f.elements.namedItem('submitter_email') as HTMLInputElement).value.trim(),
+        memory: (f.elements.namedItem('memory') as HTMLTextAreaElement).value.trim(),
+      };
+
+      if (!data.submitter_name || !data.memory) return;
+
+      button.disabled = true;
+      button.textContent = 'Submitting...';
+      status.classList.add('hidden');
+
+      const { error } = await supabase.from('memories').insert(data);
+
+      if (error) {
+        status.textContent = 'Something went wrong. Please try again or email don@krumpos.org.';
+        status.className = 'form-status text-sm text-red-600 mt-2';
+        button.disabled = false;
+        button.textContent = 'Submit memory';
+      } else {
+        status.textContent = 'Thank you! Your memory has been submitted and will be reviewed.';
+        status.className = 'form-status text-sm text-green-700 mt-2';
+        f.reset();
+        button.textContent = 'Submitted';
+      }
+    });
+  });
+</script>
