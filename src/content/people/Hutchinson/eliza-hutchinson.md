@@ -41,7 +41,7 @@ linked_children:
 **FamilySearch ID:** K814-2YL
 
 ## Summary
-Born 1830 in England. Foggy's 4x great-grandmother. Married Henry Martin (b. 1831, Ireland). Mother of Eliphlet "Life" Martin (1869–1956). Died 1884 — Eliphlet was about 15 when he lost his mother.
+Born 1830 in England. Don's 4x great-grandmother. Married Henry Martin (b. 1831, Ireland). Mother of Eliphlet "Life" Martin (1869–1956). Died 1884 — Eliphlet was about 15 when he lost his mother.
 
 ## Relationships
 - **Father:** Thomas Hutcheson (1808–?, FamilySearch ID: L8RF-177) — **born in England** (confirmed by Eliza's own report in 1880 census). Note surname spelling: Hutche**son** on FamilySearch, Hutchi**nson** on Eliza's record.

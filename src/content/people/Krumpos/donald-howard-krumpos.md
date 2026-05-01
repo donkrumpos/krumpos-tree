@@ -46,7 +46,10 @@ linked_children:
 Born 28 Sep 1924 in Wisconsin; son of Lawrence Antone Krumpos and Mathilda Henrietta Schneider.  
 Married Dorothy Elaine Coppersmith on 27 Sep 1947 in Green Bay.  
 Served in the U.S. Navy during WWII (ARM2).  
+After the war, became **Postmaster of West De Pere** — a role that echoes Henry Martin (Postmaster of Sevastopol, 4 generations earlier). Known in the community through his work there; older residents who remember him typically mention the post office.  
+Was a **Boy Scout Leader** together with Dorothy; sons Jim and Keith both achieved **Eagle Scout**.  
 Died 11 Jun 1964 in Green Bay at age 39; buried in Mount Calvary Cemetery, De Pere.  
+Grandson Don (Donald A. Krumpos) is named after him but never knew him.  
 
 ## Relationships
 - **Parents:** Lawrence Antone Krumpos & Mathilda Henrietta Schneider  

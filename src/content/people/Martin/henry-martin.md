@@ -57,7 +57,7 @@ linked_children:
 **FamilySearch ID:** LYS2-3P2
 
 ## Summary
-Born August 18, 1830 in Ireland. Known as "Harry." Foggy's 4x great-grandfather. The Irish ancestor that Betty (Schmidt) Krumpos remembered. Emigrated to America, lived in New York by c. 1853, moved to Door County, Wisconsin by c. 1856. Settled on a farm in the town of Sevastopol. Served as **postmaster of Sevastopol** for ~14 years and **town treasurer** for 15 successive years — a pillar of the community. Married Eliza Hutchinson (c. 1830, Canada — to English/Scottish parents). Nine children in 1870; only three sons survived him. Died August 11, 1896 of cancer of the stomach, age 65 (one week before his 66th birthday). Buried Bayside Cemetery.
+Born August 18, 1830 in Ireland. Known as "Harry." Don's 4x great-grandfather. The Irish ancestor that Betty (Schmidt) Krumpos remembered. Emigrated to America, lived in New York by c. 1853, moved to Door County, Wisconsin by c. 1856. Settled on a farm in the town of Sevastopol. Served as **postmaster of Sevastopol** for ~14 years and **town treasurer** for 15 successive years — a pillar of the community. Married Eliza Hutchinson (c. 1830, Canada — to English/Scottish parents). Nine children in 1870; only three sons survived him. Died August 11, 1896 of cancer of the stomach, age 65 (one week before his 66th birthday). Buried Bayside Cemetery.
 
 ## Relationships
 - **Father:** Henry Martin Sr. (dates unknown, FamilySearch ID: L1C9-XB2) — born in Ireland, likely **County Down, Ulster**. LDS temple ordinances completed — record may need verification.

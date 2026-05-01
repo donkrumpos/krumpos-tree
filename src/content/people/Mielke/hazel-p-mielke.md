@@ -55,7 +55,7 @@ Born July 12, 1902 in Sturgeon Bay, Door County, Wisconsin. Daughter of Emil and
 - **Second husband:** Clarence Lau (m. May 7, 1932, d. August 1985)
 - **Children with Gerald Martin Sr.:**
   - Helen M. Martin (Nov 13, 1924–Jun 7, 1974) — **direct line**. m. Clifford Alfred Schmidt
-  - Lester Martin — living in Townsend, WI (1987)
+  - Lester E. Martin Sr. (c. 1926 – between 1987 and 2011) — Townsend, WI. m. Lila Rickel; eight children including Lester F. Martin Jr. (1948–2011). See `../Martin/lester-e-martin-sr.md`.
   - Gerald Martin Jr. — living in New Franken, WI (1987)
 - **Children (likely with Clarence Lau):**
   - JoAnn (m. Clarence Schabelle) — living in Cecil, WI (1987)

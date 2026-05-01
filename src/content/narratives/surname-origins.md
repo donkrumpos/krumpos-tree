@@ -82,3 +82,92 @@ Both streams arrived in Wisconsin in the mid-1800s, settled in adjacent counties
 - **French-Canadian side**: Traced to **1588 France** (Pierre Desportes, Lisieux). Through Helene Desportes (b. 1620 Quebec), connected to Louis Hébert — the first European farmer in New France. ~10-12 generations documented. Six immigrant ancestors identified: Jacque Beaudoin (La Rochelle), Francoice Durand (Rouen), Jacques LeBlanc (France), Jacques Surprenant (France), Pierre Goguet (Picardy), Noel Morin (Brittany).
 
 See also: [[indexes/cross-cutting-themes.md|Cross-Cutting Themes & Patterns]] for longevity, synchronized deaths, and geographic clustering across both streams.
+
+---
+
+## German (various regions → Wisconsin & Minnesota)
+
+The largest single ethnic thread. Ancestors came from across the German-speaking world — Baltic coast to Black Forest.
+
+| Surname | Origin | Immigrant | Notes |
+|---|---|---|---|
+| **Schmidt** | Mecklenburg (northeast Germany, Baltic coast) | John Schmidt (b. 1822, Mecklenburg) | Settled Joliet, Illinois. Son Charles Frederick to Minnesota. |
+| **Rabe** | Germany/Prussia | Elizabeth Rabe | Wife of John Schmidt. Parents unknown. |
+| **Vollmer** | Hanover (northwest Germany) | Christian Vollmer (b. Jan 31, 1815, Hanover) | Illinois → Cleveland, MN. Died Aug 15, 1894. |
+| **Kurtz** | Baden (southwest Germany) | Anna Maria Kurtz (b. Jul 18, 1837, Baden) | Father "M Kurtz." Married Christian Vollmer in America — different corners of Germany. |
+| **Pfister** | Wittenberg, Saxony (central-east Germany) | John Pfister Sr. (b. Jun 19, 1830, Wittenberg) | Emigrated 1853. Pioneer settler, Door County. Brother Phillip killed in Civil War 1863. Buried Blossomberg Cemetery, Fish Creek. |
+| **Mielke** | Germany (region unknown) | Emil Mielke (b. Apr 29, 1881) | Door County. Moravian Church. German/Bohemian roots. |
+| **Schindler** | Germany | Parents of Margaret Schindler | Both German-born per 1900 census. Names unknown. Le Sueur County, Minnesota. |
+| **Schneider** | Daaden, Westerwald, Rhineland-Palatinate (western Germany) | William F. Schneider (b. Mar 1872, Daaden) | Arrived NYC age 19 on SS Noordland (Red Star Line, Antwerp→New York). Baker, later day laborer. Settled Kenosha, Wisconsin. |
+
+Settlement areas: Door County (Pfister, Mielke), Le Sueur County, Minnesota (Schmidt, Vollmer, Kurtz, Schindler), Kenosha (Schneider).
+
+---
+
+## Bohemian/Czech (Chodsko region, western Bohemia → Wisconsin)
+
+| Surname | Original | Origin | Notes |
+|---|---|---|---|
+| **Krumpos** | Krumpos / Krumper / Krumpoš? | **Trhanov**, near Domazlice | Joseph Frank Krumpos (b. 1845). Father: Ernst Krumpos (unverified dates). Immigrated 1867. Settled Oconto County. |
+| **Stefl** | Steffel / Stefl | **Klattau** (Klatovy) | Joseph Wenzel Stefl (b. Dec 4, 1818, Klattau). Naturalized WI 1884. Died Leopolis, Shawano County. |
+| **Kadletz / Kadlec** | Kadlec | **Klatovy** area | Mary Katherine Kadletz (b. c. 1822, Klatovy). Married J.W. Stefl in Bohemia. Possibly same Kadlec family as Joseph Krumpos's mother. |
+
+All three families from the **Chodsko region** — the Domazlice/Klatovy area of western Bohemia near the Bavarian border. Trhanov and Domazlice are 5 km apart. The families were intermarried before emigrating. Parish records digitized at **portafontium.cz**.
+
+Settlement areas: Oconto County, Shawano County (Leopolis) — Wisconsin.
+
+---
+
+## English (Kent → Minnesota; Northumberland → Canada → Wisconsin)
+
+| Surname | Origin | Notes |
+|---|---|---|
+| **Kendall** | Wingham, Kent, England | Traced to **Eastes Kendall (b. c. 1745)**. Stephen Eastes Kendall (c. 1795–1880) married Ann Forstall in Wingham 1819. Son William John emigrated to Le Sueur County, Minnesota. |
+| **Forstall** | Wingham, Kent, England | From the hamlet of **Forstal** near Wingham. Ann Forstall (1793–1875). Surname extinct in English civil registration — zero FreeBMD results. Also indexed as "Fostall" and "Fosball." |
+| **Lambert** | Wingham, Kent, England | Eliza Lambert (b. Jan 20, 1827, Wingham). Same parish as the Kendalls. Married William John Kendall Jan 1850 in Eastry, Kent. 12 children. |
+| **Hutcheson / Hutchinson** | England (specific county unknown) | Thomas Hutcheson (b. 1808). Married Sophia Miller in Canada. Daughter Eliza born in Canada c. 1830. "Hutcheson" is Scottish spelling; "Hutchinson" is northern English. |
+| **Miller** | Northumberland, northeast England | William Miller (b. 1786). Married Margaret Laing at St. Nicholas, Newcastle upon Tyne, 1799. Emigrated to Canada. |
+| **Storm** | English (Norfolk origin, first recorded 1206) | Nancy Storm, County Down, Ireland. English surname — likely descended from Plantation of Ulster settlers (1600s). |
+
+The Kent cluster (Kendall, Forstall, Lambert) all came from **Wingham and its surrounding parishes** — a single community that reassembled in Minnesota.
+
+---
+
+## Irish — Ulster Protestant (County Down → Wisconsin)
+
+| Surname | Origin | Notes |
+|---|---|---|
+| **Martin** | **County Down, Ulster, Ireland** | Henry "Harry" Martin (b. Aug 18, 1830, Ireland). Parents: Henry Martin Sr. & Nancy Storm, both from County Down. Protestant, not Catholic — likely Anglo-Irish or Scots-Irish from Plantation of Ulster (1600s). Postmaster of Sevastopol, town treasurer. Migration: Ireland → New York (by 1853) → Door County, Wisconsin (by 1858). 10 children. Died Aug 11, 1896. Buried Bayside Cemetery, Sturgeon Bay. |
+
+Evidence for Protestant/Plantation origin: English surname "Storm" (mother), Protestant funeral (Rev. David Lewis), Christian Science in next generation, biblical name "Eliphalet" for youngest son. No Catholic markers anywhere in the line.
+
+---
+
+## Scottish (Perthshire → Newcastle → Canada → Wisconsin)
+
+| Surname | Origin | Notes |
+|---|---|---|
+| **Laing** | **Rhynd, Perthshire, Scotland** | Margaret Laing (b. c. 1783). Oldest ancestor with a specific birthplace. Married William Miller at St. Nicholas Church, Newcastle upon Tyne, Sep 4, 1799. Laing = Scottish for "long/tall." Family emigrated to Canada, then Wisconsin. |
+
+Migration path: Rhynd, Perthshire → Newcastle upon Tyne, England → Canada → Door County, Wisconsin. Four countries in four generations.
+
+---
+
+## Schneider — Additional Notes
+
+The mother **Mathilda/Mathilida Schneider** (b. c. 1873, Germany) — maiden name unknown. Immigrated 1892. Both parents German-born. Died 1912, buried Kenosha. The only remaining unknown maiden name that could theoretically add a new country, but 1900 census confirms both her parents were German. No surprise expected.
+
+---
+
+## Complete European Heritage Map
+
+| Country | Surnames | Deepest Ancestor |
+|---|---|---|
+| **Germany** | Schmidt, Rabe, Vollmer, Kurtz, Pfister, Mielke, Schindler, Schneider | Christian Vollmer (1815, Hanover) |
+| **Bohemia/Czech** | Krumpos, Stefl, Kadletz | Joseph Wenzel Stefl (1818, Klattau) |
+| **England** | Kendall, Forstall, Lambert, Hutcheson, Miller, Storm | Eastes Kendall (c. 1745, Kent) |
+| **Ireland (Ulster)** | Martin | Henry Martin (1830, County Down) |
+| **Scotland** | Laing | Margaret Laing (c. 1783, Rhynd, Perthshire) |
+| **Belgium** | Coppersmith/Coppesmette, Barette, Lancelle, Potier, etc. | 1700s, Mélin/Beauvechain |
+| **France/Quebec** | Beaudoin/Bodoh, Lajeunesse/Young, Surprenant/Surprise, Desportes, Morin, etc. | Pierre Desportes (1588, Lisieux, Normandy) |
+| **Canada** | Hutchinson (born there to English/Scottish parents) | Eliza Hutchinson (c. 1830) |

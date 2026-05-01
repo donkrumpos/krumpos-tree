@@ -34,7 +34,7 @@ linked_children:
 **FamilySearch ID:** KH36-ZYD
 
 ## Summary
-Born c. 1783 in **Rhynd, Perthshire, Scotland**. Foggy's oldest known ancestor with a specific birthplace. Married William Miller on September 4, 1799, at St. Nicholas Church, Newcastle upon Tyne, Northumberland, England. She was about 16. Mother of Sophia Miller (1805). The family later emigrated to Canada.
+Born c. 1783 in **Rhynd, Perthshire, Scotland**. Don's oldest known ancestor with a specific birthplace. Married William Miller on September 4, 1799, at St. Nicholas Church, Newcastle upon Tyne, Northumberland, England. She was about 16. Mother of Sophia Miller (1805). The family later emigrated to Canada.
 
 ## Relationships
 - **Husband:** William Miller (1786–?, FamilySearch ID: LZF4-CX5) — married Sep 4, 1799, Newcastle upon Tyne
@@ -61,9 +61,9 @@ Born c. 1783 in **Rhynd, Perthshire, Scotland**. Foggy's oldest known ancestor w
 - Scottish migration to Newcastle's industrial economy was very common in the late 1700s.
 - The family then emigrated from England/Scotland to Canada — part of the massive British emigration to Upper Canada (Ontario) in the early 1800s.
 
-### Connection to Foggy
-Margaret Laing is Foggy's **6x great-grandmother** through this chain:
-1. Margaret Laing → 2. Sophia Miller → 3. Eliza Hutchinson → 4. Eliphlet Martin → 5. Gerald Martin → 6. Helen Martin → 7. Betty Schmidt → 8. **Foggy**
+### Connection to Don
+Margaret Laing is Don's **6x great-grandmother** through this chain:
+1. Margaret Laing → 2. Sophia Miller → 3. Eliza Hutchinson → 4. Eliphlet Martin → 5. Gerald Martin → 6. Helen Martin → 7. Betty Schmidt → 8. **Don**
 
 ### Next steps
 1. **ScotlandsPeople.gov.uk** — search Old Parochial Records for Rhynd parish, baptism of Margaret Laing c. 1783. Would give parents' names.

@@ -45,4 +45,4 @@ Daughter of Lawrence Antone Krumpos and Matilda Henrietta (Schneider) Krumpos. M
 ## Research Notes
 - Married name Koening per Mabel Reinke obituary
 - Listed as "Living" in Little Chute Genealogy (as of Lawrence's record, last modified Jul 2022)
-- Confirmed living as of 2026. Foggy meets with her for lunch sometimes.
+- Confirmed living as of 2026. Don meets with her for lunch sometimes.

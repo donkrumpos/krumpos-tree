@@ -83,10 +83,10 @@ Born 1869 in Wisconsin. Known as **"Life"** (Gerald's obituary) and **"Lile"** (
 - Eliphalet is a biblical name (2 Samuel 5:16, 1 Chronicles 3:8) — a Puritan/Protestant naming tradition. His eldest brother Elias also has a biblical name; the other seven siblings got common English names.
 
 ### Irish ancestry — CONFIRMED
-- **Henry Martin (1831–1896)** — born in Ireland, Foggy's 4x great-grandfather. The Irish ancestor Betty remembered.
+- **Henry Martin (1831–1896)** — born in Ireland, Don's 4x great-grandfather. The Irish ancestor Betty remembered.
 - **Eliza Hutchinson (c. 1830–1884)** — born in **Canada** (per 1870 census), not England as Eliphlet reported in 1920. Her parents (Thomas Hutcheson, Sophia Miller) were English/Scottish — Eliphlet likely reported his mother's ethnic origin rather than her actual birthplace, 36 years after her death.
 - Henry emigrated from Ireland to New York (eldest son Elias born there c. 1853), then moved to Door County, Wisconsin by c. 1856. Likely a Famine-era emigrant.
-- By 1870, Henry was a **farmer** with $1,000 in real estate and 9 children. The youngest — Eliphlet — carried the family forward to Foggy's line.
+- By 1870, Henry was a **farmer** with $1,000 in real estate and 9 children. The youngest — Eliphlet — carried the family forward to Don's line.
 - **Martin** is the 10th most common surname in Ireland, particularly concentrated in County Galway.
 
 ### Family longevity

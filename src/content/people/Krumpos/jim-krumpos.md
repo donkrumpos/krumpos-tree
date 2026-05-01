@@ -12,8 +12,6 @@ spouses:
 - Cindy
 children:
 - Jim Krumpos Jr.
-- Don Krumpos
-- Helen Krumpos
 status: confirmed
 uncertain_fields: []
 tags:
@@ -27,8 +25,6 @@ linked_spouses:
   - ''
 linked_children:
   - ''
-  - ''
-  - 'Krumpos/helen-krumpos-schleicher'
 ---
 # Jim Krumpos
 
@@ -40,7 +36,7 @@ _No narrative yet._
 ## Relationships
 - **Parents:** Donald Howard Krumpos, Dorothy Elaine Coppersmith
 - **Spouses/Partners:** Cindy
-- **Children:** Jim Krumpos Jr., Don Krumpos, Helen Krumpos
+- **Children:** Jim Krumpos Jr.
 
 ## Sources
 - Dorothy (Coppersmith) Krumpos obituary (2002).

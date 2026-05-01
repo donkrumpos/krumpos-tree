@@ -30,7 +30,7 @@ linked_spouses:
   - 'Mielke/hazel-p-mielke'
 linked_children:
   - 'Martin/helen-m-martin'
-  - ''
+  - 'Martin/lester-e-martin-sr'
   - ''
 ---
 # Gerald Martin Sr.
@@ -49,7 +49,7 @@ Born March 8, 1903 in Wisconsin. Son of Lile and Mildred Martin of Sturgeon Bay.
 - **Wife:** Hazel P. Mielke (Jul 12, 1902–Apr 8, 1987) — married January 29, 1921. "Hazel Miekle of Clay Banks." Later remarried Clarence Lau (May 7, 1932).
 - **Children:**
   - Helen M. Martin (Nov 13, 1924–Jun 7, 1974) — **direct line**. m. Clifford Alfred Schmidt. Age 7 at father's death.
-  - Lester E. Martin Sr. (c. 1926–?) — age 5 at father's death. Living in Townsend, WI (1987). The "Sr." means he had a son Lester Jr.
+  - Lester E. Martin Sr. (c. 1926 – between 1987 and 2011) — age 5 at father's death. Settled in Townsend, WI. Married Lila Rickel; eight children including Lester F. Martin Jr. (1948–2011), Carol, Wendy, Mary Kay, Charles, Gary, Dan, Paul. See `lester-e-martin-sr.md`.
   - Gerald Martin Jr. (c. Apr 1931–?) — age 2 months at father's death. Living in New Franken, WI (1987).
 
 ## Sources
