@@ -7,7 +7,7 @@ burial: Mount Calvary Cemetery, De Pere, WI (Section A, Lot 50-C)
 gender: M
 parents:
 - Lawrence Antone Krumpos
-- Mathilda Henrietta Schneider
+- Matilda Henrietta Schneider
 spouses:
 - Dorothy Elaine Coppersmith (m. 27 Sep 1947)
 children:
@@ -27,7 +27,7 @@ created: '2025-09-17'
 surname: 'Krumpos'
 linked_parents:
   - 'Krumpos/lawrence-krumpos'
-  - ''
+  - 'Krumpos/mathilda-schneider'
 linked_spouses:
   - ''
 linked_children:
@@ -43,7 +43,7 @@ linked_children:
 **Lifespan:** 1924-09-28 — 1964-06-11
 
 ## Summary
-Born 28 Sep 1924 in Wisconsin; son of Lawrence Antone Krumpos and Mathilda Henrietta Schneider.  
+Born 28 Sep 1924 in Wisconsin; son of Lawrence Antone Krumpos and Matilda Henrietta Schneider.  
 Married Dorothy Elaine Coppersmith on 27 Sep 1947 in Green Bay.  
 Served in the U.S. Navy during WWII (ARM2).  
 After the war, became **Postmaster of West De Pere** — a role that echoes Henry Martin (Postmaster of Sevastopol, 4 generations earlier). Known in the community through his work there; older residents who remember him typically mention the post office.  
@@ -52,7 +52,7 @@ Died 11 Jun 1964 in Green Bay at age 39; buried in Mount Calvary Cemetery, De Pe
 Grandson Don (Donald A. Krumpos) is named after him but never knew him.  
 
 ## Relationships
-- **Parents:** Lawrence Antone Krumpos & Mathilda Henrietta Schneider  
+- **Parents:** Lawrence Antone Krumpos & Matilda Henrietta Schneider  
 - **Spouse:** Dorothy Elaine Coppersmith (1928–2002)  
 - **Children:**  
   - Keith Lester Krumpos (1950–2015)  

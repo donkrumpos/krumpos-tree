@@ -7,7 +7,7 @@ death: '1912-07'
 gender: F
 parents: []
 spouses: [Von Wilhem Schneider]
-children: [Matilda Henrietta Schneider, Mabel Ruth Schneider, Paul Schneider]
+children: [Matilda Henrietta Schneider, Mabel Ruth Schneider, Paul Schneider, Fred Schneider, Anna Schneider]
 status: confirmed
 uncertain_fields:
 - birth
@@ -24,6 +24,8 @@ linked_children:
   - 'Krumpos/mathilda-schneider'
   - 'Schneider/mabel-ruth-schneider-reinke'
   - 'Schneider/paul-schneider'
+  - ''
+  - ''
 ---
 # Mathilda (Unknown) Schneider
 
@@ -37,7 +39,10 @@ Mother of Matilda Henrietta (Schneider) Krumpos (1897–1973). Born April 1870 i
 - **Children:**
   - Matilda Henrietta Schneider (Jan 25, 1897–1973) — 2nd wife of Lawrence Antone Krumpos
   - Mabel Ruth Schneider (Dec 23, 1908–Apr 1, 1992) — married Harold Reinke
-  - Paul Schneider — married Ida
+  - Paul Schneider — married Ida; Kenosha (alive 1973)
+  - Fred Schneider (b. c. 1895, WI) — Kenosha (alive 1973, per Matilda's obit)
+  - Anna Schneider (b. May 1895, WI) — married name **Mider**, residing Cincinnati, Ohio (alive 1973, per Matilda's obit)
+  - *Per 1900 census, two more daughters were living: Clara (b. Feb 1893) and an unnamed daughter (b. May 1900). Fates unknown — not listed as survivors in any sibling's obituary.*
 
 ## Sources
 - WikiTree: Unknown-575559 (https://www.wikitree.com/wiki/Unknown-575559)
@@ -52,3 +57,4 @@ Mother of Matilda Henrietta (Schneider) Krumpos (1897–1973). Born April 1870 i
 - Maiden name still unknown — search Kenosha County death records (Jul 1912), church records
 - Referred to as "the late Mathilda" in Mabel's 1992 obituary — no maiden name given
 - Name appears as "Matilda Snider" in 1905 Wisconsin State Census
+- Five of her six 1900-census children confirmed alive into adulthood: Anna (Mider, Cincinnati), Fred (Kenosha), Matilda (Krumpos, De Pere), Paul (Kenosha), Mabel (Reinke, Green Bay) — established by Matilda's 1973 obituary listing surviving siblings. Clara (b. 1893) and the unnamed daughter (b. May 1900) remain unaccounted for after 1900.

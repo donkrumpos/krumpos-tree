@@ -3,7 +3,7 @@ id: jerome-marvin-krumpos
 name: Jerome Marvin Krumpos
 aka: []
 birth: '1928-02-04'
-death: '1950-08-31'
+death: '1950-08-30'
 gender: M
 parents:
 - Lawrence Antone Krumpos
@@ -26,7 +26,7 @@ linked_children: []
 ---
 # Jerome Marvin Krumpos
 
-**Lifespan:** February 4, 1928 – August 31, 1950
+**Lifespan:** February 4, 1928 – August 30, 1950
 
 ## Summary
 Son of Lawrence Antone Krumpos and Matilda Henrietta (Schneider) Krumpos. Corporal, U.S. Army. Killed August 30, 1950 at Seoul, Korea, age 22. Purple Heart recipient (verify via VA). Buried at Mount Calvary Cemetery, De Pere (family monument).
@@ -42,7 +42,7 @@ Son of Lawrence Antone Krumpos and Matilda Henrietta (Schneider) Krumpos. Corpor
 
 ## Research Notes
 - Birth: Feb 4, 1928 per Little Chute Genealogy
-- Death: Little Chute says Aug 31, 1950; existing file had Aug 30 — one-day discrepancy, using Little Chute date
+- Death: **Aug 30, 1950** confirmed by Krumpos family gravestone at Mount Calvary, De Pere ("Killed Aug. 30, 1950 at Seoul, Korea"). Little Chute Genealogy lists Aug 31 — one-day discrepancy, but the gravestone is authoritative (typically inscribed from official military KIA notification). Reverting to Aug 30.
 - Corp. Jerome M. — killed at Seoul, Korea (early months of Korean War)
 - Just six years after brother Lester was killed in France
 - Verify Purple Heart via VA records

@@ -16,8 +16,7 @@ linked_parents:
   - 'Schmidt/clifford-alfred-schmidt'
   - 'Martin/helen-m-martin'
 linked_spouses:
-  - ''
-  - ''
+  - 'Krumpos/keith-lester-krumpos'
 linked_children:
   - ''
   - ''
