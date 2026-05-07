@@ -6,6 +6,27 @@
     "query": "Bear Creek, Outagamie County, Wisconsin",
     "source": "nominatim"
   },
+  "Beauvechain, Brabant, Belgium": {
+    "display_name": "Beauvechain, Nivelles, Brabant wallon, Wallonie, 1320, België / Belgique / Belgien",
+    "lat": 50.7808981,
+    "lon": 4.7717304,
+    "query": "Beauvechain, Brabant, Belgium",
+    "source": "nominatim"
+  },
+  "Beauvechain, Brabant, Belgium (probable)": {
+    "display_name": "Beauvechain, Nivelles, Brabant wallon, Wallonie, 1320, België / Belgique / Belgien",
+    "lat": 50.7808981,
+    "lon": 4.7717304,
+    "query": "Beauvechain, Brabant, Belgium",
+    "source": "nominatim"
+  },
+  "Belgium (probable)": {
+    "display_name": "België / Belgique / Belgien",
+    "lat": 50.6402809,
+    "lon": 4.6667145,
+    "query": "Belgium",
+    "source": "nominatim"
+  },
   "Beloeil, Verchères, Quebec, Canada": {
     "display_name": "Beloeil, Vallée-du-Richelieu, Montérégie, Québec, Canada",
     "lat": 45.5667,
@@ -25,6 +46,13 @@
     "lat": 46.9265054,
     "lon": -70.7312726,
     "query": "Berthier, Montmagny, Quebec, Canada",
+    "source": "nominatim"
+  },
+  "Brown County, Wisconsin (approximate)": {
+    "display_name": "Brown County, Wisconsin, United States",
+    "lat": 44.4383498,
+    "lon": -88.0167093,
+    "query": "Brown County, Wisconsin",
     "source": "nominatim"
   },
   "Canada": {
@@ -167,6 +195,27 @@
     "query": "Montreal, Quebec, Canada",
     "source": "nominatim"
   },
+  "Mélin, Brabant Wallon, Belgium": {
+    "display_name": "Mélin, Jodoigne, Nivelles, Brabant wallon, Wallonie, 1370, België / Belgique / Belgien",
+    "lat": 50.7401063,
+    "lon": 4.8286491,
+    "query": "Mélin, Brabant Wallon, Belgium",
+    "source": "nominatim"
+  },
+  "Mélin, Brabant, Belgium": {
+    "display_name": "Mélin, Jodoigne, Nivelles, Brabant wallon, Wallonie, 1370, België / Belgique / Belgien",
+    "lat": 50.7401063,
+    "lon": 4.8286491,
+    "query": "Mélin, Brabant, Belgium",
+    "source": "nominatim"
+  },
+  "Mélin, Brabant, Belgium (probable)": {
+    "display_name": "Mélin, Jodoigne, Nivelles, Brabant wallon, Wallonie, 1370, België / Belgique / Belgien",
+    "lat": 50.7401063,
+    "lon": 4.8286491,
+    "query": "Mélin, Brabant, Belgium",
+    "source": "nominatim"
+  },
   "New London area, Waupaca County, Wisconsin (probable)": {
     "display_name": "New London, Waupaca County, Wisconsin, United States",
     "lat": 44.3929,
@@ -208,6 +257,13 @@
     "lon": -71.208,
     "note": "Generic 'Québec' — defaulting to Quebec City as historical reference",
     "source": "override"
+  },
+  "Red River, Kewaunee County, Wisconsin": {
+    "display_name": "Town of Red River, Kewaunee County, Wisconsin, United States",
+    "lat": 44.639331,
+    "lon": -87.7021927,
+    "query": "Red River, Kewaunee County, Wisconsin",
+    "source": "nominatim"
   },
   "Richelieu, Quebec, Canada": {
     "display_name": "Richelieu, Rouville, Montérégie, Québec, Canada",

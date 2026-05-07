@@ -372,6 +372,30 @@
     "gender": "F"
   },
   {
+    "id": "celestine-lancelle",
+    "slug": "Coppersmith/celestine-lancelle",
+    "name": "Celestine (Lancelle) Coppesmette",
+    "surname": "Coppersmith",
+    "birth": "1853-11-18",
+    "death": "1933-09-07",
+    "birth_place": "Beauvechain, Brabant, Belgium",
+    "death_place": "Green Bay, Brown County, Wisconsin",
+    "generation": 5,
+    "gender": "F"
+  },
+  {
+    "id": "isidore-coppesmette",
+    "slug": "Coppersmith/isidore-coppesmette",
+    "name": "Isidore Joseph Coppesmette",
+    "surname": "Coppersmith",
+    "birth": "1844-11-22",
+    "death": "1911-03-07",
+    "birth_place": "Mélin, Brabant, Belgium",
+    "death_place": "Green Bay, Brown County, Wisconsin",
+    "generation": 5,
+    "gender": "M"
+  },
+  {
     "id": "joseph-barrette",
     "slug": "Coppersmith/joseph-barrette",
     "name": "Joseph Barrette",
@@ -552,6 +576,30 @@
     "gender": "M"
   },
   {
+    "id": "alexis-copesmette",
+    "slug": "Coppersmith/alexis-copesmette",
+    "name": "Alexis Joseph Copesmette",
+    "surname": "Coppersmith",
+    "birth": "1811-03-06",
+    "death": "1889-07-26",
+    "birth_place": "Mélin, Brabant, Belgium",
+    "death_place": "Red River, Kewaunee County, Wisconsin",
+    "generation": 6,
+    "gender": "M"
+  },
+  {
+    "id": "anne-catherine-durdu",
+    "slug": "Coppersmith/anne-catherine-durdu",
+    "name": "Anne Catherine Durdu",
+    "surname": "Coppersmith",
+    "birth": "~1816",
+    "death": "",
+    "birth_place": "Beauvechain, Brabant, Belgium (probable)",
+    "death_place": "",
+    "generation": 6,
+    "gender": "F"
+  },
+  {
     "id": "charles-joseph-potier",
     "slug": "Coppersmith/charles-joseph-potier",
     "name": "Charles Joseph Potier",
@@ -574,6 +622,30 @@
     "death_place": "",
     "generation": 6,
     "gender": "F"
+  },
+  {
+    "id": "desiree-juliana-meuron",
+    "slug": "Coppersmith/desiree-juliana-meuron",
+    "name": "Désirée Juliana Meuron",
+    "surname": "Coppersmith",
+    "birth": "1815-12-02",
+    "death": "1891-07-18",
+    "birth_place": "Mélin, Brabant Wallon, Belgium",
+    "death_place": "Green Bay, Brown County, Wisconsin",
+    "generation": 6,
+    "gender": "F"
+  },
+  {
+    "id": "jacques-joseph-lancelle",
+    "slug": "Coppersmith/jacques-joseph-lancelle",
+    "name": "Jacques Joseph Lancelle",
+    "surname": "Coppersmith",
+    "birth": "~1816",
+    "death": "",
+    "birth_place": "Beauvechain, Brabant, Belgium (probable)",
+    "death_place": "",
+    "generation": 6,
+    "gender": "M"
   },
   {
     "id": "ann-forstall",
@@ -744,6 +816,54 @@
     "gender": "F"
   },
   {
+    "id": "marie-barbe-logis",
+    "slug": "Coppersmith/marie-barbe-logis",
+    "name": "Marie Barbe Logis",
+    "surname": "Coppersmith",
+    "birth": "1791-05-18",
+    "death": "~1858",
+    "birth_place": "Mélin, Brabant Wallon, Belgium",
+    "death_place": "Brown County, Wisconsin (approximate)",
+    "generation": 7,
+    "gender": "F"
+  },
+  {
+    "id": "marie-francoise-vanham",
+    "slug": "Coppersmith/marie-francoise-vanham",
+    "name": "Marie Francoise Vanham",
+    "surname": "Coppersmith",
+    "birth": "",
+    "death": "",
+    "birth_place": "Belgium (probable)",
+    "death_place": "",
+    "generation": 7,
+    "gender": "F"
+  },
+  {
+    "id": "pierre-joseph-copersmith",
+    "slug": "Coppersmith/pierre-joseph-copersmith",
+    "name": "Pierre Joseph Copersmith",
+    "surname": "Coppersmith",
+    "birth": "",
+    "death": "",
+    "birth_place": "Mélin, Brabant, Belgium (probable)",
+    "death_place": "",
+    "generation": 7,
+    "gender": "M"
+  },
+  {
+    "id": "pierre-joseph-meuron",
+    "slug": "Coppersmith/pierre-joseph-meuron",
+    "name": "Pierre Joseph Meuron",
+    "surname": "Coppersmith",
+    "birth": "1789-01-28",
+    "death": "1818-02-22",
+    "birth_place": "Mélin, Brabant Wallon, Belgium",
+    "death_place": "Mélin, Brabant Wallon, Belgium",
+    "generation": 7,
+    "gender": "M"
+  },
+  {
     "id": "jacques-surprenant-1753",
     "slug": "Bodoh/jacques-surprenant-1753",
     "name": "Jacques Surprenant",
@@ -776,6 +896,18 @@
     "death": "1756-02-20",
     "birth_place": "Montreal, Quebec, Canada",
     "death_place": "Montreal, Quebec, Canada",
+    "generation": 8,
+    "gender": "M"
+  },
+  {
+    "id": "philippe-jacques-meuron",
+    "slug": "Coppersmith/philippe-jacques-meuron",
+    "name": "Philippe Jacques Meuron",
+    "surname": "Coppersmith",
+    "birth": "",
+    "death": "",
+    "birth_place": "Mélin, Brabant, Belgium (probable)",
+    "death_place": "",
     "generation": 8,
     "gender": "M"
   },
