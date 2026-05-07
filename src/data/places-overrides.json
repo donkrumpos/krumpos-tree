@@ -1,0 +1,50 @@
+{
+  "Beloeil, Verchères, Quebec, Canada": {
+    "lat": 45.5667,
+    "lon": -73.2,
+    "display_name": "Beloeil, Vallée-du-Richelieu, Montérégie, Québec, Canada",
+    "note": "Beloeil city; Nominatim couldn't resolve historical Verchères subdivision"
+  },
+  "Charlesbourg, Montmorency, Quebec, Canada": {
+    "lat": 46.8612,
+    "lon": -71.2772,
+    "display_name": "Charlesbourg, Quebec City, Québec, Canada",
+    "note": "Now a borough of Quebec City; historical Montmorency county"
+  },
+  "Dyckesville, Brown County, Wisconsin": {
+    "lat": 44.6517,
+    "lon": -87.71,
+    "display_name": "Dyckesville, Kewaunee County, Wisconsin, United States",
+    "note": "Actually in Kewaunee County, not Brown — small unincorporated community on Hwy 57"
+  },
+  "New London area, Waupaca County, Wisconsin (probable)": {
+    "lat": 44.3929,
+    "lon": -88.7352,
+    "display_name": "New London, Waupaca County, Wisconsin, United States",
+    "note": "Approximate — same coords as New London, Outagamie County (city straddles county line)"
+  },
+  "St Antoine de Padoue, Longueuil, Chambly, Quebec, Canada": {
+    "lat": 45.5378,
+    "lon": -73.5118,
+    "display_name": "Saint-Antoine-de-Padoue parish, Longueuil, Québec, Canada",
+    "note": "Historical parish; coords centered on Longueuil"
+  },
+  "St Athanase d'Iberville, Quebec, Canada": {
+    "lat": 45.3037,
+    "lon": -73.23,
+    "display_name": "Saint-Athanase, Iberville, Québec, Canada",
+    "note": "Historical parish in what is now Saint-Jean-sur-Richelieu"
+  },
+  "Montmorency, Quebec, Canada": {
+    "lat": 46.8853,
+    "lon": -71.15,
+    "display_name": "Montmorency (historical county), near Quebec City, Québec, Canada",
+    "note": "Nominatim incorrectly matched 'Montmorency' in Laval; corrected to historical county near Quebec City"
+  },
+  "Québec, Canada": {
+    "lat": 46.8139,
+    "lon": -71.208,
+    "display_name": "Québec City (assumed), Québec, Canada",
+    "note": "Generic 'Québec' — defaulting to Quebec City as historical reference"
+  }
+}

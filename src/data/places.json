@@ -1,0 +1,261 @@
+{
+  "Bear Creek, Outagamie County, Wisconsin": {
+    "display_name": "Bear Creek, Outagamie County, Wisconsin, United States",
+    "lat": 44.5302735,
+    "lon": -88.7272437,
+    "query": "Bear Creek, Outagamie County, Wisconsin",
+    "source": "nominatim"
+  },
+  "Beloeil, Verchères, Quebec, Canada": {
+    "display_name": "Beloeil, Vallée-du-Richelieu, Montérégie, Québec, Canada",
+    "lat": 45.5667,
+    "lon": -73.2,
+    "note": "Beloeil city; Nominatim couldn't resolve historical Verchères subdivision",
+    "source": "override"
+  },
+  "Benson, Cochise County, Arizona": {
+    "display_name": "Benson, Cochise County, Arizona, United States",
+    "lat": 31.9678611,
+    "lon": -110.294517,
+    "query": "Benson, Cochise County, Arizona",
+    "source": "nominatim"
+  },
+  "Berthier, Montmagny, Quebec, Canada": {
+    "display_name": "Berthier-sur-Mer, Montmagny (MRC), Chaudière-Appalaches, Québec, G0R 1E0, Canada",
+    "lat": 46.9265054,
+    "lon": -70.7312726,
+    "query": "Berthier, Montmagny, Quebec, Canada",
+    "source": "nominatim"
+  },
+  "Canada": {
+    "display_name": "Canada",
+    "lat": 61.0666922,
+    "lon": -107.991707,
+    "query": "Canada",
+    "source": "nominatim"
+  },
+  "Chambly, Quebec, Canada": {
+    "display_name": "Chambly, La Vallée-du-Richelieu, Montérégie, Québec, Canada",
+    "lat": 45.4483467,
+    "lon": -73.2936944,
+    "query": "Chambly, Quebec, Canada",
+    "source": "nominatim"
+  },
+  "Charlesbourg, Montmorency, Quebec, Canada": {
+    "display_name": "Charlesbourg, Quebec City, Québec, Canada",
+    "lat": 46.8612,
+    "lon": -71.2772,
+    "note": "Now a borough of Quebec City; historical Montmorency county",
+    "source": "override"
+  },
+  "Deer Creek, Outagamie County, Wisconsin": {
+    "display_name": "Town of Deer Creek, Outagamie County, Wisconsin, United States",
+    "lat": 44.5542272,
+    "lon": -88.6765137,
+    "query": "Deer Creek, Outagamie County, Wisconsin",
+    "source": "nominatim"
+  },
+  "Duck Creek, Brown County, Wisconsin": {
+    "display_name": "Duck Creek, Outagamie County, Wisconsin, United States",
+    "lat": 44.4695086,
+    "lon": -88.2188117,
+    "query": "Duck Creek, Brown County, Wisconsin",
+    "source": "nominatim"
+  },
+  "Dyckesville, Brown County, Wisconsin": {
+    "display_name": "Dyckesville, Kewaunee County, Wisconsin, United States",
+    "lat": 44.6517,
+    "lon": -87.71,
+    "note": "Actually in Kewaunee County, not Brown — small unincorporated community on Hwy 57",
+    "source": "override"
+  },
+  "Fall River, Bristol County, Massachusetts": {
+    "display_name": "Fall River, Bristol County, Massachusetts, United States",
+    "lat": 41.7010642,
+    "lon": -71.1546367,
+    "query": "Fall River, Bristol County, Massachusetts",
+    "source": "nominatim"
+  },
+  "Fond du Lac County, Wisconsin": {
+    "display_name": "Fond du Lac County, Wisconsin, United States",
+    "lat": 43.7533414,
+    "lon": -88.4493796,
+    "query": "Fond du Lac County, Wisconsin",
+    "source": "nominatim"
+  },
+  "Fond du Lac, Fond du Lac County, Wisconsin": {
+    "display_name": "Fond du Lac, Fond du Lac County, Wisconsin, United States",
+    "lat": 43.7748763,
+    "lon": -88.4458033,
+    "query": "Fond du Lac, Fond du Lac County, Wisconsin",
+    "source": "nominatim"
+  },
+  "Green Bay, Brown County, Wisconsin": {
+    "display_name": "Green Bay, Brown County, Wisconsin, United States",
+    "lat": 44.5126379,
+    "lon": -88.0125794,
+    "query": "Green Bay, Brown County, Wisconsin",
+    "source": "nominatim"
+  },
+  "Iberville, Quebec, Canada": {
+    "display_name": "Iberville, Saint-Jean-sur-Richelieu, Le Haut-Richelieu, Montérégie, Québec, Canada",
+    "lat": 45.3039219,
+    "lon": -73.2297415,
+    "query": "Iberville, Quebec, Canada",
+    "source": "nominatim"
+  },
+  "Junction City, Lane County, Oregon": {
+    "display_name": "Junction City, Lane County, Oregon, United States",
+    "lat": 44.2191935,
+    "lon": -123.204785,
+    "query": "Junction City, Lane County, Oregon",
+    "source": "nominatim"
+  },
+  "L'Acadie, Quebec, Canada": {
+    "display_name": "L'Acadie, Saint-Jean-sur-Richelieu, Le Haut-Richelieu, Montérégie, Québec, Canada",
+    "lat": 45.3154444,
+    "lon": -73.342359,
+    "query": "L'Acadie, Quebec, Canada",
+    "source": "nominatim"
+  },
+  "La Prairie, Montérégie, Quebec, Canada": {
+    "display_name": "La Prairie, Roussillon, Montérégie, Québec, Canada",
+    "lat": 45.4175472,
+    "lon": -73.4891432,
+    "query": "La Prairie, Montérégie, Quebec, Canada",
+    "source": "nominatim"
+  },
+  "La Rochelle, Charente-Maritime, France": {
+    "display_name": "La Rochelle, Charente-Maritime, Nouvelle-Aquitaine, France métropolitaine, 17000, France",
+    "lat": 46.159732,
+    "lon": -1.1515951,
+    "query": "La Rochelle, Charente-Maritime, France",
+    "source": "nominatim"
+  },
+  "Lorraine, France": {
+    "display_name": "Grand Est, France métropolitaine, France",
+    "lat": 48.4845157,
+    "lon": 6.113035,
+    "query": "Lorraine, France",
+    "source": "nominatim"
+  },
+  "Malone, Franklin County, New York": {
+    "display_name": "Village of Malone, Town of Malone, Franklin County, New York, United States",
+    "lat": 44.84881,
+    "lon": -74.295044,
+    "query": "Malone, Franklin County, New York",
+    "source": "nominatim"
+  },
+  "Maple Creek, Outagamie County, Wisconsin": {
+    "display_name": "Town of Maple Creek, Outagamie County, Wisconsin, United States",
+    "lat": 44.4562201,
+    "lon": -88.7016755,
+    "query": "Maple Creek, Outagamie County, Wisconsin",
+    "source": "nominatim"
+  },
+  "Montmorency, Quebec, Canada": {
+    "display_name": "Montmorency (historical county), near Quebec City, Québec, Canada",
+    "lat": 46.8853,
+    "lon": -71.15,
+    "note": "Nominatim incorrectly matched 'Montmorency' in Laval; corrected to historical county near Quebec City",
+    "source": "override"
+  },
+  "Montreal, Quebec, Canada": {
+    "display_name": "Montréal, Agglomération de Montréal, Montréal (région administrative), Québec, Canada",
+    "lat": 45.5031824,
+    "lon": -73.5698065,
+    "query": "Montreal, Quebec, Canada",
+    "source": "nominatim"
+  },
+  "New London area, Waupaca County, Wisconsin (probable)": {
+    "display_name": "New London, Waupaca County, Wisconsin, United States",
+    "lat": 44.3929,
+    "lon": -88.7352,
+    "note": "Approximate — same coords as New London, Outagamie County (city straddles county line)",
+    "source": "override"
+  },
+  "New London, Outagamie County, Wisconsin": {
+    "display_name": "New London Park, New London, Outagamie County, Wisconsin, United States",
+    "lat": 44.3929214,
+    "lon": -88.7352076,
+    "query": "New London, Outagamie County, Wisconsin",
+    "source": "nominatim"
+  },
+  "Outagamie County, Wisconsin": {
+    "display_name": "Outagamie County, Wisconsin, United States",
+    "lat": 44.41603,
+    "lon": -88.4602005,
+    "query": "Outagamie County, Wisconsin",
+    "source": "nominatim"
+  },
+  "Plattsburgh, Clinton County, New York": {
+    "display_name": "City of Plattsburgh, Clinton County, New York, United States",
+    "lat": 44.6960855,
+    "lon": -73.4542915,
+    "query": "Plattsburgh, Clinton County, New York",
+    "source": "nominatim"
+  },
+  "Québec City, Quebec, Canada": {
+    "display_name": "Québec, Agglomération de Québec, Capitale-Nationale, Québec, Canada",
+    "lat": 46.8137431,
+    "lon": -71.2084061,
+    "query": "Québec City, Quebec, Canada",
+    "source": "nominatim"
+  },
+  "Québec, Canada": {
+    "display_name": "Québec City (assumed), Québec, Canada",
+    "lat": 46.8139,
+    "lon": -71.208,
+    "note": "Generic 'Québec' — defaulting to Quebec City as historical reference",
+    "source": "override"
+  },
+  "Richelieu, Quebec, Canada": {
+    "display_name": "Richelieu, Rouville, Montérégie, Québec, Canada",
+    "lat": 45.4439193,
+    "lon": -73.2488055,
+    "query": "Richelieu, Quebec, Canada",
+    "source": "nominatim"
+  },
+  "Rivière-du-Sud, Montmagny, Quebec, Canada": {
+    "display_name": "Rivière du Sud, Bellechasse, Chaudière-Appalaches, Québec, Canada",
+    "lat": 46.7331709,
+    "lon": -70.5693528,
+    "query": "Rivière-du-Sud, Montmagny, Quebec, Canada",
+    "source": "nominatim"
+  },
+  "Rouen, Seine-Maritime, Normandy, France": {
+    "display_name": "Rouen, Seine-Maritime, Normandie, France métropolitaine, France",
+    "lat": 49.4404591,
+    "lon": 1.0939658,
+    "query": "Rouen, Seine-Maritime, Normandy, France",
+    "source": "nominatim"
+  },
+  "St Antoine de Padoue, Longueuil, Chambly, Quebec, Canada": {
+    "display_name": "Saint-Antoine-de-Padoue parish, Longueuil, Québec, Canada",
+    "lat": 45.5378,
+    "lon": -73.5118,
+    "note": "Historical parish; coords centered on Longueuil",
+    "source": "override"
+  },
+  "St Athanase d'Iberville, Quebec, Canada": {
+    "display_name": "Saint-Athanase, Iberville, Québec, Canada",
+    "lat": 45.3037,
+    "lon": -73.23,
+    "note": "Historical parish in what is now Saint-Jean-sur-Richelieu",
+    "source": "override"
+  },
+  "St Athanase sur Richelieu, Quebec, Canada": {
+    "display_name": "Petro-Canada, Avenue Conrad-Gosselin, Saint-Athanase, Saint-Jean-sur-Richelieu, Le Haut-Richelieu, Montérégie, Québec, J3B 1W5, Canada",
+    "lat": 45.3246278,
+    "lon": -73.2475922,
+    "query": "St Athanase sur Richelieu, Quebec, Canada",
+    "source": "nominatim"
+  },
+  "St Luc, St Jean, Québec, Canada": {
+    "display_name": "Saint-Luc, Saint-Jean-sur-Richelieu, Le Haut-Richelieu, Montérégie, Québec, Canada",
+    "lat": 45.3621422,
+    "lon": -73.3036849,
+    "query": "St Luc, St Jean, Québec, Canada",
+    "source": "nominatim"
+  }
+}
