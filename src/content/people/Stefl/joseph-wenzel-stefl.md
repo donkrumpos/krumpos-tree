@@ -30,7 +30,7 @@ linked_children:
 Father of Mary Katherine (Steffel) Krumpos (1845–1920). Born in Klattau, Klattau, Bohemia. Died c. 1895 in Leopolis, Shawano, Wisconsin. Buried at Saint Marys Cemetery, Leopolis, Shawano County, WI. Married to Mary Katherine Kadletz. Naturalized in Wisconsin in 1884.
 
 ## Relationships
-- **Wife:** Mary Katherine Kadletz (c. 1822, Klatovy, Bohemia – Oct 16, 1889, Leopolis, Shawano Co, WI) — married in Bohemia.
+- **Wife:** Mary Katherine "Katie" Kadletz (c. 1822, Klatovy, Bohemia – Oct 16, 1889, Oconto, WI; buried Saint Marys Cemetery, Leopolis, Shawano Co, WI — gravestone confirmed 2026-05-03) — married in Bohemia.
 - **Children:** Stephen Stefl (1843–1932, Klattau, Bohemia), Mary Katherine Steffel (Apr 16, 1845–Mar 26, 1920)
 
 ## Sources

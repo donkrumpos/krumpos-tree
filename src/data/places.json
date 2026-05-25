@@ -20,6 +20,13 @@
     "query": "Beauvechain, Brabant, Belgium",
     "source": "nominatim"
   },
+  "Belgium (probable Mélin area)": {
+    "display_name": "België / Belgique / Belgien",
+    "lat": 50.6402809,
+    "lon": 4.6667145,
+    "query": "Belgium",
+    "source": "nominatim"
+  },
   "Belgium (probable)": {
     "display_name": "België / Belgique / Belgien",
     "lat": 50.6402809,
@@ -123,6 +130,13 @@
     "lat": 44.5126379,
     "lon": -88.0125794,
     "query": "Green Bay, Brown County, Wisconsin",
+    "source": "nominatim"
+  },
+  "Hoegaarden, Flemish Brabant, Belgium": {
+    "display_name": "Hoegaarden, Leuven, Vlaams-Brabant, Vlaanderen, België / Belgique / Belgien",
+    "lat": 50.7741896,
+    "lon": 4.8870343,
+    "query": "Hoegaarden, Flemish Brabant, Belgium",
     "source": "nominatim"
   },
   "Iberville, Quebec, Canada": {

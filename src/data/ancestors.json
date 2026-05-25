@@ -792,6 +792,18 @@
     "gender": "M"
   },
   {
+    "id": "anne-marie-barbe-logis",
+    "slug": "Coppersmith/anne-marie-barbe-logis",
+    "name": "Anne Marie Barbe Logis",
+    "surname": "Coppersmith",
+    "birth": "1791",
+    "death": "1858",
+    "birth_place": "Belgium (probable Mélin area)",
+    "death_place": "",
+    "generation": 7,
+    "gender": "F"
+  },
+  {
     "id": "louis-terrien",
     "slug": "Coppersmith/louis-terrien",
     "name": "Louis Terrien",
@@ -816,25 +828,13 @@
     "gender": "F"
   },
   {
-    "id": "marie-barbe-logis",
-    "slug": "Coppersmith/marie-barbe-logis",
-    "name": "Marie Barbe Logis",
-    "surname": "Coppersmith",
-    "birth": "1791-05-18",
-    "death": "~1858",
-    "birth_place": "Mélin, Brabant Wallon, Belgium",
-    "death_place": "Brown County, Wisconsin (approximate)",
-    "generation": 7,
-    "gender": "F"
-  },
-  {
     "id": "marie-francoise-vanham",
     "slug": "Coppersmith/marie-francoise-vanham",
     "name": "Marie Francoise Vanham",
     "surname": "Coppersmith",
-    "birth": "",
-    "death": "",
-    "birth_place": "Belgium (probable)",
+    "birth": "1777",
+    "death": "1851",
+    "birth_place": "Hoegaarden, Flemish Brabant, Belgium",
     "death_place": "",
     "generation": 7,
     "gender": "F"
@@ -844,8 +844,8 @@
     "slug": "Coppersmith/pierre-joseph-copersmith",
     "name": "Pierre Joseph Copersmith",
     "surname": "Coppersmith",
-    "birth": "",
-    "death": "",
+    "birth": "1760",
+    "death": "1828",
     "birth_place": "Mélin, Brabant, Belgium (probable)",
     "death_place": "",
     "generation": 7,

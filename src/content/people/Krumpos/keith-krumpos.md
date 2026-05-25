@@ -19,7 +19,6 @@ linked_parents:
   - 'Krumpos/donald-howard-krumpos'
   - ''
 linked_spouses:
-  - 'Krumpos/betty-mae-schmidt-krumpos'
   - ''
 linked_children:
   - ''

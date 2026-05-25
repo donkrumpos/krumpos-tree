@@ -27,12 +27,12 @@ linked_children:
 ---
 # Mary Katherine Stefl
 ## Summary
-Born April 16, 1845 in Domazlice, Okres Domazlice, Plzensky (Plzen), Czech Republic. Died March 26, 1920 in Little River, Oconto, Wisconsin. Second wife of Joseph Krumpos, married December 6, 1884 in Oconto County, Wisconsin (she was 39, he was 37). Mother of two children: Johanna Katherine (c. 1886–1936) and Lawrence Antone (1889–1986). Buried at Evergreen Cemetery, Oconto, Oconto County, Wisconsin.
+Born April 16, 1845 in Domazlice, Okres Domazlice, Plzensky (Plzen), Czech Republic. Died March 26, 1920 in Little River, Oconto, Wisconsin. Second wife of Joseph Krumpos, married December 6, 1884 in Little River, Oconto County, Wisconsin (she was 39, he was 37). Mother of two children: Johanna Katherine (c. 1886–1936) and Lawrence Antone (1889–1986). Buried at Evergreen Cemetery, Oconto, Oconto County, Wisconsin — Section 27, Row 4.
 
 ## Relationships
 - **Parents:** Joseph Wenzel Stefl (Dec 4, 1818 – c. 1895, born Klattau, Bohemia) & Mary Katherine Kadletz (c. 1822 – Oct 16, 1889)
 - **Sibling:** Stephen Stefl (b. 1843, Klattau, Bohemia)
-- **Husband:** Joseph Krumpos (Oct 16, 1845–Feb 19, 1920) — m. Dec 6, 1884, Oconto County, Wisconsin
+- **Husband:** Joseph Krumpos (Oct 16, 1845–Feb 19, 1920) — m. Dec 6, 1884, Little River, Oconto County, Wisconsin
 - **Children:** Johanna Katherine (c. Jul 1886–1936), Lawrence Antone (1889–1986)
 - **Stepchildren:** Mary (1871), Anna (1873), Joseph Samuel (1876), Josephine (1878), James Ernest (1880), Matthew Jacob (1882) — from Joseph's first marriage
 
