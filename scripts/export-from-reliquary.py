@@ -190,6 +190,23 @@ def serialize_frontmatter_simple(data):
     return '\n'.join(lines) + '\n'
 
 
+# Rewrites relative media paths (e.g. "../../media/photos/X.jpg") to absolute
+# paths ("/media/photos/X.jpg") served from Astro's public/ directory. Only
+# fires inside markdown link/image targets and HTML src attributes — the
+# lookbehind keeps it from touching prose like "the media/photos folder".
+MEDIA_PATH_RE = re.compile(r'''(?<=[("'])(?:\.\./)*media/(photos|documents)/''')
+
+
+def rewrite_media_paths(text):
+    """Rewrite relative ../../media/{photos,documents}/ paths to absolute /media/...
+
+    Reliquary uses relative paths so VS Code/GitHub previews resolve in-repo.
+    Astro serves media from public/, which is mounted at the site root, so
+    paths must be absolute on the published side.
+    """
+    return MEDIA_PATH_RE.sub(r'/media/\1/', text)
+
+
 def slugify(name):
     """Convert a person name to a filename slug."""
     name = name.lower().strip()
@@ -335,6 +352,7 @@ def export_people(source_dir, dest_dir, lookup):
 
             # Write enriched file — preserve original frontmatter, append computed fields
             output = serialize_enriched(text, extra_fields)
+            output = rewrite_media_paths(output)
             dest_path = os.path.join(dest_surname, fname)
             with open(dest_path, 'w', encoding='utf-8') as f:
                 f.write(output)
@@ -342,6 +360,15 @@ def export_people(source_dir, dest_dir, lookup):
             total += 1
 
     return total, resolved, unresolved_names
+
+
+def copy_markdown_with_rewrite(src, dest):
+    """Read a markdown file, rewrite relative media paths, and write to dest."""
+    with open(src, 'r', encoding='utf-8') as f:
+        text = f.read()
+    text = rewrite_media_paths(text)
+    with open(dest, 'w', encoding='utf-8') as f:
+        f.write(text)
 
 
 def export_narratives(source_dir, dest_dir):
@@ -353,7 +380,7 @@ def export_narratives(source_dir, dest_dir):
     for fname in ['lineage-narrative.md', 'family-narrative.md']:
         src = os.path.join(source_dir, fname)
         if os.path.exists(src):
-            shutil.copy2(src, os.path.join(dest, fname))
+            copy_markdown_with_rewrite(src, os.path.join(dest, fname))
             count += 1
 
     # Also copy index files
@@ -361,7 +388,7 @@ def export_narratives(source_dir, dest_dir):
     if os.path.isdir(indexes_src):
         for fname in os.listdir(indexes_src):
             if fname.endswith('.md'):
-                shutil.copy2(
+                copy_markdown_with_rewrite(
                     os.path.join(indexes_src, fname),
                     os.path.join(dest, fname)
                 )
@@ -381,7 +408,7 @@ def export_sources(source_dir, dest_dir):
         for fname in files:
             if fname.endswith('.md'):
                 src = os.path.join(root, fname)
-                shutil.copy2(src, os.path.join(dest, fname))
+                copy_markdown_with_rewrite(src, os.path.join(dest, fname))
                 count += 1
 
     return count
