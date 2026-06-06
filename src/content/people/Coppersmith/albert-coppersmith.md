@@ -5,40 +5,38 @@ aka: []
 birth: '1911'
 death: ''
 gender: M
-parents:
-- Frank Joseph Coppersmith
-- Odile Clemens Barette
+parents: []
 spouses: []
 children: []
-status: probable
+status: rejected
 uncertain_fields:
-- parents not explicitly confirmed on this record — inferred from birth year and surname
-- no death date (listed as "Deceased" on FamilySearch)
+- This record is preserved as a research correction — there was no Albert Coppersmith son of Frank and Odile.
 tags:
 - '#person'
-- '#coppersmith'
+- '#research-correction'
 created: '2026-04-06'
 surname: 'Coppersmith'
-linked_parents:
-  - 'Coppersmith/frank-coppersmith'
-  - ''
+linked_parents: []
 linked_spouses: []
 linked_children: []
 ---
-# Albert Coppersmith
+# Albert Coppersmith — research correction
 
-**Lifespan:** 1911 — ?
+**Status:** rejected (this person was a misidentification)
 
-## Summary
-Probable son of Frank Joseph Coppersmith and Odile Clemens Barette. Born 1911 — fits between Claude (1907) and Geraldine (1913). Listed as deceased on FamilySearch, no death date available.
+## What happened
+Earlier records inferred an "Albert Coppersmith" born ~1911 as a son of Frank Joseph Coppersmith and Odile Clemens Barette, based on a FamilySearch entry with minimal data and a plausible-seeming birth year between Claude (1907) and Geraldine (1913).
 
-## Relationships
-- **Parents:** Frank Joseph Coppersmith & Odile Clemens Barette (probable)
-- **Siblings:** Claude J Coppersmith (b. 1907), Geraldine Madeli Coppersmith (b. 1913), Agnes Antoinette Coppersmith (b. 1922)
+## Correction
+**Odile Coppersmith's December 1972 obituary** definitively lists Frank and Odile's five children:
 
-## Sources
-- FamilySearch person record (minimal — birth year and gender only).
+> "Survivors are three sons, William, Claude and Harold, all of Green Bay; two daughters, Mrs. Albert (Geraldine) La Roche, Sturgeon Bay; Mrs. Bernard (Agnes) Putman, Green Bay…"
 
-## Research Notes
-- Confirm parentage via census (1920 census should show Frank/Odile household with Claude, Albert, and possibly Geraldine).
-- No marriage or children listed — record may be incomplete.
+The "Albert" in the family was **Albert La Roche** — Geraldine's husband (Frank and Odile's son-in-law), living in Sturgeon Bay. He was misclassified as a Coppersmith son in some derivative records.
+
+## Action taken
+- Removed Albert from `children:` arrays of Frank Joseph Coppersmith and Odile Clemens Barette.
+- This record retained as a documentation of the correction so the misidentification doesn't re-enter the archive on future imports.
+
+## Where the real Albert lives
+A new record for **Albert La Roche (m. Geraldine Coppersmith, Sturgeon Bay)** can be created if/when his line warrants it. He's a son-in-law, not a direct ancestor.

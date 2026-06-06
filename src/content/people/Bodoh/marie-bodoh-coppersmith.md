@@ -65,9 +65,31 @@ Appears in a five-generation photograph (~1975) with her mother Mary Young, daug
 - Children's obituaries (Roger 2018, Florence 2020).
 - Memoir chapters: "Great-Grandma Coppersmith," "Grandma's House on the Bay," "The Oregon Trip."
 
+## Marie's siblings + half-siblings
+- **Full siblings (Bodoh, via John Bodoh):** Leonard Bodoh (1908–1927, died age 19), Albinus George "Al" Bodoh (1914–1982).
+- **Half-siblings (Siudzinski, via Mary Young's remarriage to John A Siudzinski):** Luke Siudzinski (dates TBD), Lorraine (Siudzinski) Vincent (1923-06-23 New London – 2014-01-20 De Pere, m. Donald W. Vincent 1944). Half-sibling structure confirmed via Lorraine's 2014 Cotter Funeral Home obit listing "Luke Siudzinski, Al Bodoh and Marie Coppersmith" as her preceded-in-death siblings.
+
+## "Aunt Aggie" — open question (updated 2026-05-11)
+Family knowledge (Foggy): Marie, "Aggie" (Agnes), and Marie's daughter Dorothy crocheted together regularly. Foggy: *"I know for almost a fact that Aunt Aggie was Marie's sister."*
+
+The Siudzinski half-sister hypothesis is **ruled out** — Lorraine Vincent's 2014 obit lists only three Marie-generation siblings (Luke Siudzinski, Al Bodoh, Marie Coppersmith) with no Agnes among them. The Bodoh full-sister hypothesis is also ruled out (only Leonard and Albinus George per FamilySearch + the 1920 census).
+
+Three remaining candidates:
+1. **Albinus George "Al" Bodoh's wife** — Marie's full brother's wife = sister-in-law. The most natural "Marie's sister" in family speech, especially across decades of shared crocheting. Al's wife's first name is currently unrecorded; if it's Agnes, this is the answer.
+2. **Agnes Antoinette Coppersmith** (Claude's youngest sister, b. 1922, m. Bernard Putman, Green Bay) — Marie's sister-in-law via her own marriage to Claude. Generation-adjacent to Marie (16 years younger but a peer in the family social structure) and Dorothy (6 years older).
+3. A third Siudzinski child not named in Lorraine's obit (less likely — Lorraine's obit appeared comprehensive about her preceded-in-death siblings).
+
+Candidate 1 is the most parsimonious if Al's wife's name turns out to be Agnes.
+
 ## Research Notes
 - FamilySearch corrected death date from 1998-07-10 to 1998-06-10 (June, not July).
 - Junction City death location aligns with Florence's church (St. Helen) being there.
-- "Great-Aunt Aggie" crocheted with Marie and Dorothy — likely Marie's sister (a Bodoh), unconfirmed.
 - Maple Creek, Outagamie County birthplace places the Bodoh family west of Green Bay, toward Appleton — different area than the Coppersmiths (Brown County/Dyckesville).
-- Mary Young was only 17 at Marie's birth — married very young. 
+- Mary Young was only 17 at Marie's birth — married very young.
+- Marie's six children include Robert (1936-1947, age 11) — losing a young child mid-life is part of her history.
+- Marie outlived Claude by 11 years (1987→1998). She moved to Oregon to live with Florence — leaving Wisconsin in her late 80s after Claude's death is a notable life rupture.
+
+## Next-session research targets
+- **Albinus George Bodoh's wife** — first name resolves the Aunt Aggie question. Likely findable on Al's FindAGrave memorial, his Wisconsin death record (he died 1982), or a 1940/1950 census household listing.
+- **Marie's 1998 obituary** — would confirm full sibling structure including any unrecorded half-sibling. Likely published in *Eugene Register-Guard* (Oregon) and *Green Bay Press-Gazette* simultaneously.
+- **FindAGrave Memorial ID** for Marie at Allouez Catholic — not retrievable via public web; needs direct FindAGrave search.

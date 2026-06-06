@@ -1,7 +1,7 @@
 ---
 id: wilfred-coppersmith
 name: Wilfred I Coppersmith
-aka: []
+aka: ['William', 'William Coppersmith', 'Wilfred I "William" Coppersmith']
 birth: '1906-03-28'
 birth_place: Wisconsin
 death: '1986-04-18'
@@ -35,12 +35,12 @@ linked_children: []
 **Lifespan:** 1906-03-28 — 1986-04-18
 
 ## Summary
-Born in Wisconsin to Frank Joseph Coppersmith and Odile Clemens Barette. Eldest known child — born a year before Claude. Had at least 1 son and 2 daughters with Pearl M Laes. Lived in Green Bay for about 30 years. Died April 18, 1986 in Dyckesville at age 80. Buried at Nicolet Memorial Gardens, Green Bay.
+Born in Wisconsin to Frank Joseph Coppersmith and Odile Clemens Barette. Eldest of five — born a year before Claude. Known formally as **Wilfred** (the Walloon-French given name) but anglicized to **William** in everyday use; the 1972 obituary for his mother lists him as "William, Green Bay." Had at least 1 son and 2 daughters with Pearl M Laes. Lived in Green Bay for about 30 years. Died April 18, 1986 in Dyckesville at age 80. Buried at Nicolet Memorial Gardens, Green Bay.
 
 ## Relationships
 - **Parents:** Frank Joseph Coppersmith & Odile Clemens Barette
 - **Spouse/Partner:** Pearl M Laes
-- **Siblings:** Claude J Coppersmith (b. 1907), Albert Coppersmith (b. 1911), Geraldine Madeli Coppersmith (b. 1913), Agnes Antoinette Coppersmith (b. 1922)
+- **Siblings:** Claude J Coppersmith (b. 1907), Harold Joseph Coppersmith (b. 1910), Geraldine Madeli Coppersmith (b. 1913), Agnes Antoinette Coppersmith (b. 1922)
 
 ## Sources
 - FamilySearch person record (birth, death, burial details).

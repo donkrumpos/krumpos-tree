@@ -10,7 +10,15 @@ spouses:
 - Antonette Potier
 children:
 - Clemence Josephine Barrette
+- August Barrette
 - Odile Clemens Barrette
+- Oliver J Barrette
+- Jules J Barrette
+- Clemence Barrette (b. 1889)
+- Gustave William Barrette
+- Louis Joseph Barrette
+- Emma Barrette Mielke
+- Joseph Barrette Jr.
 status: confirmed
 tags:
 - '#person'
@@ -21,6 +29,14 @@ linked_parents: []
 linked_spouses:
   - 'Coppersmith/antonette-potier'
 linked_children:
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
   - ''
   - ''
 ---
@@ -35,11 +51,23 @@ Ten children per Geneanet: Clemence Josephine (1880), August (1882), Odile C. (1
 
 ## Relationships
 - **Spouse:** Antonette Potier (1859–1914)
-- **Children:** Clemence Josephine Barrette (b. 1880), Odile Clemens Barrette (b. 1883) — likely others
+- **Children (10 per Geneanet, with status confirmed by Odile's 1972 obit):**
+  - Clemence Josephine (b. 1880) — predeceased Odile
+  - August (b. 1882) — predeceased Odile
+  - Odile Clemens (b. 1883) — direct line, m. Frank Coppersmith, d. 1972
+  - Oliver J. (b. 1885) — predeceased Odile
+  - Jules J. (b. 1887, "Jule" in obit) — predeceased Odile
+  - Clemence (b. 1889 — name reused, first Clemence likely died young)
+  - Gustave William (b. 1890, "William" in obit) — predeceased Odile
+  - Louis Joseph (b. 1893) — not mentioned in 1972 obit, possibly died young
+  - Emma (b. 1894) — m. into Mielke family, Green Bay; survived Odile
+  - Joseph Jr. (b. 1897) — Oconto Falls; survived Odile
 
 ## Sources
 - FamilySearch (via Clemence Josephine Barrette's record — names parents, gives ages at birth).
 - FindAGrave / family page for Odile (confirms parents and spouse).
+- **1972 obituary for Odile (Mrs. Frank) Coppersmith** — confirms 4 brothers (August, Oliver, William/Gustave, Jule) + 1 sister (Clemence) predeceased her, and 1 brother (Joseph Jr., Oconto Falls) + 1 sister (Mrs. Emma Mielke, Green Bay) survived her.
+- **1895 Wisconsin state census, Town of Red River, Kewaunee County** (June 20, 1895) — Joseph Barrette household: 3 male, 3 female, all 6 US-born. He's the first family on the page; the Coppersmith household appears later on the same page (Isidore directly, neighbors otherwise). Belgian Catholic corridor in plain view.
 
 ## Research Notes
 - Barrette is a French/Belgian surname — consistent with Dyckesville/Door County Belgian corridor.

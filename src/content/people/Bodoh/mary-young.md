@@ -14,7 +14,11 @@ spouses:
 - John Bodoh (d. 1915)
 - John A Siudzinski (remarried after Bodoh's death)
 children:
+- Leonard Bodoh
 - Marie Ellen Bodoh
+- Albinus George Bodoh
+- Luke Siudzinski
+- Lorraine Siudzinski
 status: confirmed
 tags:
 - '#person'
@@ -29,25 +33,34 @@ linked_spouses:
   - ''
 linked_children:
   - ''
+  - ''
+  - ''
+  - ''
+  - 'Bodoh/lorraine-siudzinski-vincent'
 ---
 # Mary Young
 
 **Lifespan:** 1889-02-11 — 1978-04-01
 
 ## Summary
-Born February 11, 1889 in Outagamie County, Wisconsin. Married John Bodoh at age 17 or younger. Mother of Marie Ellen (Bodoh) Coppersmith (1906–1998). John Bodoh died in 1915 at age 32–33, leaving Mary widowed at 26 with a young daughter. She later remarried **John A Siudzinski** (not blood relation — no separate file).
+Born February 11, 1889 in Outagamie County, Wisconsin. Married John Bodoh at age 17 or younger. Mother of three Bodoh children: **Leonard (1908–1927), Marie Ellen (1906–1998), and Albinus George (1914–1982)**. John Bodoh died in 1915, leaving Mary widowed at 26 with three young children (Marie 9, Leonard 7, Albinus an infant). The 1920 census shows her widowed at 30 with the three Bodoh children still at home (Marie 13, Leonard 11, Albinus 5).
+
+She later remarried **John A Siudzinski** (Polish-American, likely Outagamie County) between 1920 and ~1923, and had **at least two more children with him**: Luke Siudzinski and Lorraine (Siudzinski) Vincent (b. 1923-06-23 New London, d. 2014-01-20). Marie's half-siblings via this second marriage are confirmed via Lorraine's 2014 obituary at Cotter Funeral Home, Green Bay.
 
 Died April 1, 1978 in Green Bay at age 89. Buried at Allouez Catholic Cemetery and Chapel Mausoleum — same cemetery as granddaughter-in-law Odile, grandson-in-law Claude, and granddaughter Marie.
 
 Appears in a five-generation photograph (~1975) with daughter Marie, granddaughter Dorothy, great-grandson Keith, and great-great-grandson Don (as a baby). From the memoir: "my great-great-grandmother Mary Young, who would die four years later" — death 1978 confirms this (photo ~1974–1975).
 
 ## Relationships
-- **Spouse:** John Bodoh (1882–1915)
-- **Spouse:** John A Siudzinski (remarriage, not blood relation)
-- **Children:** Marie Ellen Bodoh (likely others unknown)
+- **First spouse:** John Bodoh (1882–1915)
+- **Second spouse:** John A Siudzinski (m. between 1920 and ~1923, Wisconsin)
+- **Children (Bodoh, 3):** Leonard Bodoh (1908–1927), Marie Ellen Bodoh (1906–1998), Albinus George "Al" Bodoh (1914–1982)
+- **Children (Siudzinski, ≥2 confirmed):** Luke Siudzinski (dates unknown, predeceased Lorraine), Lorraine (Siudzinski) Vincent (1923-06-23 New London – 2014-01-20 De Pere, m. Donald W. Vincent 1944-01-29)
 
 ## Sources
 - FamilySearch record for Marie Ellen Bodoh (names parents, gives ages at birth).
+- 1920 US Census fragment (via Guyette family genealogy PDF excerpt): "Bodoh – Mary 30, Marie 13, Leonard 11 and Albinus 5" — confirms widowed household pre-Siudzinski remarriage.
+- **Lorraine L. (Siudzinski) Vincent obituary**, Cotter Funeral Home, Green Bay, January 20, 2014: https://www.cotterfuneralhome.com/obituaries/lorraine-l-vincent — names "John and Mary (Young) Siudzinski" as her parents, lists siblings as "Luke Siudzinski, Al Bodoh and Marie Coppersmith" (all preceded her in death). This is the keystone source confirming the half-sibling structure.
 - Family 5-generation photo (~1975) including Mary Young (in possession of family).
 - Memoir chapter: "Great-Grandma Coppersmith" (death ~4 years after photo).
 

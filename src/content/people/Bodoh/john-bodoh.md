@@ -54,6 +54,7 @@ John was one of 10 children. His siblings: Justina B (1862), George Henry (1863)
 ## Research Notes
 - Maple Creek, Outagamie County location suggests the Bodoh family was in the Appleton/western Green Bay area.
 - 1900/1910 census should show the household.
+- **1920 census fragment** (via Guyette family genealogy excerpt) shows the post-John household: "Bodoh – Mary 30, Marie 13, Leonard 11 and Albinus 5" — confirms Mary widowed and still using the Bodoh surname five years after John's death, before remarrying John A Siudzinski (which happened between 1920 and ~1923, since Lorraine Siudzinski was born June 1923 in New London).
 - **"Bodoh" is an Americanization of "Beaudin"** — the French-Canadian "Dit" naming convention: "Beaudin Dit Bodoh" = "Beaudin, called Bodoh." Search under Beaudin, Beaudoin, Bodoh, Bodo, Bodeau.
 - **Beaudin Dit Bodoh lead revised:** John's father is Jacques Guilluame Bodoh (1836–1918), NOT John Beaudin Dit Bodoh (1859). The Beaudin Dit Bodoh connection may still apply further back — Jacques could be a Beaudin Dit Bodoh — or it could be a different branch. Needs further research.
 - **Birth year discrepancy for Marie:** Little Chute chart shows "Marie Eleanor Bodoh (1926–1998)" but FamilySearch says born 1906. Since John died 1915, he cannot be father to a child born 1926. The 1906 date is correct — 1926 is likely Marie's marriage year to Claude confused with birth year.
