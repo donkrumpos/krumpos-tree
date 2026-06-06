@@ -31,6 +31,7 @@ const currentPath = Astro.url.pathname;
       <div class="flex gap-6 text-sm">
         <a href="/" class:list={[currentPath === '/' && 'font-semibold']}>Home</a>
         <a href="/narrative" class:list={[currentPath === '/narrative' && 'font-semibold']}>Story</a>
+        <a href="/map" class:list={[currentPath === '/map' && 'font-semibold']}>Map</a>
         <a href="/search" class:list={[currentPath === '/search' && 'font-semibold']}>Search</a>
         <a href="/about" class:list={[currentPath === '/about' && 'font-semibold']}>About</a>
       </div>
