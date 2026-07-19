@@ -1,0 +1,55 @@
+---
+import { getCollection, render } from 'astro:content';
+import BaseLayout from '../../layouts/BaseLayout.astro';
+
+export async function getStaticPaths() {
+  const sources = await getCollection('sources');
+  return sources.map((source) => ({
+    params: { slug: source.id },
+    props: { source },
+  }));
+}
+
+const { source } = Astro.props;
+const { Content } = await render(source);
+
+function parseSlug(slug: string): { name: string; year: string } {
+  const parts = slug.split('-');
+  let year = '';
+  if (parts.length && /^\d{4}$/.test(parts[parts.length - 1])) {
+    year = parts.pop() as string;
+  }
+  const name = parts
+    .map((p) => p.charAt(0).toUpperCase() + p.slice(1))
+    .join(' ');
+  return { name, year };
+}
+
+function isStub(body: string | undefined): boolean {
+  return (body || '').trim().length < 300;
+}
+
+const { name, year } = parseSlug(source.id);
+const pending = isStub(source.body);
+const heading = year ? `${name} (${year})` : name;
+---
+<BaseLayout title={heading} description={`Source material for ${name}.`}>
+  <nav class="text-sm text-[var(--color-muted)] mb-6">
+    <a href="/sources">&larr; All sources</a>
+  </nav>
+
+  <header class="mb-6">
+    <h1 class="text-3xl mb-1">{heading}</h1>
+    <p class="text-sm text-[var(--color-warm-gray)]">Obituary / primary source</p>
+  </header>
+
+  {pending && (
+    <p class="text-sm px-3 py-2 rounded bg-yellow-100 text-yellow-800 mb-6">
+      This source has been catalogued but the full transcription has not been keyed in yet.
+    </p>
+  )}
+
+  <article class="prose">
+    <Content />
+  </article>
+</BaseLayout>

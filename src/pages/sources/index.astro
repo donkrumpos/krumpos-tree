@@ -1,0 +1,57 @@
+---
+import { getCollection } from 'astro:content';
+import BaseLayout from '../../layouts/BaseLayout.astro';
+
+// Turn a slug like "dorothy-elaine-krumpos-2002" into
+// { name: "Dorothy Elaine Krumpos", year: "2002" }
+function parseSlug(slug: string): { name: string; year: string } {
+  const parts = slug.split('-');
+  let year = '';
+  if (parts.length && /^\d{4}$/.test(parts[parts.length - 1])) {
+    year = parts.pop() as string;
+  }
+  const name = parts
+    .map((p) => p.charAt(0).toUpperCase() + p.slice(1))
+    .join(' ');
+  return { name, year };
+}
+
+// A source is still a placeholder if its body is just the one-line export
+// stub ("# Source" + a short cataloguing note). Real transcriptions run
+// 940+ chars; every stub is under 100. 300 is a safe divider.
+function isStub(body: string | undefined): boolean {
+  return (body || '').trim().length < 300;
+}
+
+const sources = (await getCollection('sources'))
+  .map((s) => ({ ...parseSlug(s.id), id: s.id, pending: isStub(s.body) }))
+  .sort((a, b) => a.name.localeCompare(b.name));
+---
+<BaseLayout
+  title="Sources"
+  description="Obituary transcriptions and primary-source clippings behind the family history."
+>
+  <header class="mb-8">
+    <h1 class="text-3xl mb-2">Sources</h1>
+    <p class="text-[var(--color-warm-gray)]">
+      Obituaries and primary-source clippings transcribed for the family record.
+      Transcriptions marked <em>pending</em> are catalogued but not yet keyed in.
+    </p>
+  </header>
+
+  <ul class="space-y-3">
+    {sources.map((s) => (
+      <li class="flex items-baseline gap-3">
+        <a href={`/sources/${s.id}`} class="text-lg">
+          {s.name}
+        </a>
+        {s.year && <span class="text-sm text-[var(--color-muted)]">{s.year}</span>}
+        {s.pending && (
+          <span class="text-xs px-2 py-0.5 rounded bg-yellow-100 text-yellow-800">
+            transcription pending
+          </span>
+        )}
+      </li>
+    ))}
+  </ul>
+</BaseLayout>
