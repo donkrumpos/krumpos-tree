@@ -4,6 +4,7 @@ import BaseLayout from '../../layouts/BaseLayout.astro';
 import AncestryBreadcrumb from '../../components/AncestryBreadcrumb.astro';
 import RelationshipLink from '../../components/RelationshipLink.astro';
 import MemoryForm from '../../components/MemoryForm.astro';
+import { linkByPerson } from '../../data/obituaries';
 
 export async function getStaticPaths() {
   const people = await getCollection('people');
@@ -63,6 +64,8 @@ function zipRelationships(names: string[], links: string[]): [string, string][] 
 const parentPairs = zipRelationships(data.parents, data.linked_parents);
 const spousePairs = zipRelationships(data.spouses, data.linked_spouses);
 const childPairs = zipRelationships(data.children, data.linked_children);
+
+const obituary = linkByPerson.get(data.id);
 ---
 <BaseLayout title={data.name} description={`${data.name} (${lifespan}) — family history and genealogy.`}>
   <AncestryBreadcrumb personId={data.id} />
@@ -125,6 +128,12 @@ const childPairs = zipRelationships(data.children, data.linked_children);
   <section class="prose mb-8">
     <Content />
   </section>
+
+  {obituary && (
+    <p class="mb-8 text-sm">
+      <a href={`/sources/${obituary.source}`}>Read the full obituary transcription &rarr;</a>
+    </p>
+  )}
 
   <hr />
 

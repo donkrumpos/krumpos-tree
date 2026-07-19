@@ -1,6 +1,7 @@
 ---
 import { getCollection, render } from 'astro:content';
 import BaseLayout from '../../layouts/BaseLayout.astro';
+import { linkBySource } from '../../data/obituaries';
 
 export async function getStaticPaths() {
   const sources = await getCollection('sources');
@@ -32,6 +33,7 @@ function isStub(body: string | undefined): boolean {
 const { name, year } = parseSlug(source.id);
 const pending = isStub(source.body);
 const heading = year ? `${name} (${year})` : name;
+const person = linkBySource.get(source.id);
 ---
 <BaseLayout title={heading} description={`Source material for ${name}.`}>
   <nav class="text-sm text-[var(--color-muted)] mb-6">
@@ -40,7 +42,15 @@ const heading = year ? `${name} (${year})` : name;
 
   <header class="mb-6">
     <h1 class="text-3xl mb-1">{heading}</h1>
-    <p class="text-sm text-[var(--color-warm-gray)]">Obituary / primary source</p>
+    <p class="text-sm text-[var(--color-warm-gray)]">
+      Obituary / primary source
+      {person && (
+        <>
+          {' · '}
+          <a href={`/person/${person.surname}/${person.person}`}>View person &rarr;</a>
+        </>
+      )}
+    </p>
   </header>
 
   {pending && (
