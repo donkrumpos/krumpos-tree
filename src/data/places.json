@@ -1,4 +1,11 @@
 {
+  "Baden, Germany": {
+    "display_name": "Baden, Achim, Landkreis Verden, Niedersachsen, Deutschland",
+    "lat": 53.0023496,
+    "lon": 9.0820955,
+    "query": "Baden, Germany",
+    "source": "nominatim"
+  },
   "Bear Creek, Outagamie County, Wisconsin": {
     "display_name": "Bear Creek, Outagamie County, Wisconsin, United States",
     "lat": 44.5302735,
@@ -83,6 +90,34 @@
     "note": "Now a borough of Quebec City; historical Montmorency county",
     "source": "override"
   },
+  "Cleveland, Le Sueur County, Minnesota": {
+    "display_name": "Cleveland, Le Sueur County, Minnesota, United States",
+    "lat": 44.3255219,
+    "lon": -93.8377341,
+    "query": "Cleveland, Le Sueur County, Minnesota",
+    "source": "nominatim"
+  },
+  "Cordova Township, Le Sueur County, Minnesota": {
+    "display_name": "Cordova Township, Le Sueur County, Minnesota, United States",
+    "lat": 44.3263223,
+    "lon": -93.7072944,
+    "query": "Cordova Township, Le Sueur County, Minnesota",
+    "source": "nominatim"
+  },
+  "Crooked Lake, Wisconsin": {
+    "display_name": "Crooked Lake, Town of Riverview, Oconto County, Wisconsin, United States",
+    "lat": 45.2452947,
+    "lon": -88.3521873,
+    "query": "Crooked Lake, Wisconsin",
+    "source": "nominatim"
+  },
+  "De Pere, Brown County, Wisconsin": {
+    "display_name": "De Pere, Brown County, Wisconsin, 54344, United States",
+    "lat": 44.4493584,
+    "lon": -88.0599986,
+    "query": "De Pere, Brown County, Wisconsin",
+    "source": "nominatim"
+  },
   "Deer Creek, Outagamie County, Wisconsin": {
     "display_name": "Town of Deer Creek, Outagamie County, Wisconsin, United States",
     "lat": 44.5542272,
@@ -104,11 +139,32 @@
     "note": "Actually in Kewaunee County, not Brown — small unincorporated community on Hwy 57",
     "source": "override"
   },
+  "Elysian, Le Sueur County, Minnesota": {
+    "display_name": "Elysian, Le Sueur County, Minnesota, United States",
+    "lat": 44.1988205,
+    "lon": -93.6733978,
+    "query": "Elysian, Le Sueur County, Minnesota",
+    "source": "nominatim"
+  },
+  "England": {
+    "display_name": "England, United Kingdom",
+    "lat": 52.5310214,
+    "lon": -1.2649062,
+    "query": "England",
+    "source": "nominatim"
+  },
   "Fall River, Bristol County, Massachusetts": {
     "display_name": "Fall River, Bristol County, Massachusetts, United States",
     "lat": 41.7010642,
     "lon": -71.1546367,
     "query": "Fall River, Bristol County, Massachusetts",
+    "source": "nominatim"
+  },
+  "Fish Creek, Door County, Wisconsin": {
+    "display_name": "Fish Creek, Town of Gibraltar, Door County, Wisconsin, 54212, United States",
+    "lat": 45.1277686,
+    "lon": -87.2467256,
+    "query": "Fish Creek, Door County, Wisconsin",
     "source": "nominatim"
   },
   "Fond du Lac County, Wisconsin": {
@@ -125,11 +181,39 @@
     "query": "Fond du Lac, Fond du Lac County, Wisconsin",
     "source": "nominatim"
   },
+  "Freeport, Stephenson County, Illinois": {
+    "display_name": "Freeport, Stephenson County, Illinois, 61032, United States",
+    "lat": 42.2966861,
+    "lon": -89.6212271,
+    "query": "Freeport, Stephenson County, Illinois",
+    "source": "nominatim"
+  },
+  "Germany": {
+    "display_name": "Deutschland",
+    "lat": 51.1638175,
+    "lon": 10.4478313,
+    "query": "Germany",
+    "source": "nominatim"
+  },
   "Green Bay, Brown County, Wisconsin": {
     "display_name": "Green Bay, Brown County, Wisconsin, United States",
     "lat": 44.5126379,
     "lon": -88.0125794,
     "query": "Green Bay, Brown County, Wisconsin",
+    "source": "nominatim"
+  },
+  "Greenlawn, Fairfield Township, Butler County, Ohio": {
+    "display_name": "Greenlawn Road, Fairfield Township, Butler County, Ohio, 45011, United States",
+    "lat": 39.4093326,
+    "lon": -84.4843095,
+    "query": "Greenlawn, Fairfield Township, Butler County, Ohio",
+    "source": "nominatim"
+  },
+  "Hanover, Germany": {
+    "display_name": "Hannover, Region Hannover, Niedersachsen, Deutschland",
+    "lat": 52.3744779,
+    "lon": 9.7385532,
+    "query": "Hanover, Germany",
     "source": "nominatim"
   },
   "Hoegaarden, Flemish Brabant, Belgium": {
@@ -146,11 +230,25 @@
     "query": "Iberville, Quebec, Canada",
     "source": "nominatim"
   },
+  "Joliet, Will County, Illinois": {
+    "display_name": "Joliet, Will County, Illinois, United States",
+    "lat": 41.5263603,
+    "lon": -88.0840212,
+    "query": "Joliet, Will County, Illinois",
+    "source": "nominatim"
+  },
   "Junction City, Lane County, Oregon": {
     "display_name": "Junction City, Lane County, Oregon, United States",
     "lat": 44.2191935,
     "lon": -123.204785,
     "query": "Junction City, Lane County, Oregon",
+    "source": "nominatim"
+  },
+  "Kenosha, Kenosha County, Wisconsin": {
+    "display_name": "Kenosha, Kenosha County, Wisconsin, United States",
+    "lat": 42.5846773,
+    "lon": -87.8212263,
+    "query": "Kenosha, Kenosha County, Wisconsin",
     "source": "nominatim"
   },
   "L'Acadie, Quebec, Canada": {
@@ -172,6 +270,20 @@
     "lat": 46.159732,
     "lon": -1.1515951,
     "query": "La Rochelle, Charente-Maritime, France",
+    "source": "nominatim"
+  },
+  "Lexington Township, Le Sueur County, Minnesota": {
+    "display_name": "Lexington Township, Le Sueur County, Minnesota, 56057, United States",
+    "lat": 44.4277077,
+    "lon": -93.7073056,
+    "query": "Lexington Township, Le Sueur County, Minnesota",
+    "source": "nominatim"
+  },
+  "Lexington, Le Sueur County, Minnesota": {
+    "display_name": "Lexington, Lexington Township, Le Sueur County, Minnesota, 56057, United States",
+    "lat": 44.4424645,
+    "lon": -93.7024566,
+    "query": "Lexington, Le Sueur County, Minnesota",
     "source": "nominatim"
   },
   "Lorraine, France": {
@@ -242,6 +354,13 @@
     "lat": 44.3929214,
     "lon": -88.7352076,
     "query": "New London, Outagamie County, Wisconsin",
+    "source": "nominatim"
+  },
+  "Oconto, Oconto County, Wisconsin": {
+    "display_name": "Oconto, Oconto County, Wisconsin, 54153, United States",
+    "lat": 44.8880199,
+    "lon": -87.8696182,
+    "query": "Oconto, Oconto County, Wisconsin",
     "source": "nominatim"
   },
   "Outagamie County, Wisconsin": {
@@ -326,6 +445,34 @@
     "lat": 45.3621422,
     "lon": -73.3036849,
     "query": "St Luc, St Jean, Québec, Canada",
+    "source": "nominatim"
+  },
+  "Sturgeon Bay, Door County, Wisconsin": {
+    "display_name": "Sturgeon Bay, Door County, Wisconsin, 54235, United States",
+    "lat": 44.8341639,
+    "lon": -87.377042,
+    "query": "Sturgeon Bay, Door County, Wisconsin",
+    "source": "nominatim"
+  },
+  "Trhanov, Bohemia": {
+    "display_name": "Trhanov, okres Domažlice, Plzeňský kraj, Czechia",
+    "lat": 49.4237,
+    "lon": 12.842,
+    "note": "Krumpos origin village (~5 km from Domažlice), Chodsko region; Nominatim doesn't resolve historical 'Bohemia'",
+    "source": "override"
+  },
+  "Wingham, Kent, England": {
+    "display_name": "Wingham, Dover, Kent, England, United Kingdom",
+    "lat": 51.272594,
+    "lon": 1.2154292,
+    "query": "Wingham, Kent, England",
+    "source": "nominatim"
+  },
+  "Wisconsin": {
+    "display_name": "Wisconsin, United States",
+    "lat": 44.4308975,
+    "lon": -89.6884637,
+    "query": "Wisconsin",
     "source": "nominatim"
   }
 }

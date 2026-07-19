@@ -1,4 +1,10 @@
 {
+  "Trhanov, Bohemia": {
+    "lat": 49.4237,
+    "lon": 12.842,
+    "display_name": "Trhanov, okres Domažlice, Plzeňský kraj, Czechia",
+    "note": "Krumpos origin village (~5 km from Domažlice), Chodsko region; Nominatim doesn't resolve historical 'Bohemia'"
+  },
   "Beloeil, Verchères, Quebec, Canada": {
     "lat": 45.5667,
     "lon": -73.2,
