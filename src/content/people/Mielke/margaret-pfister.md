@@ -17,7 +17,8 @@ children:
 burial: Bayside Cemetery, Sturgeon Bay, Door County, Wisconsin
 status: confirmed
 uncertain_fields:
-- parents
+- mother — Anna née Weidner per FindAGrave (secondary); John Sr.'s file has her as "Annie M" from the 1900 census
+- birth date — Aug 16, 1876 (FindAGrave) vs WHS index "Margaret Pfisterer b. Apr 27, 1874, Door Co" (which could also be a cousin from David Pfisterer's family)
 tags:
 - '#person'
 - '#mielke'
@@ -44,10 +45,10 @@ Born August 16, 1876 in Fish Creek, Door County, Wisconsin. Daughter of John Pfi
 
 ## Relationships
 - **Father:** John Pfister Sr. (Jun 19, 1830, Wittenberg, Germany–Jan 2, 1908, Gibraltar, Door Co, WI). See Pfister/john-pfister-sr.md.
-- **Mother:** Unknown — one of John's two wives (both preceded him in death)
-- **Brother:** Casper Pfister — Sturgeon Bay, WI (1962). Relationship to John uncertain — see john-pfister-sr.md notes.
-- **Siblings (7):** John Jr., William, Mrs. Matt Felhofer, Mrs. Louis Miller, Mrs. Richard Lyman, Mary, Frank
-- **Uncle:** Phillip Pfister — died in the Civil War, 1863
+- **Mother:** **Anna (née Weidner) Pfisterer** per Margaret's FindAGrave memorial #126312039 [LEAD 2026-07-15 — user-contributed, needs a primary record]. Consistent with John Sr.'s second wife "Annie M" (b. Nov 1846, Germany, per 1900 census), whom Margaret's 1876 birth timing already pointed to.
+- **Brother:** Casper Pfister — Sturgeon Bay, WI (1962). Confirmed John's son (1900 census household); 1893–1975 per Blossomberg headstone.
+- **Siblings (7):** John Jr., William, Mrs. Matt Felhofer, Mrs. Louis Miller, Mrs. Richard Lyman, Mary, Frank. **First names per FindAGrave [LEAD]:** Anna Felhofer, Pauline Miller, Josephine Lyman — matching WHS Door County marriage index entries Josephine 1899, Pauline 1903.
+- **Uncle:** "Phillip Pfister, died in the Civil War 1863" per the 1908 obituary — **revised 2026-07-15: probably David Pfisterer, d. Aug 2, 1865, Mobile, Alabama** (Pvt, Co. E, 11th Wis. Inf.). See john-pfister-sr.md Civil War notes.
 - **Husband:** Emil Mielke (1881–1970) — m. **October 16, 1902**; **divorced before 1930** per the 1930 census. Both later remarried separately.
 - **Children (5 — 2 sons, 3 daughters):**
   - Charles Mielke — Milwaukee, WI (1962)
@@ -60,7 +61,8 @@ Born August 16, 1876 in Fish Creek, Door County, Wisconsin. Daughter of John Pfi
 - **Obituary, Green Bay newspaper (Feb 1962)** — primary source. Names parents (Mr. and Mrs. John Pfister), all 5 children, brother Casper Pfister, church, burial.
 - Find A Grave: Memorial at Bayside Cemetery, Sturgeon Bay — birth/death dates, birthplace Fish Creek
 - Hazel P. Lau obituary (1987) — names parents as "the late Emil and Margaret Miekle"
-- **Marriage record (Door Co, WI?):** marriage to Emil **October 16, 1902**; her surname rendered "Pfisterer" on the record.
+- **Marriage record (Door Co, WI):** marriage to Emil **October 16, 1902**; her surname rendered "Pfisterer" on the record. **Index entry confirmed 2026-07-15:** WHS pre-1907 index MR2175482, "Pfister, Magart," Door County, Vol 2, p. 243, seq 04639. Pulling the original is next-step #1 in fred-meikle.md — it names both parties' parents (would confirm Anna Weidner too).
+- **FindAGrave Memorial #126312039** — b. Aug 16, 1876 Fish Creek; parents John (Charles) & Anna (née Weidner) Pfisterer; siblings Anna Felhofer, Josephine Lyman, Pauline Miller, Casper Pfister. [Secondary — user-contributed.]
 - **1930 US Census:** Emil and Margaret listed as **divorced**.
 
 ## Research Notes

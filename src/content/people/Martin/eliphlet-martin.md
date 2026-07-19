@@ -5,7 +5,7 @@ aka:
 - Life Martin
 - Lile Martin
 birth: '1869'
-death: '1956'
+death: '1956-08-05'
 gender: M
 parents:
 - Henry Martin (1830-1896, b. Ireland)
@@ -17,11 +17,11 @@ children:
 - John A. Martin
 - Donna C. Martin (m. Herlache)
 - Henry E. Martin
-burial: ''
+burial: Bayside Cemetery, Sturgeon Bay, Door County, Wisconsin
 status: confirmed
 uncertain_fields:
-- exact birth date
-- burial location
+- exact birth date — 1956 obituary reads "April 1[7], 1869" (OCR-uncertain digit)
+- Donna omitted from his 1956 obituary survivors (as from Gerald's 1931 obit) — why?
 tags:
 - '#person'
 - '#martin'
@@ -45,7 +45,7 @@ linked_children:
 **FamilySearch ID:** G9VT-JCS
 
 ## Summary
-Born 1869 in Wisconsin. Known as **"Life"** (Gerald's obituary) and **"Lile"** (1920 census index). Real name **Eliphlet** — a biblical name (Hebrew: "God is my deliverance"), commonly nicknamed "Life/Lif" in 19th century America. Youngest of nine children of **Henry Martin (b. Ireland)** and **Eliza Hutchinson (b. Canada, parents English/Scottish)**. Listed as "Elipalet" age 1 in the 1870 Door County census. Married Mildred Amelia Guernsey. Lived on Peter Street, Sturgeon Bay, Door County, Wisconsin. Occupation: laborer. Family attended Christian Science Society. Four children: Gerald, John, Donna, Henry. Died 1956, age ~87.
+Born **April 1869** ("April 1[7], 1869" per his obituary — day OCR-uncertain) **in the town of Sevastopol** "to Mr. and Mrs. Harry Martin." Known as **"Life"** (Gerald's obituary, his own 1956 obituary) and **"Lile"** (1920 census index). Real name **Eliphlet** — a biblical name (Hebrew: "God is my deliverance"), commonly nicknamed "Life/Lif" in 19th century America. Youngest of nine children in the household of **Henry Martin (b. near Belfast, Ireland)** and **Eliza (Hutchinson) Peters Martin (b. Canada)** — the older household children were likely Eliza's from her first marriage (see henry-martin.md). Listed as "Elipalet" age 1 in the 1870 Door County census. Married **Mildred Guernsey, October 1/2, 1901, Sturgeon Bay** (obituary says Oct 1; WHS index Oct 2). Lived on Peter Street, later 32[6?] North 3rd Avenue, Sturgeon Bay. Occupation: laborer; also farmed — "the Lifelet Martin farm on the Egg Harbor road" (1966 Advocate retrospective). Family attended Christian Science Society. Four children: Gerald, John, Donna, Henry. **Died Sunday morning, August 5, 1956, at Door County Memorial Hospital, age 87. Funeral Aug 7, Stevenson's funeral home; buried Bayside Cemetery** (FindAGrave #130255262).
 
 ## Relationships
 - **Father:** Henry Martin (1831–1896) — **born in Ireland**. FamilySearch ID: LYS2-3P2. The Irish ancestor that Betty (Schmidt) Krumpos remembered.
@@ -74,6 +74,10 @@ Born 1869 in Wisconsin. Known as **"Life"** (Gerald's obituary) and **"Lile"** (
 - **1910 US Census** — Life Martin, Wisconsin. Birthplace: Wisconsin. (Confirmed by user.)
 - **1870 US Census, Door County, Wisconsin** — "Elipalet" Martin, age 1, born Wisconsin. Youngest of 9 children of Henry Martin (39, Ireland, Farmer) and Eliza (40, Canada). Two pages of the household.
 - Gerald Martin obituary, Door County News, June 18, 1931 — "the son of Mr. and Mrs. Life Martin." Funeral at parents' home on Peter Street, Sturgeon Bay.
+- **His own obituary — FOUND 2026-07-15. Door County Advocate, Tuesday, August 7, 1956, Obituaries column, as "Life Martin"** (which is why prior searches for "Eliphlet" failed). OCR verbatim: "Life Martin, 87, 32[6?] North 3rd Avenue died at the Door Co. Memorial hospital Sunday morning, Aug. 5. He was born April 1[7], 1869 in the town of Sevastopol to Mr. and Mrs. Harry Martin. He lived in Door county all of his life. On Oct. 1, 1901 he married Mildred Guernsey in Sturgeon Bay. She survives him. Other survivors are: two sons, Jack and Henry, Green Bay; six grandchildren and ten great-grandchildren. Funeral services were Tuesday, August 7 at 2:00 p.m. from Stevenson's funeral home. Burial was at Bayside cemetery. The pallbearers were: Chester Ostrom, Eli and Vernon Gilbert, John, William and Lloyd Walker."
+- **Card of Thanks, Advocate, Aug 14, 1956:** "...the death of our beloved Husband and Father, Life Martin. — Mrs. Life Martin, Mr. and Mrs. Jack Martin, Mr. and Mrs. Henry Martin."
+- **WHS pre-1907 marriage index [CONFIRMED]:** "Martin, Elephlet | October 2, 1901 | Door | Vol 2, p. 217, Index Vol R, seq 04546" (MR1532805) — orderable; era records name both parents, so this **independently re-tests the "Nancy Storm" grandparents claim**.
+- **Advocate retrospectives:** 1961-09-28 "60 Years Ago" reprints the license — "Eliphlet Martin and Mildrege Guernsy, Sevastopol" (~Sept 1901); 1966-04-14: "Herman Moeller has leased the Lifelet Martin farm on the Egg Harbor road."
 
 ## Research Notes
 
@@ -100,17 +104,24 @@ Born 1869 in Wisconsin. Known as **"Life"** (Gerald's obituary) and **"Lile"** (
 ### Donna C. Herlache
 - A daughter not mentioned in Gerald's 1931 obituary (she wasn't among "survivors" listed — possibly she was listed under a married name we didn't recognize, or the obituary only listed Gerald's brothers). Born 1909, married Herlache (a Door County Belgian surname). Lived to 100.
 
-### Eliphlet's obituary
-- Died 1956 — his obituary should be in the **Door County newspaper archive** (covers through 1979). Would confirm parents and potentially give more family details.
-- Search: [Door County Digital Archive](https://archive.co.door.wi.us/jsp/RcWebBrowse.jsp) for "Eliphlet Martin" or "Life Martin" in 1956.
+### Eliphlet's obituary — FOUND [2026-07-15]
+- Full text in Sources. Key notes:
+  - **Confirms parents** ("to Mr. and Mrs. Harry Martin") and gives birth month **April 1869** and birthplace **town of Sevastopol**.
+  - **"Two sons, Jack and Henry, Green Bay"** — Jack = John A. Note it places both sons in Green Bay (file previously had John in Sturgeon Bay).
+  - **Donna is omitted from the survivors** — the second obituary in a row (after Gerald's 1931) to skip her. She was alive (d. 2009). Estrangement? Married-name confusion? Worth a look at her own record trail someday.
+  - **Pallbearers were Walkers** (John, William, Lloyd) — echoing "Mrs. Chas. Walker," the married daughter/stepdaughter who signed Henry's 1896 Card of Thanks. The Walker connection spans 60 years.
+  - Mildred's death date: file says Dec 15, 1971; the Bayside FindAGrave listing says **Dec 20, 1971** — minor discrepancy, unresolved.
+- **Archive search-spelling key:** "Lifelet", "Life Martin", "Eliphlet", index spelling "Elephlet".
 
 ### Naming patterns
 - Eliphlet named his sons **John** and **Henry** — the same names as two of his brothers in the 1870 household. Gerald named his son **Henry** too. Family names carrying forward across generations.
 - The eldest and youngest of Henry's nine children both got biblical names (Elias, Elipalet). The middle seven got standard English names (Charles, John, William, Henry, James, David, Eliza).
 
 ### Next steps
-1. **Eliphlet's obituary (1956)** — Door County newspaper archive. Would confirm parents and give more family history.
-2. **1880 census** — Now searchable as "Elipalet" or "Eliphlet Martin" age ~11 in Henry Martin's household, Door County.
-3. **Henry Martin's death record (1896)** — may list Irish county of origin.
-4. **Henry Martin's immigration** — Castle Garden records, New York, c. 1850-1853.
-5. **Eliza's Canadian origin** — where in Canada? Ontario most likely.
+1. ~~Eliphlet's obituary (1956)~~ — **FOUND** (see Sources).
+2. **Order his Oct 2, 1901 marriage record** (WHS Vol 2, p. 217, seq 04546) — names both parents; re-tests "Nancy Storm" independently of Henry's 1862 record.
+3. **Oct 5, 1901 Advocate & Democrat** — wedding write-up likely; also the 1890 "Lifelet" items (Jan 11 / Feb 8 / Sep 6, 1890) in the Door archive.
+4. **1880 census** — "Elipalet"/"Eliphlet Martin" age ~11 in Henry Martin's household, Door County.
+5. ~~Henry Martin's death record (1896)~~ — confirmed never state-registered (WHS index absence).
+6. **Eliza's Canadian origin** — where in Canada? Ontario most likely.
+7. **The Donna omission** — check her marriage record / Herlache family sources.

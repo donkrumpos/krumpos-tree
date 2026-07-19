@@ -23,6 +23,7 @@ tags:
 - '#person'
 - '#martin'
 - '#guernsey'
+- '#research-target'
 created: '2026-04-09'
 surname: 'Martin'
 linked_parents:
@@ -63,3 +64,9 @@ Born March 21, 1880 in Ionia, Michigan. Maiden name Guernsey. Married Lile/Life 
 - Lived to age **91** — outlived her son Gerald by 40 years, and likely outlived her husband Life as well.
 - **Albert H. Boyce of Hollywood, California** attended Gerald's 1931 funeral — possibly a Guernsey relative or family friend from Michigan.
 - FamilySearch record has 12+ sources — further research there could identify her parents and siblings.
+
+## Research target — Guernsey line origins [FLAGGED 2026-06-10]
+The **Guernsey** surname (English/Norman, from the Channel Island of Guernsey) is confirmed as the maiden name but **not traced past Michigan**. It's the English thread on Helen Martin's paternal-grandmother side. Open targets:
+- **John Loami Guernsey (1857–1940)** and **Almeda Hinson (1860–1883)** — Mildred's parents — push the Guernsey/Hinson lines back: when and where did the Guernseys immigrate, and from where (England, or Channel Islands directly)?
+- Hinson is also English — worth a note on that maternal branch.
+- The Guernsey family was in Michigan ≥2 generations by 1880; the immigration point is the thing to find.
