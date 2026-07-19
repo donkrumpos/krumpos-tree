@@ -7,7 +7,7 @@ Re-runnable and idempotent. Overwrites destination.
 
 Usage:
     python scripts/export-from-reliquary.py \
-        --source ~/Documents/active_projects_local/reliquary/corpus/memoir/notes/family-tree \
+        --source ~/Documents/Projects/reliquary/corpus/memoir/notes/family-tree \
         --dest .
 """
 

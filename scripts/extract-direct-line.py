@@ -19,7 +19,7 @@ from collections import deque
 
 ROOT_ID = 'donald-a-krumpos'
 DEFAULT_SOURCE = os.path.expanduser(
-    '~/Documents/active_projects_local/reliquary/corpus/memoir/notes/family-tree/people'
+    '~/Documents/Projects/reliquary/corpus/memoir/notes/family-tree/people'
 )
 OUTPUT_PATH = 'src/data/ancestors.json'
 

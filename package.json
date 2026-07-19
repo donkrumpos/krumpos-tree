@@ -11,7 +11,7 @@
     "build": "astro build && npx pagefind --site dist",
     "preview": "astro preview",
     "export": "pnpm export:content && pnpm export:map",
-    "export:content": "python3 scripts/export-from-reliquary.py --source ~/Documents/active_projects_local/reliquary/corpus/memoir/notes/family-tree --dest .",
+    "export:content": "python3 scripts/export-from-reliquary.py --source ~/Documents/Projects/reliquary/corpus/memoir/notes/family-tree --dest .",
     "export:map": "python3 scripts/extract-direct-line.py && python3 scripts/geocode-places.py",
     "astro": "astro"
   },
