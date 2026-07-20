@@ -314,6 +314,13 @@
     "query": "Maple Creek, Outagamie County, Wisconsin",
     "source": "nominatim"
   },
+  "Maple Creek, Outagamie County, Wisconsin (probable)": {
+    "display_name": "Town of Maple Creek, Outagamie County, Wisconsin, United States",
+    "lat": 44.4562201,
+    "lon": -88.7016755,
+    "query": "Maple Creek, Outagamie County, Wisconsin",
+    "source": "nominatim"
+  },
   "Montmorency, Quebec, Canada": {
     "display_name": "Montmorency (historical county), near Quebec City, Québec, Canada",
     "lat": 46.8853,
