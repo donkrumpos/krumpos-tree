@@ -202,6 +202,13 @@
     "query": "Green Bay, Brown County, Wisconsin",
     "source": "nominatim"
   },
+  "Green Bay, Brown County, Wisconsin (probable)": {
+    "display_name": "Green Bay, Brown County, Wisconsin, United States",
+    "lat": 44.5126379,
+    "lon": -88.0125794,
+    "query": "Green Bay, Brown County, Wisconsin",
+    "source": "nominatim"
+  },
   "Greenlawn, Fairfield Township, Butler County, Ohio": {
     "display_name": "Greenlawn Road, Fairfield Township, Butler County, Ohio, 45011, United States",
     "lat": 39.4093326,
@@ -445,6 +452,13 @@
     "lat": 45.3621422,
     "lon": -73.3036849,
     "query": "St Luc, St Jean, Québec, Canada",
+    "source": "nominatim"
+  },
+  "St-Mathias-sur-Richelieu, Quebec, Canada (probable)": {
+    "display_name": "Saint-Mathias-sur-Richelieu, Rouville, Montérégie, Québec, Canada",
+    "lat": 45.4728843,
+    "lon": -73.2646582,
+    "query": "St-Mathias-sur-Richelieu, Quebec, Canada",
     "source": "nominatim"
   },
   "Sturgeon Bay, Door County, Wisconsin": {
