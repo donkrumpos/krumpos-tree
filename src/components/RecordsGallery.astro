@@ -1,0 +1,56 @@
+---
+// Shows record images (census pages, certificates, obituaries) that a person's
+// markdown names by path, e.g. `media/documents/1940-census-....jpg`.
+// Only images that actually exist in public/media/documents/ are shown.
+import { existsSync } from 'node:fs';
+import { join } from 'node:path';
+
+interface Props {
+  body: string;
+}
+
+const { body } = Astro.props;
+
+const DOCS_DIR = join(process.cwd(), 'public', 'media', 'documents');
+const refPattern = /media\/documents\/([^\s`'"()\[\]<>]+?\.(?:jpe?g|png|webp|gif))/gi;
+
+const files = [...new Set(
+  [...(body || '').matchAll(refPattern)].map((m) => {
+    try { return decodeURIComponent(m[1]); } catch { return m[1]; }
+  })
+)]
+  .filter((f) => !f.includes('/') && existsSync(join(DOCS_DIR, f)))
+  .sort();
+
+function caption(file: string): string {
+  return file
+    .replace(/\.[^.]+$/, '')
+    .replace(/[-_]+/g, ' ')
+    .replace(/\s+/g, ' ')
+    .trim();
+}
+---
+{files.length > 0 && (
+  <section class="mb-8">
+    <h2 class="text-xl mb-3">Records</h2>
+    <ul class="grid grid-cols-2 sm:grid-cols-3 gap-4">
+      {files.map((file) => {
+        const src = `/media/documents/${encodeURIComponent(file)}`;
+        const label = caption(file);
+        return (
+          <li>
+            <a href={src} target="_blank" rel="noopener" class="block no-underline">
+              <img
+                src={src}
+                alt={label}
+                loading="lazy"
+                class="w-full h-40 object-cover object-top rounded border border-[var(--color-parchment-dark)] bg-[var(--color-parchment-dark)]"
+              />
+              <span class="block mt-1 text-xs text-[var(--color-warm-gray)] leading-snug">{label}</span>
+            </a>
+          </li>
+        );
+      })}
+    </ul>
+  </section>
+)}

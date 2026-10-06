@@ -4,6 +4,7 @@ import BaseLayout from '../../layouts/BaseLayout.astro';
 import AncestryBreadcrumb from '../../components/AncestryBreadcrumb.astro';
 import RelationshipLink from '../../components/RelationshipLink.astro';
 import MemoryForm from '../../components/MemoryForm.astro';
+import RecordsGallery from '../../components/RecordsGallery.astro';
 import { linkByPerson } from '../../data/obituaries';
 
 export async function getStaticPaths() {
@@ -48,13 +49,6 @@ const statusColors: Record<string, string> = {
   'research-target': 'bg-red-100 text-red-800',
 };
 const statusClass = statusColors[data.status] || statusColors.confirmed;
-
-// Check for media files
-const mediaFiles: string[] = [];
-// We'll check for common patterns — census, certificates, photos
-const possibleMedia = [
-  // These are discovered at build time from public/media/
-];
 
 // Build relationship pairs: [name, linked_slug]
 function zipRelationships(names: string[], links: string[]): [string, string][] {
@@ -128,6 +122,8 @@ const obituary = linkByPerson.get(data.id);
   <section class="prose mb-8">
     <Content />
   </section>
+
+  <RecordsGallery body={person.body ?? ''} />
 
   {obituary && (
     <p class="mb-8 text-sm">
