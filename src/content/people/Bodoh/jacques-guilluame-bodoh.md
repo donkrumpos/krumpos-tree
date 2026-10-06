@@ -52,7 +52,7 @@ linked_children:
 **Lifespan:** 1836 — 1918
 
 ## Summary
-Born in Malone, Franklin County, New York — not Quebec. Son of **Jacques Guilluame Beaudoin** (1812, Plattsburgh, NY) and Louise Lemonde (1813, Beloeil, Quebec). **Beaudoin = Bodoh confirmed** — the family name is Beaudoin, Americanized to Bodoh.
+Born in Malone, Franklin County, New York — not Quebec. *(⚠️ birthplace contested 2026-07-20 — 1850 & 1910 censuses say Canada/Quebec, 1860 census says New York; unresolved, kept as NY. See Research Notes.)* Son of **Jacques Guilluame Beaudoin** (1812, Plattsburgh, NY) and Louise Lemonde (1813, Beloeil, Quebec). **Beaudoin = Bodoh confirmed** — the family name is Beaudoin, Americanized to Bodoh.
 
 Father of John Bodoh (1882–1915). Married Julia Marie Balthazar (1844–1912). Buried at Most Precious Blood Cemetery, New London — same cemetery as son John. Ten children: Justina B (1862–1941), George Henry (1863–1934), Francis (1866–1920), Edmund (1869–1929), Malvina Marie (1871–1880, died age 9), Delia Marie (1873–1896, died age 23), Mary Jane (1879–1975), John (1882–1915), Mary Alice (1887–1957), James (1888–1980).
 
@@ -62,10 +62,21 @@ Father of John Bodoh (1882–1915). Married Julia Marie Balthazar (1844–1912).
 
 ## Sources
 - Little Chute Genealogy database — family chart.
+- 1850 US Census, Town of Chateaugay, Franklin County, NY (dwelling 872/family 906) — via FamilySearch profile L62R-DM8. Image: `../sources/census/bodoh-1850-census-chateaugay-franklin-ny.jpg`.
+- 1860 US Census, Town of Lamartine, Fond du Lac County, WI (dwelling 869/family 873) — via FamilySearch profile L62R-DM8. Image: `../sources/census/bodoh-1860-census-lamartine-fonddulac-wi.jpg`.
+- 1910 US Census, Mukwa Twp/New London, Waupaca County, WI — via son John Bodoh's record. Image: `../sources/census/bodoh-1910-census-mukwa-newlondon-waupaca-wi.jpg`.
 
 ## Research Notes
+- **NY→WI migration dated: family reached Wisconsin in the 1850s (SOLID).** 1850 census places the family in **Chateaugay, Franklin County, NY**; the **1860 census places them in Town of Lamartine, Fond du Lac County, WI** (July 1860). So the move was 1850–1860 — corroborated by son George Henry being born in Fond du Lac, WI in 1863. Later the family shifted to the Outagamie/Maple Creek area (daughter Mary Jane b. Maple Creek 1879).
+- **⚠️ BIRTHPLACE CONTESTED (opened 2026-07-20; do NOT flip the map without Foggy's sign-off).** The three primary census mentions disagree — this is a genuine border-family (Quebec ↔ upstate NY) ambiguity, not a clean correction:
+  - **1850 census** (Chateaugay, Franklin Co, NY, "James Brawdnan" household = Beaudoin): son **James, 13** (≈ Jacques, b.1836) born **Canada East (Quebec)**; parents + older kids all Canada East, youngest (b.~1846) born N.Y. → suggests **Quebec birth**.
+  - **1860 census** (Lamartine, Fond du Lac, WI): the same son, **James, 24, laborer**, born **New York** → suggests **NY birth** (supports the existing "Malone NY").
+  - **1910 census** (son John's): John's father born **"Canada."**
+  - **Reliability caveat:** the 1860 census also lists the **mother as N.Y.-born**, though she's recorded as born in **Beloeil, Quebec** — so its birthplace column is demonstrably unreliable, which weakens its "New York" for Jacques.
+  - **Net:** slight lean toward Quebec, but truly unresolved. (Claude overstated "favors Quebec" before the 1860 census was pulled — corrected here.) Also implicates the recorded grandfather **Jacques Guilluame Beaudoin ("1812 Plattsburgh NY")**: 1850 census head is born Canada East, so that datum may also be a Little-Chute error.
+  - **What would settle it:** a Quebec Catholic **baptism record (~July 1836)** naming the parish. Census birthplaces alone won't — they contradict each other. **Map birthplace kept as Malone, NY (defensible; 1860 supports it).**
 - **Bodoh = Beaudoin confirmed.** Father's name is Jacques Guilluame Beaudoin on the Little Chute record.
-- Born in Malone, NY — family route was Quebec → upstate New York → Wisconsin. Father born in Plattsburgh, NY (also upstate, near Canadian border).
+- Family route was Quebec → upstate New York (Franklin Co) → Wisconsin. (Earlier "born in Malone NY" now disputed — see above.)
 - Father died in Duck Creek, Brown County (near Green Bay, Oneida Nation area).
 - Mother Louise Lemonde from Beloeil, Verchères, Quebec — died in Bear Creek, Outagamie County (same area as Peter Young's burial).
 - Parents married September 30, 1828 in Québec City.

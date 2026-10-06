@@ -3,6 +3,7 @@ id: betty-mae-schmidt-krumpos
 name: Betty Mae (Schmidt) Krumpos
 birth: 1947-06-28
 death: 1993-07-17
+birth_place: 'Green Bay, Brown County, Wisconsin'
 gender: "F"
 parents: ["Clifford Alfred Schmidt","Helen M. Martin"]
 spouses: ["Keith Lester Krumpos (m. 1973-04-14, Green Bay)"]

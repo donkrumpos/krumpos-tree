@@ -1,7 +1,7 @@
 ---
 id: marcel-desire-coppersmith
 name: Marcel Désiré Coppersmith
-aka: ['Marcel Desire Copesmette']
+aka: ['Marcel Desire Copesmette', 'Marcelin Copesmet', 'Marcelain Coppesmette']
 birth: '1838'
 birth_place: Mélin, Brabant Wallon, Belgium (probable)
 death: '1891'
@@ -39,3 +39,9 @@ Second known child of Alexis Joseph Copesmette and Désirée Juliana Meuron. Bor
 
 ## Sources
 - Geneanet (gw.geneanet.org).
+- **1860 US Census, Town of Green Bay, Brown County** (PO Robinsonville), page 240, dwelling 1811 — "Marcelin Copesmet," 22, farmer, in his parents' household. See [[alexis-copesmette]].
+- **Brown County deed, 11 Oct 1873** — Xavier Martin and Mary Rebecca Martin, his wife, to **"Marcelain Coppesmette," of the same place** (Brown County), for **$200**: **Lot 25 and Lot 16 in Xavier Martin's Addition to the City of Green Bay**. Warranty deed. Witnesses Elie Martin and Phebe(?) E. Martin; acknowledged before Elie Martin, notary public. Recorded 1874 by Geo. W. Watson, Register of Deeds. Deed book page 247. FamilySearch Brown County Register of Deeds images, Image Group 008308742, image 613 of 1546 (found 2026-10-06 via Full-Text search for "Coppesmette"). The machine transcript misreads "Lot 16" as 15; the handwriting says sixteen (16).
+
+## Research Notes
+- **By 1873 Marcel had bought two city lots in Green Bay**, not farmland — the same move his brother Désiré made into the city as a stone cutter. Next: 1870 and 1880 census for Marcel in the City of Green Bay; occupation; whether he married.
+- **The deed books are full-text searchable on FamilySearch under "Coppesmette."** The 1856–1860 purchase of Alexis's farm should be findable the same way.

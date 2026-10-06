@@ -3,6 +3,7 @@ id: john-schmidt
 name: John Schmidt
 birth: '1822-approx'
 death: ''
+birth_place: 'Germany'
 gender: M
 parents: []
 spouses:

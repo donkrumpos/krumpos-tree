@@ -3,6 +3,8 @@ id: helen-m-martin
 name: Helen M. Martin
 birth: ‘1924-11-13’
 death: ‘1974-06-07’
+birth_place: 'Sturgeon Bay, Door County, Wisconsin'
+death_place: 'Green Bay, Brown County, Wisconsin'
 gender: F
 parents:
 - Gerald Martin Sr.

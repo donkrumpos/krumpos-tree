@@ -45,6 +45,7 @@ From the memoir: "Great-Aunt Aggie" would sit with Marie Coppersmith and Dorothy
 - **Siblings:** Claude J Coppersmith (likely others between 1907–1922)
 
 ## Sources
+- **1630 Eastman Avenue stayed in the family (Foggy, 2026-10-06):** Great-Aunt Aggie later lived in the house where her brother Claude raised Dorothy (owned by 1935, per the 1940 census). Foggy has been inside it. How and when it passed from Claude to Aggie is unknown; a question for the aunts.
 - FamilySearch person record (birth, marriage, death, burial details).
 - Memoir chapter: "Grandma's House on the Bay" (Great-Aunt Aggie crocheting).
 

@@ -4,6 +4,7 @@ name: Mary Jane Kendall
 aka: [Mary J. Kendall]
 birth: '1893-12-11'
 death: '1971'
+birth_place: 'Lexington Township, Le Sueur County, Minnesota'
 gender: F
 parents: [John H. Kendall, Margaret Schindler]
 spouses:

@@ -3,6 +3,7 @@ id: maria-katharina-wilhelmina-vollmer
 name: Maria Katharina Wilhelmina Vollmer
 birth: '1863-02-28'
 death: '1905-09-10'
+birth_place: 'Freeport, Stephenson County, Illinois'
 gender: F
 parents: [Christian Vollmer, Anna Maria Kurtz]
 spouses:

@@ -4,6 +4,8 @@ name: Anna Maria Kurtz
 aka: [Mary Wallmore, Mary Vollmer]
 birth: '1837-07-18'
 death: '1915-01-21'
+birth_place: 'Baden, Germany'
+death_place: 'Elysian, Le Sueur County, Minnesota'
 gender: F
 parents: [M Kurtz]
 spouses:

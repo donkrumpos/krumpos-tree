@@ -4,6 +4,8 @@ name: Matilda Henrietta Schneider
 aka: [Mathilda Schneider]
 birth: '1897-01-25'
 death: '1973-01-03'
+birth_place: 'Kenosha, Kenosha County, Wisconsin'
+death_place: 'Green Bay, Brown County, Wisconsin'
 gender: F
 burial: Mount Calvary Cemetery, De Pere, Wisconsin (Section CA, Lot 24-D)
 parents: [William Schneider, Mathilda (Unknown) Schneider]

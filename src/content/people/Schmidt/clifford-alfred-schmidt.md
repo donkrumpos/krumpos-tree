@@ -4,6 +4,8 @@ name: Clifford Alfred Schmidt
 aka: []
 birth: '1918-11-12'
 death: '1991-09-06'
+birth_place: 'Cleveland, Le Sueur County, Minnesota'
+death_place: 'Crooked Lake, Wisconsin'
 gender: M
 parents:
 - Frederick John L Schmidt

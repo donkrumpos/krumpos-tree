@@ -4,6 +4,8 @@ name: Charles Frederick Schmidt
 aka: [Chas. F. Schmidt]
 birth: '1864-12-13'
 death: '1920-05-19'
+birth_place: 'Joliet, Will County, Illinois'
+death_place: 'Cleveland, Le Sueur County, Minnesota'
 gender: M
 parents: [John Schmidt, Elizabeth Rabe]
 spouses:

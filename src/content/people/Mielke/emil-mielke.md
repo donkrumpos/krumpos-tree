@@ -4,6 +4,8 @@ name: Emil Mielke
 aka: [Emil H. Meikle, Emil Miekle]
 birth: '1881-04-29'
 death: '1970-04-20'
+birth_place: 'Sturgeon Bay, Door County, Wisconsin'
+death_place: 'Sturgeon Bay, Door County, Wisconsin'
 gender: M
 parents:
 - Fred Meikle

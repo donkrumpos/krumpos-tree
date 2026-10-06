@@ -4,6 +4,8 @@ name: Margaret Pfister
 aka: [Margaret Meikle, Margaret Miekle, Margaret Mielke, Margaret Pfisterer]
 birth: '1876-08-16'
 death: '1962-02-17'
+birth_place: 'Fish Creek, Door County, Wisconsin'
+death_place: 'Green Bay, Brown County, Wisconsin'
 gender: F
 parents: [John Pfister Sr.]
 spouses:

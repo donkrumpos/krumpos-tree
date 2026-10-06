@@ -3,6 +3,7 @@ id: john-h-kendall
 name: John H. Kendall
 birth: '1870'
 death: '1944'
+birth_place: 'Lexington, Le Sueur County, Minnesota'
 gender: M
 parents: [William John Kendall, Eliza Lambert]
 spouses:

@@ -3,6 +3,8 @@ id: william-john-kendall
 name: William John Kendall
 birth: '1822-09'
 death: '1906-04-14'
+birth_place: 'England'
+death_place: 'Lexington Township, Le Sueur County, Minnesota'
 gender: M
 parents: [Stephen Eastes Kendall, Ann Fostall]
 spouses:

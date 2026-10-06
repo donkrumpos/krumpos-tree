@@ -3,6 +3,8 @@ id: donald-howard-krumpos
 name: Donald Howard Krumpos
 birth: 1924-09-28
 death: 1964-06-11
+birth_place: 'Wisconsin'
+death_place: 'Green Bay, Brown County, Wisconsin'
 burial: Mount Calvary Cemetery, De Pere, WI (Section A, Lot 50-C)
 gender: M
 parents:

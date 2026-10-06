@@ -4,6 +4,8 @@ name: Lawrence Antone Krumpos
 aka: []
 birth: '1889-05-02'
 death: '1986-07-28'
+birth_place: 'Oconto, Oconto County, Wisconsin'
+death_place: 'De Pere, Brown County, Wisconsin'
 gender: M
 parents: [Joseph Frank Krumpos, Mary Katherine Steffel]
 spouses: [Frances Josephine Kosnar, Matilda Henrietta Schneider]

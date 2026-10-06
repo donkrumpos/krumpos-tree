@@ -3,6 +3,8 @@ id: elizabeth-rabe
 name: Elizabeth Rabe
 birth: '1846-12-12'
 death: '1918'
+birth_place: 'Germany'
+death_place: 'Greenlawn, Fairfield Township, Butler County, Ohio'
 gender: F
 parents: []
 spouses:

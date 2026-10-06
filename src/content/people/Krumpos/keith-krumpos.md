@@ -3,6 +3,7 @@ id: keith-lester-krumpos
 name: Keith Lester Krumpos
 birth: 1950-04-18
 death: 2015-04-05
+birth_place: 'Green Bay, Brown County, Wisconsin'
 gender: "M"
 parents: ["Donald Howard Krumpos","Dorothy Elaine Coppersmith"]
 spouses: [

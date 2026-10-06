@@ -5,6 +5,8 @@ aka:
 - Joseph Krumpos
 birth: '1845-10-16'
 death: '1920-02-19'
+birth_place: 'Trhanov, Bohemia'
+death_place: 'Oconto, Oconto County, Wisconsin'
 gender: M
 immigration: '1867'
 parents:

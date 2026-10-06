@@ -4,6 +4,8 @@ name: Frederick John L Schmidt
 aka: [Fred J. Schmidt]
 birth: '1888-01-03'
 death: '1939-01-31'
+birth_place: 'Cordova Township, Le Sueur County, Minnesota'
+death_place: 'Cordova Township, Le Sueur County, Minnesota'
 gender: M
 parents: [Charles Frederick Schmidt, Maria Katharina Wilhelmina Vollmer]
 spouses:

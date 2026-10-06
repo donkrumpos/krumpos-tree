@@ -4,6 +4,8 @@ name: Christian Vollmer
 aka: [C. Wallmore]
 birth: '1815-01-31'
 death: '1894-08-15'
+birth_place: 'Hanover, Germany'
+death_place: 'Cleveland, Le Sueur County, Minnesota'
 gender: M
 parents: []
 spouses:

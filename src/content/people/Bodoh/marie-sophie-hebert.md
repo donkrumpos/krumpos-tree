@@ -3,6 +3,7 @@ id: marie-sophie-hebert
 name: Marie Sophie Hebert
 aka: []
 birth: '1799-02-03'
+birth_place: St-Mathias-sur-Richelieu, Quebec, Canada (probable)
 death: '1892-08-01'
 death_place: Fond du Lac, Fond du Lac County, Wisconsin
 gender: F
@@ -41,3 +42,6 @@ Lived to **93**. Married Martin Balthazar (~1790). Mother of Moises Balthazar (1
 
 ## Sources
 - Little Chute Genealogy (Person ID I46065).
+
+## Research Notes
+- **Birthplace is inferred (probable), not sourced.** Marked St-Mathias-sur-Richelieu because she married there in 1816 (likely her home parish at 17), her father Joseph Hebert is tied to Boucherville/Iberville, and the extended Balthazar family is documented in the St-Mathias/Rouville area (Richelieu valley, Quebec south shore). Exact baptism parish unconfirmed — a PRDH/Drouin baptism record (~Feb 1799) would pin it. Used on the map for the Quebec → Fond du Lac, Wisconsin migration arc.

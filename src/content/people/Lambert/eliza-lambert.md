@@ -4,6 +4,7 @@ name: Eliza Lambert
 birth: '1827-01-20'
 birthplace: Wingham, Kent, England
 death: '1904-06-07'
+birth_place: 'Wingham, Kent, England'
 gender: F
 parents: []
 spouses:

@@ -78,6 +78,7 @@ Worked as a **farmer**. Lived in Red River, Kewaunee County, Wisconsin for about
 - FamilySearch person record (gives "5 sons and 4 daughters" surviving — matches the 1900 census 9-living count; their 1842 birth year is incorrect, overridden by headstone + 1900 census).
 
 ## Research Notes
+- **1860 census, age 17** in his parents' household, Town of Green Bay, Brown County (PO Robinsonville), dwelling 1811, written "Isadore Copesmet." 1860 US Federal Census, Town of Green Bay, Brown County, Wisconsin, post office Robinsonville. Enumerated 15 Aug 1860 by Fred S. Ellis. NARA M653 roll 1400, page 240. Age 17 in Aug 1860 points to birth ~1842–43, against the headstone's 1844. See [[alexis-copesmette]]. Two doors away: infant Antoinette Potier, grandmother-to-be of his son Frank's wife Odile.
 - Mélin is in the commune of Jodoigne, Walloon Brabant, Belgium.
 - 1900 census reviewed (above); 1880 + 1910 still to check for full household composition and surviving children's names.
 - **Two FindAGrave-undocumented children** lived to 1900 — find them in 1880/1910 census or parish records.

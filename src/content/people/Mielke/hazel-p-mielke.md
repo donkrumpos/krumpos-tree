@@ -7,6 +7,8 @@ aka:
 - Hazel P. Meikle
 birth: '1902-07-12'
 death: '1987-04-08'
+birth_place: 'Sturgeon Bay, Door County, Wisconsin'
+death_place: 'Green Bay, Brown County, Wisconsin'
 gender: F
 parents:
 - Emil Mielke
