@@ -4,16 +4,18 @@ import '../styles/global.css';
 interface Props {
   title: string;
   description?: string;
+  /** Full-bleed page: no site header, main column, or footer; the page owns the viewport. */
+  immersive?: boolean;
 }
 
-const { title, description = 'Family history of the Krumpos, Schmidt, Martin, Coppersmith, and allied families of Wisconsin.' } = Astro.props;
+const { title, description = 'Family history of the Krumpos, Schmidt, Martin, Coppersmith, and allied families of Wisconsin.', immersive = false } = Astro.props;
 const currentPath = Astro.url.pathname;
 ---
 <!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="viewport" content={immersive ? 'width=device-width, initial-scale=1.0, viewport-fit=cover' : 'width=device-width, initial-scale=1.0'} />
   <meta name="description" content={description} />
   <title>{title} — krumpos.org</title>
   <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
@@ -22,7 +24,8 @@ const currentPath = Astro.url.pathname;
   <meta property="og:type" content="website" />
   <meta property="og:url" content={Astro.url.href} />
 </head>
-<body class="min-h-screen">
+<body class:list={[immersive ? 'immersive' : 'min-h-screen']}>
+  {immersive ? <slot /> : (<>
   <header class="border-b border-[var(--color-parchment-dark)] bg-[var(--color-parchment)]">
     <nav class="max-w-3xl mx-auto px-4 py-4 flex flex-wrap items-center justify-between gap-x-6 gap-y-2">
       <a href="/" class="font-serif text-xl text-[var(--color-dark-brown)] no-underline hover:text-[var(--color-accent)]">
@@ -48,5 +51,6 @@ const currentPath = Astro.url.pathname;
       <p>A family archive maintained by Don Krumpos. Only deceased ancestors are included.</p>
     </div>
   </footer>
+  </>)}
 </body>
 </html>

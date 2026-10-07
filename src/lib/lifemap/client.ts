@@ -1,6 +1,7 @@
 // The life map (/map), client side. Vanilla MapLibre over the data the page
 // embeds as #map-data. Owns: the clock (fractional years), playback, the
-// opening reveal, selection swoop, tilt, camera follow, and fullscreen.
+// opening reveal, selection swoop, tilt, camera follow, and fullscreen, plus
+// the full-bleed chrome that floats over the map (person sheet, about card).
 
 import * as maplibregl from 'maplibre-gl';
 // MapLibre 6 loads its worker as a separate ES module at runtime, which Vite
@@ -40,6 +41,9 @@ const FOCUS_ZOOM = 11;
 const BASE_RATE = 7;
 const LONG_KM = 150;
 const STONE_PX = 9;
+// Below this width the person rail is a pull-up sheet, not a side panel.
+const WIDE = '(min-width: 900px)';
+const INTRO_KEY = 'krumpos.lifemap.intro-seen';
 
 const esc = (s: unknown) =>
   String(s == null ? '' : s)
@@ -91,10 +95,19 @@ export function mountLifeMap(): void {
   const statusEl = $('lm-status');
   const playBtn = $<HTMLButtonElement>('lm-play');
   const personEl = $('lm-person');
+  const panel = $('lm-panel');
+  const handle = $<HTMLButtonElement>('lm-handle');
   const tiltBtn = $<HTMLButtonElement>('lm-tilt');
   const fsBtn = $<HTMLButtonElement>('lm-fs');
-  const followBox = $<HTMLInputElement>('lm-follow');
+  const followBtn = $<HTMLButtonElement>('lm-follow');
+  const viewBtn = $<HTMLButtonElement>('lm-view');
   const skipBtn = $<HTMLButtonElement>('lm-skip');
+  const tools = $('lm-tools');
+  const bar = $('lm-bar');
+  const titleCard = $('lm-titlecard');
+  const info = $('lm-info');
+  const infoBtn = $<HTMLButtonElement>('lm-info-btn');
+  const wide = window.matchMedia(WIDE);
 
   // ── State ──
   let c = Number(slider.value);
@@ -105,6 +118,7 @@ export function mountLifeMap(): void {
   let finishReveal: (() => void) | null = null;
   let revealCount: number | null = null;
   let lastUrlYear: number | null = null;
+  let following = false;
 
   const allBounds = new maplibregl.LngLatBounds();
   timelines.forEach((t) => t.placed.forEach((e) => allBounds.extend(e.pt)));
@@ -126,7 +140,8 @@ export function mountLifeMap(): void {
     attributionControl: false,
   });
   map.addControl(new maplibregl.AttributionControl({ compact: true }), 'bottom-right');
-  map.addControl(new maplibregl.NavigationControl({ visualizePitch: true }), 'top-right');
+  // Zoom and compass join the icon column instead of a map corner.
+  tools.append(new maplibregl.NavigationControl({ visualizePitch: true }).onAdd(map));
   map.on('error', (e) => console.error('[lifemap]', e.error?.message ?? e));
   map.on('styleimagemissing', (e) => {
     if (!map.hasImage(e.id)) map.addImage(e.id, { width: 1, height: 1, data: new Uint8Array(4) });
@@ -134,6 +149,54 @@ export function mountLifeMap(): void {
   new ResizeObserver(() => map.resize()).observe(mapEl);
   // Compact attribution starts folded to its (i) so it never covers a phone map.
   map.once('idle', () => mapEl.querySelector('.maplibregl-compact-show')?.classList.remove('maplibregl-compact-show'));
+
+  // ── Overlay insets: camera fits and swoops land in the part of the map
+  // the floating cards leave clear ──
+  function insets(): maplibregl.PaddingOptions {
+    const W = mapEl.clientWidth;
+    const H = mapEl.clientHeight;
+    const isWide = wide.matches;
+    const top = titleCard.getBoundingClientRect().bottom;
+    let bottomEdge = bar.getBoundingClientRect().top;
+    let right = 0;
+    if (!panel.hidden) {
+      const r = panel.getBoundingClientRect();
+      if (isWide) right = W - r.left;
+      else if (!panel.classList.contains('lm-open')) bottomEdge = Math.min(bottomEdge, r.top);
+    }
+    if (isWide && !right) right = W - tools.getBoundingClientRect().left;
+    const bottom = Math.max(0, H - bottomEdge);
+    // Never let the cards squeeze the open map below 40% of either side.
+    const v = (top + bottom) / Math.max(1, H * 0.6);
+    const h = right / Math.max(1, W * 0.6);
+    const pad = {
+      top: Math.round(v > 1 ? top / v : top),
+      bottom: Math.round(v > 1 ? bottom / v : bottom),
+      right: Math.round(h > 1 ? right / h : right),
+      left: 0,
+    };
+    return pad;
+  }
+  let padPending = false;
+  function syncPadding() {
+    // setPadding is a jumpTo, which would cut a swoop or fit short; wait it out.
+    if (map.isMoving()) {
+      if (!padPending) { padPending = true; map.once('moveend', () => { padPending = false; syncPadding(); }); }
+      return;
+    }
+    const p = insets();
+    const now = map.getPadding();
+    if (p.top !== now.top || p.bottom !== now.bottom || p.right !== now.right || p.left !== now.left) map.setPadding(p);
+  }
+  function syncChrome() {
+    stage.style.setProperty('--lm-bar-h', bar.offsetHeight + 'px');
+    stage.style.setProperty('--lm-top-h', titleCard.offsetHeight + 'px');
+    syncPadding();
+  }
+  const chromeObserver = new ResizeObserver(syncChrome);
+  [bar, titleCard, panel, mapEl].forEach((el) => chromeObserver.observe(el));
+  syncChrome();
+  map.fitBounds(startBay ? BAY : allBounds, { padding: 30, duration: 0 });
 
   const fitAll = (instant = false) =>
     map.fitBounds(allBounds, { padding: 30, duration: instant || RM ? 0 : 1200 });
@@ -329,17 +392,21 @@ export function mountLifeMap(): void {
         : 'No living ancestors on the map yet';
     }
     renderPerson(all ? ALL : label);
-    if (followAt && followBox.checked && !reveal) map.jumpTo({ center: followAt });
+    if (followAt && following && !reveal) map.jumpTo({ center: followAt });
   }
 
   function renderPerson(Y: number) {
     const tl = selectedId ? byId.get(selectedId) : null;
-    if (!tl) { personEl.classList.add('hidden'); personEl.innerHTML = ''; return; }
+    if (!tl) {
+      if (!panel.hidden) { panel.hidden = true; setSheet(false); }
+      personEl.innerHTML = '';
+      return;
+    }
     const p = tl.person;
     const rows = p.events.map((e) => {
       const future = Y < ALL && e.year > Y;
       return '<li class="flex gap-3 py-1 ' + (future ? 'opacity-40' : '') + '">' +
-        '<span class="w-24 shrink-0 tabular-nums text-[var(--color-warm-gray)]">' + esc(eventYear(e)) + '</span>' +
+        '<span class="w-20 sm:w-24 shrink-0 tabular-nums text-[var(--color-warm-gray)]">' + esc(eventYear(e)) + '</span>' +
         '<span><span class="font-semibold">' + esc(e.kind) + '</span> · ' + esc(e.place) +
         (soft(e) ? ' <em class="text-[var(--color-muted)]">(' + esc(e.certainty || 'approximate') + ')</em>' : '') +
         (e.source ? '<span class="block text-xs text-[var(--color-muted)]">' + esc(e.source) + '</span>' : '') +
@@ -347,16 +414,16 @@ export function mountLifeMap(): void {
         '</span></li>';
     }).join('');
     personEl.innerHTML =
-      '<div class="flex items-baseline justify-between gap-3">' +
-        '<h2 class="font-serif text-xl text-[var(--color-dark-brown)]">' + esc(p.name) + '</h2>' +
-        '<button type="button" id="lm-close" class="text-sm text-[var(--color-muted)]" aria-label="Close">✕</button>' +
+      '<div class="flex items-start justify-between gap-3">' +
+        '<h2>' + esc(p.name) + '</h2>' +
+        '<button type="button" id="lm-close" class="lm-close" aria-label="Close">✕</button>' +
       '</div>' +
       '<p class="text-sm text-[var(--color-warm-gray)] mb-2">' + esc(lifespan(p)) + ' · ' +
         esc(data.branchLabel[p.branch] || p.branch) + ' line · generation ' + p.generation +
         (p.traced ? '' : ' · <em>birth and death only so far</em>') + '</p>' +
       '<ol class="text-sm border-l-2 pl-3" style="border-color:' + data.branchColor[p.branch] + '">' + rows + '</ol>' +
       '<a class="inline-block mt-3 text-sm" href="/person/' + esc(p.slug) + '/">View the full record →</a>';
-    personEl.classList.remove('hidden');
+    panel.hidden = false;
     $('lm-close').onclick = () => select(null, false);
   }
 
@@ -373,11 +440,15 @@ export function mountLifeMap(): void {
   // ── Selection: the tilted swoop ──
   function select(id: string | null, swoop: boolean) {
     finishReveal?.();
+    const changed = id !== selectedId;
     selectedId = id;
-    followBox.disabled = !id;
-    if (!id) followBox.checked = false;
+    followBtn.disabled = !id;
+    if (!id) setFollow(false);
+    // A new person opens the sheet at its peek, so the swoop stays in view.
+    if (changed) setSheet(false);
     render();
     syncUrl(true);
+    syncPadding();
     if (!id || !swoop) return;
     const tl = byId.get(id);
     const s = tl && stateAt(tl, c, c >= ALL);
@@ -396,26 +467,73 @@ export function mountLifeMap(): void {
   });
 
   // ── Follow: dragging the map hands the camera back ──
-  followBox.disabled = !selectedId;
-  map.on('dragstart', (e) => { if ((e as { originalEvent?: Event }).originalEvent) followBox.checked = false; });
-  followBox.addEventListener('change', () => render());
-
-  // ── Fullscreen: native where the browser allows it, CSS everywhere ──
-  let full = false;
-  function setFull(on: boolean) {
-    if (on === full) return;
-    full = on;
-    stage.classList.toggle('lm-full', on);
-    document.documentElement.classList.toggle('lm-locked', on);
-    fsBtn.setAttribute('aria-pressed', String(on));
-    fsBtn.textContent = on ? '⤡ Exit' : '⤢ Fullscreen';
-    if (on && stage.requestFullscreen && !document.fullscreenElement) stage.requestFullscreen().catch(() => {});
-    if (!on && document.fullscreenElement) document.exitFullscreen().catch(() => {});
-    map.resize();
+  function setFollow(on: boolean) {
+    following = on;
+    followBtn.setAttribute('aria-pressed', String(on));
   }
-  fsBtn.addEventListener('click', () => setFull(!full));
-  document.addEventListener('fullscreenchange', () => { if (!document.fullscreenElement) setFull(false); });
-  document.addEventListener('keydown', (e) => { if (e.key === 'Escape' && full) setFull(false); });
+  followBtn.disabled = !selectedId;
+  map.on('dragstart', (e) => { if ((e as { originalEvent?: Event }).originalEvent) setFollow(false); });
+  followBtn.addEventListener('click', () => { setFollow(!following); render(); });
+
+  // ── Fullscreen: the page is already full-bleed; this drops the browser
+  // chrome too. Hidden where the browser can't (iPhone Safari). ──
+  fsBtn.hidden = !(document.fullscreenEnabled && stage.requestFullscreen);
+  fsBtn.addEventListener('click', () => {
+    if (document.fullscreenElement) document.exitFullscreen().catch(() => {});
+    else stage.requestFullscreen().catch(() => {});
+  });
+  document.addEventListener('fullscreenchange', () => {
+    const on = !!document.fullscreenElement;
+    fsBtn.setAttribute('aria-pressed', String(on));
+    fsBtn.setAttribute('aria-label', on ? 'Exit fullscreen' : 'Fullscreen');
+    fsBtn.title = on ? 'Exit fullscreen' : 'Fullscreen';
+  });
+
+  // ── Person sheet (phones): peek shows the name, pulled up shows the rail ──
+  function setSheet(open: boolean) {
+    panel.classList.toggle('lm-open', open);
+    handle.setAttribute('aria-expanded', String(open));
+    handle.setAttribute('aria-label', open ? 'Show less' : 'Show the whole life');
+    if (!open) personEl.scrollTop = 0;
+  }
+  handle.addEventListener('click', () => setSheet(!panel.classList.contains('lm-open')));
+  // Tapping the peeking name pulls the sheet up too.
+  personEl.addEventListener('click', (e) => {
+    if (wide.matches || panel.classList.contains('lm-open')) return;
+    if ((e.target as HTMLElement).closest('a, button')) return;
+    setSheet(true);
+  });
+  // Swipe on the handle or the peek: up opens, down closes.
+  let swipeY: number | null = null;
+  panel.addEventListener('pointerdown', (e) => {
+    if (wide.matches) return;
+    const fromHandle = handle.contains(e.target as Node);
+    if (fromHandle || !panel.classList.contains('lm-open') || personEl.scrollTop <= 0) swipeY = e.clientY;
+  });
+  panel.addEventListener('pointerup', (e) => {
+    if (swipeY == null) return;
+    const dy = e.clientY - swipeY;
+    swipeY = null;
+    if (dy < -24) setSheet(true);
+    else if (dy > 40) setSheet(false);
+  });
+  panel.addEventListener('pointercancel', () => { swipeY = null; });
+  wide.addEventListener('change', () => syncPadding());
+
+  // ── About card: opens once per browser, reopens from ⓘ ──
+  function setInfo(open: boolean) {
+    info.hidden = !open;
+    infoBtn.setAttribute('aria-expanded', String(open));
+  }
+  infoBtn.addEventListener('click', () => setInfo(info.hidden));
+  for (const id of ['lm-info-close', 'lm-info-x']) $(id).addEventListener('click', () => { setInfo(false); infoBtn.focus(); });
+  document.addEventListener('keydown', (e) => { if (e.key === 'Escape' && !info.hidden) setInfo(false); });
+  let introSeen = false;
+  try { introSeen = localStorage.getItem(INTRO_KEY) === '1'; } catch { /* storage blocked: show it */ }
+  if (!introSeen) {
+    setInfo(true);
+    try { localStorage.setItem(INTRO_KEY, '1'); } catch { /* fine, it just shows again */ }
+  }
 
   // ── Playback ──
   let raf = 0;
@@ -443,11 +561,19 @@ export function mountLifeMap(): void {
     return at + step > next ? (next - at) / (dt || 1) : rate;
   }
 
+  const playIc = playBtn.querySelector('.lm-play-ic')!;
+  const playLabel = playBtn.querySelector('.lm-play-label')!;
+  function setPlayUi(on: boolean) {
+    playIc.textContent = on ? '❚❚' : '▶';
+    playLabel.textContent = on ? 'Pause' : 'Play';
+    playBtn.setAttribute('aria-pressed', String(on));
+    playBtn.setAttribute('aria-label', on ? 'Pause' : 'Play through the years');
+  }
+
   function stop() {
     if (raf) cancelAnimationFrame(raf);
     raf = 0;
-    playBtn.textContent = '▶ Play';
-    playBtn.setAttribute('aria-pressed', 'false');
+    setPlayUi(false);
   }
 
   function tick(now: number) {
@@ -473,8 +599,7 @@ export function mountLifeMap(): void {
     finishReveal?.();
     if (playing()) { stop(); return; }
     if (c >= ALL - 1) c = data.timeMin;
-    playBtn.textContent = '❚❚ Pause';
-    playBtn.setAttribute('aria-pressed', 'true');
+    setPlayUi(true);
     last = performance.now();
     stepAcc = 0;
     raf = requestAnimationFrame(tick);
@@ -493,15 +618,22 @@ export function mountLifeMap(): void {
       const b = btn.getAttribute('data-branch') || '';
       if (hidden.has(b)) hidden.delete(b); else hidden.add(b);
       btn.setAttribute('aria-pressed', String(!hidden.has(b)));
-      btn.style.opacity = hidden.has(b) ? '0.35' : '1';
       render();
     });
   });
-  document.querySelectorAll<HTMLButtonElement>('.lm-view').forEach((btn) => {
-    btn.addEventListener('click', () => {
-      finishReveal?.();
-      if (btn.getAttribute('data-view') === 'bay') fitBay(); else fitAll();
-    });
+  // One toggle between the whole map and the Green Bay frame; its icon shows
+  // where it goes next.
+  function setView(v: 'all' | 'bay') {
+    viewBtn.dataset.view = v;
+    const label = v === 'bay' ? 'Show the whole map' : 'Zoom to Green Bay';
+    viewBtn.setAttribute('aria-label', label);
+    viewBtn.title = v === 'bay' ? 'Whole map' : 'Green Bay';
+  }
+  setView(startBay ? 'bay' : 'all');
+  viewBtn.addEventListener('click', () => {
+    finishReveal?.();
+    if (viewBtn.dataset.view === 'bay') { fitAll(); setView('all'); }
+    else { fitBay(); setView('bay'); }
   });
 
   // ── Opening reveal: generations ink in oldest first, converging on Green Bay ──
@@ -541,6 +673,7 @@ export function mountLifeMap(): void {
         revealCount = Math.round(count);
         if (!flown && bayFrom >= 0 && progress[bayFrom] > 0) {
           flown = true;
+          setView('bay');
           map.fitBounds(BAY, { padding: 20, duration: 2600, essential: true });
         }
         render();
@@ -554,5 +687,6 @@ export function mountLifeMap(): void {
   skipBtn.addEventListener('click', () => {
     finishReveal?.();
     fitBay(true);
+    setView('bay');
   });
 }

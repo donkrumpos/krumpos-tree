@@ -82,33 +82,86 @@ const tracedCount = people.filter((p) => p.traced).length;
 const branchesShown = Object.keys(branchColor).filter((b) => people.some((p) => p.branch === b));
 ---
 
+
 <BaseLayout
   title="Family Map"
   description="Scrub through time and watch the direct ancestors born, crossing, settling, and moving across Europe and North America."
+  immersive
 >
-  <h1 class="font-serif text-3xl text-[var(--color-dark-brown)] mb-2">Where they lived</h1>
-  <p class="text-sm text-[var(--color-warm-gray)] mb-5">
-    Drag through the years and the map shows the direct line as it stood: who was alive, where,
-    and where they went next. {people.length} ancestors are on the map. {tracedCount} have their
-    whole lives traced so far, with census homes, crossings, and moves. The rest show only where they
-    were born and died. More gets added as the records turn up.
-  </p>
-
   <div id="lm-stage" class="lm-stage">
-    <div class="lifemap-controls lm-controls mb-3">
-      <div class="flex flex-wrap items-baseline gap-x-3 gap-y-1">
-        <span id="lm-year" class="font-serif text-4xl tabular-nums text-[var(--color-dark-brown)]">All years</span>
-        <span id="lm-status" class="text-sm text-[var(--color-warm-gray)]" aria-live="polite"></span>
+    <div id="ancestor-map" class="lm-map"></div>
+
+    <!-- Top left: where you are, when you are -->
+    <div class="lm-tl">
+      <div id="lm-titlecard" class="lm-card lm-title">
+        <a href="/" class="lm-home">← krumpos.org</a>
+        <h1>Where they lived</h1>
+        <div class="lm-yearrow">
+          <span id="lm-year" class="lm-year">All years</span>
+          <button id="lm-skip" type="button" hidden class="lm-chipbtn">Skip ›</button>
+        </div>
+        <p id="lm-status" class="lm-status" aria-live="polite"></p>
       </div>
-      <div class="flex items-center gap-3 mt-2">
-        <button
-          id="lm-play"
-          type="button"
-          aria-pressed="false"
-          class="lm-btn shrink-0"
-          aria-label="Play through the years"
-        >▶ Play</button>
-        <span class="text-xs tabular-nums text-[var(--color-muted)]">{timeMin}</span>
+
+      <section id="lm-info" class="lm-card lm-info" hidden aria-labelledby="lm-info-h">
+        <div class="lm-info-head">
+          <h2 id="lm-info-h">About this map</h2>
+          <button id="lm-info-x" type="button" class="lm-close" aria-label="Close">✕</button>
+        </div>
+        <p>
+          Drag through the years and the map shows the direct line as it stood: who was alive, where,
+          and where they went next. {people.length} ancestors are on the map. {tracedCount} have their
+          whole lives traced so far, with census homes, crossings, and moves. The rest show only where they
+          were born and died. More gets added as the records turn up.
+        </p>
+        <p>Tap a dot to follow one life.</p>
+        <ul class="lm-legend">
+          <li><svg viewBox="0 0 28 14" aria-hidden="true"><circle cx="14" cy="7" r="5" fill="#2e5d3a" stroke="#3d2e1e" /></svg>Dot = living that year</li>
+          <li><svg viewBox="0 0 28 14" aria-hidden="true"><rect x="9.5" y="2.5" width="9" height="9" fill="#cfc6b8" stroke="#2e5d3a" stroke-width="1.6" /></svg>Small square = resting place</li>
+          <li><svg viewBox="0 0 28 14" aria-hidden="true"><path d="M1 7h26" stroke="#2e5d3a" stroke-width="1.8" stroke-dasharray="5 4" /></svg>Dashed = probable, not yet proven</li>
+          <li><svg viewBox="0 0 28 14" aria-hidden="true"><path d="M2 7h24" stroke="#2e5d3a" stroke-width="2" stroke-linecap="round" stroke-dasharray="0.1 5" /></svg>Dotted line = brought home for burial</li>
+          <li><svg viewBox="0 0 28 14" aria-hidden="true"><circle cx="14" cy="7" r="5" fill="none" stroke="#2e5d3a" stroke-width="1.5" /></svg>Ring = a winter home</li>
+        </ul>
+        <button id="lm-info-close" type="button" class="lm-chipbtn">Got it</button>
+      </section>
+    </div>
+
+    <!-- Top right: camera and page controls -->
+    <div id="lm-tools" class="lm-tr" role="toolbar" aria-label="Map controls" aria-orientation="vertical">
+      <button id="lm-tilt" type="button" aria-pressed="false" class="lm-icon" aria-label="Tilt the map" title="Tilt">
+        <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M3.5 18.5 8 5.5h8l4.5 13z" /><path d="M5.8 12h12.4M10 5.5 9 18.5M14 5.5l1 13" /></svg>
+      </button>
+      <button id="lm-follow" type="button" aria-pressed="false" disabled class="lm-icon" aria-label="Follow the selected ancestor" title="Follow selected">
+        <svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="12" r="6" /><circle cx="12" cy="12" r="1.6" fill="currentColor" /><path d="M12 2.5v3.5M12 18v3.5M2.5 12H6M18 12h3.5" /></svg>
+      </button>
+      <button id="lm-view" type="button" data-view="all" class="lm-icon" aria-label="Zoom to Green Bay" title="Green Bay">
+        <svg class="lm-ic-bay" viewBox="0 0 24 24" aria-hidden="true"><path d="M12 21s-6.5-6-6.5-10.5a6.5 6.5 0 0 1 13 0C18.5 15 12 21 12 21z" /><circle cx="12" cy="10.5" r="2.2" /></svg>
+        <svg class="lm-ic-all" viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="12" r="8.5" /><path d="M3.5 12h17M12 3.5c3.2 3.2 3.2 13.8 0 17M12 3.5c-3.2 3.2-3.2 13.8 0 17" /></svg>
+      </button>
+      <button id="lm-fs" type="button" aria-pressed="false" class="lm-icon" aria-label="Fullscreen" title="Fullscreen">
+        <svg class="lm-ic-enter" viewBox="0 0 24 24" aria-hidden="true"><path d="M4 9V4h5M15 4h5v5M20 15v5h-5M9 20H4v-5" /></svg>
+        <svg class="lm-ic-exit" viewBox="0 0 24 24" aria-hidden="true"><path d="M9 4v5H4M20 9h-5V4M15 20v-5h5M4 15h5v5" /></svg>
+      </button>
+      <button id="lm-info-btn" type="button" aria-expanded="false" aria-controls="lm-info" class="lm-icon" aria-label="About this map" title="About this map">
+        <svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="12" r="8.5" /><path d="M12 11v5.5" /><circle cx="12" cy="7.8" r="0.9" fill="currentColor" /></svg>
+      </button>
+    </div>
+
+    <!-- Person rail: side panel on desktop, pull-up sheet on phones -->
+    <aside id="lm-panel" class="lm-card lm-panel" hidden aria-label="Selected ancestor">
+      <button id="lm-handle" type="button" class="lm-handle" aria-expanded="false" aria-controls="lm-person" aria-label="Show the whole life">
+        <span aria-hidden="true"></span>
+      </button>
+      <section id="lm-person" class="lm-person" aria-live="polite"></section>
+    </aside>
+
+    <!-- Bottom: the clock and the branches -->
+    <div id="lm-bar" class="lm-card lm-bar">
+      <div class="lm-scrub">
+        <button id="lm-play" type="button" aria-pressed="false" class="lm-play" aria-label="Play through the years">
+          <span class="lm-play-ic" aria-hidden="true">▶</span><span class="lm-play-label">Play</span>
+        </button>
+        <span class="lm-end">{timeMin}</span>
         <input
           id="lm-slider"
           type="range"
@@ -117,75 +170,357 @@ const branchesShown = Object.keys(branchColor).filter((b) => people.some((p) => 
           step="1"
           value={timeMaxEvent + 1}
           aria-label="Show the family as of this year"
-          class="flex-1 min-w-0 cursor-pointer"
-          style="accent-color: var(--color-accent);"
+          class="lm-slider"
         />
-        <span class="text-xs text-[var(--color-muted)]">all</span>
+        <span class="lm-end">all</span>
       </div>
-      <div class="flex flex-wrap items-center gap-2 mt-2 text-sm">
-        <button id="lm-tilt" type="button" aria-pressed="false" class="lm-btn">Tilt</button>
-        <label class="lm-btn flex items-center gap-1.5 has-[:disabled]:opacity-40">
-          <input id="lm-follow" type="checkbox" disabled style="accent-color: var(--color-accent);" />
-          Follow selected
-        </label>
-        <button id="lm-fs" type="button" aria-pressed="false" class="lm-btn ml-auto">⤢ Fullscreen</button>
+      <div class="lm-chips" role="group" aria-label="Branches shown">
+        {
+          branchesShown.map((b) => (
+            <button type="button" data-branch={b} aria-pressed="true" class="lm-branch">
+              <span class="lm-swatch" style={`background-color: ${branchColor[b]}`}></span>
+              <span>{branchLabel[b] ?? b}</span>
+            </button>
+          ))
+        }
       </div>
     </div>
-
-    <div class="lm-mapwrap relative">
-      <div
-        id="ancestor-map"
-        class="w-full h-[70vh] min-h-[420px] max-h-[640px] rounded border border-[var(--color-parchment-dark)]"
-      ></div>
-      <button id="lm-skip" type="button" hidden class="lm-btn lm-skip">Skip ›</button>
-    </div>
-
-    <div class="lm-branches mt-3 flex flex-wrap items-center gap-x-4 gap-y-2 text-sm">
-      {
-        branchesShown.map((b) => (
-          <button
-            type="button"
-            data-branch={b}
-            aria-pressed="true"
-            class="lm-branch flex items-center gap-2 hover:opacity-70"
-          >
-            <span class="inline-block w-3 h-3 rounded-full" style={`background-color: ${branchColor[b]}`}></span>
-            <span>{branchLabel[b] ?? b}</span>
-          </button>
-        ))
-      }
-      <span class="ml-auto flex gap-2 text-xs">
-        <button type="button" data-view="all" class="lm-view underline decoration-dotted">Whole map</button>
-        <button type="button" data-view="bay" class="lm-view underline decoration-dotted">Green Bay</button>
-      </span>
-    </div>
-    <p class="lm-legend text-xs text-[var(--color-muted)] mt-2">
-      Dot = living that year · small square = resting place · dashed = probable, not yet proven ·
-      dotted line = brought home for burial · ring = a winter home.
-    </p>
-
-    <section id="lm-person" class="mt-6 hidden" aria-live="polite"></section>
   </div>
 
   <style is:global>
-    .lm-btn {
-      border: 1px solid var(--color-accent-light);
-      border-radius: 0.25rem;
-      padding: 0.25rem 0.75rem;
+    html:has(body.immersive), body.immersive {
+      height: 100%;
+      overflow: hidden;
+      overscroll-behavior: none;
+    }
+    .lm-stage {
+      --lm-gap: 8px;
+      --lm-attr: 34px; /* strip kept clear for the map attribution on phones */
+      --lm-bar-h: 140px;
+      --lm-top-h: 120px;
+      --lm-safe-t: env(safe-area-inset-top, 0px);
+      --lm-safe-r: env(safe-area-inset-right, 0px);
+      --lm-safe-b: env(safe-area-inset-bottom, 0px);
+      --lm-safe-l: env(safe-area-inset-left, 0px);
+      position: fixed;
+      inset: 0;
+      height: 100dvh;
+      overflow: hidden;
+      background: var(--color-parchment-dark);
+      color: var(--color-ink);
       font-size: 0.875rem;
+    }
+    .lm-map { position: absolute; inset: 0; background: var(--color-parchment-dark); }
+
+    .lm-card {
+      background: rgba(245, 240, 232, 0.94);
+      border: 1px solid var(--color-accent-light);
+      border-radius: 10px;
+      box-shadow: 0 2px 10px rgba(61, 46, 30, 0.18);
+      backdrop-filter: blur(6px);
+      -webkit-backdrop-filter: blur(6px);
+    }
+    .lm-stage :is(button, a, input):focus-visible {
+      outline: 2px solid var(--color-accent);
+      outline-offset: 2px;
+    }
+
+    /* Top left */
+    .lm-tl {
+      position: absolute;
+      z-index: 10;
+      top: calc(var(--lm-gap) + var(--lm-safe-t));
+      left: calc(var(--lm-gap) + var(--lm-safe-l));
+      right: calc(var(--lm-gap) * 2 + 44px + var(--lm-safe-r));
+      max-width: 340px;
+      display: flex;
+      flex-direction: column;
+      gap: var(--lm-gap);
+      pointer-events: none;
+    }
+    .lm-tl > * { pointer-events: auto; }
+    .lm-title { padding: 0.5rem 0.75rem 0.55rem; }
+    .lm-home {
+      display: inline-block;
+      font-size: 0.75rem;
+      color: var(--color-warm-gray);
+      text-decoration: none;
+      padding: 0.15rem 0;
+      min-height: 32px;
+      display: inline-flex;
+      align-items: center;
+      margin: -0.3rem 0 -0.2rem;
+    }
+    .lm-home:hover { color: var(--color-accent); }
+    .lm-title h1 {
+      font-family: Georgia, 'Times New Roman', serif;
+      font-size: 1rem;
+      line-height: 1.2;
       color: var(--color-dark-brown);
-      background: transparent;
+      margin: 0.1rem 0 0;
+    }
+    .lm-yearrow { display: flex; align-items: center; gap: 0.6rem; }
+    .lm-year {
+      font-family: Georgia, 'Times New Roman', serif;
+      font-size: 1.85rem;
+      line-height: 1.15;
+      font-variant-numeric: tabular-nums;
+      color: var(--color-dark-brown);
+    }
+    .lm-status { font-size: 0.8125rem; color: var(--color-warm-gray); line-height: 1.3; margin: 0; }
+    .lm-chipbtn {
+      border: 1px solid var(--color-accent-light);
+      border-radius: 999px;
+      padding: 0.3rem 0.8rem;
+      min-height: 32px;
+      font-size: 0.8125rem;
+      color: var(--color-dark-brown);
+      background: var(--color-parchment);
       cursor: pointer;
     }
-    .lm-btn:hover { background: var(--color-parchment-dark); }
-    .lm-btn[aria-pressed='true'] { background: var(--color-parchment-dark); border-color: var(--color-accent); }
-    .lm-skip {
-      position: absolute;
-      right: 0.75rem;
-      bottom: 2.25rem;
-      background: rgba(245, 240, 232, 0.92);
+    .lm-chipbtn:hover { background: var(--color-parchment-dark); }
+
+    .lm-info {
+      padding: 0.75rem 0.9rem 0.85rem;
+      font-size: 0.8125rem;
+      line-height: 1.45;
+      color: var(--color-ink);
+      max-height: calc(100dvh - var(--lm-top-h) - var(--lm-bar-h) - var(--lm-attr) - 3 * var(--lm-gap) - var(--lm-safe-t) - var(--lm-safe-b));
+      overflow-y: auto;
+      overscroll-behavior: contain;
     }
-    #ancestor-map { background: var(--color-parchment-dark); }
+    .lm-info[hidden] { display: none; }
+    .lm-info h2 {
+      font-family: Georgia, 'Times New Roman', serif;
+      font-size: 1rem;
+      color: var(--color-dark-brown);
+      margin: 0 0 0.35rem;
+    }
+    .lm-info p { margin: 0 0 0.5rem; }
+    .lm-info-head { display: flex; align-items: flex-start; justify-content: space-between; gap: 0.5rem; }
+    .lm-legend { list-style: none; padding: 0; margin: 0.25rem 0 0.75rem; display: grid; gap: 0.3rem; color: var(--color-warm-gray); }
+    .lm-legend li { display: flex; align-items: center; gap: 0.5rem; }
+    .lm-legend svg { width: 28px; height: 14px; flex: none; }
+
+    /* Top right */
+    .lm-tr {
+      position: absolute;
+      z-index: 10;
+      top: calc(var(--lm-gap) + var(--lm-safe-t));
+      right: calc(var(--lm-gap) + var(--lm-safe-r));
+      display: flex;
+      flex-direction: column;
+      gap: 6px;
+    }
+    .lm-icon {
+      width: 44px;
+      height: 44px;
+      display: grid;
+      place-items: center;
+      border: 1px solid var(--color-accent-light);
+      border-radius: 10px;
+      background: rgba(245, 240, 232, 0.94);
+      box-shadow: 0 2px 8px rgba(61, 46, 30, 0.18);
+      color: var(--color-dark-brown);
+      cursor: pointer;
+    }
+    .lm-icon svg { width: 22px; height: 22px; fill: none; stroke: currentColor; stroke-width: 1.6; stroke-linejoin: round; stroke-linecap: round; }
+    .lm-icon:hover:not(:disabled) { background: var(--color-parchment-dark); }
+    .lm-icon[aria-pressed='true'], .lm-icon[aria-expanded='true'] {
+      background: var(--color-dark-brown);
+      border-color: var(--color-dark-brown);
+      color: var(--color-parchment);
+    }
+    .lm-icon:disabled { opacity: 0.4; cursor: default; }
+    .lm-icon[hidden] { display: none; }
+    #lm-view[data-view='all'] .lm-ic-all, #lm-view[data-view='bay'] .lm-ic-bay { display: none; }
+    #lm-fs[aria-pressed='true'] .lm-ic-enter, #lm-fs[aria-pressed='false'] .lm-ic-exit { display: none; }
+    /* Zoom and compass ride in the same column on desktop; phones pinch. */
+    .lm-tr .maplibregl-ctrl-group {
+      margin-top: 4px;
+      border: 1px solid var(--color-accent-light);
+      border-radius: 10px;
+      background: rgba(245, 240, 232, 0.94);
+      box-shadow: 0 2px 8px rgba(61, 46, 30, 0.18);
+      overflow: hidden;
+    }
+    .lm-tr .maplibregl-ctrl-group button { width: 42px; height: 36px; background-color: transparent; }
+    .lm-tr .maplibregl-ctrl-group button + button { border-top-color: var(--color-parchment-dark); }
+    @media (max-width: 899px) { .lm-tr .maplibregl-ctrl-group { display: none; } }
+
+    /* Bottom bar */
+    .lm-bar {
+      position: absolute;
+      z-index: 10;
+      left: calc(var(--lm-gap) + var(--lm-safe-l));
+      right: calc(var(--lm-gap) + var(--lm-safe-r));
+      bottom: calc(var(--lm-attr) + var(--lm-safe-b));
+      padding: 0.35rem 0.6rem 0.5rem;
+    }
+    .lm-scrub { display: flex; align-items: center; gap: 0.5rem; }
+    .lm-play {
+      flex: none;
+      min-width: 44px;
+      height: 44px;
+      padding: 0 0.85rem;
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      gap: 0.4rem;
+      border: none;
+      border-radius: 999px;
+      background: var(--color-dark-brown);
+      color: var(--color-parchment);
+      font-size: 0.875rem;
+      cursor: pointer;
+    }
+    .lm-play:hover { background: var(--color-dark-brown-light); }
+    .lm-play-ic { font-size: 0.8rem; }
+    .lm-end { flex: none; font-size: 0.75rem; color: var(--color-muted); font-variant-numeric: tabular-nums; }
+    .lm-slider {
+      flex: 1 1 auto;
+      min-width: 0;
+      height: 44px;
+      margin: 0;
+      background: transparent;
+      cursor: pointer;
+      -webkit-appearance: none;
+      appearance: none;
+      touch-action: pan-y;
+    }
+    .lm-slider::-webkit-slider-runnable-track { height: 4px; border-radius: 2px; background: var(--color-accent-light); }
+    .lm-slider::-moz-range-track { height: 4px; border-radius: 2px; background: var(--color-accent-light); }
+    .lm-slider::-webkit-slider-thumb {
+      -webkit-appearance: none;
+      width: 22px; height: 22px; margin-top: -9px;
+      border-radius: 50%;
+      background: var(--color-dark-brown);
+      border: 3px solid var(--color-parchment);
+      box-shadow: 0 0 0 1px var(--color-accent);
+    }
+    .lm-slider::-moz-range-thumb {
+      width: 16px; height: 16px;
+      border-radius: 50%;
+      background: var(--color-dark-brown);
+      border: 3px solid var(--color-parchment);
+      box-shadow: 0 0 0 1px var(--color-accent);
+    }
+    .lm-chips { display: flex; flex-wrap: wrap; gap: 0.3rem 0.35rem; margin-top: 0.15rem; }
+    .lm-branch {
+      display: inline-flex;
+      align-items: center;
+      gap: 0.4rem;
+      min-height: 32px;
+      padding: 0 0.65rem;
+      border: 1px solid var(--color-accent-light);
+      border-radius: 999px;
+      background: var(--color-parchment);
+      font-size: 0.8125rem;
+      color: var(--color-dark-brown);
+      cursor: pointer;
+    }
+    .lm-branch[aria-pressed='false'] { opacity: 0.4; text-decoration: line-through; }
+    .lm-swatch { width: 10px; height: 10px; border-radius: 50%; flex: none; }
+
+    /* Person rail: a pull-up sheet on phones */
+    .lm-panel {
+      position: absolute;
+      z-index: 20;
+      left: calc(var(--lm-gap) + var(--lm-safe-l));
+      right: calc(var(--lm-gap) + var(--lm-safe-r));
+      bottom: calc(var(--lm-bar-h) + var(--lm-attr) + var(--lm-gap) + var(--lm-safe-b));
+      display: flex;
+      flex-direction: column;
+      overflow: hidden;
+    }
+    .lm-panel[hidden] { display: none; }
+    .lm-handle {
+      flex: none;
+      height: 28px;
+      display: grid;
+      place-items: center;
+      border: none;
+      background: transparent;
+      cursor: pointer;
+      touch-action: none;
+    }
+    .lm-handle span { width: 40px; height: 4px; border-radius: 2px; background: var(--color-accent-light); }
+    .lm-person {
+      padding: 0 0.85rem 0.75rem;
+      overflow: hidden;
+      max-height: 4.4rem; /* peek: name and dates */
+      transition: max-height 0.25s ease;
+    }
+    .lm-panel.lm-open .lm-person {
+      max-height: min(60dvh, calc(100dvh - var(--lm-bar-h) - var(--lm-attr) - 4 * var(--lm-gap) - var(--lm-safe-t) - var(--lm-safe-b) - 40px));
+      overflow-y: auto;
+      overscroll-behavior: contain;
+    }
+    .lm-person h2 { font-family: Georgia, 'Times New Roman', serif; font-size: 1.15rem; color: var(--color-dark-brown); margin: 0; }
+    .lm-close {
+      flex: none;
+      width: 36px;
+      height: 36px;
+      margin: -6px -8px 0 0;
+      border: none;
+      background: transparent;
+      color: var(--color-muted);
+      font-size: 1rem;
+      cursor: pointer;
+    }
+    @media (prefers-reduced-motion: reduce) { .lm-person { transition: none; } }
+    /* The peeking sheet takes swipes itself rather than letting the page try to scroll. */
+    @media (max-width: 899px) { .lm-panel:not(.lm-open) { touch-action: none; } }
+    /* Phones: the branch chips scroll sideways on one line instead of stacking. */
+    @media (max-width: 899px) {
+      .lm-chips {
+        flex-wrap: nowrap;
+        overflow-x: auto;
+        scrollbar-width: none;
+        margin-inline: -0.6rem;
+        padding-inline: 0.6rem;
+        mask-image: linear-gradient(to right, transparent 0, #000 0.6rem, #000 calc(100% - 1.5rem), transparent);
+      }
+      .lm-chips::-webkit-scrollbar { display: none; }
+      .lm-branch { flex: none; }
+    }
+    .lm-person > a { display: inline-flex; align-items: center; min-height: 36px; }
+    @media (max-width: 400px) { .lm-play-label { display: none; } .lm-play { padding: 0; } }
+
+    /* Desktop: room to spread out */
+    @media (min-width: 900px) {
+      .lm-stage { --lm-gap: 16px; --lm-attr: var(--lm-gap); }
+      .lm-tl { max-width: 360px; right: auto; width: 360px; }
+      .lm-title { padding: 0.7rem 1rem 0.75rem; }
+      .lm-title h1 { font-size: 1.2rem; }
+      .lm-year { font-size: 2.6rem; }
+      .lm-bar {
+        left: 50%;
+        right: auto;
+        width: min(760px, calc(100% - 2 * var(--lm-gap) - 120px));
+        transform: translateX(-50%);
+        padding: 0.45rem 0.85rem 0.6rem;
+      }
+      .lm-panel {
+        left: auto;
+        top: calc(var(--lm-gap) + var(--lm-safe-t));
+        right: calc(var(--lm-gap) * 2 + 44px + var(--lm-safe-r));
+        bottom: calc(var(--lm-bar-h) + var(--lm-attr) + var(--lm-gap) + var(--lm-safe-b));
+        width: 360px;
+      }
+      .lm-handle { display: none; }
+      .lm-person, .lm-panel.lm-open .lm-person {
+        max-height: none;
+        flex: 1 1 auto;
+        overflow-y: auto;
+        padding: 0.85rem 1rem 1rem;
+      }
+    }
+
+    /* The attribution sits above every overlay, always reachable. */
+    .lm-stage .maplibregl-ctrl-bottom-right { z-index: 40; }
+    .lm-stage .maplibregl-ctrl-attrib.maplibregl-compact { background: rgba(245, 240, 232, 0.94); }
+
     .lm-tip .maplibregl-popup-content {
       background: var(--color-parchment);
       color: var(--color-ink);
@@ -195,37 +530,7 @@ const branchesShown = Object.keys(branchColor).filter((b) => people.some((p) => 
       box-shadow: 0 1px 4px rgba(61, 46, 30, 0.25);
     }
     .lm-tip .maplibregl-popup-tip { display: none; }
-    html.lm-locked, html.lm-locked body { overflow: hidden; }
-    .lm-stage.lm-full {
-      position: fixed;
-      inset: 0;
-      z-index: 50;
-      display: flex;
-      flex-direction: column;
-      padding: 0.75rem 1rem;
-      background: var(--color-parchment);
-      overflow: auto;
-    }
-    .lm-stage.lm-full .lm-mapwrap { flex: 1 1 auto; min-height: 0; display: flex; }
-    .lm-stage.lm-full #ancestor-map { height: auto; min-height: 240px; max-height: none; flex: 1 1 auto; }
-    .lm-stage.lm-full .lm-legend { display: none; }
-    .lm-stage.lm-full #lm-person { flex: 0 0 auto; max-height: 34vh; overflow: auto; margin-top: 0.75rem; }
-    /* Wide fullscreen: the life rail docks beside the map instead of under it. */
-    @media (min-width: 900px) {
-      .lm-stage.lm-full {
-        display: grid;
-        grid-template-columns: minmax(0, 1fr) 360px;
-        grid-template-rows: auto minmax(0, 1fr) auto;
-        column-gap: 1rem;
-      }
-      .lm-stage.lm-full .lm-controls { grid-column: 1 / -1; }
-      .lm-stage.lm-full .lm-mapwrap { grid-column: 1; grid-row: 2; }
-      .lm-stage.lm-full .lm-branches { grid-column: 1 / -1; grid-row: 3; }
-      .lm-stage.lm-full #lm-person { grid-column: 2; grid-row: 2; max-height: none; margin-top: 0; }
-      .lm-stage.lm-full:has(#lm-person.hidden) .lm-mapwrap { grid-column: 1 / -1; }
-    }
   </style>
-
 
   <script
     type="application/json"

@@ -69,6 +69,22 @@ Notes from the build: `life:` lines are parsed by a small flow-map parser in `ex
 - **Added:** tilt toggle; tilted swoop on clicking a person; follow-selected camera; fullscreen (rail docks beside the map on wide screens); opening reveal on a bare `/map` (generations ink in oldest first, count rolls up, camera converges on Green Bay; Skip button or any touch ends it; never on deep links or reduced motion).
 - **Line styles:** probable/contested legs dashed, burial journeys dotted, resting places as squares (also shown in the all-years view), winter homes as rings.
 
+## Full-bleed layout (built 2026-10-07)
+
+Layout pass only: clock, playback, swoop, follow, reveal, line styles and the data pipeline are unchanged, as are `?year`, `?person`, `?view=bay` and the reveal on a bare `/map`. `BaseLayout` takes `immersive` (no site header/footer, `viewport-fit=cover`); `/map` is the only page that uses it.
+
+- The map fills the viewport and every control floats over it as parchment cards. Top left: "← krumpos.org", title, year and status (Skip sits next to the year during the reveal). Top right: an icon column with Tilt, Follow (now a toggle button), one bay/world toggle whose icon shows where it goes next, fullscreen (hidden where the browser can't do it, e.g. iPhone Safari), and ⓘ. On desktop, zoom and compass join the bottom of that column; phones pinch. Bottom: Play + scrubber, with branch chips under it (one sideways-scrolling row on phones).
+- The person rail is a side panel on screens 900px and wider, and a pull-up sheet below that. The sheet opens at a peek (name and dates) when someone is selected; tap or swipe it up for the whole rail, and down to put it back.
+- The intro and legend moved into the ⓘ card. It opens on the first visit (`localStorage` key `krumpos.lifemap.intro-seen`, try/catch, so it just shows again if storage is blocked) and reopens from the icon.
+- The map's camera padding follows the cards (title card, bar, and the panel or peeking sheet), so fits, the reveal's Green Bay landing and the swoop land in the open part of the map. Padding changes wait for any camera move to finish, so they never cut a swoop short.
+- The attribution stays in the bottom-right corner, above every overlay; phones keep a 34px strip under the bar clear for it.
+- Checked in headless Chromium at 320, 390 and 1280: bare `/map` (mid-reveal and settled), `?year=1856`, `?year=1950&person=claude-coppersmith&view=bay`, the sheet open and closed, and return visits (intro stays shut). Nothing scrolls sideways, nothing covers the attribution, and there are no console errors. Play, the view toggle, chips, Follow, Tilt, close and ⓘ all work at 390 and 1280.
+
+### Open questions (not built)
+
+- **Dots stacking in Green Bay.** By the 1900s a dozen people share a few addresses and the dots sit on top of each other, so only the top one can be tapped. Options: a "who's here" list when a tap hits several people, or bigger, offset hit areas. The list scales better; the bigger hit areas are less UI.
+- **One finger or two to pan on phones.** Today one finger pans, as before. Because the page is full-bleed there's no page scroll to fight, so one finger is probably right. Two-finger pan would only matter if the map were ever embedded in a scrolling page again.
+
 ## Decisions (2026-10-06)
 
 - Direct line only for now; collaterals later if ever.
