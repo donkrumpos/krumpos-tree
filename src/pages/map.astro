@@ -2,6 +2,19 @@
 import BaseLayout from '../layouts/BaseLayout.astro';
 import ancestorsData from '../data/ancestors.json';
 import placesData from '../data/places.json';
+import { branchDefs } from '../lib/branches';
+
+type LifeEvent = {
+  year: number;
+  date?: string;
+  between?: [number, number];
+  circa?: boolean;
+  place: string;
+  kind: string;
+  certainty?: string;
+  source?: string;
+  note?: string;
+};
 
 type AncestorRecord = {
   id: string;
@@ -10,113 +23,68 @@ type AncestorRecord = {
   surname: string;
   birth: string;
   death: string;
-  birth_place: string;
-  death_place: string;
   generation: number;
-  gender: string;
+  branch: string;
+  life: LifeEvent[];
+  life_source: 'life' | 'birth-death';
 };
 
-type PlaceRecord = {
-  lat: number | null;
-  lon: number | null;
-  display_name?: string;
-  source?: string;
-};
+type PlaceRecord = { lat: number | null; lon: number | null };
 
 const ancestors = ancestorsData as AncestorRecord[];
 const places = placesData as Record<string, PlaceRecord>;
 
-// Deterministic surname palette — order matters so colors are stable across builds
-const palette = [
-  '#8b6f4e', // accent brown
-  '#2e5d3a', // forest green
-  '#7a3b2e', // brick red
-  '#4a5d7e', // dusk blue
-  '#a06b2e', // burnt orange
-  '#3b6a6a', // teal
-  '#7d5a8e', // muted purple
-  '#8a6d2e', // ochre
-  '#5e7d3e', // olive
-  '#6b3e3e', // wine
-  '#3e6b8a', // slate blue
-  '#b07a3e', // amber
-  '#4e7a5e', // moss
-  '#8a4e6b', // rose
-  '#6b4e8a', // violet
-  '#8a8a3e', // mustard
-];
-
-const surnames = [...new Set(ancestors.map((a) => a.surname))].sort();
-const surnameColor: Record<string, string> = Object.fromEntries(
-  surnames.map((s, i) => [s, palette[i % palette.length]])
-);
-
-function placeFor(name: string): PlaceRecord | null {
-  if (!name) return null;
-  const p = places[name];
-  if (!p || p.lat == null || p.lon == null) return null;
-  return p;
-}
-
-type Point = {
-  id: string;
-  slug: string;
-  name: string;
-  surname: string;
-  birth: string;
-  death: string;
-  birth_place: string;
-  death_place: string;
-  birthLat: number;
-  birthLon: number;
-  deathLat: number | null;
-  deathLon: number | null;
-  color: string;
-  generation: number;
+// One color per branch (the four grandparent lines), not per surname.
+const branchColor: Record<string, string> = {
+  home: '#3d2e1e',
+  krumpos: '#7a3b2e',
+  coppersmith: '#2e5d3a',
+  martin: '#4a5d7e',
+  schmidt: '#a06b2e',
+};
+const branchLabel: Record<string, string> = {
+  home: 'Parents',
+  ...Object.fromEntries(Object.entries(branchDefs).map(([k, b]) => [k, b.title.replace(' Branch', '')])),
 };
 
-const points: Point[] = ancestors
-  .map((a): Point | null => {
-    const bp = placeFor(a.birth_place);
-    if (!bp) return null;
-    const dp = placeFor(a.death_place);
+function yearOf(s: string): number | null {
+  const m = String(s || '').match(/(\d{4})/);
+  return m ? Number(m[1]) : null;
+}
+
+const people = ancestors
+  .map((a) => {
+    const events = a.life.map((ev) => {
+      const p = places[ev.place];
+      const ok = p && p.lat != null && p.lon != null;
+      return { ...ev, lat: ok ? p.lat : null, lon: ok ? p.lon : null };
+    });
+    const born = events.find((e) => e.kind === 'born');
+    const died = events.find((e) => e.kind === 'died');
     return {
       id: a.id,
       slug: a.slug,
       name: a.name,
-      surname: a.surname,
-      birth: a.birth,
-      death: a.death,
-      birth_place: a.birth_place,
-      death_place: a.death_place,
-      birthLat: bp.lat as number,
-      birthLon: bp.lon as number,
-      deathLat: dp ? (dp.lat as number) : null,
-      deathLon: dp ? (dp.lon as number) : null,
-      color: surnameColor[a.surname] || '#666',
+      branch: a.branch,
       generation: a.generation,
+      traced: a.life_source === 'life',
+      birthYear: born?.year ?? yearOf(a.birth),
+      deathYear: died?.year ?? yearOf(a.death),
+      events,
     };
   })
-  .filter((p): p is Point => p !== null);
+  .filter((p) => p.events.some((e) => e.lat != null));
 
-// Surnames that actually appear on the map (after filtering for geocoded birthplaces)
-const mappedSurnames = [...new Set(points.map((p) => p.surname))].sort();
-
-const totalAncestors = ancestors.length;
-const mappedCount = points.length;
-const skippedCount = totalAncestors - mappedCount;
-const countriesShown = new Set(
-  points.map((p) => {
-    const cleaned = p.birth_place.replace(/\s*\([^)]*\)\s*/g, '').trim();
-    const tokens = cleaned.split(',').map((t) => t.trim());
-    return tokens[tokens.length - 1] || '?';
-  })
-);
+const allYears = people.flatMap((p) => p.events.map((e) => e.year));
+const timeMin = Math.floor(Math.min(...allYears) / 10) * 10;
+const timeMaxEvent = Math.max(...allYears);
+const tracedCount = people.filter((p) => p.traced).length;
+const branchesShown = Object.keys(branchColor).filter((b) => people.some((p) => p.branch === b));
 ---
 
 <BaseLayout
   title="Family Map"
-  description="Birthplaces of direct ancestors plotted on a map of North America and Europe."
+  description="Scrub through time and watch the direct ancestors born, crossing, settling, and moving across Europe and North America."
 >
   <link
     rel="stylesheet"
@@ -125,48 +93,81 @@ const countriesShown = new Set(
     crossorigin=""
   />
 
-  <h1 class="font-serif text-3xl text-[var(--color-dark-brown)] mb-2">Where they came from</h1>
-  <p class="text-sm text-[var(--color-warm-gray)] mb-6">
-    {mappedCount} of {totalAncestors} direct ancestors plotted by birthplace.
-    {skippedCount} have no birthplace recorded.
-    Each color is a surname. Lines run from birthplace to death place when both are known.
+  <h1 class="font-serif text-3xl text-[var(--color-dark-brown)] mb-2">Where they lived</h1>
+  <p class="text-sm text-[var(--color-warm-gray)] mb-5">
+    Drag through the years and the map shows the direct line as it stood: who was alive, where,
+    and where they went next. {people.length} ancestors are on the map. {tracedCount} have their
+    whole lives traced so far, with census homes, crossings, and moves. The rest show only where they
+    were born and died. More gets added as the records turn up.
   </p>
+
+  <div class="lifemap-controls mb-3">
+    <div class="flex items-baseline gap-3">
+      <span id="lm-year" class="font-serif text-4xl tabular-nums text-[var(--color-dark-brown)]">All years</span>
+      <span id="lm-status" class="text-sm text-[var(--color-warm-gray)]"></span>
+    </div>
+    <div class="flex items-center gap-3 mt-2">
+      <button
+        id="lm-play"
+        type="button"
+        class="shrink-0 rounded border border-[var(--color-accent-light)] px-3 py-1 text-sm text-[var(--color-dark-brown)] hover:bg-[var(--color-parchment-dark)]"
+        aria-label="Play through the years"
+      >▶ Play</button>
+      <span class="text-xs tabular-nums text-[var(--color-muted)]">{timeMin}</span>
+      <input
+        id="lm-slider"
+        type="range"
+        min={timeMin}
+        max={timeMaxEvent + 1}
+        step="1"
+        value={timeMaxEvent + 1}
+        aria-label="Show the family as of this year"
+        class="flex-1 cursor-pointer"
+        style="accent-color: var(--color-accent);"
+      />
+      <span class="text-xs text-[var(--color-muted)]">all</span>
+    </div>
+  </div>
 
   <div
     id="ancestor-map"
-    class="w-full h-[600px] rounded border border-[var(--color-parchment-dark)]"
+    class="w-full h-[70vh] min-h-[420px] max-h-[640px] rounded border border-[var(--color-parchment-dark)]"
   ></div>
 
-  <div class="mt-4">
-    <h2 class="font-serif text-lg text-[var(--color-dark-brown)] mb-2">Surnames on the map</h2>
-    <div class="flex flex-wrap gap-x-4 gap-y-1 text-sm">
-      {
-        mappedSurnames.map((s) => (
-          <button
-            type="button"
-            data-surname={s}
-            class="map-legend-item flex items-center gap-2 hover:opacity-70"
-          >
-            <span
-              class="inline-block w-3 h-3 rounded-full"
-              style={`background-color: ${surnameColor[s]}`}
-            ></span>
-            <span>{s}</span>
-          </button>
-        ))
-      }
-    </div>
-    <p class="text-xs text-[var(--color-muted)] mt-3">
-      Showing birthplaces in {countriesShown.size} countries / regions.
-      The Belgian (Mélin) and German (Wittenberg, Daaden) ancestors aren't yet on the map —
-      those records exist in the archive but are missing parent links or birthplace fields.
-    </p>
+  <div class="mt-3 flex flex-wrap items-center gap-x-4 gap-y-2 text-sm">
+    {
+      branchesShown.map((b) => (
+        <button
+          type="button"
+          data-branch={b}
+          aria-pressed="true"
+          class="lm-branch flex items-center gap-2 hover:opacity-70"
+        >
+          <span class="inline-block w-3 h-3 rounded-full" style={`background-color: ${branchColor[b]}`}></span>
+          <span>{branchLabel[b] ?? b}</span>
+        </button>
+      ))
+    }
+    <span class="ml-auto flex gap-2 text-xs">
+      <button type="button" data-view="all" class="lm-view underline decoration-dotted">Whole map</button>
+      <button type="button" data-view="bay" class="lm-view underline decoration-dotted">Green Bay</button>
+    </span>
   </div>
+  <p class="text-xs text-[var(--color-muted)] mt-2">
+    Dot = living that year · small square = resting place · dashed = probable, not yet proven ·
+    dotted line = brought home for burial · ring = a winter home.
+  </p>
+
+  <style is:global>
+    .lm-tiles { filter: grayscale(0.55) sepia(0.3) contrast(0.92) brightness(1.04); }
+  </style>
+
+  <section id="lm-person" class="mt-6 hidden" aria-live="polite"></section>
 
   <script
     type="application/json"
     id="map-data"
-    set:html={JSON.stringify({ points, surnameColor })}
+    set:html={JSON.stringify({ people, branchColor, branchLabel, timeMin, timeAll: timeMaxEvent + 1 })}
   />
 
   <script
@@ -178,149 +179,249 @@ const countriesShown = new Set(
 
   <script is:inline>
     (function () {
-      function escapeHtml(s) {
-        return String(s || '')
-          .replace(/&/g, '&amp;')
-          .replace(/</g, '&lt;')
-          .replace(/>/g, '&gt;')
-          .replace(/"/g, '&quot;');
-      }
+      // No death date on record: let them leave the map this many years after
+      // their first event, without a stone, rather than live forever.
+      var UNKNOWN_SPAN = 80;
+      var BAY = [[44.4, -88.2], [44.75, -87.55]];
 
-      function formatYear(d) {
-        if (!d) return '';
-        const s = String(d);
-        const m = s.match(/(\d{4})/);
-        return m ? m[1] : s;
-      }
-
-      function lifespan(birth, death) {
-        const b = formatYear(birth);
-        const d = formatYear(death);
-        if (b && d) return `${b}–${d}`;
-        if (b) return `b. ${b}`;
-        if (d) return `d. ${d}`;
-        return '';
-      }
-
-      function haversineKm(lat1, lon1, lat2, lon2) {
-        const R = 6371;
-        const toRad = (x) => (x * Math.PI) / 180;
-        const dLat = toRad(lat2 - lat1);
-        const dLon = toRad(lon2 - lon1);
-        const a =
-          Math.sin(dLat / 2) ** 2 +
-          Math.cos(toRad(lat1)) * Math.cos(toRad(lat2)) * Math.sin(dLon / 2) ** 2;
-        return 2 * R * Math.asin(Math.sqrt(a));
+      function esc(s) {
+        return String(s == null ? '' : s)
+          .replace(/&/g, '&amp;').replace(/</g, '&lt;')
+          .replace(/>/g, '&gt;').replace(/"/g, '&quot;');
       }
 
       function init() {
-        const dataNode = document.getElementById('map-data');
-        if (!dataNode || !window.L) return;
-        const data = JSON.parse(dataNode.textContent);
-        const points = data.points;
+        var node = document.getElementById('map-data');
+        if (!node || !window.L) return;
+        var data = JSON.parse(node.textContent);
+        var people = data.people;
+        var ALL = data.timeAll;
 
-        const map = L.map('ancestor-map', {
-          worldCopyJump: true,
-        });
-
-        L.tileLayer('https://{s}.basemaps.cartocdn.com/rastertiles/voyager/{z}/{x}/{y}{r}.png', {
-          attribution:
-            '&copy; <a href="https://openstreetmap.org/copyright">OpenStreetMap</a> contributors &copy; <a href="https://carto.com/attributions">CARTO</a>',
-          subdomains: 'abcd',
+        var map = L.map('ancestor-map', { worldCopyJump: true });
+        // Carto's free Voyager tiles now answer "API key required"; OSM's
+        // standard tiles, toned to the parchment palette in CSS below.
+        L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
+          attribution: '&copy; <a href="https://openstreetmap.org/copyright">OpenStreetMap</a> contributors',
           maxZoom: 19,
+          className: 'lm-tiles',
         }).addTo(map);
+        var layer = L.layerGroup().addTo(map);
 
-        const markersBySurname = {};
-        const arcsBySurname = {};
-        const allLatLngs = [];
-
-        points.forEach((p) => {
-          const popup = `
-            <div style="font-family: Georgia, serif; min-width: 180px;">
-              <div style="font-size: 1rem; font-weight: 600; color: #3d2e1e;">${escapeHtml(p.name)}</div>
-              <div style="font-size: 0.85rem; color: #6b6560; margin-bottom: 4px;">${escapeHtml(lifespan(p.birth, p.death))}</div>
-              <div style="font-size: 0.85rem; color: #2c2420;">
-                <strong>Born:</strong> ${escapeHtml(p.birth_place)}
-              </div>
-              ${p.death_place ? `<div style="font-size: 0.85rem; color: #2c2420;"><strong>Died:</strong> ${escapeHtml(p.death_place)}</div>` : ''}
-              <div style="font-size: 0.75rem; color: #9a918a; margin-top: 6px;">
-                Generation ${p.generation} &middot; ${escapeHtml(p.surname)}
-              </div>
-              <a href="/person/${escapeHtml(p.slug)}/" style="font-size: 0.85rem; color: #8b6f4e; display: inline-block; margin-top: 6px;">View record →</a>
-            </div>
-          `;
-
-          const marker = L.circleMarker([p.birthLat, p.birthLon], {
-            radius: 6,
-            fillColor: p.color,
-            color: '#3d2e1e',
-            weight: 1,
-            opacity: 0.9,
-            fillOpacity: 0.85,
-          }).bindPopup(popup);
-
-          marker.addTo(map);
-          (markersBySurname[p.surname] = markersBySurname[p.surname] || []).push(marker);
-          allLatLngs.push([p.birthLat, p.birthLon]);
-
-          // Draw migration arc if death place is known and meaningfully distant
-          if (
-            p.deathLat != null &&
-            p.deathLon != null &&
-            haversineKm(p.birthLat, p.birthLon, p.deathLat, p.deathLon) > 50
-          ) {
-            const arc = L.polyline(
-              [
-                [p.birthLat, p.birthLon],
-                [p.deathLat, p.deathLon],
-              ],
-              {
-                color: p.color,
-                weight: 1.5,
-                opacity: 0.55,
-                dashArray: '4,4',
-              }
-            );
-            arc.addTo(map);
-            (arcsBySurname[p.surname] = arcsBySurname[p.surname] || []).push(arc);
-            allLatLngs.push([p.deathLat, p.deathLon]);
-          }
+        var allCoords = [];
+        people.forEach(function (p) {
+          p.events.forEach(function (e) { if (e.lat != null) allCoords.push([e.lat, e.lon]); });
         });
+        function fitAll() { map.fitBounds(allCoords, { padding: [30, 30] }); }
 
-        if (allLatLngs.length) {
-          map.fitBounds(allLatLngs, { padding: [30, 30] });
-        } else {
-          map.setView([45, -75], 3);
+        var slider = document.getElementById('lm-slider');
+        var yearEl = document.getElementById('lm-year');
+        var statusEl = document.getElementById('lm-status');
+        var playBtn = document.getElementById('lm-play');
+        var personEl = document.getElementById('lm-person');
+        var hidden = new Set();
+        var selectedId = null;
+
+        function placed(p) { return p.events.filter(function (e) { return e.lat != null; }); }
+        function startYear(p) { return p.birthYear != null ? p.birthYear : p.events[0].year; }
+        function soft(e) { return e.certainty === 'probable' || e.certainty === 'contested' || e.circa; }
+
+        // Where a person stands in year Y: null = not on the map that year.
+        function stateAt(p, Y) {
+          var evs = placed(p);
+          if (Y >= ALL) {
+            return { mode: 'all', at: evs[0], trail: evs };
+          }
+          if (startYear(p) > Y) return null;
+          var upto = evs.filter(function (e) { return e.year <= Y; });
+          if (!upto.length) return null;
+          var dead = p.deathYear != null && p.deathYear <= Y;
+          if (!dead && p.deathYear == null && Y > startYear(p) + UNKNOWN_SPAN) return null;
+          var home = upto.filter(function (e) { return e.kind !== 'buried' && e.kind !== 'seasonal'; });
+          var seasonal = upto.filter(function (e) { return e.kind === 'seasonal'; }).pop();
+          var at = dead
+            ? (upto.filter(function (e) { return e.kind === 'buried'; }).pop() || home[home.length - 1])
+            : home[home.length - 1];
+          if (!at) return null;
+          return {
+            mode: dead ? 'dead' : 'alive',
+            at: at,
+            trail: upto.filter(function (e) { return e.kind !== 'seasonal'; }),
+            seasonal: dead ? null : seasonal,
+            fresh: !dead && at.year === Y && at.kind !== 'born',
+          };
         }
 
-        // Legend toggling: click a surname to hide/show its layers
-        const hidden = new Set();
-        document.querySelectorAll('.map-legend-item').forEach((btn) => {
-          btn.addEventListener('click', () => {
-            const surname = btn.getAttribute('data-surname');
-            const isHidden = hidden.has(surname);
-            const markers = markersBySurname[surname] || [];
-            const arcs = arcsBySurname[surname] || [];
-            if (isHidden) {
-              markers.forEach((m) => m.addTo(map));
-              arcs.forEach((a) => a.addTo(map));
-              hidden.delete(surname);
-              btn.style.opacity = '1';
-            } else {
-              markers.forEach((m) => map.removeLayer(m));
-              arcs.forEach((a) => map.removeLayer(a));
-              hidden.add(surname);
-              btn.style.opacity = '0.35';
+        function lifespan(p) {
+          if (p.birthYear && p.deathYear) return p.birthYear + '–' + p.deathYear;
+          if (p.birthYear) return 'b. ' + p.birthYear;
+          if (p.deathYear) return 'd. ' + p.deathYear;
+          return '';
+        }
+
+        function eventYear(e) {
+          if (e.between) return e.between[0] + '–' + e.between[1];
+          return (e.circa ? 'c. ' : '') + e.year;
+        }
+
+        function renderPerson(Y) {
+          var p = people.find(function (x) { return x.id === selectedId; });
+          if (!p) { personEl.classList.add('hidden'); personEl.innerHTML = ''; return; }
+          var rows = p.events.map(function (e) {
+            var future = Y < ALL && e.year > Y;
+            return '<li class="flex gap-3 py-1 ' + (future ? 'opacity-40' : '') + '">' +
+              '<span class="w-24 shrink-0 tabular-nums text-[var(--color-warm-gray)]">' + esc(eventYear(e)) + '</span>' +
+              '<span><span class="font-semibold">' + esc(e.kind) + '</span> · ' + esc(e.place) +
+              (soft(e) ? ' <em class="text-[var(--color-muted)]">(' + esc(e.certainty || 'approximate') + ')</em>' : '') +
+              (e.source ? '<span class="block text-xs text-[var(--color-muted)]">' + esc(e.source) + '</span>' : '') +
+              (e.note ? '<span class="block text-xs text-[var(--color-muted)]">' + esc(e.note) + '</span>' : '') +
+              '</span></li>';
+          }).join('');
+          personEl.innerHTML =
+            '<div class="flex items-baseline justify-between gap-3">' +
+              '<h2 class="font-serif text-xl text-[var(--color-dark-brown)]">' + esc(p.name) + '</h2>' +
+              '<button type="button" id="lm-close" class="text-sm text-[var(--color-muted)]" aria-label="Close">✕</button>' +
+            '</div>' +
+            '<p class="text-sm text-[var(--color-warm-gray)] mb-2">' + esc(lifespan(p)) + ' · ' +
+              esc(data.branchLabel[p.branch] || p.branch) + ' line · generation ' + p.generation +
+              (p.traced ? '' : ' · <em>birth and death only so far</em>') + '</p>' +
+            '<ol class="text-sm border-l-2 pl-3" style="border-color:' + data.branchColor[p.branch] + '">' + rows + '</ol>' +
+            '<a class="inline-block mt-3 text-sm" href="/person/' + esc(p.slug) + '/">View the full record →</a>';
+          personEl.classList.remove('hidden');
+          document.getElementById('lm-close').onclick = function () { select(null); };
+        }
+
+        function select(id) {
+          selectedId = id;
+          render(Number(slider.value));
+          syncUrl(Number(slider.value));
+        }
+
+        function render(Y) {
+          layer.clearLayers();
+          var living = 0;
+          var placesNow = new Set();
+          people.forEach(function (p) {
+            if (hidden.has(p.branch)) return;
+            var s = stateAt(p, Y);
+            if (!s) return;
+            var color = data.branchColor[p.branch] || '#666';
+            var chosen = p.id === selectedId;
+            var faint = s.mode === 'dead' || s.mode === 'all';
+
+            for (var i = 1; i < s.trail.length; i++) {
+              var a = s.trail[i - 1], b = s.trail[i];
+              if (a.lat === b.lat && a.lon === b.lon) continue;
+              L.polyline([[a.lat, a.lon], [b.lat, b.lon]], {
+                color: color,
+                weight: chosen ? 3 : 1.8,
+                opacity: chosen ? 0.9 : faint ? 0.3 : 0.6,
+                dashArray: b.kind === 'buried' ? '1,6' : soft(b) ? '5,5' : null,
+                interactive: false,
+              }).addTo(layer);
             }
+
+            if (s.seasonal) {
+              L.circleMarker([s.seasonal.lat, s.seasonal.lon], {
+                radius: 7, color: color, weight: 1.5, fill: false, opacity: 0.7,
+              }).addTo(layer);
+            }
+
+            var marker;
+            if (s.mode === 'dead') {
+              marker = L.marker([s.at.lat, s.at.lon], {
+                icon: L.divIcon({
+                  className: '',
+                  html: '<span style="display:block;width:8px;height:8px;background:#cfc6b8;border:1.5px solid ' + color + ';opacity:' + (chosen ? 1 : 0.75) + '"></span>',
+                  iconSize: [8, 8],
+                }),
+              });
+            } else {
+              if (s.mode === 'alive') { living++; placesNow.add(s.at.place); }
+              marker = L.circleMarker([s.at.lat, s.at.lon], {
+                radius: chosen ? 9 : s.fresh ? 8 : 6,
+                fillColor: color,
+                color: chosen ? '#000' : '#3d2e1e',
+                weight: chosen ? 2 : 1,
+                dashArray: soft(s.at) ? '3,3' : null,
+                fillOpacity: s.mode === 'all' ? 0.75 : 0.9,
+              });
+            }
+            marker
+              .bindTooltip(esc(p.name) + ' <span style="color:#9a918a">' + esc(lifespan(p)) + '</span>', { direction: 'top' })
+              .on('click', function () { select(p.id); })
+              .addTo(layer);
+          });
+
+          if (Y >= ALL) {
+            yearEl.textContent = 'All years';
+            statusEl.textContent = 'Each dot is a birthplace; lines follow the life.';
+          } else {
+            yearEl.textContent = Y;
+            statusEl.textContent = living
+              ? living + ' living ' + (living === 1 ? 'ancestor' : 'ancestors') + ' · ' + placesNow.size + (placesNow.size === 1 ? ' place' : ' places')
+              : 'No living ancestors on the map yet';
+          }
+          renderPerson(Y);
+        }
+
+        function syncUrl(Y) {
+          var u = new URL(window.location.href);
+          if (Y >= ALL) u.searchParams.delete('year'); else u.searchParams.set('year', Y);
+          if (selectedId) u.searchParams.set('person', selectedId); else u.searchParams.delete('person');
+          history.replaceState(null, '', u);
+        }
+
+        var timer = null;
+        function stop() {
+          if (timer) clearInterval(timer);
+          timer = null;
+          playBtn.textContent = '▶ Play';
+        }
+        playBtn.addEventListener('click', function () {
+          if (timer) { stop(); return; }
+          if (Number(slider.value) >= ALL - 1) slider.value = data.timeMin;
+          playBtn.textContent = '❚❚ Pause';
+          timer = setInterval(function () {
+            var Y = Number(slider.value) + 1;
+            if (Y >= ALL) { stop(); return; }
+            slider.value = Y;
+            render(Y);
+            syncUrl(Y);
+          }, 140);
+        });
+
+        slider.addEventListener('input', function () {
+          stop();
+          var Y = Number(slider.value);
+          render(Y);
+          syncUrl(Y);
+        });
+
+        document.querySelectorAll('.lm-branch').forEach(function (btn) {
+          btn.addEventListener('click', function () {
+            var b = btn.getAttribute('data-branch');
+            if (hidden.has(b)) hidden.delete(b); else hidden.add(b);
+            btn.setAttribute('aria-pressed', String(!hidden.has(b)));
+            btn.style.opacity = hidden.has(b) ? '0.35' : '1';
+            render(Number(slider.value));
           });
         });
+        document.querySelectorAll('.lm-view').forEach(function (btn) {
+          btn.addEventListener('click', function () {
+            if (btn.getAttribute('data-view') === 'bay') map.fitBounds(BAY); else fitAll();
+          });
+        });
+
+        var params = new URLSearchParams(window.location.search);
+        var qYear = Number(params.get('year'));
+        if (qYear) slider.value = Math.min(ALL, Math.max(data.timeMin, qYear));
+        if (params.get('person')) selectedId = params.get('person');
+        if (params.get('view') === 'bay') map.fitBounds(BAY); else fitAll();
+        render(Number(slider.value));
       }
 
-      if (document.readyState === 'loading') {
-        document.addEventListener('DOMContentLoaded', init);
-      } else {
-        init();
-      }
+      if (document.readyState === 'loading') document.addEventListener('DOMContentLoaded', init);
+      else init();
     })();
   </script>
 </BaseLayout>

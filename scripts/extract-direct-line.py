@@ -45,6 +45,10 @@ def parse_frontmatter(text):
         if not stripped or stripped.startswith('#'):
             continue
 
+        if stripped.startswith('- {') and current_list is not None:
+            current_list.append(parse_flow_map(stripped[2:].strip()))
+            continue
+
         if stripped.startswith('- ') and current_list is not None:
             val = stripped[2:].strip().strip("'\"")
             current_list.append(val)
@@ -73,6 +77,124 @@ def parse_frontmatter(text):
                 current_list = None
 
     return data
+
+
+def split_top(s, sep):
+    """Split on `sep` outside quotes and [brackets]."""
+    parts, buf, quote, depth = [], [], None, 0
+    for c in s:
+        if quote:
+            buf.append(c)
+            if c == quote:
+                quote = None
+        elif c in '"\'':
+            quote = c
+            buf.append(c)
+        elif c == '[':
+            depth += 1
+            buf.append(c)
+        elif c == ']':
+            depth -= 1
+            buf.append(c)
+        elif c == sep and depth == 0:
+            parts.append(''.join(buf))
+            buf = []
+        else:
+            buf.append(c)
+    parts.append(''.join(buf))
+    return parts
+
+
+def parse_scalar(v):
+    v = v.strip()
+    if v.startswith('"') or v.startswith('['):
+        return json.loads(v)
+    if len(v) >= 2 and v[0] == v[-1] == "'":
+        return v[1:-1]
+    if re.fullmatch(r'-?\d+', v):
+        return int(v)
+    if v in ('true', 'false'):
+        return v == 'true'
+    return v
+
+
+def parse_flow_map(s):
+    """Parse a one-line `{ key: value, ... }` map — the `life:` format.
+    Values may be bare words, 'single' or "double" quoted strings, integers,
+    true/false, or [arrays]. Returns {'_error': s} if it can't be read."""
+    s = s.strip()
+    if not (s.startswith('{') and s.endswith('}')):
+        return {'_error': s}
+    out = {}
+    try:
+        for part in split_top(s[1:-1], ','):
+            if not part.strip():
+                continue
+            kv = split_top(part, ':')
+            if len(kv) < 2:
+                return {'_error': s}
+            out[kv[0].strip()] = parse_scalar(':'.join(kv[1:]))
+    except (json.JSONDecodeError, ValueError):
+        return {'_error': s}
+    return out
+
+
+LIFE_KINDS = {
+    'born', 'baptized', 'married', 'census', 'residence', 'moved', 'seasonal',
+    'emigrated', 'arrived', 'died', 'buried',
+}
+CERTAINTIES = {'confirmed', 'probable', 'contested'}
+
+
+def validate_life(person_id, events):
+    """Return a list of error strings for a person's life: list."""
+    errors = []
+    for n, ev in enumerate(events, 1):
+        where = f"{person_id} life[{n}]"
+        if not isinstance(ev, dict) or '_error' in ev:
+            errors.append(f"{where}: unparseable line {ev.get('_error') if isinstance(ev, dict) else ev!r}")
+            continue
+        if not isinstance(ev.get('year'), int):
+            errors.append(f"{where}: year must be an integer")
+        if not ev.get('place'):
+            errors.append(f"{where}: place is required")
+        if ev.get('kind') not in LIFE_KINDS:
+            errors.append(f"{where}: kind {ev.get('kind')!r} not in {sorted(LIFE_KINDS)}")
+        if ev.get('certainty', 'confirmed') not in CERTAINTIES:
+            errors.append(f"{where}: certainty {ev.get('certainty')!r} not in {sorted(CERTAINTIES)}")
+        b = ev.get('between')
+        if b is not None:
+            if not (isinstance(b, list) and len(b) == 2 and all(isinstance(x, int) for x in b)):
+                errors.append(f"{where}: between must be [from, to]")
+            elif isinstance(ev.get('year'), int) and not (b[0] <= ev['year'] <= b[1]):
+                errors.append(f"{where}: year {ev['year']} outside between {b}")
+    return errors
+
+
+def year_of(value):
+    m = re.search(r'(\d{4})', str(value or ''))
+    return int(m.group(1)) if m else None
+
+
+def synthesize_life(data):
+    """No life: list yet — fall back to birth/death places so nobody drops off the map."""
+    events = []
+    by, dy = year_of(data.get('birth')), year_of(data.get('death'))
+    if data.get('birth_place') and by:
+        events.append({'year': by, 'place': data['birth_place'], 'kind': 'born'})
+    if data.get('death_place') and dy:
+        events.append({'year': dy, 'place': data['death_place'], 'kind': 'died'})
+    return events
+
+
+def load_branch_roots(path='src/lib/branches.ts'):
+    """Map generation-2 root id → branch key, read from the site's branch defs."""
+    with open(path, 'r', encoding='utf-8') as f:
+        src = f.read()
+    return {
+        root: key
+        for key, root in re.findall(r"(\w+):\s*\{\s*title:.*?rootId:\s*'([^']+)'", src, re.S)
+    }
 
 
 def normalize_name(name):
@@ -193,13 +315,15 @@ def walk_ancestors(people_dir, root_id):
         print(f"ERROR: id={root_id} not found in {people_dir}", file=sys.stderr)
         sys.exit(1)
 
+    branch_roots = load_branch_roots()
     ancestors = {}  # path → record
-    queue = deque([(by_id[root_id], 0)])
+    life_errors = []
+    queue = deque([(by_id[root_id], 0, 'home')])
     visited = set()
     chain_breaks = []
 
     while queue:
-        (fpath, surname, data), gen = queue.popleft()
+        (fpath, surname, data), gen, branch = queue.popleft()
         if fpath in visited:
             continue
         visited.add(fpath)
@@ -207,8 +331,17 @@ def walk_ancestors(people_dir, root_id):
         if not data.get('name'):
             continue
 
+        person_id = data.get('id', os.path.basename(fpath)[:-3])
+        branch = branch_roots.get(person_id, branch)
+        life = data.get('life')
+        if life:
+            life_errors.extend(validate_life(person_id, life))
+            life = [ev for ev in life if '_error' not in ev]
+        else:
+            life = synthesize_life(data)
+
         ancestors[fpath] = {
-            'id': data.get('id', os.path.basename(fpath)[:-3]),
+            'id': person_id,
             'slug': f"{surname}/{data.get('id', os.path.basename(fpath)[:-3])}",
             'name': data['name'],
             'surname': surname,
@@ -218,6 +351,9 @@ def walk_ancestors(people_dir, root_id):
             'death_place': data.get('death_place', ''),
             'generation': gen,
             'gender': data.get('gender', ''),
+            'branch': branch,
+            'life': sorted(life, key=lambda ev: ev.get('year') or 0),
+            'life_source': 'life' if data.get('life') else 'birth-death',
         }
 
         for parent_ref in (data.get('parents') or []):
@@ -226,11 +362,11 @@ def walk_ancestors(people_dir, root_id):
             resolved = resolve_parent(parent_ref, by_id, by_name)
             if resolved:
                 if resolved[0] not in visited:
-                    queue.append((resolved, gen + 1))
+                    queue.append((resolved, gen + 1, branch))
             else:
                 chain_breaks.append((data['name'], parent_ref))
 
-    return ancestors, chain_breaks
+    return ancestors, chain_breaks, life_errors
 
 
 def main():
@@ -244,7 +380,12 @@ def main():
         print(f"ERROR: {args.source} not found", file=sys.stderr)
         sys.exit(1)
 
-    ancestors, chain_breaks = walk_ancestors(args.source, args.root)
+    ancestors, chain_breaks, life_errors = walk_ancestors(args.source, args.root)
+    if life_errors:
+        print(f"ERROR: {len(life_errors)} invalid life: event(s) — fix in the reliquary source:", file=sys.stderr)
+        for e in life_errors:
+            print(f"  {e}", file=sys.stderr)
+        sys.exit(1)
 
     by_gen = {}
     with_birthplace = 0
@@ -269,6 +410,12 @@ def main():
     print(f"Wrote {len(sorted_records)} ancestors to {args.output}")
     print(f"  By generation: {dict(sorted(by_gen.items()))}")
     print(f"  With birthplace: {with_birthplace}/{len(sorted_records)}")
+    with_life = sum(1 for r in sorted_records if r['life_source'] == 'life')
+    print(f"  With life: lists: {with_life} ({sum(len(r['life']) for r in sorted_records)} events total)")
+    by_branch = {}
+    for r in sorted_records:
+        by_branch[r['branch']] = by_branch.get(r['branch'], 0) + 1
+    print(f"  By branch: {dict(sorted(by_branch.items()))}")
     if countries:
         print(f"  Countries: {sorted(countries)}")
     if chain_breaks:

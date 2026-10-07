@@ -75,7 +75,19 @@ def collect_places(ancestors):
             if not raw:
                 continue
             places.setdefault(raw, []).append(f"{rec['name']} ({field})")
+        for ev in rec.get('life', []):
+            raw = ev.get('place', '')
+            if raw:
+                places.setdefault(raw, []).append(f"{rec['name']} ({ev.get('kind')} {ev.get('year')})")
     return places
+
+
+def without_county(query):
+    """'1630 Eastman Avenue, Green Bay, Brown County, Wisconsin' → drop the
+    'X County' segment, which Nominatim often refuses for street addresses."""
+    parts = [p.strip() for p in query.split(',')]
+    kept = [p for p in parts if not re.search(r'\bCounty$', p)]
+    return ', '.join(kept) if len(kept) < len(parts) else None
 
 
 def main():
@@ -119,16 +131,27 @@ def main():
             overridden += 1
             continue
 
-        if not args.force and raw in cache and cache[raw].get('source') != 'failed':
-            continue
-
         query = normalize_place(raw)
         if not query:
+            continue
+
+        # A bare country or state ('Canada', 'Wisconsin', 'Belgium (probable)')
+        # would plot at its centroid, a false claim on a map. Leave it unplotted.
+        if ',' not in query:
+            cache[raw] = {'lat': None, 'lon': None, 'query': query, 'source': 'too-vague'}
+            continue
+
+        if not args.force and raw in cache and cache[raw].get('source') != 'failed':
             continue
 
         print(f"  Geocoding: {raw}")
         time.sleep(RATE_LIMIT_SEC)
         result = geocode(query)
+        if not result and without_county(query):
+            query = without_county(query)
+            print(f"    retry: {query}")
+            time.sleep(RATE_LIMIT_SEC)
+            result = geocode(query)
         if result:
             cache[raw] = {
                 'lat': result['lat'],

@@ -1,4 +1,39 @@
 {
+  "136 Garfield Street, Green Bay, Brown County, Wisconsin": {
+    "display_name": "136, Garfield Street, Western Corridor, Green Bay, Brown County, Wisconsin, 54303, United States",
+    "lat": 44.5215265,
+    "lon": -88.0401691,
+    "query": "136 Garfield Street, Green Bay, Brown County, Wisconsin",
+    "source": "nominatim"
+  },
+  "1630 Eastman Avenue, Green Bay, Brown County, Wisconsin": {
+    "display_name": "1630, Eastman Avenue, Olde North, Green Bay, Brown County, Wisconsin, 54302, United States",
+    "lat": 44.5169478,
+    "lon": -87.9819436,
+    "query": "1630 Eastman Avenue, Green Bay, Brown County, Wisconsin",
+    "source": "nominatim"
+  },
+  "219 North Van Buren Street, Green Bay, Brown County, Wisconsin": {
+    "display_name": "219, North Van Buren Street, Whitney Park, Green Bay, Brown County, Wisconsin, 54301, United States",
+    "lat": 44.5120667,
+    "lon": -88.0055048,
+    "query": "219 North Van Buren Street, Green Bay, Brown County, Wisconsin",
+    "source": "nominatim"
+  },
+  "Allouez Catholic Cemetery, Green Bay, Brown County, Wisconsin": {
+    "display_name": "Allouez Cemetery, Allouez, Brown County, Wisconsin",
+    "lat": 44.4836,
+    "lon": -88.0267,
+    "note": "OSM names it 'Allouez Cemetery' (Riverside Dr, Allouez); Nominatim matched a Michigan cemetery for the full name",
+    "source": "override"
+  },
+  "Antwerp, Belgium": {
+    "display_name": "Antwerpen, Vlaanderen, België / Belgique / Belgien",
+    "lat": 51.2211097,
+    "lon": 4.3997081,
+    "query": "Antwerp, Belgium",
+    "source": "nominatim"
+  },
   "Baden, Germany": {
     "display_name": "Baden, Achim, Landkreis Verden, Niedersachsen, Deutschland",
     "lat": 53.0023496,
@@ -27,12 +62,18 @@
     "query": "Beauvechain, Brabant, Belgium",
     "source": "nominatim"
   },
-  "Belgium (probable Mélin area)": {
-    "display_name": "België / Belgique / Belgien",
-    "lat": 50.6402809,
-    "lon": 4.6667145,
-    "query": "Belgium",
+  "Beauvechain, Walloon Brabant, Belgium": {
+    "display_name": "Beauvechain, Nivelles, Brabant wallon, Wallonie, 1320, België / Belgique / Belgien",
+    "lat": 50.7808981,
+    "lon": 4.7717304,
+    "query": "Beauvechain, Walloon Brabant, Belgium",
     "source": "nominatim"
+  },
+  "Belgium (probable Mélin area)": {
+    "lat": null,
+    "lon": null,
+    "query": "Belgium",
+    "source": "too-vague"
   },
   "Belgium (probable)": {
     "display_name": "België / Belgique / Belgien",
@@ -70,11 +111,10 @@
     "source": "nominatim"
   },
   "Canada": {
-    "display_name": "Canada",
-    "lat": 61.0666922,
-    "lon": -107.991707,
+    "lat": null,
+    "lon": null,
     "query": "Canada",
-    "source": "nominatim"
+    "source": "too-vague"
   },
   "Chambly, Quebec, Canada": {
     "display_name": "Chambly, La Vallée-du-Richelieu, Montérégie, Québec, Canada",
@@ -147,11 +187,10 @@
     "source": "nominatim"
   },
   "England": {
-    "display_name": "England, United Kingdom",
-    "lat": 52.5310214,
-    "lon": -1.2649062,
+    "lat": null,
+    "lon": null,
     "query": "England",
-    "source": "nominatim"
+    "source": "too-vague"
   },
   "Fall River, Bristol County, Massachusetts": {
     "display_name": "Fall River, Bristol County, Massachusetts, United States",
@@ -189,11 +228,10 @@
     "source": "nominatim"
   },
   "Germany": {
-    "display_name": "Deutschland",
-    "lat": 51.1638175,
-    "lon": 10.4478313,
+    "lat": null,
+    "lon": null,
     "query": "Germany",
-    "source": "nominatim"
+    "source": "too-vague"
   },
   "Green Bay, Brown County, Wisconsin": {
     "display_name": "Green Bay, Brown County, Wisconsin, United States",
@@ -335,6 +373,13 @@
     "query": "Montreal, Quebec, Canada",
     "source": "nominatim"
   },
+  "Mount Calvary Cemetery, De Pere, Brown County, Wisconsin": {
+    "display_name": "Mount Calvary Cemetery, Ashwaubenon, Brown County, Wisconsin",
+    "lat": 44.4572,
+    "lon": -88.0994,
+    "note": "De Pere mailing address; OSM places it in Ashwaubenon",
+    "source": "override"
+  },
   "Mélin, Brabant Wallon, Belgium": {
     "display_name": "Mélin, Jodoigne, Nivelles, Brabant wallon, Wallonie, 1370, België / Belgique / Belgien",
     "lat": 50.7401063,
@@ -356,6 +401,13 @@
     "query": "Mélin, Brabant, Belgium",
     "source": "nominatim"
   },
+  "Mélin, Walloon Brabant, Belgium": {
+    "display_name": "Mélin, Jodoigne, Nivelles, Brabant wallon, Wallonie, 1370, België / Belgique / Belgien",
+    "lat": 50.7401063,
+    "lon": 4.8286491,
+    "query": "Mélin, Walloon Brabant, Belgium",
+    "source": "nominatim"
+  },
   "New London area, Waupaca County, Wisconsin (probable)": {
     "display_name": "New London, Waupaca County, Wisconsin, United States",
     "lat": 44.3929,
@@ -370,11 +422,25 @@
     "query": "New London, Outagamie County, Wisconsin",
     "source": "nominatim"
   },
+  "New York, New York": {
+    "display_name": "New York, United States",
+    "lat": 40.7127281,
+    "lon": -74.0060152,
+    "query": "New York, New York",
+    "source": "nominatim"
+  },
   "Oconto, Oconto County, Wisconsin": {
     "display_name": "Oconto, Oconto County, Wisconsin, 54153, United States",
     "lat": 44.8880199,
     "lon": -87.8696182,
     "query": "Oconto, Oconto County, Wisconsin",
+    "source": "nominatim"
+  },
+  "Oregon, Dane County, Wisconsin": {
+    "display_name": "Oregon, Dane County, Wisconsin, 53575, United States",
+    "lat": 42.9259657,
+    "lon": -89.3842779,
+    "query": "Oregon, Dane County, Wisconsin",
     "source": "nominatim"
   },
   "Outagamie County, Wisconsin": {
@@ -390,6 +456,13 @@
     "lon": -73.4542915,
     "query": "Plattsburgh, Clinton County, New York",
     "source": "nominatim"
+  },
+  "Point Comfort, Nicolet Drive, Green Bay, Brown County, Wisconsin": {
+    "display_name": "Point Comfort Road, Benderville, Town of Scott, Brown County, Wisconsin",
+    "lat": 44.6153,
+    "lon": -87.8552,
+    "note": "Approximate: Point Comfort Road off Nicolet Drive; exact house unknown",
+    "source": "override"
   },
   "Québec City, Quebec, Canada": {
     "display_name": "Québec, Agglomération de Québec, Capitale-Nationale, Québec, Canada",
@@ -426,11 +499,32 @@
     "query": "Rivière-du-Sud, Montmagny, Quebec, Canada",
     "source": "nominatim"
   },
+  "Robinsonville (Champion), Brown County, Wisconsin": {
+    "display_name": "Champion, Town of Green Bay, Brown County, Wisconsin",
+    "lat": 44.5892,
+    "lon": -87.7945,
+    "note": "Robinsonville = today's Champion",
+    "source": "override"
+  },
   "Rouen, Seine-Maritime, Normandy, France": {
     "display_name": "Rouen, Seine-Maritime, Normandie, France métropolitaine, France",
     "lat": 49.4404591,
     "lon": 1.0939658,
     "query": "Rouen, Seine-Maritime, Normandy, France",
+    "source": "nominatim"
+  },
+  "Sappa Township, Harlan County, Nebraska": {
+    "display_name": "Sappa Creek area, Harlan County, Nebraska",
+    "lat": 40.08,
+    "lon": -99.53,
+    "note": "Approximate: Sappa Peak / Sappa Creek; township boundary not in OSM",
+    "source": "override"
+  },
+  "South Irwin Avenue, Green Bay, Brown County, Wisconsin": {
+    "display_name": "South Irwin Avenue, Astor East, Green Bay, Brown County, Wisconsin, 54301, United States",
+    "lat": 44.4990042,
+    "lon": -88.0038357,
+    "query": "South Irwin Avenue, Green Bay, Brown County, Wisconsin",
     "source": "nominatim"
   },
   "St Antoine de Padoue, Longueuil, Chambly, Quebec, Canada": {
@@ -475,6 +569,13 @@
     "query": "Sturgeon Bay, Door County, Wisconsin",
     "source": "nominatim"
   },
+  "Town of Green Bay, Brown County, Wisconsin": {
+    "display_name": "Town of Green Bay, Brown County, Wisconsin, United States",
+    "lat": 44.5986054,
+    "lon": -87.794377,
+    "query": "Town of Green Bay, Brown County, Wisconsin",
+    "source": "nominatim"
+  },
   "Trhanov, Bohemia": {
     "display_name": "Trhanov, okres Domažlice, Plzeňský kraj, Czechia",
     "lat": 49.4237,
@@ -490,10 +591,9 @@
     "source": "nominatim"
   },
   "Wisconsin": {
-    "display_name": "Wisconsin, United States",
-    "lat": 44.4308975,
-    "lon": -89.6884637,
+    "lat": null,
+    "lon": null,
     "query": "Wisconsin",
-    "source": "nominatim"
+    "source": "too-vague"
   }
 }

@@ -52,5 +52,35 @@
     "lon": -71.208,
     "display_name": "Québec City (assumed), Québec, Canada",
     "note": "Generic 'Québec' — defaulting to Quebec City as historical reference"
+  },
+  "Allouez Catholic Cemetery, Green Bay, Brown County, Wisconsin": {
+    "lat": 44.4836,
+    "lon": -88.0267,
+    "display_name": "Allouez Cemetery, Allouez, Brown County, Wisconsin",
+    "note": "OSM names it 'Allouez Cemetery' (Riverside Dr, Allouez); Nominatim matched a Michigan cemetery for the full name"
+  },
+  "Mount Calvary Cemetery, De Pere, Brown County, Wisconsin": {
+    "lat": 44.4572,
+    "lon": -88.0994,
+    "display_name": "Mount Calvary Cemetery, Ashwaubenon, Brown County, Wisconsin",
+    "note": "De Pere mailing address; OSM places it in Ashwaubenon"
+  },
+  "Point Comfort, Nicolet Drive, Green Bay, Brown County, Wisconsin": {
+    "lat": 44.6153,
+    "lon": -87.8552,
+    "display_name": "Point Comfort Road, Benderville, Town of Scott, Brown County, Wisconsin",
+    "note": "Approximate: Point Comfort Road off Nicolet Drive; exact house unknown"
+  },
+  "Robinsonville (Champion), Brown County, Wisconsin": {
+    "lat": 44.5892,
+    "lon": -87.7945,
+    "display_name": "Champion, Town of Green Bay, Brown County, Wisconsin",
+    "note": "Robinsonville = today's Champion"
+  },
+  "Sappa Township, Harlan County, Nebraska": {
+    "lat": 40.08,
+    "lon": -99.53,
+    "display_name": "Sappa Creek area, Harlan County, Nebraska",
+    "note": "Approximate: Sappa Peak / Sappa Creek; township boundary not in OSM"
   }
 }

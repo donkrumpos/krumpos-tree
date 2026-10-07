@@ -9,7 +9,10 @@
     "birth_place": "",
     "death_place": "",
     "generation": 0,
-    "gender": "M"
+    "gender": "M",
+    "branch": "home",
+    "life": [],
+    "life_source": "birth-death"
   },
   {
     "id": "betty-mae-schmidt-krumpos",
@@ -21,7 +24,16 @@
     "birth_place": "Green Bay, Brown County, Wisconsin",
     "death_place": "",
     "generation": 1,
-    "gender": "F"
+    "gender": "F",
+    "branch": "home",
+    "life": [
+      {
+        "year": 1947,
+        "place": "Green Bay, Brown County, Wisconsin",
+        "kind": "born"
+      }
+    ],
+    "life_source": "birth-death"
   },
   {
     "id": "keith-lester-krumpos",
@@ -33,7 +45,16 @@
     "birth_place": "Green Bay, Brown County, Wisconsin",
     "death_place": "",
     "generation": 1,
-    "gender": "M"
+    "gender": "M",
+    "branch": "home",
+    "life": [
+      {
+        "year": 1950,
+        "place": "Green Bay, Brown County, Wisconsin",
+        "kind": "born"
+      }
+    ],
+    "life_source": "birth-death"
   },
   {
     "id": "dorothy-elaine-coppersmith",
@@ -45,7 +66,48 @@
     "birth_place": "Green Bay, Brown County, Wisconsin (probable)",
     "death_place": "",
     "generation": 2,
-    "gender": "F"
+    "gender": "F",
+    "branch": "coppersmith",
+    "life": [
+      {
+        "year": 1928,
+        "date": "1928-04-26",
+        "place": "Green Bay, Brown County, Wisconsin",
+        "kind": "born",
+        "certainty": "probable"
+      },
+      {
+        "year": 1930,
+        "place": "South Irwin Avenue, Green Bay, Brown County, Wisconsin",
+        "kind": "census",
+        "source": "1930 census, parents' household"
+      },
+      {
+        "year": 1940,
+        "place": "1630 Eastman Avenue, Green Bay, Brown County, Wisconsin",
+        "kind": "census",
+        "source": "1940 census, parents' household"
+      },
+      {
+        "year": 1947,
+        "date": "1947-09-27",
+        "place": "Green Bay, Brown County, Wisconsin",
+        "kind": "married"
+      },
+      {
+        "year": 2002,
+        "date": "2002-05-07",
+        "place": "Oregon, Dane County, Wisconsin",
+        "kind": "died",
+        "source": "2002 obituary (Oregon Manor)"
+      },
+      {
+        "year": 2002,
+        "place": "Mount Calvary Cemetery, De Pere, Brown County, Wisconsin",
+        "kind": "buried"
+      }
+    ],
+    "life_source": "life"
   },
   {
     "id": "donald-howard-krumpos",
@@ -57,7 +119,21 @@
     "birth_place": "Wisconsin",
     "death_place": "Green Bay, Brown County, Wisconsin",
     "generation": 2,
-    "gender": "M"
+    "gender": "M",
+    "branch": "krumpos",
+    "life": [
+      {
+        "year": 1924,
+        "place": "Wisconsin",
+        "kind": "born"
+      },
+      {
+        "year": 1964,
+        "place": "Green Bay, Brown County, Wisconsin",
+        "kind": "died"
+      }
+    ],
+    "life_source": "birth-death"
   },
   {
     "id": "helen-m-martin",
@@ -69,7 +145,21 @@
     "birth_place": "Sturgeon Bay, Door County, Wisconsin",
     "death_place": "Green Bay, Brown County, Wisconsin",
     "generation": 2,
-    "gender": "F"
+    "gender": "F",
+    "branch": "martin",
+    "life": [
+      {
+        "year": 1924,
+        "place": "Sturgeon Bay, Door County, Wisconsin",
+        "kind": "born"
+      },
+      {
+        "year": 1974,
+        "place": "Green Bay, Brown County, Wisconsin",
+        "kind": "died"
+      }
+    ],
+    "life_source": "birth-death"
   },
   {
     "id": "clifford-alfred-schmidt",
@@ -81,7 +171,21 @@
     "birth_place": "Cleveland, Le Sueur County, Minnesota",
     "death_place": "Crooked Lake, Wisconsin",
     "generation": 2,
-    "gender": "M"
+    "gender": "M",
+    "branch": "schmidt",
+    "life": [
+      {
+        "year": 1918,
+        "place": "Cleveland, Le Sueur County, Minnesota",
+        "kind": "born"
+      },
+      {
+        "year": 1991,
+        "place": "Crooked Lake, Wisconsin",
+        "kind": "died"
+      }
+    ],
+    "life_source": "birth-death"
   },
   {
     "id": "marie-bodoh-coppersmith",
@@ -93,7 +197,93 @@
     "birth_place": "Maple Creek, Outagamie County, Wisconsin",
     "death_place": "Junction City, Lane County, Oregon",
     "generation": 3,
-    "gender": "F"
+    "gender": "F",
+    "branch": "coppersmith",
+    "life": [
+      {
+        "year": 1906,
+        "date": "1906-07-10",
+        "place": "Maple Creek, Outagamie County, Wisconsin",
+        "kind": "born"
+      },
+      {
+        "year": 1926,
+        "date": "1926-06-22",
+        "place": "Green Bay, Brown County, Wisconsin",
+        "kind": "married"
+      },
+      {
+        "year": 1930,
+        "place": "South Irwin Avenue, Green Bay, Brown County, Wisconsin",
+        "kind": "census"
+      },
+      {
+        "year": 1935,
+        "place": "1630 Eastman Avenue, Green Bay, Brown County, Wisconsin",
+        "kind": "residence",
+        "source": "1940 census, same place 1935"
+      },
+      {
+        "year": 1940,
+        "place": "1630 Eastman Avenue, Green Bay, Brown County, Wisconsin",
+        "kind": "census"
+      },
+      {
+        "year": 1949,
+        "between": [
+          1941,
+          1949
+        ],
+        "place": "219 North Van Buren Street, Green Bay, Brown County, Wisconsin",
+        "kind": "moved",
+        "source": "1949 Wright's directory"
+      },
+      {
+        "year": 1950,
+        "place": "219 North Van Buren Street, Green Bay, Brown County, Wisconsin",
+        "kind": "census"
+      },
+      {
+        "year": 1954,
+        "between": [
+          1951,
+          1957
+        ],
+        "place": "Point Comfort, Nicolet Drive, Green Bay, Brown County, Wisconsin",
+        "kind": "moved",
+        "certainty": "probable"
+      },
+      {
+        "year": 1987,
+        "circa": true,
+        "place": "Benson, Cochise County, Arizona",
+        "kind": "seasonal",
+        "note": "wintered with Claude; start year unknown"
+      },
+      {
+        "year": 1988,
+        "between": [
+          1987,
+          1998
+        ],
+        "place": "Junction City, Lane County, Oregon",
+        "kind": "moved",
+        "certainty": "probable",
+        "note": "to live with daughter Florence after Claude died"
+      },
+      {
+        "year": 1998,
+        "date": "1998-06-10",
+        "place": "Junction City, Lane County, Oregon",
+        "kind": "died"
+      },
+      {
+        "year": 1998,
+        "place": "Allouez Catholic Cemetery, Green Bay, Brown County, Wisconsin",
+        "kind": "buried"
+      }
+    ],
+    "life_source": "life"
   },
   {
     "id": "claude-coppersmith",
@@ -105,7 +295,85 @@
     "birth_place": "Dyckesville, Brown County, Wisconsin",
     "death_place": "Benson, Cochise County, Arizona",
     "generation": 3,
-    "gender": "M"
+    "gender": "M",
+    "branch": "coppersmith",
+    "life": [
+      {
+        "year": 1907,
+        "date": "1907-04-16",
+        "place": "Dyckesville, Brown County, Wisconsin",
+        "kind": "born"
+      },
+      {
+        "year": 1926,
+        "date": "1926-06-22",
+        "place": "Green Bay, Brown County, Wisconsin",
+        "kind": "married"
+      },
+      {
+        "year": 1930,
+        "place": "South Irwin Avenue, Green Bay, Brown County, Wisconsin",
+        "kind": "census",
+        "source": "1930 census, rented"
+      },
+      {
+        "year": 1935,
+        "place": "1630 Eastman Avenue, Green Bay, Brown County, Wisconsin",
+        "kind": "residence",
+        "source": "1940 census, same place 1935"
+      },
+      {
+        "year": 1940,
+        "place": "1630 Eastman Avenue, Green Bay, Brown County, Wisconsin",
+        "kind": "census",
+        "source": "1940 census, owned"
+      },
+      {
+        "year": 1949,
+        "between": [
+          1941,
+          1949
+        ],
+        "place": "219 North Van Buren Street, Green Bay, Brown County, Wisconsin",
+        "kind": "moved",
+        "source": "1949 Wright's directory"
+      },
+      {
+        "year": 1950,
+        "place": "219 North Van Buren Street, Green Bay, Brown County, Wisconsin",
+        "kind": "census",
+        "source": "1950 census"
+      },
+      {
+        "year": 1954,
+        "between": [
+          1951,
+          1957
+        ],
+        "place": "Point Comfort, Nicolet Drive, Green Bay, Brown County, Wisconsin",
+        "kind": "moved",
+        "certainty": "probable"
+      },
+      {
+        "year": 1987,
+        "circa": true,
+        "place": "Benson, Cochise County, Arizona",
+        "kind": "seasonal",
+        "note": "wintered here in later years; start year unknown"
+      },
+      {
+        "year": 1987,
+        "date": "1987-04-08",
+        "place": "Benson, Cochise County, Arizona",
+        "kind": "died"
+      },
+      {
+        "year": 1987,
+        "place": "Allouez Catholic Cemetery, Green Bay, Brown County, Wisconsin",
+        "kind": "buried"
+      }
+    ],
+    "life_source": "life"
   },
   {
     "id": "mary-j-kendall",
@@ -117,7 +385,16 @@
     "birth_place": "Lexington Township, Le Sueur County, Minnesota",
     "death_place": "",
     "generation": 3,
-    "gender": "F"
+    "gender": "F",
+    "branch": "schmidt",
+    "life": [
+      {
+        "year": 1893,
+        "place": "Lexington Township, Le Sueur County, Minnesota",
+        "kind": "born"
+      }
+    ],
+    "life_source": "birth-death"
   },
   {
     "id": "lawrence-krumpos",
@@ -129,7 +406,21 @@
     "birth_place": "Oconto, Oconto County, Wisconsin",
     "death_place": "De Pere, Brown County, Wisconsin",
     "generation": 3,
-    "gender": "M"
+    "gender": "M",
+    "branch": "krumpos",
+    "life": [
+      {
+        "year": 1889,
+        "place": "Oconto, Oconto County, Wisconsin",
+        "kind": "born"
+      },
+      {
+        "year": 1986,
+        "place": "De Pere, Brown County, Wisconsin",
+        "kind": "died"
+      }
+    ],
+    "life_source": "birth-death"
   },
   {
     "id": "mathilda-schneider",
@@ -141,7 +432,21 @@
     "birth_place": "Kenosha, Kenosha County, Wisconsin",
     "death_place": "Green Bay, Brown County, Wisconsin",
     "generation": 3,
-    "gender": "F"
+    "gender": "F",
+    "branch": "krumpos",
+    "life": [
+      {
+        "year": 1897,
+        "place": "Kenosha, Kenosha County, Wisconsin",
+        "kind": "born"
+      },
+      {
+        "year": 1973,
+        "place": "Green Bay, Brown County, Wisconsin",
+        "kind": "died"
+      }
+    ],
+    "life_source": "birth-death"
   },
   {
     "id": "hazel-p-mielke",
@@ -153,7 +458,21 @@
     "birth_place": "Sturgeon Bay, Door County, Wisconsin",
     "death_place": "Green Bay, Brown County, Wisconsin",
     "generation": 3,
-    "gender": "F"
+    "gender": "F",
+    "branch": "martin",
+    "life": [
+      {
+        "year": 1902,
+        "place": "Sturgeon Bay, Door County, Wisconsin",
+        "kind": "born"
+      },
+      {
+        "year": 1987,
+        "place": "Green Bay, Brown County, Wisconsin",
+        "kind": "died"
+      }
+    ],
+    "life_source": "birth-death"
   },
   {
     "id": "frederick-john-l-schmidt",
@@ -165,7 +484,21 @@
     "birth_place": "Cordova Township, Le Sueur County, Minnesota",
     "death_place": "Cordova Township, Le Sueur County, Minnesota",
     "generation": 3,
-    "gender": "M"
+    "gender": "M",
+    "branch": "schmidt",
+    "life": [
+      {
+        "year": 1888,
+        "place": "Cordova Township, Le Sueur County, Minnesota",
+        "kind": "born"
+      },
+      {
+        "year": 1939,
+        "place": "Cordova Township, Le Sueur County, Minnesota",
+        "kind": "died"
+      }
+    ],
+    "life_source": "birth-death"
   },
   {
     "id": "john-bodoh",
@@ -177,7 +510,21 @@
     "birth_place": "Maple Creek, Outagamie County, Wisconsin (probable)",
     "death_place": "New London area, Waupaca County, Wisconsin (probable)",
     "generation": 4,
-    "gender": "M"
+    "gender": "M",
+    "branch": "coppersmith",
+    "life": [
+      {
+        "year": 1882,
+        "place": "Maple Creek, Outagamie County, Wisconsin (probable)",
+        "kind": "born"
+      },
+      {
+        "year": 1915,
+        "place": "New London area, Waupaca County, Wisconsin (probable)",
+        "kind": "died"
+      }
+    ],
+    "life_source": "birth-death"
   },
   {
     "id": "mary-young",
@@ -189,7 +536,21 @@
     "birth_place": "Outagamie County, Wisconsin",
     "death_place": "Green Bay, Brown County, Wisconsin",
     "generation": 4,
-    "gender": "F"
+    "gender": "F",
+    "branch": "coppersmith",
+    "life": [
+      {
+        "year": 1889,
+        "place": "Outagamie County, Wisconsin",
+        "kind": "born"
+      },
+      {
+        "year": 1978,
+        "place": "Green Bay, Brown County, Wisconsin",
+        "kind": "died"
+      }
+    ],
+    "life_source": "birth-death"
   },
   {
     "id": "frank-coppersmith",
@@ -201,7 +562,55 @@
     "birth_place": "Dyckesville, Brown County, Wisconsin",
     "death_place": "Green Bay, Brown County, Wisconsin",
     "generation": 4,
-    "gender": "M"
+    "gender": "M",
+    "branch": "coppersmith",
+    "life": [
+      {
+        "year": 1885,
+        "date": "1885-03-08",
+        "place": "Dyckesville, Brown County, Wisconsin",
+        "kind": "born"
+      },
+      {
+        "year": 1895,
+        "place": "Red River, Kewaunee County, Wisconsin",
+        "kind": "census",
+        "source": "1895 state census, parents' household"
+      },
+      {
+        "year": 1900,
+        "place": "Red River, Kewaunee County, Wisconsin",
+        "kind": "census",
+        "certainty": "probable",
+        "note": "parents' household, day laborer"
+      },
+      {
+        "year": 1905,
+        "date": "1905-06-06",
+        "place": "Red River, Kewaunee County, Wisconsin",
+        "kind": "married"
+      },
+      {
+        "year": 1907,
+        "place": "Dyckesville, Brown County, Wisconsin",
+        "kind": "residence",
+        "certainty": "probable",
+        "note": "Claude born here"
+      },
+      {
+        "year": 1959,
+        "date": "1959-10-07",
+        "place": "Green Bay, Brown County, Wisconsin",
+        "kind": "died"
+      },
+      {
+        "year": 1959,
+        "place": "Allouez Catholic Cemetery, Green Bay, Brown County, Wisconsin",
+        "kind": "buried",
+        "source": "FindAGrave 88935563"
+      }
+    ],
+    "life_source": "life"
   },
   {
     "id": "odile-barette",
@@ -213,7 +622,47 @@
     "birth_place": "Dyckesville, Brown County, Wisconsin",
     "death_place": "Green Bay, Brown County, Wisconsin",
     "generation": 4,
-    "gender": "F"
+    "gender": "F",
+    "branch": "coppersmith",
+    "life": [
+      {
+        "year": 1883,
+        "date": "1883-04-05",
+        "place": "Dyckesville, Brown County, Wisconsin",
+        "kind": "born"
+      },
+      {
+        "year": 1905,
+        "date": "1905-06-06",
+        "place": "Red River, Kewaunee County, Wisconsin",
+        "kind": "married"
+      },
+      {
+        "year": 1907,
+        "place": "Dyckesville, Brown County, Wisconsin",
+        "kind": "residence",
+        "certainty": "probable",
+        "note": "Claude born here"
+      },
+      {
+        "year": 1972,
+        "place": "136 Garfield Street, Green Bay, Brown County, Wisconsin",
+        "kind": "residence",
+        "source": "1972 obituary, last address"
+      },
+      {
+        "year": 1972,
+        "date": "1972-12-07",
+        "place": "Green Bay, Brown County, Wisconsin",
+        "kind": "died"
+      },
+      {
+        "year": 1972,
+        "place": "Allouez Catholic Cemetery, Green Bay, Brown County, Wisconsin",
+        "kind": "buried"
+      }
+    ],
+    "life_source": "life"
   },
   {
     "id": "john-h-kendall",
@@ -225,7 +674,16 @@
     "birth_place": "Lexington, Le Sueur County, Minnesota",
     "death_place": "",
     "generation": 4,
-    "gender": "M"
+    "gender": "M",
+    "branch": "schmidt",
+    "life": [
+      {
+        "year": 1870,
+        "place": "Lexington, Le Sueur County, Minnesota",
+        "kind": "born"
+      }
+    ],
+    "life_source": "birth-death"
   },
   {
     "id": "joseph-krumpos",
@@ -237,7 +695,21 @@
     "birth_place": "Trhanov, Bohemia",
     "death_place": "Oconto, Oconto County, Wisconsin",
     "generation": 4,
-    "gender": "M"
+    "gender": "M",
+    "branch": "krumpos",
+    "life": [
+      {
+        "year": 1845,
+        "place": "Trhanov, Bohemia",
+        "kind": "born"
+      },
+      {
+        "year": 1920,
+        "place": "Oconto, Oconto County, Wisconsin",
+        "kind": "died"
+      }
+    ],
+    "life_source": "birth-death"
   },
   {
     "id": "emil-mielke",
@@ -249,7 +721,21 @@
     "birth_place": "Sturgeon Bay, Door County, Wisconsin",
     "death_place": "Sturgeon Bay, Door County, Wisconsin",
     "generation": 4,
-    "gender": "M"
+    "gender": "M",
+    "branch": "martin",
+    "life": [
+      {
+        "year": 1881,
+        "place": "Sturgeon Bay, Door County, Wisconsin",
+        "kind": "born"
+      },
+      {
+        "year": 1970,
+        "place": "Sturgeon Bay, Door County, Wisconsin",
+        "kind": "died"
+      }
+    ],
+    "life_source": "birth-death"
   },
   {
     "id": "margaret-pfister",
@@ -261,7 +747,21 @@
     "birth_place": "Fish Creek, Door County, Wisconsin",
     "death_place": "Green Bay, Brown County, Wisconsin",
     "generation": 4,
-    "gender": "F"
+    "gender": "F",
+    "branch": "martin",
+    "life": [
+      {
+        "year": 1876,
+        "place": "Fish Creek, Door County, Wisconsin",
+        "kind": "born"
+      },
+      {
+        "year": 1962,
+        "place": "Green Bay, Brown County, Wisconsin",
+        "kind": "died"
+      }
+    ],
+    "life_source": "birth-death"
   },
   {
     "id": "margaret-schindler",
@@ -273,7 +773,10 @@
     "birth_place": "",
     "death_place": "",
     "generation": 4,
-    "gender": "F"
+    "gender": "F",
+    "branch": "schmidt",
+    "life": [],
+    "life_source": "birth-death"
   },
   {
     "id": "charles-frederick-schmidt",
@@ -285,7 +788,21 @@
     "birth_place": "Joliet, Will County, Illinois",
     "death_place": "Cleveland, Le Sueur County, Minnesota",
     "generation": 4,
-    "gender": "M"
+    "gender": "M",
+    "branch": "schmidt",
+    "life": [
+      {
+        "year": 1864,
+        "place": "Joliet, Will County, Illinois",
+        "kind": "born"
+      },
+      {
+        "year": 1920,
+        "place": "Cleveland, Le Sueur County, Minnesota",
+        "kind": "died"
+      }
+    ],
+    "life_source": "birth-death"
   },
   {
     "id": "parents-of-mathilda-schneider",
@@ -297,7 +814,10 @@
     "birth_place": "",
     "death_place": "",
     "generation": 4,
-    "gender": ""
+    "gender": "",
+    "branch": "krumpos",
+    "life": [],
+    "life_source": "birth-death"
   },
   {
     "id": "maria-katharina-wilhelmina-vollmer",
@@ -309,7 +829,16 @@
     "birth_place": "Freeport, Stephenson County, Illinois",
     "death_place": "",
     "generation": 4,
-    "gender": "F"
+    "gender": "F",
+    "branch": "schmidt",
+    "life": [
+      {
+        "year": 1863,
+        "place": "Freeport, Stephenson County, Illinois",
+        "kind": "born"
+      }
+    ],
+    "life_source": "birth-death"
   },
   {
     "id": "elnora-surprise",
@@ -321,7 +850,21 @@
     "birth_place": "Iberville, Quebec, Canada",
     "death_place": "Maple Creek, Outagamie County, Wisconsin",
     "generation": 5,
-    "gender": "F"
+    "gender": "F",
+    "branch": "coppersmith",
+    "life": [
+      {
+        "year": 1850,
+        "place": "Iberville, Quebec, Canada",
+        "kind": "born"
+      },
+      {
+        "year": 1904,
+        "place": "Maple Creek, Outagamie County, Wisconsin",
+        "kind": "died"
+      }
+    ],
+    "life_source": "birth-death"
   },
   {
     "id": "jacques-guilluame-bodoh",
@@ -333,7 +876,21 @@
     "birth_place": "Malone, Franklin County, New York",
     "death_place": "New London, Outagamie County, Wisconsin",
     "generation": 5,
-    "gender": "M"
+    "gender": "M",
+    "branch": "coppersmith",
+    "life": [
+      {
+        "year": 1836,
+        "place": "Malone, Franklin County, New York",
+        "kind": "born"
+      },
+      {
+        "year": 1918,
+        "place": "New London, Outagamie County, Wisconsin",
+        "kind": "died"
+      }
+    ],
+    "life_source": "birth-death"
   },
   {
     "id": "julia-marie-balthazar",
@@ -345,7 +902,21 @@
     "birth_place": "St Athanase d'Iberville, Quebec, Canada",
     "death_place": "New London, Outagamie County, Wisconsin",
     "generation": 5,
-    "gender": "F"
+    "gender": "F",
+    "branch": "coppersmith",
+    "life": [
+      {
+        "year": 1844,
+        "place": "St Athanase d'Iberville, Quebec, Canada",
+        "kind": "born"
+      },
+      {
+        "year": 1912,
+        "place": "New London, Outagamie County, Wisconsin",
+        "kind": "died"
+      }
+    ],
+    "life_source": "birth-death"
   },
   {
     "id": "peter-young",
@@ -357,7 +928,21 @@
     "birth_place": "St Athanase sur Richelieu, Quebec, Canada",
     "death_place": "New London, Outagamie County, Wisconsin",
     "generation": 5,
-    "gender": "M"
+    "gender": "M",
+    "branch": "coppersmith",
+    "life": [
+      {
+        "year": 1847,
+        "place": "St Athanase sur Richelieu, Quebec, Canada",
+        "kind": "born"
+      },
+      {
+        "year": 1918,
+        "place": "New London, Outagamie County, Wisconsin",
+        "kind": "died"
+      }
+    ],
+    "life_source": "birth-death"
   },
   {
     "id": "antonette-potier",
@@ -369,7 +954,10 @@
     "birth_place": "",
     "death_place": "",
     "generation": 5,
-    "gender": "F"
+    "gender": "F",
+    "branch": "coppersmith",
+    "life": [],
+    "life_source": "birth-death"
   },
   {
     "id": "celestine-lancelle",
@@ -381,7 +969,52 @@
     "birth_place": "Beauvechain, Brabant, Belgium",
     "death_place": "Green Bay, Brown County, Wisconsin",
     "generation": 5,
-    "gender": "F"
+    "gender": "F",
+    "branch": "coppersmith",
+    "life": [
+      {
+        "year": 1853,
+        "date": "1853-11-18",
+        "place": "Beauvechain, Walloon Brabant, Belgium",
+        "kind": "born"
+      },
+      {
+        "year": 1871,
+        "date": "1871-07-09",
+        "place": "Robinsonville (Champion), Brown County, Wisconsin",
+        "kind": "married"
+      },
+      {
+        "year": 1895,
+        "place": "Red River, Kewaunee County, Wisconsin",
+        "kind": "census",
+        "source": "1895 Wisconsin state census"
+      },
+      {
+        "year": 1900,
+        "place": "Red River, Kewaunee County, Wisconsin",
+        "kind": "census",
+        "certainty": "probable"
+      },
+      {
+        "year": 1920,
+        "place": "Sappa Township, Harlan County, Nebraska",
+        "kind": "census"
+      },
+      {
+        "year": 1933,
+        "date": "1933-09-07",
+        "place": "Green Bay, Brown County, Wisconsin",
+        "kind": "died"
+      },
+      {
+        "year": 1933,
+        "place": "Allouez Catholic Cemetery, Green Bay, Brown County, Wisconsin",
+        "kind": "buried",
+        "source": "FindAGrave 88935559"
+      }
+    ],
+    "life_source": "life"
   },
   {
     "id": "isidore-coppesmette",
@@ -393,7 +1026,68 @@
     "birth_place": "Mélin, Brabant, Belgium",
     "death_place": "Green Bay, Brown County, Wisconsin",
     "generation": 5,
-    "gender": "M"
+    "gender": "M",
+    "branch": "coppersmith",
+    "life": [
+      {
+        "year": 1844,
+        "date": "1844-11-22",
+        "place": "Mélin, Walloon Brabant, Belgium",
+        "kind": "born",
+        "note": "1860 census age implies ~1842-43; headstone kept"
+      },
+      {
+        "year": 1856,
+        "place": "Antwerp, Belgium",
+        "kind": "emigrated",
+        "certainty": "probable",
+        "note": "with the family; Sea Lark lead"
+      },
+      {
+        "year": 1856,
+        "date": "1856-03-29",
+        "place": "New York, New York",
+        "kind": "arrived"
+      },
+      {
+        "year": 1860,
+        "place": "Town of Green Bay, Brown County, Wisconsin",
+        "kind": "census",
+        "source": "1860 census, parents' household"
+      },
+      {
+        "year": 1871,
+        "date": "1871-07-09",
+        "place": "Robinsonville (Champion), Brown County, Wisconsin",
+        "kind": "married"
+      },
+      {
+        "year": 1895,
+        "place": "Red River, Kewaunee County, Wisconsin",
+        "kind": "census",
+        "source": "1895 Wisconsin state census"
+      },
+      {
+        "year": 1900,
+        "place": "Red River, Kewaunee County, Wisconsin",
+        "kind": "census",
+        "certainty": "probable",
+        "note": "1900 household transcribed; township not stated in file"
+      },
+      {
+        "year": 1911,
+        "date": "1911-03-07",
+        "place": "Green Bay, Brown County, Wisconsin",
+        "kind": "died"
+      },
+      {
+        "year": 1911,
+        "place": "Allouez Catholic Cemetery, Green Bay, Brown County, Wisconsin",
+        "kind": "buried",
+        "source": "FindAGrave 88935565"
+      }
+    ],
+    "life_source": "life"
   },
   {
     "id": "joseph-barrette",
@@ -405,7 +1099,10 @@
     "birth_place": "",
     "death_place": "",
     "generation": 5,
-    "gender": "M"
+    "gender": "M",
+    "branch": "coppersmith",
+    "life": [],
+    "life_source": "birth-death"
   },
   {
     "id": "william-john-kendall",
@@ -417,7 +1114,21 @@
     "birth_place": "England",
     "death_place": "Lexington Township, Le Sueur County, Minnesota",
     "generation": 5,
-    "gender": "M"
+    "gender": "M",
+    "branch": "schmidt",
+    "life": [
+      {
+        "year": 1822,
+        "place": "England",
+        "kind": "born"
+      },
+      {
+        "year": 1906,
+        "place": "Lexington Township, Le Sueur County, Minnesota",
+        "kind": "died"
+      }
+    ],
+    "life_source": "birth-death"
   },
   {
     "id": "anna-maria-kurtz",
@@ -429,7 +1140,21 @@
     "birth_place": "Baden, Germany",
     "death_place": "Elysian, Le Sueur County, Minnesota",
     "generation": 5,
-    "gender": "F"
+    "gender": "F",
+    "branch": "schmidt",
+    "life": [
+      {
+        "year": 1837,
+        "place": "Baden, Germany",
+        "kind": "born"
+      },
+      {
+        "year": 1915,
+        "place": "Elysian, Le Sueur County, Minnesota",
+        "kind": "died"
+      }
+    ],
+    "life_source": "birth-death"
   },
   {
     "id": "eliza-lambert",
@@ -441,7 +1166,16 @@
     "birth_place": "Wingham, Kent, England",
     "death_place": "",
     "generation": 5,
-    "gender": "F"
+    "gender": "F",
+    "branch": "schmidt",
+    "life": [
+      {
+        "year": 1827,
+        "place": "Wingham, Kent, England",
+        "kind": "born"
+      }
+    ],
+    "life_source": "birth-death"
   },
   {
     "id": "fred-meikle",
@@ -453,7 +1187,10 @@
     "birth_place": "",
     "death_place": "",
     "generation": 5,
-    "gender": "M"
+    "gender": "M",
+    "branch": "martin",
+    "life": [],
+    "life_source": "birth-death"
   },
   {
     "id": "elizabeth-rabe",
@@ -465,7 +1202,21 @@
     "birth_place": "Germany",
     "death_place": "Greenlawn, Fairfield Township, Butler County, Ohio",
     "generation": 5,
-    "gender": "F"
+    "gender": "F",
+    "branch": "schmidt",
+    "life": [
+      {
+        "year": 1846,
+        "place": "Germany",
+        "kind": "born"
+      },
+      {
+        "year": 1918,
+        "place": "Greenlawn, Fairfield Township, Butler County, Ohio",
+        "kind": "died"
+      }
+    ],
+    "life_source": "birth-death"
   },
   {
     "id": "john-schmidt",
@@ -477,7 +1228,16 @@
     "birth_place": "Germany",
     "death_place": "",
     "generation": 5,
-    "gender": "M"
+    "gender": "M",
+    "branch": "schmidt",
+    "life": [
+      {
+        "year": 1822,
+        "place": "Germany",
+        "kind": "born"
+      }
+    ],
+    "life_source": "birth-death"
   },
   {
     "id": "christian-vollmer",
@@ -489,7 +1249,21 @@
     "birth_place": "Hanover, Germany",
     "death_place": "Cleveland, Le Sueur County, Minnesota",
     "generation": 5,
-    "gender": "M"
+    "gender": "M",
+    "branch": "schmidt",
+    "life": [
+      {
+        "year": 1815,
+        "place": "Hanover, Germany",
+        "kind": "born"
+      },
+      {
+        "year": 1894,
+        "place": "Cleveland, Le Sueur County, Minnesota",
+        "kind": "died"
+      }
+    ],
+    "life_source": "birth-death"
   },
   {
     "id": "henry-lajeunesse",
@@ -501,7 +1275,16 @@
     "birth_place": "Québec, Canada",
     "death_place": "",
     "generation": 6,
-    "gender": "M"
+    "gender": "M",
+    "branch": "coppersmith",
+    "life": [
+      {
+        "year": 1803,
+        "place": "Québec, Canada",
+        "kind": "born"
+      }
+    ],
+    "life_source": "birth-death"
   },
   {
     "id": "isaac-surprenant",
@@ -513,7 +1296,21 @@
     "birth_place": "Québec, Canada",
     "death_place": "Deer Creek, Outagamie County, Wisconsin",
     "generation": 6,
-    "gender": "M"
+    "gender": "M",
+    "branch": "coppersmith",
+    "life": [
+      {
+        "year": 1816,
+        "place": "Québec, Canada",
+        "kind": "born"
+      },
+      {
+        "year": 1917,
+        "place": "Deer Creek, Outagamie County, Wisconsin",
+        "kind": "died"
+      }
+    ],
+    "life_source": "birth-death"
   },
   {
     "id": "jacques-guilluame-beaudoin",
@@ -525,7 +1322,21 @@
     "birth_place": "Plattsburgh, Clinton County, New York",
     "death_place": "Duck Creek, Brown County, Wisconsin",
     "generation": 6,
-    "gender": "M"
+    "gender": "M",
+    "branch": "coppersmith",
+    "life": [
+      {
+        "year": 1812,
+        "place": "Plattsburgh, Clinton County, New York",
+        "kind": "born"
+      },
+      {
+        "year": 1874,
+        "place": "Duck Creek, Brown County, Wisconsin",
+        "kind": "died"
+      }
+    ],
+    "life_source": "birth-death"
   },
   {
     "id": "josephine-leblanc",
@@ -537,7 +1348,21 @@
     "birth_place": "Montreal, Quebec, Canada",
     "death_place": "Maple Creek, Outagamie County, Wisconsin",
     "generation": 6,
-    "gender": "F"
+    "gender": "F",
+    "branch": "coppersmith",
+    "life": [
+      {
+        "year": 1822,
+        "place": "Montreal, Quebec, Canada",
+        "kind": "born"
+      },
+      {
+        "year": 1901,
+        "place": "Maple Creek, Outagamie County, Wisconsin",
+        "kind": "died"
+      }
+    ],
+    "life_source": "birth-death"
   },
   {
     "id": "julie-guyette",
@@ -549,7 +1374,21 @@
     "birth_place": "Canada",
     "death_place": "Maple Creek, Outagamie County, Wisconsin",
     "generation": 6,
-    "gender": "F"
+    "gender": "F",
+    "branch": "coppersmith",
+    "life": [
+      {
+        "year": 1831,
+        "place": "Canada",
+        "kind": "born"
+      },
+      {
+        "year": 1899,
+        "place": "Maple Creek, Outagamie County, Wisconsin",
+        "kind": "died"
+      }
+    ],
+    "life_source": "birth-death"
   },
   {
     "id": "louise-lemonde",
@@ -561,7 +1400,21 @@
     "birth_place": "Beloeil, Verchères, Quebec, Canada",
     "death_place": "Bear Creek, Outagamie County, Wisconsin",
     "generation": 6,
-    "gender": "F"
+    "gender": "F",
+    "branch": "coppersmith",
+    "life": [
+      {
+        "year": 1813,
+        "place": "Beloeil, Verchères, Quebec, Canada",
+        "kind": "born"
+      },
+      {
+        "year": 1895,
+        "place": "Bear Creek, Outagamie County, Wisconsin",
+        "kind": "died"
+      }
+    ],
+    "life_source": "birth-death"
   },
   {
     "id": "marguerite-terrien",
@@ -573,7 +1426,21 @@
     "birth_place": "St Luc, St Jean, Québec, Canada",
     "death_place": "Fall River, Bristol County, Massachusetts",
     "generation": 6,
-    "gender": "F"
+    "gender": "F",
+    "branch": "coppersmith",
+    "life": [
+      {
+        "year": 1813,
+        "place": "St Luc, St Jean, Québec, Canada",
+        "kind": "born"
+      },
+      {
+        "year": 1903,
+        "place": "Fall River, Bristol County, Massachusetts",
+        "kind": "died"
+      }
+    ],
+    "life_source": "birth-death"
   },
   {
     "id": "moises-balthazar",
@@ -585,7 +1452,21 @@
     "birth_place": "Québec City, Quebec, Canada",
     "death_place": "Bear Creek, Outagamie County, Wisconsin",
     "generation": 6,
-    "gender": "M"
+    "gender": "M",
+    "branch": "coppersmith",
+    "life": [
+      {
+        "year": 1820,
+        "place": "Québec City, Quebec, Canada",
+        "kind": "born"
+      },
+      {
+        "year": 1890,
+        "place": "Bear Creek, Outagamie County, Wisconsin",
+        "kind": "died"
+      }
+    ],
+    "life_source": "birth-death"
   },
   {
     "id": "alexis-copesmette",
@@ -597,7 +1478,56 @@
     "birth_place": "Mélin, Brabant, Belgium",
     "death_place": "Red River, Kewaunee County, Wisconsin",
     "generation": 6,
-    "gender": "M"
+    "gender": "M",
+    "branch": "coppersmith",
+    "life": [
+      {
+        "year": 1811,
+        "date": "1811-03-06",
+        "place": "Mélin, Walloon Brabant, Belgium",
+        "kind": "born"
+      },
+      {
+        "year": 1835,
+        "date": "1835-06-08",
+        "place": "Mélin, Walloon Brabant, Belgium",
+        "kind": "married",
+        "source": "Geneanet; 1835 Mélin register (stone cutter)"
+      },
+      {
+        "year": 1856,
+        "place": "Antwerp, Belgium",
+        "kind": "emigrated",
+        "certainty": "probable",
+        "note": "if the Sea Lark (lines 8-22 unread)"
+      },
+      {
+        "year": 1856,
+        "date": "1856-03-29",
+        "place": "New York, New York",
+        "kind": "arrived",
+        "source": "Désirée's 1891 obituary"
+      },
+      {
+        "year": 1860,
+        "place": "Town of Green Bay, Brown County, Wisconsin",
+        "kind": "census",
+        "source": "1860 census, PO Robinsonville, dwelling 1811"
+      },
+      {
+        "year": 1880,
+        "place": "Town of Green Bay, Brown County, Wisconsin",
+        "kind": "census",
+        "source": "1880 census, ED 7, dwelling 142"
+      },
+      {
+        "year": 1889,
+        "date": "1889-07-26",
+        "place": "Red River, Kewaunee County, Wisconsin",
+        "kind": "died"
+      }
+    ],
+    "life_source": "life"
   },
   {
     "id": "anne-catherine-durdu",
@@ -609,7 +1539,16 @@
     "birth_place": "Beauvechain, Brabant, Belgium (probable)",
     "death_place": "",
     "generation": 6,
-    "gender": "F"
+    "gender": "F",
+    "branch": "coppersmith",
+    "life": [
+      {
+        "year": 1816,
+        "place": "Beauvechain, Brabant, Belgium (probable)",
+        "kind": "born"
+      }
+    ],
+    "life_source": "birth-death"
   },
   {
     "id": "charles-joseph-potier",
@@ -621,7 +1560,10 @@
     "birth_place": "",
     "death_place": "",
     "generation": 6,
-    "gender": "M"
+    "gender": "M",
+    "branch": "coppersmith",
+    "life": [],
+    "life_source": "birth-death"
   },
   {
     "id": "clemence-liegeois",
@@ -633,7 +1575,10 @@
     "birth_place": "",
     "death_place": "",
     "generation": 6,
-    "gender": "F"
+    "gender": "F",
+    "branch": "coppersmith",
+    "life": [],
+    "life_source": "birth-death"
   },
   {
     "id": "desiree-juliana-meuron",
@@ -645,7 +1590,72 @@
     "birth_place": "Mélin, Brabant Wallon, Belgium",
     "death_place": "Green Bay, Brown County, Wisconsin",
     "generation": 6,
-    "gender": "F"
+    "gender": "F",
+    "branch": "coppersmith",
+    "life": [
+      {
+        "year": 1815,
+        "date": "1815-12-02",
+        "place": "Mélin, Walloon Brabant, Belgium",
+        "kind": "born"
+      },
+      {
+        "year": 1835,
+        "date": "1835-06-08",
+        "place": "Mélin, Walloon Brabant, Belgium",
+        "kind": "married"
+      },
+      {
+        "year": 1856,
+        "place": "Antwerp, Belgium",
+        "kind": "emigrated",
+        "certainty": "probable",
+        "note": "if the Sea Lark (lines 8-22 unread)"
+      },
+      {
+        "year": 1856,
+        "date": "1856-03-29",
+        "place": "New York, New York",
+        "kind": "arrived",
+        "source": "her 1891 obituary"
+      },
+      {
+        "year": 1860,
+        "place": "Town of Green Bay, Brown County, Wisconsin",
+        "kind": "census",
+        "source": "1860 census, PO Robinsonville, dwelling 1811"
+      },
+      {
+        "year": 1880,
+        "place": "Town of Green Bay, Brown County, Wisconsin",
+        "kind": "census",
+        "source": "1880 census, ED 7, dwelling 142"
+      },
+      {
+        "year": 1890,
+        "between": [
+          1889,
+          1891
+        ],
+        "place": "Green Bay, Brown County, Wisconsin",
+        "kind": "moved",
+        "certainty": "probable",
+        "note": "obituary: moved to Green Bay after Alexis died"
+      },
+      {
+        "year": 1891,
+        "date": "1891-07-18",
+        "place": "Green Bay, Brown County, Wisconsin",
+        "kind": "died"
+      },
+      {
+        "year": 1891,
+        "place": "Red River, Kewaunee County, Wisconsin",
+        "kind": "buried",
+        "source": "1891 obituary"
+      }
+    ],
+    "life_source": "life"
   },
   {
     "id": "jacques-joseph-lancelle",
@@ -657,7 +1667,16 @@
     "birth_place": "Beauvechain, Brabant, Belgium (probable)",
     "death_place": "",
     "generation": 6,
-    "gender": "M"
+    "gender": "M",
+    "branch": "coppersmith",
+    "life": [
+      {
+        "year": 1816,
+        "place": "Beauvechain, Brabant, Belgium (probable)",
+        "kind": "born"
+      }
+    ],
+    "life_source": "birth-death"
   },
   {
     "id": "ann-forstall",
@@ -669,7 +1688,10 @@
     "birth_place": "",
     "death_place": "",
     "generation": 6,
-    "gender": "F"
+    "gender": "F",
+    "branch": "schmidt",
+    "life": [],
+    "life_source": "birth-death"
   },
   {
     "id": "stephen-eastes-kendall",
@@ -681,7 +1703,10 @@
     "birth_place": "",
     "death_place": "",
     "generation": 6,
-    "gender": "M"
+    "gender": "M",
+    "branch": "schmidt",
+    "life": [],
+    "life_source": "birth-death"
   },
   {
     "id": "antoine-lajeunesse",
@@ -693,7 +1718,21 @@
     "birth_place": "St Antoine de Padoue, Longueuil, Chambly, Quebec, Canada",
     "death_place": "Iberville, Quebec, Canada",
     "generation": 7,
-    "gender": "M"
+    "gender": "M",
+    "branch": "coppersmith",
+    "life": [
+      {
+        "year": 1776,
+        "place": "St Antoine de Padoue, Longueuil, Chambly, Quebec, Canada",
+        "kind": "born"
+      },
+      {
+        "year": 1851,
+        "place": "Iberville, Quebec, Canada",
+        "kind": "died"
+      }
+    ],
+    "life_source": "birth-death"
   },
   {
     "id": "jacques-leblanc-1704",
@@ -705,7 +1744,16 @@
     "birth_place": "Charlesbourg, Montmorency, Quebec, Canada",
     "death_place": "",
     "generation": 7,
-    "gender": "M"
+    "gender": "M",
+    "branch": "coppersmith",
+    "life": [
+      {
+        "year": 1704,
+        "place": "Charlesbourg, Montmorency, Quebec, Canada",
+        "kind": "born"
+      }
+    ],
+    "life_source": "birth-death"
   },
   {
     "id": "joseph-guyette",
@@ -717,7 +1765,21 @@
     "birth_place": "Canada",
     "death_place": "Fond du Lac County, Wisconsin",
     "generation": 7,
-    "gender": "M"
+    "gender": "M",
+    "branch": "coppersmith",
+    "life": [
+      {
+        "year": 1811,
+        "place": "Canada",
+        "kind": "born"
+      },
+      {
+        "year": 1902,
+        "place": "Fond du Lac County, Wisconsin",
+        "kind": "died"
+      }
+    ],
+    "life_source": "birth-death"
   },
   {
     "id": "louis-marie-beaudoin",
@@ -729,7 +1791,16 @@
     "birth_place": "Québec City, Quebec, Canada",
     "death_place": "",
     "generation": 7,
-    "gender": "M"
+    "gender": "M",
+    "branch": "coppersmith",
+    "life": [
+      {
+        "year": 1755,
+        "place": "Québec City, Quebec, Canada",
+        "kind": "born"
+      }
+    ],
+    "life_source": "birth-death"
   },
   {
     "id": "louis-surprenant",
@@ -741,7 +1812,21 @@
     "birth_place": "La Prairie, Montérégie, Quebec, Canada",
     "death_place": "Iberville, Quebec, Canada",
     "generation": 7,
-    "gender": "M"
+    "gender": "M",
+    "branch": "coppersmith",
+    "life": [
+      {
+        "year": 1789,
+        "place": "La Prairie, Montérégie, Quebec, Canada",
+        "kind": "born"
+      },
+      {
+        "year": 1834,
+        "place": "Iberville, Quebec, Canada",
+        "kind": "died"
+      }
+    ],
+    "life_source": "birth-death"
   },
   {
     "id": "madeleine-mary-lavallee",
@@ -753,7 +1838,21 @@
     "birth_place": "La Prairie, Montérégie, Quebec, Canada",
     "death_place": "Fond du Lac County, Wisconsin",
     "generation": 7,
-    "gender": "F"
+    "gender": "F",
+    "branch": "coppersmith",
+    "life": [
+      {
+        "year": 1816,
+        "place": "La Prairie, Montérégie, Quebec, Canada",
+        "kind": "born"
+      },
+      {
+        "year": 1899,
+        "place": "Fond du Lac County, Wisconsin",
+        "kind": "died"
+      }
+    ],
+    "life_source": "birth-death"
   },
   {
     "id": "marie-genevieve-demers",
@@ -765,7 +1864,21 @@
     "birth_place": "Iberville, Quebec, Canada",
     "death_place": "Richelieu, Quebec, Canada",
     "generation": 7,
-    "gender": "F"
+    "gender": "F",
+    "branch": "coppersmith",
+    "life": [
+      {
+        "year": 1781,
+        "place": "Iberville, Quebec, Canada",
+        "kind": "born"
+      },
+      {
+        "year": 1842,
+        "place": "Richelieu, Quebec, Canada",
+        "kind": "died"
+      }
+    ],
+    "life_source": "birth-death"
   },
   {
     "id": "marie-sophie-hebert",
@@ -777,7 +1890,21 @@
     "birth_place": "St-Mathias-sur-Richelieu, Quebec, Canada (probable)",
     "death_place": "Fond du Lac, Fond du Lac County, Wisconsin",
     "generation": 7,
-    "gender": "F"
+    "gender": "F",
+    "branch": "coppersmith",
+    "life": [
+      {
+        "year": 1799,
+        "place": "St-Mathias-sur-Richelieu, Quebec, Canada (probable)",
+        "kind": "born"
+      },
+      {
+        "year": 1892,
+        "place": "Fond du Lac, Fond du Lac County, Wisconsin",
+        "kind": "died"
+      }
+    ],
+    "life_source": "birth-death"
   },
   {
     "id": "marthe-lebeau",
@@ -789,7 +1916,16 @@
     "birth_place": "Richelieu, Quebec, Canada",
     "death_place": "",
     "generation": 7,
-    "gender": "F"
+    "gender": "F",
+    "branch": "coppersmith",
+    "life": [
+      {
+        "year": 1799,
+        "place": "Richelieu, Quebec, Canada",
+        "kind": "born"
+      }
+    ],
+    "life_source": "birth-death"
   },
   {
     "id": "martin-balthazar-1730",
@@ -801,7 +1937,21 @@
     "birth_place": "Lorraine, France",
     "death_place": "Québec City, Quebec, Canada",
     "generation": 7,
-    "gender": "M"
+    "gender": "M",
+    "branch": "coppersmith",
+    "life": [
+      {
+        "year": 1730,
+        "place": "Lorraine, France",
+        "kind": "born"
+      },
+      {
+        "year": 1797,
+        "place": "Québec City, Quebec, Canada",
+        "kind": "died"
+      }
+    ],
+    "life_source": "birth-death"
   },
   {
     "id": "anne-marie-barbe-logis",
@@ -813,7 +1963,16 @@
     "birth_place": "Belgium (probable Mélin area)",
     "death_place": "",
     "generation": 7,
-    "gender": "F"
+    "gender": "F",
+    "branch": "coppersmith",
+    "life": [
+      {
+        "year": 1791,
+        "place": "Belgium (probable Mélin area)",
+        "kind": "born"
+      }
+    ],
+    "life_source": "birth-death"
   },
   {
     "id": "louis-terrien",
@@ -825,7 +1984,16 @@
     "birth_place": "L'Acadie, Quebec, Canada",
     "death_place": "",
     "generation": 7,
-    "gender": "M"
+    "gender": "M",
+    "branch": "coppersmith",
+    "life": [
+      {
+        "year": 1794,
+        "place": "L'Acadie, Quebec, Canada",
+        "kind": "born"
+      }
+    ],
+    "life_source": "birth-death"
   },
   {
     "id": "marguerite-tetreau",
@@ -837,7 +2005,16 @@
     "birth_place": "Chambly, Quebec, Canada",
     "death_place": "",
     "generation": 7,
-    "gender": "F"
+    "gender": "F",
+    "branch": "coppersmith",
+    "life": [
+      {
+        "year": 1795,
+        "place": "Chambly, Quebec, Canada",
+        "kind": "born"
+      }
+    ],
+    "life_source": "birth-death"
   },
   {
     "id": "marie-francoise-vanham",
@@ -849,7 +2026,16 @@
     "birth_place": "Hoegaarden, Flemish Brabant, Belgium",
     "death_place": "",
     "generation": 7,
-    "gender": "F"
+    "gender": "F",
+    "branch": "coppersmith",
+    "life": [
+      {
+        "year": 1777,
+        "place": "Hoegaarden, Flemish Brabant, Belgium",
+        "kind": "born"
+      }
+    ],
+    "life_source": "birth-death"
   },
   {
     "id": "pierre-joseph-copersmith",
@@ -861,7 +2047,16 @@
     "birth_place": "Mélin, Brabant, Belgium (probable)",
     "death_place": "",
     "generation": 7,
-    "gender": "M"
+    "gender": "M",
+    "branch": "coppersmith",
+    "life": [
+      {
+        "year": 1760,
+        "place": "Mélin, Brabant, Belgium (probable)",
+        "kind": "born"
+      }
+    ],
+    "life_source": "birth-death"
   },
   {
     "id": "pierre-joseph-meuron",
@@ -873,7 +2068,21 @@
     "birth_place": "Mélin, Brabant Wallon, Belgium",
     "death_place": "Mélin, Brabant Wallon, Belgium",
     "generation": 7,
-    "gender": "M"
+    "gender": "M",
+    "branch": "coppersmith",
+    "life": [
+      {
+        "year": 1789,
+        "place": "Mélin, Brabant Wallon, Belgium",
+        "kind": "born"
+      },
+      {
+        "year": 1818,
+        "place": "Mélin, Brabant Wallon, Belgium",
+        "kind": "died"
+      }
+    ],
+    "life_source": "birth-death"
   },
   {
     "id": "jacques-surprenant-1753",
@@ -885,7 +2094,21 @@
     "birth_place": "La Prairie, Montérégie, Quebec, Canada",
     "death_place": "Chambly, Quebec, Canada",
     "generation": 8,
-    "gender": "M"
+    "gender": "M",
+    "branch": "coppersmith",
+    "life": [
+      {
+        "year": 1753,
+        "place": "La Prairie, Montérégie, Quebec, Canada",
+        "kind": "born"
+      },
+      {
+        "year": 1792,
+        "place": "Chambly, Quebec, Canada",
+        "kind": "died"
+      }
+    ],
+    "life_source": "birth-death"
   },
   {
     "id": "jacques-thomas-beaudoin",
@@ -897,7 +2120,21 @@
     "birth_place": "Berthier, Montmagny, Quebec, Canada",
     "death_place": "Rivière-du-Sud, Montmagny, Quebec, Canada",
     "generation": 8,
-    "gender": "M"
+    "gender": "M",
+    "branch": "coppersmith",
+    "life": [
+      {
+        "year": 1729,
+        "place": "Berthier, Montmagny, Quebec, Canada",
+        "kind": "born"
+      },
+      {
+        "year": 1776,
+        "place": "Rivière-du-Sud, Montmagny, Quebec, Canada",
+        "kind": "died"
+      }
+    ],
+    "life_source": "birth-death"
   },
   {
     "id": "julien-leblanc",
@@ -909,7 +2146,21 @@
     "birth_place": "Montreal, Quebec, Canada",
     "death_place": "Montreal, Quebec, Canada",
     "generation": 8,
-    "gender": "M"
+    "gender": "M",
+    "branch": "coppersmith",
+    "life": [
+      {
+        "year": 1666,
+        "place": "Montreal, Quebec, Canada",
+        "kind": "born"
+      },
+      {
+        "year": 1756,
+        "place": "Montreal, Quebec, Canada",
+        "kind": "died"
+      }
+    ],
+    "life_source": "birth-death"
   },
   {
     "id": "philippe-jacques-meuron",
@@ -921,7 +2172,10 @@
     "birth_place": "Mélin, Brabant, Belgium (probable)",
     "death_place": "",
     "generation": 8,
-    "gender": "M"
+    "gender": "M",
+    "branch": "coppersmith",
+    "life": [],
+    "life_source": "birth-death"
   },
   {
     "id": "antoine-surprenant",
@@ -933,7 +2187,21 @@
     "birth_place": "La Prairie, Montérégie, Quebec, Canada",
     "death_place": "La Prairie, Montérégie, Quebec, Canada",
     "generation": 9,
-    "gender": "M"
+    "gender": "M",
+    "branch": "coppersmith",
+    "life": [
+      {
+        "year": 1712,
+        "place": "La Prairie, Montérégie, Quebec, Canada",
+        "kind": "born"
+      },
+      {
+        "year": 1784,
+        "place": "La Prairie, Montérégie, Quebec, Canada",
+        "kind": "died"
+      }
+    ],
+    "life_source": "birth-death"
   },
   {
     "id": "jacques-beaudoin-1672",
@@ -945,7 +2213,21 @@
     "birth_place": "Montmorency, Quebec, Canada",
     "death_place": "Montmorency, Quebec, Canada",
     "generation": 9,
-    "gender": "M"
+    "gender": "M",
+    "branch": "coppersmith",
+    "life": [
+      {
+        "year": 1672,
+        "place": "Montmorency, Quebec, Canada",
+        "kind": "born"
+      },
+      {
+        "year": 1758,
+        "place": "Montmorency, Quebec, Canada",
+        "kind": "died"
+      }
+    ],
+    "life_source": "birth-death"
   },
   {
     "id": "francoice-durand",
@@ -957,7 +2239,21 @@
     "birth_place": "Rouen, Seine-Maritime, Normandy, France",
     "death_place": "Québec City, Quebec, Canada",
     "generation": 10,
-    "gender": "F"
+    "gender": "F",
+    "branch": "coppersmith",
+    "life": [
+      {
+        "year": 1648,
+        "place": "Rouen, Seine-Maritime, Normandy, France",
+        "kind": "born"
+      },
+      {
+        "year": 1718,
+        "place": "Québec City, Quebec, Canada",
+        "kind": "died"
+      }
+    ],
+    "life_source": "birth-death"
   },
   {
     "id": "jacque-beaudoin-immigrant",
@@ -969,7 +2265,21 @@
     "birth_place": "La Rochelle, Charente-Maritime, France",
     "death_place": "Québec City, Quebec, Canada",
     "generation": 10,
-    "gender": "M"
+    "gender": "M",
+    "branch": "coppersmith",
+    "life": [
+      {
+        "year": 1645,
+        "place": "La Rochelle, Charente-Maritime, France",
+        "kind": "born"
+      },
+      {
+        "year": 1708,
+        "place": "Québec City, Quebec, Canada",
+        "kind": "died"
+      }
+    ],
+    "life_source": "birth-death"
   },
   {
     "id": "pierre-surprenant",
@@ -981,6 +2291,20 @@
     "birth_place": "La Prairie, Montérégie, Quebec, Canada",
     "death_place": "Montreal, Quebec, Canada",
     "generation": 10,
-    "gender": "M"
+    "gender": "M",
+    "branch": "coppersmith",
+    "life": [
+      {
+        "year": 1683,
+        "place": "La Prairie, Montérégie, Quebec, Canada",
+        "kind": "born"
+      },
+      {
+        "year": 1739,
+        "place": "Montreal, Quebec, Canada",
+        "kind": "died"
+      }
+    ],
+    "life_source": "birth-death"
   }
 ]
