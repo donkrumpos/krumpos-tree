@@ -7,16 +7,16 @@ aka:
 - Harry Martin
 gender: M
 parents:
-- Henry Martin Sr. (b. Ireland?)
-- Nancy Storm
+- Henry Martin Sr. (b. Ireland? — 1862 marriage index only)
+- Nancy Storm (1862 marriage index only; image not viewed)
 spouses:
-- Eliza Hutchinson (1830-1884, m. 1862-11-12 — a widow, "Mrs. Eliza Peters," at the marriage)
+- Eliza Hutchinson (1829-1884, m. 1862-11-12 — widow of John Walker and Martin Peters; "Mrs. Eliza Peters" at the marriage)
 children:
-- Elias Martin (c. 1853, b. New York)
-- Charles Martin (c. 1856, b. Wisconsin)
-- John Martin (c. 1857, b. Wisconsin)
-- Eliza Martin (c. 1860, b. Wisconsin)
-- William Martin (c. 1861, b. Wisconsin)
+- Elias Martin (c. 1853, b. New York — stepson; born Walker)
+- Charles Martin (c. 1856, b. Wisconsin — stepson; born Walker)
+- John Martin (c. 1857, b. Wisconsin — stepson; John W Walker)
+- Eliza Martin (c. 1860, b. Wisconsin — stepdaughter; Eliza A Walker, later Mrs. Thomas Melville)
+- William Martin (c. 1861, b. Wisconsin — stepson; probably William Peters)
 - Henry Martin Jr. (c. 1865, b. Wisconsin)
 - James Martin (c. 1866, b. Wisconsin)
 - David Martin (c. 1867, b. Wisconsin)
@@ -25,9 +25,9 @@ burial: Bayside Cemetery, Sturgeon Bay, Door County, Wisconsin
 status: confirmed
 uncertain_fields:
 - birthplace in Ireland ("at or near the city of Belfast" per 1896 Advocate obituary; county/parish unknown)
-- parents' dates and origins ("County Down" claim now suspect — Storm essentially absent from Co. Down records)
-- which pre-1862 children were Henry's vs. Eliza's from her first (Peters) marriage
-- 1860 residence (Washington township per census index — unverified; sits oddly with the obituary's Sevastopol-from-1857 account)
+- parents' names (index only) and origins ("County Down" is unsourced; Storm is essentially absent from Co. Down records)
+- 1862 officiant: Robert Graham, Esq. (contemporaneous notice, reprinted 1912) vs. Judge M. E. Lyman (1896 obituary)
+- port-of-departure, ship, and Irish county (naturalization 1860/1863 gives only "Ireland" and New York, July 1851)
 tags:
 - '#person'
 - '#martin'
@@ -56,24 +56,26 @@ linked_children:
 **FamilySearch ID:** LYS2-3P2
 
 ## Summary
-Born August 18, 1830 **at or near the city of Belfast, Ireland** (per his 1896 Advocate obituary — supersedes the vaguer "County Down" framing). Known as "Harry." Don's 4x great-grandfather. The Irish ancestor that Betty (Schmidt) Krumpos remembered. **Emigrated 1851** to New York state; **fall 1854 moved to Cedar River, Michigan, lumbering until spring 1857**; arrived Sturgeon Bay **July 1857**, worked in Lyman Bradley's mill, then settled on a farm in the town of Sevastopol. Served as **postmaster of Sevastopol** for ~14 years and **town treasurer** for 15 successive years — a pillar of the community. On November 12, 1862 married **"Mrs. Eliza Peters" — a widow** (née Hutchinson, c. 1830, Canada — to English/Scottish parents); the marriage produced "four sons and three daughters" per the obituary, meaning some of the older household children were likely Eliza's from her first marriage. A sister, **Mrs. John Keho(e)**, lived in Door County. Died shortly after midnight, August 11, 1896, at neighbor Rudolph Zettel's home, of cancer of the stomach, age 65 (one week before his 66th birthday). Buried Bayside Cemetery (FindAGrave #57705649).
+Born August 18, 1830 **at or near the city of Belfast, Ireland** (per his 1896 Advocate obituary — supersedes the vaguer "County Down" framing). Known as "Harry." Don's **3x great-grandfather** (Henry → Eliphlet → Gerald Sr. → Helen → Betty → Don). The Irish ancestor that Betty (Schmidt) Krumpos remembered. **Emigrated 1851** to New York state; **fall 1854 moved to Cedar River, Michigan, lumbering until spring 1857**; arrived Sturgeon Bay **July 1857**, worked in Lyman Bradley's mill, then settled on a farm in the town of Sevastopol. Served as **postmaster of Sevastopol** for ~14 years and **town treasurer** for 15 successive years — a pillar of the community. On November 12, 1862 he married **"Mrs. Eliza Peters"**, a twice-widowed woman (née Hutchinson, c. 1829, Canada; her father was English-born). The marriage produced "four sons and three daughters" per the obituary. The older household children (Elias, Charles, John, Eliza) were **Eliza's own children by her first husband, John Walker**, and William was probably her son by Martin Peters, so all of them were Henry's stepchildren. His sister **Sarah Ann (Martin) Kehoe** (b. Ireland per her 1915 obituary) married John Kehoe in 1881 and lived at North Bay. Died shortly after midnight, August 11, 1896, at neighbor Rudolph Zettel's home, of cancer of the stomach, age 65 (one week before his 66th birthday). Buried Bayside Cemetery (FindAGrave #57705649).
 
 ## Relationships
-- **Father:** Henry Martin Sr. (dates unknown, FamilySearch ID: L1C9-XB2) — born in Ireland, likely **County Down, Ulster**. LDS temple ordinances completed — record may need verification.
-- **Mother:** Nancy Storm (dates unknown, FamilySearch ID: L1CS-95F) — from **County Down, Ireland** (per FamilySearch, sourced from Henry Jr.'s 1862 marriage record). Storm is an English surname — Nancy was likely descended from Plantation of Ulster settlers (1600s).
+- **Father:** Henry Martin Sr. (dates unknown, FamilySearch ID: L1C9-XB2). Known only from the 1862 marriage index. Born in Ireland per the 1880 census. No county is documented.
+- **Mother:** Nancy Storm (dates unknown, FamilySearch ID: L1CS-95F). **Known only from the index** of Henry's 12 Nov 1862 marriage (FS XRLD-HZ8; the image is unavailable on FS). Her FS birthplace "County Down" has **0 sources**. The "Plantation of Ulster settler" descent previously written here was inference, not evidence, and has been withdrawn (2026-10-08). Storm is a real South-Ulster (Cavan/Fermanagh/Monaghan) and Antrim/Belfast name but is nearly absent from Co. Down.
+- **Sister:** Sarah Ann (Martin) Kehoe. See "The household" below.
 - **Wife:** Eliza Hutchinson (1830–1884, b. **Canada** per 1870 census; "England" per 1920 census — likely born in Canada to English parents) — FamilySearch ID: K814-2YL
-- **Children (9 total, per 1870 census):**
-  1. Elias Martin (b. c. 1853, **New York**) — eldest. Born before family moved to Wisconsin.
-  2. Charles Martin (b. c. 1856, Wisconsin) — family in Wisconsin by this birth.
-  3. John Martin (b. c. 1857, Wisconsin)
-  4. Eliza Martin (daughter, b. c. 1860, Wisconsin)
-  5. William Martin (b. c. 1861, Wisconsin)
+- **Children (9 in the 1870 census household; items 1–5 are stepchildren, revised 2026-10-08):**
+  1. Elias Martin (b. c. 1853, **New York**), **Walker stepson** (Eliza's son by John Walker).
+  2. Charles Martin (b. c. 1856), **Walker stepson**. As Charles Walker he married Elizabeth Schumacher in 1880; parents "John Walker and Eliza Martin" (FS XRL8-G7Z).
+  3. John Martin (b. c. 1857), **Walker stepson** (John W).
+  4. Eliza Martin (b. c. 1859–60), **Walker stepdaughter**. As Eliza Walker she married Thomas Melville in 1878; parents "John Walker and Eliza Martin" (FS XRL8-KQH). She is the "Mrs. Thos. Melville" of the 1896 Card of Thanks.
+  5. William Martin (b. c. 1861), **probably Eliza's son by Martin Peters** ("William Portos/Peters, 18" in 1880).
+  (Mary J, b. c.1854 NY, the Walker daughter in the 1860 household, is absent by 1870.)
   6. Henry Martin Jr. (b. c. 1865, Wisconsin)
   7. James Martin (b. c. 1866, Wisconsin)
   8. David Martin (b. c. 1867, Wisconsin)
   9. **Eliphlet "Life" Martin (1869–1956, Wisconsin)** — **direct line**. Listed as "Elipalet" age 1 in 1870 census, "Eliphlet" age 11 in 1880. m. Mildred Amelia Guernsey. FamilySearch ID: G9VT-JCS.
   10. Ann Jane Martin (b. c. 1872, Wisconsin) — not in 1870 census (born after). Age 8 in 1880 census.
-- **Son-in-law in 1880:** William Portos/Peters (18) — likely married daughter Eliza.
+- ~~**Son-in-law in 1880:** William Portos/Peters (18) — likely married daughter Eliza.~~ Withdrawn: he is more plausibly Eliza's Peters son (see item 5).
 
 ## Sources
 - **FamilySearch Family Tree** — Henry Martin, LYS2-3P2. Parents: Henry Martin Sr. (L1C9-XB2) and Nancy Storm (L1CS-95F).
@@ -88,7 +90,10 @@ Born August 18, 1830 **at or near the city of Belfast, Ireland** (per his 1896 A
 - **WHS pre-1907 death index — confirmed absence:** Henry's Aug 1896 death was never state-registered (all Door "Martin" and statewide "Henry Martin" death entries reviewed). Related Door entries: "Martin, Jennie D J, Sept 4, 1881" (candidate daughter) and "Martin, David Washingt, June 7, 1901" (son David — middle name Washington?).
 - **FindAGrave, Bayside Cemetery (#87550):** Henry Martin #57705649 (18 Aug 1830 – 11 Aug 1896); Eliza Martin #130255266 (1830 – **17 Oct 1884**, exact death date new); Henry Lincoln Martin #130255256 (Nov 1864–1923); James W Martin #130255264 (1865 – 15 Sep 1885); David W. Martin #197284626 (1867 – 7 Jun 1901); Annie J Martin #130255265 (1871 – 25 Sep 1891); Eliphlet #130255262; Mildred Guernsey Martin #130255261. Individual memorial pages are bot-blocked — browse in a normal browser for bios/plots.
 - **FamilySearch attached sources (contributed by Carolynn Walker):** 1875 WI census, 1880 US census, 1885 WI census, 1895 WI census, 1901 WI death record ("Harry Martin"), 1901 WI marriage record (as father of "Elihlet Martin"), Find A Grave index.
-- **1860 US Census surname index, Door County (Genealogy Trails transcription — UNVERIFIED, index only)** — "MARTIN, HENRY, 30, M, W, IREL, WASHINGTON". Age and birthplace match exactly (b. Aug 1830, Ireland). Location given as town of **Washington** (Washington Island), not Sevastopol. http://genealogytrails.com/wis/door/1860census-pg01.html
+- **1860 US Census surname index, Door County (Genealogy Trails transcription — UNVERIFIED, index only)** — "MARTIN, HENRY, 30, M, W, IREL, WASHINGTON". Age and birthplace match exactly (b. Aug 1830, Ireland). Location given as town of **Washington** (Washington Island), not Sevastopol. http://genealogytrails.com/wis/door/1860census-pg01.html — **superseded 2026-10-08**: the FamilySearch index puts him in **Sevastopol** (see next entry).
+- **1860 US Census, Sevastopol, Door Co, p. 23 [CONFIRMED index, 2026-10-08]** — FS ark:/61903/1:1:MW9Q-1HZ. Henry Martin, 30, b. Ireland, living in the household of **Nicholas Ambrose** (30, b. Germany) and **Catherine Ambrose** (30, b. **Ireland**), children Lawrence (7, NY) and Mary E (5, NY). Catherine's maiden name unknown — a Martin sister is SPECULATIVE but worth checking.
+- **Declaration of intention, Brown County Circuit Court, 27 Oct 1860 [CONFIRMED, image read 2026-10-08]** — FS "Wisconsin, County Naturalization Records, 1807-1992" (coll. 2046887), index ark:/61903/1:1:6NHF-LZHL; image ark:/61903/3:1:3QS7-8936-DVDG (Brown › Declarations of intention 1860 box 4, folder 4, A-Z, image 207/357). "Born in **Ireland**, on or about the year eighteen hundred and **thirty one**; … emigrated to the United States, and landed at the **Port of New York** on or about the month of **July**, in the year eighteen hundred and **fifty one**." Renounces Victoria, Queen of Great Britain & Ireland. Clerk John B. A. Massé (by deputy Chas. F. J. Massé). No county, town or ship.
+- **Petition & admission to citizenship, Door County Circuit Court, Sturgeon Bay, 16 Feb 1863 [CONFIRMED, image read 2026-10-08]** — index ark:/61903/1:1:ZNG4-JH3Z; image ark:/61903/3:1:3QSQ-G938-14VL (Door › Petitions for naturalization 1861-1879 vol 1, image 22/156). Born Ireland; arrived Port of New York, July 185[7?] (last digit looks like 7 but is presumably the 1851 of the declaration); cites the Brown Co. declaration of 27 Oct 1860. Witnesses **Joseph Harris** and **Wm. K. Dresser**; clerk **M. E. Lyman**; signed "Henry Martin".
 
 ## Obituary #1 (Door County Advocate, Aug 15, 1896, p. 1 — OCR verbatim, errors as-is)
 
@@ -130,26 +135,30 @@ Harry Martin, aged 66 years, of the town of Sevastopol died of cancer of the sto
 - 1830 birth and 1851 emigration predate Irish civil registration (1864) entirely — church registers are the only Irish birth-era sources, and Co. Down church records are NOT on free irishgenealogy.ie (Dublin/Kerry/Cork/Carlow only). Indexed Down registers = rootsireland.ie (paywalled, Ulster Historical Foundation); originals at PRONI in person.
 - **County Down** is in northeastern Ireland (modern Northern Ireland), near Belfast. Major towns: Downpatrick, Newry, Banbridge, Newtownards.
 - Born during the lead-up to the Great Famine (1845–1852). Henry was **15–22** during the worst famine years — prime age for emigration.
-- The family was almost certainly **Ulster Irish Protestant** — not Catholic. Evidence: English surname "Storm" (mother), Protestant funeral (Rev. David Lewis), Christian Science in next generation, biblical name "Eliphalet" for son. County Down was heavily Protestant (Church of Ireland, Presbyterian) due to the **Plantation of Ulster** (1600s), when English and Scottish Protestants were settled in northern Ireland by the Crown.
-- The Martins may be ethnically English or Scottish, settled in Ireland since the 1600s — culturally Irish but Anglo-Irish or Scots-Irish in origin.
+- **Protestant, probably, though the denomination is unproven [revised 2026-10-08].** Henry's funeral was taken by **Rev. David Lewis, the Methodist Episcopal pastor**. Eliza's 1884 funeral and the Lavassor funeral were also at the M.E. church, and both family marriages were civil. Irish Methodism of the 1830s drew mainly on Anglican rather than Presbyterian stock, so this leans slightly toward Church of Ireland or Methodist rather than Presbyterian. Confidence is low.
+- ~~The Martins may be ethnically English or Scottish, settled since the 1600s (Plantation of Ulster)~~: **withdrawn 2026-10-08**. It was inference from the unsourced "County Down" claim. The "Scots-Irish" label is not proven, and no record gives a county or parish.
 - **Martin** is the 10th most common surname in Ireland, particularly associated with:
   - **County Galway** — one of the "Tribes of Galway" (14 merchant families)
   - Counties Clare, Tyrone, Westmeath, Limerick
 - Without a specific parish or townland, tracing further in Irish records will be difficult. Irish civil registration didn't begin until 1864; earlier records are parish-based (Catholic or Church of Ireland).
 
-### 1860 census index hit — Washington township? [ADDED 2026-07-15, UNVERIFIED — now weakened]
+### 1860 census index hit — Washington township? [ADDED 2026-07-15 — RESOLVED 2026-10-08: he was in Sevastopol, boarding with the Ambrose family; FS MW9Q-1HZ. Section kept for history.]
 - Genealogy Trails' 1860 Door County census surname index lists **Henry Martin, 30, male, born Ireland, town of WASHINGTON** — the only Irish-born Martin in the county that year (the other two Martins are Belgians in Brussels township).
 - Age (b. c. 1830) and birthplace match our Henry exactly — but the Advocate obituary (found later the same day) says he was at Sturgeon Bay/Sevastopol from July 1857, and in 1860 he was **single** (married 1862), so a lone Irish Henry Martin boarding on Washington Island isn't impossible — mill and fishing labor moved around — yet it no longer fits the "family in Sevastopol" picture the index hit originally suggested.
 - **Resolve by pulling the original 1860 census image** (FamilySearch/Ancestry, Door County, town of Washington) — household composition would settle it in one look. Per source hierarchy: census images > transcriptions. Also check the Sevastopol/Sturgeon Bay pages for him.
 
 ### Migration path: Ireland → New York → Michigan → Wisconsin [REWRITTEN 2026-07-15 per Advocate obituary]
-- **1851:** emigrated from the Belfast area to **New York state** (age ~21). Likely entered at the Port of New York (Castle Garden opened 1855; earlier arrivals landed at the wharves).
+- **July 1851:** landed at the **Port of New York** [CONFIRMED 2026-10-08 by his own 1860 declaration of intention, Brown Co., WI — see Sources]. Origin given only as "Ireland"; ship unknown. A possible but unverified passenger-list match: Henry Martin, 17, Ireland, ship *A H Schultz*, New York 1851 (FS 275M-SWD, NARA M237 roll 108) — age is 3 years off and the month unchecked (SPECULATIVE).
+- **Oct 1860:** declared intention to naturalize at the Brown County circuit court (Green Bay); **16 Feb 1863** admitted a citizen at Sturgeon Bay. The clerk there was **M. E. Lyman** — possibly why the 1896 obituary names "Judge Lyman" as the 1862 wedding officiant while the contemporaneous notice names Robert Graham (SPECULATIVE).
 - **Fall 1854:** moved west to **Cedar River, Michigan** (Menominee County, UP lumber country) — followed **lumbering** until spring 1857. Previously unknown chapter.
 - **July 1857:** arrived **Sturgeon Bay**; worked in **Lyman Bradley's mill**; then located in Sevastopol — "his home for something like thirty-nine years."
 - This timeline **removes the old puzzle** of "Elias born New York c. 1853 / Charles born Wisconsin c. 1856": Henry was single and in Michigan in 1856. Those children now read as Eliza's from her first (Peters) marriage — see Marriage section.
 - By 1870, Henry was a **farmer** with $1,000 in real estate and $375 in personal property — established, not destitute.
 
 ### Marriage — Eliza was a widow, "Mrs. Eliza Peters" [REVISED 2026-07-15]
+- **[REVISED 2026-10-08, supersedes the bullets below where they conflict]:** Eliza married three times: **John Walker** (by 1850, Lockport NY; d. Door Co. c.1859), then **Martin Peters** (1859/60; d. by 1862), then Henry. The pre-1862 children were **Eliza's own Walker children**: the 1878 and 1880 Door Co. marriages of Eliza Walker and Charles Walker name "John Walker and Eliza Martin" as parents. They were not "Martin Peters' children by an earlier wife". Henry was their stepfather. See eliza-hutchinson.md.
+- **Officiant discrepancy:** the contemporaneous marriage notice (reprinted in the Advocate, 14 Nov 1912, p. 2) names **Robert Graham, Esq.**, while the 1896 obituary names **Judge M. E. Lyman**. Lyman was clerk of the Door Co. circuit court when Henry naturalized in 1863, so the obituary may have conflated the two. The register image (WHS Door Vol 1 p 11) would settle it.
+- The Card of Thanks's "Mrs. Thos. Melville" was **Eliza Walker, Henry's stepdaughter**, not his biological daughter. A 1902 social note calling Mrs. Kehoe "an aunt of Mr. Martin and Mrs. Melville" uses the word loosely; she was Mrs. Melville's step-aunt.
 - The Advocate obituary: "On November 12, 1862 Mr. Martin was united in marriage to **Mrs. Eliza Peters**, the ceremony being performed by **Judge M. E. Lyman** at the home of **Joseph Lavassor** in the then village of Sturgeon Bay." So **Hutchinson was her maiden name; Peters her first husband's**. This dissolves the old "three children born before the formal marriage" puzzle — those children (Elias b. NY c. 1853, Charles c. 1856, John c. 1857, possibly Eliza c. 1860 and William c. 1861) are most plausibly **Eliza's children by Peters**, enumerated under "Martin" in the 1870 census.
 - The obituary counts the marriage's own issue as **"four sons and three daughters"** — the four sons fit Henry Lincoln (b. Nov 1864), James W (b. 1865), David W (b. 1867), Eliphlet (b. 1869); daughters plausibly Ann Jane/Annie J (b. 1871, d. 1891), "Jennie D J Martin" (d. Sept 4, 1881, WHS death index), and one more — the Card of Thanks signers **Mrs. Chas. Walker and Mrs. Thos. Melville** are the surviving married daughters or stepdaughters (note: Eliphlet's 1956 pallbearers were Walkers — the families stayed close).
 - **1860 census image pulled and read same day (see eliza-hutchinson.md for the full analysis):** first husband = **Martin Peters, 39, farmer, b. IRELAND, $700/$175, Nasewaupee** — alive July 1860, gone by Nov 1862. **Column-11 ticks show Martin and Eliza "married within the year" (1859–60)** — so the Peters children (full roster across pages 34–35: Elias 7 NY, Mary J 6 NY, Charles 4 WI, John W 2 WI, Eliza A 1 WI) are most plausibly Martin Peters' by an earlier wife who died c. 1859: Eliza's stepchildren, then Henry's step-stepchildren after 1862. William (b. c. 1861, between the marriages) is plausibly Martin × Eliza's one child together — hence "William Peters" in the 1880 household. The 1870 "nine children" household was three families deep. Name inversion noted for the record: *Martin* Peters → Henry *Martin*.
@@ -164,6 +173,11 @@ Harry Martin, aged 66 years, of the town of Sevastopol died of cancer of the sto
 - Daughter **Annie J Martin, 1871 – Sep 25, 1891** (Bayside #130255265) — died at 20; matches "Ann Jane" of the 1880 census.
 - ~~Eliphlet curiously not listed in the obituary~~ — resolved: he's "Llfelet/Lifelet" in the Advocate obituary and Card of Thanks.
 - **Sister found [2026-07-15]:** "Mrs. John Keho was called to Sevastopol last Saturday by the serious illness of her brother, Henry Martin" (Advocate country correspondence, Aug 15, 1896). **First known sibling** — a sister who also emigrated and lived in Door County. Kehoe is an Irish surname; her marriage record (Wisconsin or earlier) could independently name the parents. High-value new thread.
+- **Sarah Ann (Martin) Kehoe — death and birthplace [2026-10-08]:** died at her home at North Bay (town of Baileys Harbor), March 1915. Three newspaper items, all read from the page images:
+  - *Door County News*, issue dated 10 Mar 1915, p. 1, "Deaths" (archive doc `88b0dabc-478c-4621-a4a1-0ae7125b6234/wsbd0000/20120718/00001372`): died "on Monday"; "a lady of 60 years and leaves a husband". (The issue date may be a week early; the same page has a St. Patrick feature.)
+  - *Sturgeon Bay Advocate*, 18 Mar 1915, p. 10, Baileys Harbor column (doc `b906834c-d092-4fa8-a27e-15e1b2759076/wsbd0000/20130111/00001004`): "one of the oldest settlers … passed away at her home at North Bay Tuesday morning. **She was born in Ireland, is about 86 years old** and has been a resident of this town about 25 years."
+  - *Sturgeon Bay Advocate*, 25 Mar 1915, p. 5, Card of Thanks from John Kehoe, North Bay, 22 Mar 1915 (doc `…/20130111/00001005`), thanking Rev. Erick Anderson. No parents named.
+  - **Birthplace: Ireland, PROBABLE.** It agrees with Henry; the 1900 census ("England, parents England"; FS MMKD-3WP) is the outlier. **Birth year unknown, c. 1829–1840** (86 / Oct 1840 per 1900 census / 60), so the earlier "about 24 years younger than Henry" reading, which rested only on "60", is dropped. Her 1915 Wisconsin death certificate is still the record most likely to name the parents and test "Nancy Storm".
 - **Naming pattern carried forward:** Eliphlet later named his own sons **John** and **Henry** — matching household names; note "John" may have been a Peters half-brother.
 
 ### Henry as farmer and civic leader
@@ -174,16 +188,18 @@ Harry Martin, aged 66 years, of the town of Sevastopol died of cancer of the sto
 
 ### Eliza's Canadian birth
 - The 1870 census lists Eliza as born in **Canada**, not England. The 1920 census (Eliphlet's record) says mother born in England — but Eliphlet was reporting from memory, 36 years after Eliza's death. He may have meant her parents' origin, or may have simply been wrong.
-- Eliza's parents on FamilySearch: Thomas Hutcheson (1808–?) and Sophia Miller (1805–?), whose mother was Margaret Laing (1783–?, Scottish). The Hutcheson/Miller family likely emigrated from England/Scotland to Canada (Upper Canada/Ontario) in the early 1800s, where Eliza was born c. 1830.
+- Eliza's parents: Thomas Hutcheson (c. 1812, England) and Sophia Miller (c. 1802, **Canada**; her parents are unknown). The former Margaret Laing (Scottish) link was **detached 2026-10-08**; see sophia-miller.md. Eliza was born c. 1829 in Upper Canada, probably in the Niagara district.
 
 ### Father: Henry Martin Sr.
 - FamilySearch shows a father also named **Henry Martin** with no dates — just "Deceased." FamilySearch ID: L1C9-XB2.
 - LDS temple ordinances have been performed, suggesting this record was contributed by LDS researchers. **Should be verified against primary sources.**
 - If Henry Sr. was also Irish-born, the family was in Ireland for at least two generations before emigration.
 
-### Mother: Nancy Storm — County Down, Ireland
-- From **County Down, Ireland** per FamilySearch (source: Henry Jr.'s November 12, 1862 marriage record, which listed his parents' origin).
-- **Storm** is an English surname (first recorded Norfolk, 1206). Nancy was likely descended from **Plantation of Ulster** settlers — English Protestants who were settled in northern Ireland in the 1600s. The Storm family had likely been in County Down for 200+ years by Nancy's time.
+### Mother: Nancy Storm — index-only [REVISED 2026-10-08]
+- Her name rests **only on the FamilySearch index** of the 12 Nov 1862 marriage (FS XRLD-HZ8, "Wisconsin, Marriages, 1836-1930"). The image is unavailable on FS, so only the WHS register copy (Door Vol 1 p 11) can verify the reading.
+- The FS profile L1CS-95F has one source (that index, attached 2018). The birthplace **"County Down" has 0 sources**, and the index does not state any origin for the parents.
+- Storm on irishgenealogy.ie civil records (1845+) is concentrated in **Cavan/Fermanagh/Monaghan and Antrim/Belfast** (Belfast 31 hits) and is nearly absent from Co. Down. A Belfast-born Henry with an Antrim/Belfast Storm mother is plausible. The earlier "Plantation of Ulster settlers in Co. Down for 200 years" narrative is withdrawn as unsupported.
+- Tests: the WHS 1862 register image; Sarah Kehoe's 1915 death certificate; Eliphlet's 1901 marriage record.
 - No dates recorded. FamilySearch ID: L1CS-95F.
 
 ### Next steps [reworked 2026-07-15]
@@ -191,8 +207,8 @@ Harry Martin, aged 66 years, of the town of Sevastopol died of cancer of the sto
 2. **Order Eliphlet's Oct 2, 1901 marriage record** (WHS Vol 2, p. 217, seq 04546, MR1532805) — era records list both parents; independently re-tests "Nancy Storm."
 3. **Mrs. John Keho(e) — the sister thread:** her marriage record (WHS index / Door County), census entries, and obituary could name the Irish parents a third way. Also PRONI Will Calendars (browser only — rejects scripted requests) for Storm AND Kehoe.
 4. **Belfast re-aim:** PRONI Street Directories (free, 1819–1900) for Storm and Martin in Belfast; view the free image of William Storm's 1887 Belfast death (irishgenealogy.ie group reg. 6949333) — informant/address may tie to Nancy's family. Griffith's Valuation retry (askaboutireland.ie 403-blocks US connections — use FamilySearch free account, a non-US connection, or library access): Storm all-Ulster, then Martin in any parish with Storms.
-5. **Naturalization records** — as postmaster, Henry MUST have been a citizen; Door County courthouse. Would state origin precisely.
-6. **Census images** (FamilySearch login): 1860 town of Washington (verify the index hit); 1870/1880 pages to re-read the children under the Peters hypothesis; 1850 New York (Henry ~20, possibly with parents).
+5. ~~**Naturalization records**~~ — **FOUND 2026-10-08** (Brown Co. declaration 1860; Door Co. petition 1863 — see Sources). They give only "Ireland" and New York, July 1851, with no county. Follow-up: NARA M237 New York arrivals for July 1851; Catherine Ambrose's maiden name (Sevastopol 1860).
+6. **Census images** (FamilySearch login): ~~1860 town of Washington~~ (resolved: Sevastopol, FS MW9Q-1HZ); 1870/1880 pages to re-read the children under the Peters hypothesis; 1850 New York (Henry ~20, possibly with parents).
 7. **Newspaper follow-ups** (archive.co.door.wi.us — POST query1="phrase" to /jsp/RcWebSearchResults.jsp; OCR at /servlet/RcWebTextData): Sept 19, 1896 Advocate (probable estate/probate notice); the May 1, 1875 "Henry Martin" Door County marriage (WHS MR1538276 — identify this second Henry); Mrs. Chas. Walker and Mrs. Thos. Melville (the married daughters/stepdaughters).
 8. **Search-spelling key for this family in the Door archive:** "Lifelet" (19 hits), "Eliphlet" (24 hits), phrase "Life Martin", index spelling "Elephlet"; "Henry Martin" + Sevastopol for the father.
 9. **Rev. David Lewis** — identify denomination. If Presbyterian/Methodist, supports Ulster Protestant origin.

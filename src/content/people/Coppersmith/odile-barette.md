@@ -26,6 +26,13 @@ tags:
 - '#person'
 - '#barette'
 created: '2025-09-18'
+life:
+  - { year: 1883, date: "1883-04-05", place: "Dyckesville, Brown County, Wisconsin", kind: "born" }
+  - { year: 1905, date: "1905-06-06", place: "Red River, Kewaunee County, Wisconsin", kind: "married" }
+  - { year: 1907, place: "Dyckesville, Brown County, Wisconsin", kind: "residence", certainty: "probable", note: "Claude born here" }
+  - { year: 1972, place: "136 Garfield Street, Green Bay, Brown County, Wisconsin", kind: "residence", source: "1972 obituary, last address" }
+  - { year: 1972, date: "1972-12-07", place: "Green Bay, Brown County, Wisconsin", kind: "died" }
+  - { year: 1972, place: "Allouez Catholic Cemetery, Green Bay, Brown County, Wisconsin", kind: "buried" }
 surname: 'Coppersmith'
 linked_parents:
   - 'Coppersmith/joseph-barrette'

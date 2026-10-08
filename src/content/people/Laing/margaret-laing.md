@@ -1,19 +1,20 @@
 ---
 id: margaret-laing
 name: Margaret Laing
-birth: 'c. 1783'
-birthplace: Rhynd, Perthshire, Scotland
+birth: 'c. 1783 (unsourced)'
+birthplace: Rhynd, Perthshire, Scotland (unsourced on FamilySearch)
 death: ''
 gender: F
 parents: []
 spouses:
-- William Miller (1786-?, m. 1799-09-04)
-children:
-- Sophia Miller (1805-?)
+- William Miller (m. 1799-09-04? — Newcastle marriage may be a different couple)
+children: []
 burial: ''
-status: confirmed
+status: unproven
 uncertain_fields:
-- exact birth date
+- whether she is connected to Don's line at all (link to Sophia Miller detached 2026-10-08)
+- birth date and place (0 sources on FS KH36-ZYD)
+- whether the 1799 Newcastle "Margery Laing" is the same woman as the Rhynd/Perth mother
 - death date
 - parents
 tags:
@@ -24,48 +25,31 @@ surname: 'Laing'
 linked_parents: []
 linked_spouses:
   - 'Miller/william-miller'
-linked_children:
-  - 'Miller/sophia-miller'
+linked_children: []
 ---
 # Margaret Laing
 
-**Lifespan:** c. 1783 – ?
+**Lifespan:** c. 1783 (unsourced) – ?
 
 **FamilySearch ID:** KH36-ZYD
 
+> **Detached from Don's tree, 2026-10-08.** The research behind this decision is in `reports/Scottish ancestry gap research.md` (krumpos-tree). Sophia Miller (b. c.1802, **Canada**) is no longer linked to Margaret as her daughter. The link depended on a FamilySearch profile that merges two or three different Miller × Laing couples, and no record ties Sophia to this family. This file is kept so the claim is not re-added later without new evidence.
+
 ## Summary
-Born c. 1783 in **Rhynd, Perthshire, Scotland**. Don's oldest known ancestor with a specific birthplace. Married William Miller on September 4, 1799, at St. Nicholas Church, Newcastle upon Tyne, Northumberland, England. She was about 16. Mother of Sophia Miller (1805). The family later emigrated to Canada.
+FamilySearch profile KH36-ZYD gives a birth "abt 1783, of Rhynd, Perth., Scot." with **zero sources**, an alternate name "Margery", and a Collaborate note reading "1778". The FS index has **no Margaret Laing born in Rhynd 1780–86**. The only indexed Rhynd Margaret Laing was born 10 Oct 1776 to Charles Laing and Grizzel Menzies (FS X13G-NVF), and that record is attached to a separate, spouseless profile (97F4-KFW). "Of Rhynd" most likely comes from the children's Rhynd baptisms.
+
+The couple William Millar × Margaret Laing that the records do show **stayed in Scotland**. Their daughter Margaret was born in Rhynd on 22 Apr 1807 (X13G-J9F). Mathew (1812), Robert (1814), Ann (1820) and William (1823) were baptised in Perth (FM91-HV6, VQH5-1BN, X19X-FXF, X17V-LPF). Two children died in Perth as adults, both naming William Miller and Margaret Laing as parents: Jane Herdman in 1872 aged 69 (6TG9-NXSV) and Robert Miller, grocer, in 1874 (X95N-8X45). **Nothing indexed puts this couple in Canada.** The earlier claim that "the family later emigrated to Canada" was a story built to join three records together.
 
 ## Relationships
-- **Husband:** William Miller (1786–?, FamilySearch ID: LZF4-CX5) — married Sep 4, 1799, Newcastle upon Tyne
-- **Daughter:** Sophia Miller (1805–?, MCXT-PV1) — born in England or Canada. m. Thomas Hutcheson (1808, England). **Direct line.**
-- **Parents:** Unknown — check FamilySearch and Scottish parish records for Rhynd, Perthshire.
+- **Husband (per FS):** William Miller (LZF4-CX5). The FS profile merges a 1799 Newcastle marriage, a 1802 Campsie baptism (to William Millar × Margaret *Lang*) and the Rhynd/Perth family of 1804–23.
+- **Children (documented, Scotland):** Jane/Jean (c.1803–1872), Margaret (1807), Mathew (1812), Robert (c.1814–1874), Ann (1820), William (1823). The FS profile also lists a "Sophia 1805" with **no source**.
+- **Sophia Miller (MCXT-PV1): DETACHED.** She was born in Canada c.1802 (1850 Lockport census), which cannot comfortably fit a couple baptising children in Rhynd in 1804 and 1807.
 
 ## Sources
-- **FamilySearch** — birth: "abt 1783 of Rhynd, Perth., Scot." (7 sources attached for sex, 0 for birth — birth location may be inferred)
-- **Marriage record, St. Nicholas, Newcastle upon Tyne, Northumberland, England** — Sep 4, 1799. FamilySearch source: 2:3KT62RR.
+- FS KH36-ZYD: birth field has 0 sources.
+- Marriage, St Nicholas, Newcastle upon Tyne, 4 Sep 1799: "William Miller and **Margery** Laing" (FS N6GN-L6F; QPQ1-D1J9). It indexes no ages, parishes or witnesses. "2:3KT62RR" is only the collection's internal source code. Nothing ties this couple to Perth or to Canada.
 
 ## Research Notes
-
-### Rhynd, Perthshire
-- Rhynd is a small parish near **Perth** in central Scotland (Perth and Kinross). Agricultural area along the River Tay.
-- Perthshire is in the Scottish Highlands/Central Belt — not the Borders region. Margaret traveled ~150 miles south to Newcastle.
-- Scottish parish records from the 1780s are often well-preserved (Church of Scotland). A baptism record for Margaret Laing in Rhynd c. 1783 may exist in the Old Parochial Records (OPR), available on ScotlandsPeople.gov.uk.
-
-### Laing surname
-- **Laing** (also Lang) — Scottish surname meaning "long/tall." Common in the Scottish Lowlands and Perthshire. Variant of "Long" in English.
-- Well-attested in Perthshire records.
-
-### Migration path
-- Rhynd, Perthshire, Scotland (c. 1783) → Newcastle upon Tyne, England (married 1799) → Canada (by c. 1805, when daughter Sophia was born)
-- Scottish migration to Newcastle's industrial economy was very common in the late 1700s.
-- The family then emigrated from England/Scotland to Canada — part of the massive British emigration to Upper Canada (Ontario) in the early 1800s.
-
-### Connection to Don
-Margaret Laing is Don's **6x great-grandmother** through this chain:
-1. Margaret Laing → 2. Sophia Miller → 3. Eliza Hutchinson → 4. Eliphlet Martin → 5. Gerald Martin → 6. Helen Martin → 7. Betty Schmidt → 8. **Don**
-
-### Next steps
-1. **ScotlandsPeople.gov.uk** — search Old Parochial Records for Rhynd parish, baptism of Margaret Laing c. 1783. Would give parents' names.
-2. **Newcastle upon Tyne parish records** — St. Nicholas marriage register, Sep 4, 1799. May give fathers' names as witnesses.
-3. **FamilySearch** — check for more above Margaret Laing (parents).
+- If the link were ever re-proved, Margaret would be Don's **5x great-grandmother**, not 6x: Margaret → Sophia (4x) → Eliza (3x) → Eliphlet (2x) → Gerald Sr. → Helen → Betty → Don.
+- The only route back to this family is the **Upper Canada marriage of Thomas Hutch\* × Sophia Miller, c.1825–32** (Niagara district registers), or another record naming Sophia's parents. Until then, Sophia's parents are unknown.
+- Low priority: the Newcastle 1799 register image and ScotlandsPeople OPR for Rhynd/Perth are useful only for cleaning up the FamilySearch profile.

@@ -32,6 +32,16 @@ tags:
 - '#meuron'
 - '#coppersmith'
 created: '2026-04-06'
+life:
+  - { year: 1815, date: "1815-12-02", place: "Mélin, Walloon Brabant, Belgium", kind: "born" }
+  - { year: 1835, date: "1835-06-08", place: "Mélin, Walloon Brabant, Belgium", kind: "married" }
+  - { year: 1856, place: "Antwerp, Belgium", kind: "emigrated", certainty: "probable", note: "if the Sea Lark (lines 8-22 unread)" }
+  - { year: 1856, date: "1856-03-29", place: "New York, New York", kind: "arrived", source: "her 1891 obituary" }
+  - { year: 1860, place: "Town of Green Bay, Brown County, Wisconsin", kind: "census", source: "1860 census, PO Robinsonville, dwelling 1811" }
+  - { year: 1880, place: "Town of Green Bay, Brown County, Wisconsin", kind: "census", source: "1880 census, ED 7, dwelling 142" }
+  - { year: 1890, between: [1889, 1891], place: "Green Bay, Brown County, Wisconsin", kind: "moved", certainty: "probable", note: "obituary: moved to Green Bay after Alexis died" }
+  - { year: 1891, date: "1891-07-18", place: "Green Bay, Brown County, Wisconsin", kind: "died" }
+  - { year: 1891, place: "Red River, Kewaunee County, Wisconsin", kind: "buried", source: "1891 obituary" }
 surname: 'Coppersmith'
 linked_parents:
   - 'Coppersmith/pierre-joseph-meuron'

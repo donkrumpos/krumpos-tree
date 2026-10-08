@@ -30,6 +30,14 @@ tags:
 - '#person'
 - '#coppersmith'
 created: '2026-04-06'
+life:
+  - { year: 1811, date: "1811-03-06", place: "Mélin, Walloon Brabant, Belgium", kind: "born" }
+  - { year: 1835, date: "1835-06-08", place: "Mélin, Walloon Brabant, Belgium", kind: "married", source: "Geneanet; 1835 Mélin register (stone cutter)" }
+  - { year: 1856, place: "Antwerp, Belgium", kind: "emigrated", certainty: "probable", note: "if the Sea Lark (lines 8-22 unread)" }
+  - { year: 1856, date: "1856-03-29", place: "New York, New York", kind: "arrived", source: "Désirée's 1891 obituary" }
+  - { year: 1860, place: "Town of Green Bay, Brown County, Wisconsin", kind: "census", source: "1860 census, PO Robinsonville, dwelling 1811" }
+  - { year: 1880, place: "Town of Green Bay, Brown County, Wisconsin", kind: "census", source: "1880 census, ED 7, dwelling 142" }
+  - { year: 1889, date: "1889-07-26", place: "Red River, Kewaunee County, Wisconsin", kind: "died" }
 surname: 'Coppersmith'
 linked_parents:
   - 'Coppersmith/pierre-joseph-copersmith'
@@ -106,6 +114,7 @@ Emigrated from Belgium with the family, **arriving in New York on March 29, 1856
   - **Original image checked 2026-10-06**, saved at `media/documents/1860-census-copesmet-town-of-green-bay-p240.jpg` (krumpos-tree repo; FamilySearch Image Group 005171769, image 230 of 629). Header reads "The Town of Green Bay," PO Robinsonville, enumerated **August 20, 1860** (the transcription says 15th) by Fred S. Ellis. Corrections to the transcription: Stefanie is **11**, not 10; Marcelin and Isidore are both marked **farmer** by ditto. FamilySearch indexes the family as "Copesmet," with Isidore as "Isidori," b. 1843.
   - **Possible Potier lead on the same page:** dwelling 1814, next to Charles Pottier, is **Ferdinand Pottier 72, Victoire 66**, with Jacques 32, Xavier 26 and Ferdinand 20. Likely Charles's parents and brothers. See [[charles-joseph-potier]].
 - **Ship — candidates, unconfirmed (researched 2026-10-06).** The Belgians in the American Civil War 1856 ship list shows two Belgian-carrying New York arrivals near the obituary's March 29 date: the **Sea Lark from Antwerp, arrived March 27, 1856**, and the **Aurora from Liverpool, arrived March 29, 1856**. The Sea Lark carried Walloon families bound for Wisconsin (Bouchonville, Boucher, Bouffioux, Champagne) — the stronger candidate, with a 2-day obituary drift. The Aurora matches the date exactly but sailed from Liverpool. Settle it by finding "Copesmette" in the Belgian Researchers 1856 alphabetical list (C pages, past "Cleermans") or the original manifests (NARA M237).
+  - **Checked 2026-10-06 (Belgians in the American Civil War site, all 82 ship pages for 1856 scanned by script for Copesm-/Coppersm-/Meuron/Baclaine):** no hit on any 1856 ship page. **Aurora is effectively out:** its page lists only 3 Belgian men from Liverpool, none of them family. **Sea Lark stays the lead and has a hole the right size:** the site transcribed passengers 1–7 (Beauvechain families: Gilbert, Malcorps, Deprince, Frix) then jumps to **23**, so **passengers 8–22 (15 places) are missing**. Smaller gaps at 153 and 183–187. Beauvechain borders the Jodoigne area where Mélin lies, and the Copesmette party of 1856 would be about 10–12 people. The fit is suggestive, not proof. **To settle it:** open the original Sea Lark manifest (arrived New York 27 Mar 1856, NARA M237) and read lines 8–22. FamilySearch "New York Passenger Lists, 1820-1891" (collection 1849782) has the images; needs Foggy's sign-in. Search the index for surname "Cop*" with arrival year 1856, or browse the March 1856 film to the Sea Lark. Ancestry's "New York, Passenger and Crew Lists" carries the same images.
 - **Same emigration season:** Désirée's sister **Hortence Meuron** and her husband Eugène Baclaine crossed on the Chimborazo, arriving New York May 3, 1856 — five weeks later. See [[hortence-meuron]].
 - **Negative searches (2026-10-06), so nobody repeats them:**
   - ~~1860 Brown County index negative~~ — **superseded:** the index files are incomplete; the family IS in Brown County 1860 (see FOUND above).

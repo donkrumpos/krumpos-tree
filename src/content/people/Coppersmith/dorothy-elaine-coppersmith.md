@@ -25,6 +25,13 @@ tags:
 - '#coppersmith'
 - '#krumpos'
 created: '2025-09-17'
+life:
+  - { year: 1928, date: "1928-04-26", place: "Green Bay, Brown County, Wisconsin", kind: "born", certainty: "probable" }
+  - { year: 1930, place: "South Irwin Avenue, Green Bay, Brown County, Wisconsin", kind: "census", source: "1930 census, parents' household" }
+  - { year: 1940, place: "1630 Eastman Avenue, Green Bay, Brown County, Wisconsin", kind: "census", source: "1940 census, parents' household" }
+  - { year: 1947, date: "1947-09-27", place: "Green Bay, Brown County, Wisconsin", kind: "married" }
+  - { year: 2002, date: "2002-05-07", place: "Oregon, Dane County, Wisconsin", kind: "died", source: "2002 obituary (Oregon Manor)" }
+  - { year: 2002, place: "Mount Calvary Cemetery, De Pere, Brown County, Wisconsin", kind: "buried" }
 surname: 'Coppersmith'
 linked_parents:
   - 'Coppersmith/claude-coppersmith'
@@ -65,7 +72,7 @@ Dorothy’s greatest joy was her family. Widowed at 35, she endured many tragedi
 - **1630 Eastman Avenue stayed in the family (Foggy, 2026-10-06):** Great-Aunt Aggie later lived in the house where her brother Claude raised Dorothy (owned by 1935, per the 1940 census). Foggy has been inside it. How and when it passed from Claude to Aggie is unknown; a question for the aunts.
 - **1930 US Census** (found 2026-10-06): City of Green Bay, Ward 5, **South Irwin Avenue**, sheet 8A, enumerated April 8, 1930 by Irwin D. Liebman. FamilySearch Image Group 004955418, image 237. Family 175, sharing a dwelling with the Ritch family (house number on the previous sheet). **Rented, $18/month.** Claude 22, head, married at 19, laborer at a paper mill; Marie 23, married at 19; Dorothy about 2; Leonard an infant. Image saved as `media/documents/1930-census-claude-coppersmith-s-irwin-ave.jpg` (krumpos-tree repo).
 - **1940 US Census** (found 2026-10-06): City of Green Bay, **1630 Eastman Avenue**, sheet 4A, enumerated April 8, 1940 by Geo. J. Battcal(?). FamilySearch Image Group 005461180, image 10. **Owned, value $3,500.** Claude 32, back tender at a paper mill, 52 weeks worked, $1,500 wages in 1939; Marie 33; Dorothy 11; Leonard 10; Florence 7; Robert 3; Ronald 1. All lived in the "same place" on April 1, 1935. Claude answered the supplementary questions: parents both born Wisconsin, **language spoken at home in earliest childhood: Belgian**, usual occupation paper maker, paper mill. Image saved as `media/documents/1940-census-claude-coppersmith-eastman-ave.jpg`.
-- **Reading:** between 1930 and 1935 the family went from renting part of a house on South Irwin Avenue to owning 1630 Eastman Avenue, both on Green Bay's east side. Dorothy grew up at 1630 Eastman Avenue from no later than age 7. The Point Comfort / Nicolet Drive move came after 1940. Next: Green Bay city directories 1941–1960 to date it. Claude grew up speaking Walloon ("Belgian") at home, three generations after the 1856 crossing.
+- **Reading:** between 1930 and 1935 the family went from renting part of a house on South Irwin Avenue to owning 1630 Eastman Avenue, both on Green Bay's east side. Dorothy grew up at 1630 Eastman Avenue from no later than age 7. The Point Comfort / Nicolet Drive move came after 1940. Next: Green Bay city directories 1941–1960 to date it. The 1940 census records "Belgian" as the language spoken in Claude's home in earliest childhood, three generations after the 1856 crossing. "Belgian" is the enumerator's word; in this Walloon settlement it almost certainly means Walloon (inference). The answer may have come from whoever spoke to the enumerator, not Claude himself.
 - *Green Bay Press Gazette*, obituary, May 2002 (transcribed in full).  
 - Family oral history and cemetery records.  
 

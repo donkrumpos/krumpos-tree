@@ -30,6 +30,14 @@ tags:
 - '#lancelle'
 - '#coppersmith'
 created: '2026-04-06'
+life:
+  - { year: 1853, date: "1853-11-18", place: "Beauvechain, Walloon Brabant, Belgium", kind: "born" }
+  - { year: 1871, date: "1871-07-09", place: "Robinsonville (Champion), Brown County, Wisconsin", kind: "married" }
+  - { year: 1895, place: "Red River, Kewaunee County, Wisconsin", kind: "census", source: "1895 Wisconsin state census" }
+  - { year: 1900, place: "Red River, Kewaunee County, Wisconsin", kind: "census", certainty: "probable" }
+  - { year: 1920, place: "Sappa Township, Harlan County, Nebraska", kind: "census" }
+  - { year: 1933, date: "1933-09-07", place: "Green Bay, Brown County, Wisconsin", kind: "died" }
+  - { year: 1933, place: "Allouez Catholic Cemetery, Green Bay, Brown County, Wisconsin", kind: "buried", source: "FindAGrave 88935559" }
 surname: 'Coppersmith'
 linked_parents:
   - 'Coppersmith/jacques-joseph-lancelle'

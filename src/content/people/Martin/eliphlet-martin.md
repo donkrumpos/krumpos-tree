@@ -50,12 +50,12 @@ Born **April 1869** ("April 1[7], 1869" per his obituary — day OCR-uncertain) 
 ## Relationships
 - **Father:** Henry Martin (1831–1896) — **born in Ireland**. FamilySearch ID: LYS2-3P2. The Irish ancestor that Betty (Schmidt) Krumpos remembered.
 - **Mother:** Eliza Hutchinson (c. 1830–1884) — **born in Canada** (per 1870 census; parents English/Scottish). FamilySearch ID: K814-2YL. Died when Eliphlet was ~15.
-- **Siblings (8 older, per 1870 Door County census):**
-  1. Elias Martin (b. c. 1853, New York)
-  2. Charles Martin (b. c. 1856, Wisconsin)
-  3. John Martin (b. c. 1857, Wisconsin)
-  4. Eliza Martin (sister, b. c. 1860, Wisconsin)
-  5. William Martin (b. c. 1861, Wisconsin)
+- **Siblings (8 older, per 1870 Door County census; items 1–5 revised 2026-10-08 to half-siblings, Eliza's children by earlier husbands):**
+  1. Elias Martin (b. c. 1853, New York), half-brother (Walker)
+  2. Charles Martin (b. c. 1856), half-brother (Charles Walker)
+  3. John Martin (b. c. 1857), half-brother (John W Walker)
+  4. Eliza Martin (b. c. 1859–60), half-sister (Eliza A Walker, later Mrs. Thomas Melville)
+  5. William Martin (b. c. 1861), half-brother (probably William Peters)
   6. Henry Martin Jr. (b. c. 1865, Wisconsin)
   7. James Martin (b. c. 1866, Wisconsin)
   8. David Martin (b. c. 1867, Wisconsin)
@@ -87,9 +87,9 @@ Born **April 1869** ("April 1[7], 1869" per his obituary — day OCR-uncertain) 
 - Eliphalet is a biblical name (2 Samuel 5:16, 1 Chronicles 3:8) — a Puritan/Protestant naming tradition. His eldest brother Elias also has a biblical name; the other seven siblings got common English names.
 
 ### Irish ancestry — CONFIRMED
-- **Henry Martin (1831–1896)** — born in Ireland, Don's 4x great-grandfather. The Irish ancestor Betty remembered.
-- **Eliza Hutchinson (c. 1830–1884)** — born in **Canada** (per 1870 census), not England as Eliphlet reported in 1920. Her parents (Thomas Hutcheson, Sophia Miller) were English/Scottish — Eliphlet likely reported his mother's ethnic origin rather than her actual birthplace, 36 years after her death.
-- Henry emigrated from Ireland to New York (eldest son Elias born there c. 1853), then moved to Door County, Wisconsin by c. 1856. Likely a Famine-era emigrant.
+- **Henry Martin (1830–1896)** — born in Ireland (near Belfast per 1896 obituary), Don's **3x great-grandfather** (corrected from 4x, 2026-10-08). The Irish ancestor Betty remembered.
+- **Eliza Hutchinson (c. 1830–1884)** — born in **Canada** (per 1870 census), not England as Eliphlet reported in 1920. Her father Thomas Hutcheson was English-born; her mother Sophia Miller was Canadian-born, with unknown parents (the Scottish Margaret Laing link was detached 2026-10-08). Eliphlet probably reported his grandfather's country of origin rather than his mother's birthplace, 36 years after her death.
+- Henry landed at New York in July 1851 (his 1860 declaration of intention), lumbered at Cedar River, Michigan, 1854–57, and reached Sturgeon Bay in July 1857. ~~Eldest son Elias born NY c. 1853~~: Elias and the other pre-1862 children were Eliza's **Walker** children, so they were Eliphlet's half-siblings (revised 2026-10-08).
 - By 1870, Henry was a **farmer** with $1,000 in real estate and 9 children. The youngest — Eliphlet — carried the family forward to Don's line.
 - **Martin** is the 10th most common surname in Ireland, particularly concentrated in County Galway.
 
@@ -115,7 +115,7 @@ Born **April 1869** ("April 1[7], 1869" per his obituary — day OCR-uncertain) 
 
 ### Naming patterns
 - Eliphlet named his sons **John** and **Henry** — the same names as two of his brothers in the 1870 household. Gerald named his son **Henry** too. Family names carrying forward across generations.
-- The eldest and youngest of Henry's nine children both got biblical names (Elias, Elipalet). The middle seven got standard English names (Charles, John, William, Henry, James, David, Eliza).
+- The eldest and youngest of Henry's nine children both got biblical names (Elias, Elipalet). The middle seven got standard English names (Charles, John, William, Henry, James, David, Eliza). *(Note 2026-10-08: Elias was a Walker child, not Henry's, so this naming pattern is not a Martin family tradition.)*
 
 ### Next steps
 1. ~~Eliphlet's obituary (1956)~~ — **FOUND** (see Sources).

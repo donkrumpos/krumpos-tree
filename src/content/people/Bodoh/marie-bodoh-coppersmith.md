@@ -26,6 +26,19 @@ tags:
 - '#person'
 - '#bodoh'
 created: '2025-09-17'
+life:
+  - { year: 1906, date: "1906-07-10", place: "Maple Creek, Outagamie County, Wisconsin", kind: "born" }
+  - { year: 1926, date: "1926-06-22", place: "Green Bay, Brown County, Wisconsin", kind: "married" }
+  - { year: 1930, place: "South Irwin Avenue, Green Bay, Brown County, Wisconsin", kind: "census" }
+  - { year: 1935, place: "1630 Eastman Avenue, Green Bay, Brown County, Wisconsin", kind: "residence", source: "1940 census, same place 1935" }
+  - { year: 1940, place: "1630 Eastman Avenue, Green Bay, Brown County, Wisconsin", kind: "census" }
+  - { year: 1949, between: [1941, 1949], place: "219 North Van Buren Street, Green Bay, Brown County, Wisconsin", kind: "moved", source: "1949 Wright's directory" }
+  - { year: 1950, place: "219 North Van Buren Street, Green Bay, Brown County, Wisconsin", kind: "census" }
+  - { year: 1954, between: [1951, 1957], place: "Point Comfort, Nicolet Drive, Green Bay, Brown County, Wisconsin", kind: "moved", certainty: "probable" }
+  - { year: 1987, circa: true, place: "Benson, Cochise County, Arizona", kind: "seasonal", note: "wintered with Claude; start year unknown" }
+  - { year: 1988, between: [1987, 1998], place: "Junction City, Lane County, Oregon", kind: "moved", certainty: "probable", note: "to live with daughter Florence after Claude died" }
+  - { year: 1998, date: "1998-06-10", place: "Junction City, Lane County, Oregon", kind: "died" }
+  - { year: 1998, place: "Allouez Catholic Cemetery, Green Bay, Brown County, Wisconsin", kind: "buried" }
 surname: 'Bodoh'
 linked_parents:
   - 'Bodoh/john-bodoh'

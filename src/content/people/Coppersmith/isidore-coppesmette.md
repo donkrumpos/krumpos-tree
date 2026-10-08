@@ -31,6 +31,16 @@ tags:
 - '#person'
 - '#coppersmith'
 created: '2026-04-06'
+life:
+  - { year: 1844, date: "1844-11-22", place: "Mélin, Walloon Brabant, Belgium", kind: "born", note: "1860 census age implies ~1842-43; headstone kept" }
+  - { year: 1856, place: "Antwerp, Belgium", kind: "emigrated", certainty: "probable", note: "with the family; Sea Lark lead" }
+  - { year: 1856, date: "1856-03-29", place: "New York, New York", kind: "arrived" }
+  - { year: 1860, place: "Town of Green Bay, Brown County, Wisconsin", kind: "census", source: "1860 census, parents' household" }
+  - { year: 1871, date: "1871-07-09", place: "Robinsonville (Champion), Brown County, Wisconsin", kind: "married" }
+  - { year: 1895, place: "Red River, Kewaunee County, Wisconsin", kind: "census", source: "1895 Wisconsin state census" }
+  - { year: 1900, place: "Red River, Kewaunee County, Wisconsin", kind: "census", certainty: "probable", note: "1900 household transcribed; township not stated in file" }
+  - { year: 1911, date: "1911-03-07", place: "Green Bay, Brown County, Wisconsin", kind: "died" }
+  - { year: 1911, place: "Allouez Catholic Cemetery, Green Bay, Brown County, Wisconsin", kind: "buried", source: "FindAGrave 88935565" }
 surname: 'Coppersmith'
 linked_parents:
   - 'Coppersmith/alexis-copesmette'

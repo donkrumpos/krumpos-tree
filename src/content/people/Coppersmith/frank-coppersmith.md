@@ -25,6 +25,14 @@ tags:
 - '#person'
 - '#coppersmith'
 created: '2025-09-18'
+life:
+  - { year: 1885, date: "1885-03-08", place: "Dyckesville, Brown County, Wisconsin", kind: "born" }
+  - { year: 1895, place: "Red River, Kewaunee County, Wisconsin", kind: "census", source: "1895 state census, parents' household" }
+  - { year: 1900, place: "Red River, Kewaunee County, Wisconsin", kind: "census", certainty: "probable", note: "parents' household, day laborer" }
+  - { year: 1905, date: "1905-06-06", place: "Red River, Kewaunee County, Wisconsin", kind: "married" }
+  - { year: 1907, place: "Dyckesville, Brown County, Wisconsin", kind: "residence", certainty: "probable", note: "Claude born here" }
+  - { year: 1959, date: "1959-10-07", place: "Green Bay, Brown County, Wisconsin", kind: "died" }
+  - { year: 1959, place: "Allouez Catholic Cemetery, Green Bay, Brown County, Wisconsin", kind: "buried", source: "FindAGrave 88935563" }
 surname: 'Coppersmith'
 linked_parents:
   - 'Coppersmith/isidore-coppesmette'

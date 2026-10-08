@@ -96,7 +96,7 @@ The largest single ethnic thread. Ancestors came from across the German-speaking
 | **Vollmer** | Hanover (northwest Germany) | Christian Vollmer (b. Jan 31, 1815, Hanover) | Illinois → Cleveland, MN. Died Aug 15, 1894. |
 | **Kurtz** | Baden (southwest Germany) | Anna Maria Kurtz (b. Jul 18, 1837, Baden) | Father "M Kurtz." Married Christian Vollmer in America — different corners of Germany. |
 | **Pfister** | Wittenberg, Saxony (central-east Germany) | John Pfister Sr. (b. Jun 19, 1830, Wittenberg) | Emigrated 1853. Pioneer settler, Door County. Brother Phillip killed in Civil War 1863. Buried Blossomberg Cemetery, Fish Creek. |
-| **Mielke** | Germany (region unknown) | Emil Mielke (b. Apr 29, 1881) | Door County. Moravian Church. German/Bohemian roots. |
+| **Mielke / Meikle** | Germany (region unknown) | Fred Meikle ("Fred Michaels" 1880, "Fredrick Mickel" 1900; b. Apr 1848, Germany, German-born parents) | Door County (town of Sturgeon Bay, Clay Banks). Shiloh Moravian Church. Wife Mary (Johnsen), b. Germany per the 1880 census and Sweden per the 1900 census. Not related to the Scottish Meikles of Stirlingshire. |
 | **Schindler** | Germany | Parents of Margaret Schindler | Both German-born per 1900 census. Names unknown. Le Sueur County, Minnesota. |
 | **Schneider** | Daaden, Westerwald, Rhineland-Palatinate (western Germany) | William F. Schneider (b. Mar 1872, Daaden) | Arrived NYC age 19 on SS Noordland (Red Star Line, Antwerp→New York). Baker, later day laborer. Settled Kenosha, Wisconsin. |
 
@@ -118,38 +118,41 @@ Settlement areas: Oconto County, Shawano County (Leopolis) — Wisconsin.
 
 ---
 
-## English (Kent → Minnesota; Northumberland → Canada → Wisconsin)
+## English (Kent → Minnesota; England → Upper Canada → New York → Wisconsin)
 
 | Surname | Origin | Notes |
 |---|---|---|
 | **Kendall** | Wingham, Kent, England | Traced to **Eastes Kendall (b. c. 1745)**. Stephen Eastes Kendall (c. 1795–1880) married Ann Forstall in Wingham 1819. Son William John emigrated to Le Sueur County, Minnesota. |
 | **Forstall** | Wingham, Kent, England | From the hamlet of **Forstal** near Wingham. Ann Forstall (1793–1875). Surname extinct in English civil registration — zero FreeBMD results. Also indexed as "Fostall" and "Fosball." |
 | **Lambert** | Wingham, Kent, England | Eliza Lambert (b. Jan 20, 1827, Wingham). Same parish as the Kendalls. Married William John Kendall Jan 1850 in Eastry, Kent. 12 children. |
-| **Hutcheson / Hutchinson** | England (specific county unknown) | Thomas Hutcheson (b. 1808). Married Sophia Miller in Canada. Daughter Eliza born in Canada c. 1830. "Hutcheson" is Scottish spelling; "Hutchinson" is northern English. |
-| **Miller** | Northumberland, northeast England | William Miller (b. 1786). Married Margaret Laing at St. Nicholas, Newcastle upon Tyne, 1799. Emigrated to Canada. |
-| **Storm** | English (Norfolk origin, first recorded 1206) | Nancy Storm, County Down, Ireland. English surname — likely descended from Plantation of Ulster settlers (1600s). |
+| **Hutcheson / Hutchinson** | England (specific county unknown) | Thomas Hutcheson (b. England c. 1812; Lockport, NY 1850). Married Sophia Miller in Upper Canada c. 1829. Daughters Eliza (c. 1829) and probably Mary (c. 1831, "Niagara West") were born in Canada. Clerks spelled it Hutcherson, Hutchison and Hutchinson, so the spelling is no evidence of a Scottish origin. |
+
+**Moved out of this table (2026-10-08):**
+- **Miller**: Sophia Miller was born in **Canada** c. 1802 and her parents are unknown. The "William Miller of Northumberland × Margaret Laing" link was detached because it rested on a merged FamilySearch profile. See the Canada section below.
+- **Storm**: Nancy Storm is listed under Irish. Her name comes only from the 1862 marriage index, and her "County Down" origin is unsourced.
 
 The Kent cluster (Kendall, Forstall, Lambert) all came from **Wingham and its surrounding parishes** — a single community that reassembled in Minnesota.
 
 ---
 
-## Irish — Ulster Protestant (County Down → Wisconsin)
+## Irish — Ulster, probably Protestant (Belfast area → New York → Michigan → Wisconsin)
 
 | Surname | Origin | Notes |
 |---|---|---|
-| **Martin** | **County Down, Ulster, Ireland** | Henry "Harry" Martin (b. Aug 18, 1830, Ireland). Parents: Henry Martin Sr. & Nancy Storm, both from County Down. Protestant, not Catholic — likely Anglo-Irish or Scots-Irish from Plantation of Ulster (1600s). Postmaster of Sevastopol, town treasurer. Migration: Ireland → New York (by 1853) → Door County, Wisconsin (by 1858). 10 children. Died Aug 11, 1896. Buried Bayside Cemetery, Sturgeon Bay. |
+| **Martin** | **"At or near the city of Belfast", Ulster, Ireland** (1896 obituary; county undocumented) | Henry "Harry" Martin (b. Aug 18, 1830). Parents per the 1862 marriage index only: Henry Martin Sr. & Nancy Storm (the "County Down" origin is unsourced). Landed New York July 1851 (1860 declaration of intention); Cedar River, MI 1854–57; Door County July 1857; naturalized 1863. Postmaster of Sevastopol, town treasurer. Married widow Eliza (Hutchinson) Walker Peters 1862: seven children of their own plus her Walker children. Sister Sarah Ann (Martin) Kehoe, b. Ireland, d. North Bay 1915. Died Aug 11, 1896. Buried Bayside Cemetery, Sturgeon Bay. |
+| **Storm** | Ireland (mother of Henry Martin; index-only) | Nancy Storm. In Irish civil records the surname clusters in Cavan/Fermanagh/Monaghan and Antrim/Belfast and is nearly absent from Co. Down. |
 
-Evidence for Protestant/Plantation origin: English surname "Storm" (mother), Protestant funeral (Rev. David Lewis), Christian Science in next generation, biblical name "Eliphalet" for youngest son. No Catholic markers anywhere in the line.
+Evidence for a Protestant origin: Henry's Methodist Episcopal funeral (Rev. David Lewis), Eliza's M.E. church funeral, civil marriages, and Christian Science in a later generation. No Catholic markers. **Plantation or Scots-Irish descent is not documented** (revised 2026-10-08).
 
 ---
 
-## Scottish (Perthshire → Newcastle → Canada → Wisconsin)
+## Scottish — no documented line [revised 2026-10-08]
 
-| Surname | Origin | Notes |
-|---|---|---|
-| **Laing** | **Rhynd, Perthshire, Scotland** | Margaret Laing (b. c. 1783). Oldest ancestor with a specific birthplace. Married William Miller at St. Nicholas Church, Newcastle upon Tyne, Sep 4, 1799. Laing = Scottish for "long/tall." Family emigrated to Canada, then Wisconsin. |
+Both former Scottish links failed when checked against the records:
+- **Laing**: Margaret Laing of Rhynd was attached to Sophia Miller only through a FamilySearch profile that merges two or three different couples. The documented William Millar × Margaret Laing family stayed in Rhynd and Perth (children 1804–23), while Sophia was born in Canada c. 1802. The link has been detached.
+- **Meikle**: Fred Meikle was German-born of German parents (1880 and 1900 censuses) and is missing from the Stirlingshire Meikles' 1914 sibling list.
 
-Migration path: Rhynd, Perthshire → Newcastle upon Tyne, England → Canada → Door County, Wisconsin. Four countries in four generations.
+A Scottish strand remains *possible* only through Sophia Miller's unknown Upper Canada parents or a deeper Ulster-Scots Martin ancestry. See krumpos-tree `reports/Scottish ancestry gap research.md`.
 
 ---
 
@@ -165,9 +168,8 @@ The mother **Mathilda/Mathilida Schneider** (b. c. 1873, Germany) — maiden nam
 |---|---|---|
 | **Germany** | Schmidt, Rabe, Vollmer, Kurtz, Pfister, Mielke, Schindler, Schneider | Christian Vollmer (1815, Hanover) |
 | **Bohemia/Czech** | Krumpos, Stefl, Kadletz | Joseph Wenzel Stefl (1818, Klattau) |
-| **England** | Kendall, Forstall, Lambert, Hutcheson, Miller, Storm | Eastes Kendall (c. 1745, Kent) |
-| **Ireland (Ulster)** | Martin | Henry Martin (1830, County Down) |
-| **Scotland** | Laing | Margaret Laing (c. 1783, Rhynd, Perthshire) |
+| **England** | Kendall, Forstall, Lambert, Hutcheson | Eastes Kendall (c. 1745, Kent) |
+| **Ireland (Ulster)** | Martin, Storm | Henry Martin (1830, near Belfast) |
 | **Belgium** | Coppersmith/Coppesmette, Barette, Lancelle, Potier, etc. | 1700s, Mélin/Beauvechain |
 | **France/Quebec** | Beaudoin/Bodoh, Lajeunesse/Young, Surprenant/Surprise, Desportes, Morin, etc. | Pierre Desportes (1588, Lisieux, Normandy) |
-| **Canada** | Hutchinson (born there to English/Scottish parents) | Eliza Hutchinson (c. 1830) |
+| **Canada (Upper Canada)** | Miller (parents unknown); Hutchinson (born there to an English father and a Canadian mother) | Sophia Miller (c. 1802) |
