@@ -42,6 +42,6 @@ Don knows Rex as a colleague — small Door County overlap consistent with the f
 
 ## Research Notes
 - Birth year unknown
-- Surname spelling: archive standardizes on "Mielke" (German form), but Bayside Cemetery headstones and Roger's obituary both use "Meikle." Rex's preferred spelling unconfirmed.
+- Surname spelling: archive standardizes on "Mielke" (a German-looking form; the original was the Swiss Mägli, see fred-meikle.md), but Bayside Cemetery headstones and Roger's obituary both use "Meikle." Rex's preferred spelling unconfirmed.
 - Living person — entry deliberately minimal per `CONTRIBUTING.md` privacy rule. Expand only with consent.
 - Parent records (Todd Meikle, Roger E. Meikle, Earl Meikle) not yet in archive — validator may flag the parent reference until they're created.

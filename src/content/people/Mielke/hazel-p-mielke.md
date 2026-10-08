@@ -75,7 +75,7 @@ Born July 12, 1902 in Sturgeon Bay, Door County, Wisconsin. Daughter of Emil and
 ## Research Notes
 - **Birth year correction:** Previously recorded as 1906. Obituary and burial record confirm July 12, 1902.
 - **Name correction:** First husband previously recorded as "Herold Martin" — obituary clearly states "Gerald Martin, Sr."
-- Surname variants: Mielke (German spelling), Miekle (obituary spelling), Meikle (burial record spelling)
+- Surname variants: Mielke (archive spelling), Miekle (obituary spelling), Meikle (burial record spelling). The original family name was the Swiss **Mägli** (see fred-meikle.md, revised 2026-10-08).
 - Mother listed as "Margaret Miekle" in obituary — previously recorded as "Margaret Pfister." Pfister may be her maiden name; needs verification.
 - Helen not mentioned in obituary — she predeceased Hazel by 13 years (died 1974). This likely caused the previous date confusion where Hazel's death date (Apr 8, 1987) was mistakenly attributed to Helen.
 - Gerald Martin Sr. died May 1931 when Helen was only 6 years old. Hazel remarried within a year.

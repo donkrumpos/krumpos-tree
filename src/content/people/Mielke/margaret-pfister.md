@@ -64,6 +64,7 @@ Born August 16, 1876 in Fish Creek, Door County, Wisconsin. Daughter of John Pfi
 - Find A Grave: Memorial at Bayside Cemetery, Sturgeon Bay — birth/death dates, birthplace Fish Creek
 - Hazel P. Lau obituary (1987) — names parents as "the late Emil and Margaret Miekle"
 - **Marriage record (Door Co, WI):** marriage to Emil **October 16, 1902**; her surname rendered "Pfisterer" on the record. **Index entry confirmed 2026-07-15:** WHS pre-1907 index MR2175482, "Pfister, Magart," Door County, Vol 2, p. 243, seq 04639. Pulling the original is next-step #1 in fred-meikle.md — it names both parties' parents (would confirm Anna Weidner too).
+- **FS marriage index (found 2026-10-08):** "Wisconsin, Marriages, 1836-1930", FS XRVC-F8D, Emil Meickle × **Margaret Pfister**, 16 Oct 1902, Door Co. It names the bride's parents as **Charles Pfister** and **Annie Wagner**. **CONFLICT:** her obituary names "John Pfister" and FindAGrave gives "John (Charles)" and Anna (née Weidner). This could be a double given name (John Charles) and a misindexed or misreported maiden name (Wagner vs Weidner). The index is not an image; the WHS original (Vol 2 p 243) should settle it. Not applied to the parents field.
 - **FindAGrave Memorial #126312039** — b. Aug 16, 1876 Fish Creek; parents John (Charles) & Anna (née Weidner) Pfisterer; siblings Anna Felhofer, Josephine Lyman, Pauline Miller, Casper Pfister. [Secondary — user-contributed.]
 - **1930 US Census:** Emil and Margaret listed as **divorced**.
 

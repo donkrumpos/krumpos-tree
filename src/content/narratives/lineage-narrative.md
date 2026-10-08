@@ -89,7 +89,9 @@ Stand at the intersection of all these lines and look backward. Here is where Do
 
 **Ireland** — Henry Martin, born August 18, 1830, near Belfast, Ulster. Probably Protestant Irish, not Famine Catholic, though whether his people came over with the Plantation, no record says. He became a farmer, a postmaster, a town treasurer in Door County, Wisconsin. His great-great-great-grandson lives seven miles from where he farmed.
 
-**Germany** — The largest single thread. John Schmidt from Mecklenburg. Christian Vollmer from Hanover. Anna Maria Kurtz from Baden. John Pfister from Wittenberg. The Mielke family. The Schindler family. The Schneider family. Margaret Pfister's people. They came from every corner of the German-speaking world — the Baltic coast, the Saxon heartland, the Black Forest borderlands — and reassembled in Wisconsin as if the state were a German reunion that nobody planned.
+**Germany** — The largest single thread. John Schmidt from Mecklenburg. Christian Vollmer from Hanover. Anna Maria Kurtz from Baden. John Pfister from Wittenberg. The Schindler family. The Schneider family. Margaret Pfister's people. They came from every corner of the German-speaking world — the Baltic coast, the Saxon heartland, the Black Forest borderlands — and reassembled in Wisconsin as if the state were a German reunion that nobody planned.
+
+**Switzerland** — Fred Meikle, born Frederick Mägli in Switzerland around 1848. He landed at Milwaukee as a small boy in the 1850s and farmed the Clay Banks country of Door County. His name was written Magle, Magli, Mickel and finally Meikle, which led later researchers to look for him first in Scotland and then in Germany.
 
 **Bohemia** — Joseph Krumpos from an unknown town. Joseph Wenzel Stefl from Klattau. Mary Katherine Kadletz. The Czech thread, arriving in the 1860s, settling in Oconto and Shawano counties.
 

@@ -96,11 +96,16 @@ The largest single ethnic thread. Ancestors came from across the German-speaking
 | **Vollmer** | Hanover (northwest Germany) | Christian Vollmer (b. Jan 31, 1815, Hanover) | Illinois → Cleveland, MN. Died Aug 15, 1894. |
 | **Kurtz** | Baden (southwest Germany) | Anna Maria Kurtz (b. Jul 18, 1837, Baden) | Father "M Kurtz." Married Christian Vollmer in America — different corners of Germany. |
 | **Pfister** | Wittenberg, Saxony (central-east Germany) | John Pfister Sr. (b. Jun 19, 1830, Wittenberg) | Emigrated 1853. Pioneer settler, Door County. Brother Phillip killed in Civil War 1863. Buried Blossomberg Cemetery, Fish Creek. |
-| **Mielke / Meikle** | Germany (region unknown) | Fred Meikle ("Fred Michaels" 1880, "Fredrick Mickel" 1900; b. Apr 1848, Germany, German-born parents) | Door County (town of Sturgeon Bay, Clay Banks). Shiloh Moravian Church. Wife Mary (Johnsen), b. Germany per the 1880 census and Sweden per the 1900 census. Not related to the Scottish Meikles of Stirlingshire. |
 | **Schindler** | Germany | Parents of Margaret Schindler | Both German-born per 1900 census. Names unknown. Le Sueur County, Minnesota. |
 | **Schneider** | Daaden, Westerwald, Rhineland-Palatinate (western Germany) | William F. Schneider (b. Mar 1872, Daaden) | Arrived NYC age 19 on SS Noordland (Red Star Line, Antwerp→New York). Baker, later day laborer. Settled Kenosha, Wisconsin. |
 
-Settlement areas: Door County (Pfister, Mielke), Le Sueur County, Minnesota (Schmidt, Vollmer, Kurtz, Schindler), Kenosha (Schneider).
+Settlement areas: Door County (Pfister), Le Sueur County, Minnesota (Schmidt, Vollmer, Kurtz, Schindler), Kenosha (Schneider).
+
+## Swiss
+
+| Surname | Origin | Immigrant | Notes |
+|---|---|---|---|
+| **Mielke / Meikle** (originally **Mägli**) | Switzerland (German-speaking; Canton Bern possible, unproven) | Fred Meikle = Frederick Mägli/Magli/Magle (b. c.1848, Switzerland; landed at Milwaukee Oct 1854?; naturalized 1878) | Door County (town of Sturgeon Bay, Clay Banks). Recorded as "Bavaria" (1880) and "Germany" (1900), but as Switzerland in the 1874 marriage, the 1878 naturalization and the 1905/1910 censuses. Parents Conrad and Elizabeth. Wife Mary (Johnsen), b. Bavaria per 1880 and Sweden per 1900. Not related to the Scottish Meikles of Stirlingshire. Revised 2026-10-08. |
 
 ---
 
@@ -150,7 +155,7 @@ Evidence for a Protestant origin: Henry's Methodist Episcopal funeral (Rev. Davi
 
 Both former Scottish links failed when checked against the records:
 - **Laing**: Margaret Laing of Rhynd was attached to Sophia Miller only through a FamilySearch profile that merges two or three different couples. The documented William Millar × Margaret Laing family stayed in Rhynd and Perth (children 1804–23), while Sophia was born in Canada c. 1802. The link has been detached.
-- **Meikle**: Fred Meikle was German-born of German parents (1880 and 1900 censuses) and is missing from the Stirlingshire Meikles' 1914 sibling list.
+- **Meikle**: Fred Meikle was Swiss-born; the surname was originally Mägli (1878 naturalization, 1874 marriage index, 1905/1910 censuses). He is also missing from the Stirlingshire Meikles' 1914 sibling list.
 
 A Scottish strand remains *possible* only through Sophia Miller's unknown Upper Canada parents or a deeper Ulster-Scots Martin ancestry. See krumpos-tree `reports/Scottish ancestry gap research.md`.
 
@@ -166,7 +171,8 @@ The mother **Mathilda/Mathilida Schneider** (b. c. 1873, Germany) — maiden nam
 
 | Country | Surnames | Deepest Ancestor |
 |---|---|---|
-| **Germany** | Schmidt, Rabe, Vollmer, Kurtz, Pfister, Mielke, Schindler, Schneider | Christian Vollmer (1815, Hanover) |
+| **Germany** | Schmidt, Rabe, Vollmer, Kurtz, Pfister, Schindler, Schneider | Christian Vollmer (1815, Hanover) |
+| **Switzerland** | Mielke/Meikle (Mägli) | Fred Meikle (c. 1848) |
 | **Bohemia/Czech** | Krumpos, Stefl, Kadletz | Joseph Wenzel Stefl (1818, Klattau) |
 | **England** | Kendall, Forstall, Lambert, Hutcheson | Eastes Kendall (c. 1745, Kent) |
 | **Ireland (Ulster)** | Martin, Storm | Henry Martin (1830, near Belfast) |
