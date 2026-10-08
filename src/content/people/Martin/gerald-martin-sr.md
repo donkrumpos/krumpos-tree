@@ -4,6 +4,7 @@ name: Gerald Martin Sr.
 aka: [Herold Martin]
 birth: '1903-03-08'
 death: '1931-06-14'
+death_place: 'Sturgeon Bay, Door County, Wisconsin'
 gender: M
 parents:
 - Eliphlet Martin (1869-1956)

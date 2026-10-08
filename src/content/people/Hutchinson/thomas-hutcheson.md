@@ -40,7 +40,7 @@ Born c. 1812 in **England**. The 1850 census at Lockport, Niagara Co., NY, has "
 ## Relationships
 - **Wife:** Sophia Miller (c. 1802–?, MCXT-PV1), born in Canada; her parents are unknown
 - **Daughter:** Eliza Hutchinson (c. 1829–1884, K814-2YL), **direct line**. Born in Canada. Married (1) John Walker, (2) Martin Peters, (3) Henry Martin.
-- **Daughter (probable):** Mary A. (Hutchinson) Lavassor (c. 1831–1884)
+- **Daughter (probable-strong):** Mary A. (Hutchinson) Lavassor (c. 1831–1884); "Mary Louisa Hutchinson, of Thomas and Sophia", baptised St Mark's, Niagara, 21 Dec 1831
 - **Daughter:** Rhoda (c. 1845, Canada)
 
 ## Research Notes
@@ -52,6 +52,12 @@ Born c. 1812 in **England**. The 1850 census at Lockport, Niagara Co., NY, has "
 - **Daughter Rhoda (b. c.1845, Canada):** seen only in 1850. The Madoc/Hastings Co. Ontario Rhoda Hutchison is unlinked.
 - **Probable daughter Mary A. (Hutchinson) Lavassor (c.1831–1884) [PROBABLE]:** "born in **Niagara West**, in Canada, about the year 1831" (*Door County Advocate*, 24 Jan 1884, p. 3; FindAGrave #129004940). She married Joseph Lavassor in 1854 and was in Sturgeon Bay from that May. Eliza's 1862 wedding was held at the Lavassor home. See eliza-hutchinson.md. If she is a daughter, the family was in **Niagara Township (Lincoln Co., Upper Canada)** c.1831, so the c.1829 marriage and the children's baptisms should be sought in the Niagara registers (St. Mark's Anglican and St. Andrew's Presbyterian, Niagara-on-the-Lake).
 - Source: krumpos-tree `research_notes/Scottish ancestry gap research/followup_2026-10-08.md`.
+
+## Niagara, 1831 — St Mark's register [2026-10-08, session 5]
+- **CONFIRMED (printed transcript): Thomas and Sophia were at Niagara in Dec 1831.** St Mark's Anglican baptisms, 21 Dec 1831: "Mary Louisa Hutchinson, of Thomas and Sophia" (Rev. Robert Addison's register, OHS *Papers and Records* vol. 3, 1901, p. 52; archive.org `papersrecordsontv3onta`). No occupation or abode is given.
+- NEGATIVE: there is no Thomas × Sophia wedding in St Mark's for 1825–32, and no Hutch\* in St Andrew's for 1830–32. Thomas and Sophia are not in the 1851 or 1861 Canada censuses for Niagara (indexes).
+- SPECULATIVE, not linked: **Robert Hutchinson, b. c.1793 England**, with Maria (b. c.1802 England), at Niagara in 1851 and 1861 ("Robt Hutchins"). He could be an older relative. There is no evidence either way.
+- Source: krumpos-tree `research_notes/Scottish ancestry gap research/followup_2026-10-08_s5.md`.
 
 ## Lavassor records — results [2026-10-08, session 3]
 - **1860 and 1870 Lavassor households, Sturgeon Bay: NEGATIVE for Sophia (images read).** In 1860 (FS MW9Q-1VD, p.1, 12 Jun) the dwelling is headed by Bethany Sackett, 50, milliner, b. NY. Joseph Lavassor is 37 (Canada East) and Mary 27 (**Canada West**), with children Charles W, Paul W, William and Mary A. In 1870 (FS MN98-2TB, "Levassor", household 80) Joseph is 47 and Mary 37 (Canada), with seven children. There is no Hutchinson in either household or next door.

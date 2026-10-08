@@ -105,7 +105,9 @@ Children: Emma F. (1874–1892), Sophia (1877–1878), Emily (b. Feb 1880), **Em
 - Emil Meikle obituary, Door County Advocate, 21 Apr 1970, names "Fred and Mary Meikle". FindAGrave #126311941 (Emil) gives "Fred and Mary (Johnsen) Meikle".
 - **Disproof of the William Meikle link:** Door County Democrat, 10 Apr 1914, "Death of Alex Meikle" (doc `0a8b94b5-…/20120718/00001109`); William's FindAGrave #130602798.
 
-- Full research notes: krumpos-tree `research_notes/Scottish ancestry gap research/followup_2026-10-08_s3.md` and `followup_2026-10-08_s4.md`.
+- **Door County Democrat, 6 Nov 1909, "Sawyer Department" [CONFIRMED, image read 2026-10-08 s5]**: doc `0a8b94b5-5745-457c-a604-522158934fc2/wsbd0000/20120718/00000878`. "Mrs. Fred Magli and sister, Mrs. Anton Meri, are visiting at Mellen, Ashland county, this state." So **Mary had a sister**. The surname reads "Meri" (possibly Merl or Mery) and is not identified.
+- **1900 census, Sturgeon Bay, Mary Johnson b. June 1828 Sweden** (FS 1:1:MMKD-WVN), widow living with her son Martin: **NEGATIVE as Mary's mother**. She reported 1 child born and 1 living, so she cannot also be the mother of Mary Maggle, who was alive in 1900.
+- Full research notes: krumpos-tree `research_notes/Scottish ancestry gap research/followup_2026-10-08_s3.md` `followup_2026-10-08_s4.md` and `followup_2026-10-08_s5.md`.
 
 ## Research Notes
 - A **separate Meikle/Mikels family** also lived in the town (1956 notice, doc `1e8fc801-90a4-4104-8e86-19a1ea0947dc/wsbd0000/20141103/00001127`). Keep it apart from Fred's family and from William's Scottish family.
@@ -115,4 +117,4 @@ Children: Emma F. (1874–1892), Sophia (1877–1878), Emily (b. Feb 1880), **Em
 ## Next steps
 1. **Oberbipp baptism image** (FS 68VG-TQVF): FamilySearch center or affiliate library only. Check for a second given name (e.g. Samuel Friedrich).
 2. **WHS original** of the 1874 Maeghel × Johnson marriage (birthplaces; Mary's mother).
-3. Mary's mother (Mrs. John Johnson), who came to Door Co. c.1873: find her in the 1875/1880 Door censuses and her death.
+3. Mary's mother (Mrs. John Johnson), who came to Door Co. c.1873: find her in the 1875/1880 Door censuses and her death. The 1900 Mary Johnson (b. 1828) is ruled out (s5). **New route: Mary's sister "Mrs. Anton Meri"** (1909) and the family's Mellen, Ashland Co. connection.

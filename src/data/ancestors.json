@@ -456,11 +456,17 @@
     "birth": "1903-03-08",
     "death": "1931-06-14",
     "birth_place": "",
-    "death_place": "",
+    "death_place": "Sturgeon Bay, Door County, Wisconsin",
     "generation": 3,
     "gender": "M",
     "branch": "martin",
-    "life": [],
+    "life": [
+      {
+        "year": 1931,
+        "place": "Sturgeon Bay, Door County, Wisconsin",
+        "kind": "died"
+      }
+    ],
     "life_source": "birth-death"
   },
   {
@@ -707,7 +713,7 @@
     "surname": "Krumpos",
     "birth": "1845-10-16",
     "death": "1920-02-19",
-    "birth_place": "Trhanov, Bohemia",
+    "birth_place": "Trojany (Trojan), Kralovice district, Bohemia",
     "death_place": "Oconto, Oconto County, Wisconsin",
     "generation": 4,
     "gender": "M",
@@ -715,7 +721,7 @@
     "life": [
       {
         "year": 1845,
-        "place": "Trhanov, Bohemia",
+        "place": "Trojany (Trojan), Kralovice district, Bohemia",
         "kind": "born"
       },
       {
@@ -733,12 +739,23 @@
     "surname": "Martin",
     "birth": "1869",
     "death": "1956-08-05",
-    "birth_place": "",
-    "death_place": "",
+    "birth_place": "Sevastopol, Door County, Wisconsin",
+    "death_place": "Sturgeon Bay, Door County, Wisconsin",
     "generation": 4,
     "gender": "M",
     "branch": "martin",
-    "life": [],
+    "life": [
+      {
+        "year": 1869,
+        "place": "Sevastopol, Door County, Wisconsin",
+        "kind": "born"
+      },
+      {
+        "year": 1956,
+        "place": "Sturgeon Bay, Door County, Wisconsin",
+        "kind": "died"
+      }
+    ],
     "life_source": "birth-death"
   },
   {
@@ -748,12 +765,23 @@
     "surname": "Martin",
     "birth": "1880-03-21",
     "death": "1971-12-15",
-    "birth_place": "",
-    "death_place": "",
+    "birth_place": "Ionia, Michigan",
+    "death_place": "Sturgeon Bay, Door County, Wisconsin",
     "generation": 4,
     "gender": "F",
     "branch": "martin",
-    "life": [],
+    "life": [
+      {
+        "year": 1880,
+        "place": "Ionia, Michigan",
+        "kind": "born"
+      },
+      {
+        "year": 1971,
+        "place": "Sturgeon Bay, Door County, Wisconsin",
+        "kind": "died"
+      }
+    ],
     "life_source": "birth-death"
   },
   {
@@ -1156,12 +1184,23 @@
     "surname": "Guernsey",
     "birth": "1857-12-22",
     "death": "1940-02-16",
-    "birth_place": "",
-    "death_place": "",
+    "birth_place": "Hudson, Steuben County, Indiana",
+    "death_place": "Donna, Hidalgo County, Texas",
     "generation": 5,
     "gender": "M",
     "branch": "martin",
-    "life": [],
+    "life": [
+      {
+        "year": 1857,
+        "place": "Hudson, Steuben County, Indiana",
+        "kind": "born"
+      },
+      {
+        "year": 1940,
+        "place": "Donna, Hidalgo County, Texas",
+        "kind": "died"
+      }
+    ],
     "life_source": "birth-death"
   },
   {
@@ -1280,12 +1319,23 @@
     "surname": "Martin",
     "birth": "1830-08-18",
     "death": "1896-08-11",
-    "birth_place": "",
-    "death_place": "",
+    "birth_place": "Belfast, Ireland",
+    "death_place": "Sevastopol, Door County, Wisconsin",
     "generation": 5,
     "gender": "M",
     "branch": "martin",
-    "life": [],
+    "life": [
+      {
+        "year": 1830,
+        "place": "Belfast, Ireland",
+        "kind": "born"
+      },
+      {
+        "year": 1896,
+        "place": "Sevastopol, Door County, Wisconsin",
+        "kind": "died"
+      }
+    ],
     "life_source": "birth-death"
   },
   {

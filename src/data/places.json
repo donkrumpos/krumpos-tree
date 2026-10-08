@@ -69,6 +69,13 @@
     "query": "Beauvechain, Walloon Brabant, Belgium",
     "source": "nominatim"
   },
+  "Belfast, Ireland": {
+    "display_name": "Belfast City District, County Antrim, Northern Ireland / Tuaisceart Éireann, United Kingdom",
+    "lat": 54.596391,
+    "lon": -5.9301829,
+    "query": "Belfast, Ireland",
+    "source": "nominatim"
+  },
   "Belgium (probable Mélin area)": {
     "lat": null,
     "lon": null,
@@ -163,6 +170,13 @@
     "lat": 44.5542272,
     "lon": -88.6765137,
     "query": "Deer Creek, Outagamie County, Wisconsin",
+    "source": "nominatim"
+  },
+  "Donna, Hidalgo County, Texas": {
+    "display_name": "Donna, Hidalgo County, Texas, 78537, United States",
+    "lat": 26.1702082,
+    "lon": -98.0522376,
+    "query": "Donna, Hidalgo County, Texas",
     "source": "nominatim"
   },
   "Duck Creek, Brown County, Wisconsin": {
@@ -268,11 +282,25 @@
     "query": "Hoegaarden, Flemish Brabant, Belgium",
     "source": "nominatim"
   },
+  "Hudson, Steuben County, Indiana": {
+    "display_name": "Hudson, Steuben County, Indiana, United States",
+    "lat": 41.5328281,
+    "lon": -85.0810793,
+    "query": "Hudson, Steuben County, Indiana",
+    "source": "nominatim"
+  },
   "Iberville, Quebec, Canada": {
     "display_name": "Iberville, Saint-Jean-sur-Richelieu, Le Haut-Richelieu, Montérégie, Québec, Canada",
     "lat": 45.3039219,
     "lon": -73.2297415,
     "query": "Iberville, Quebec, Canada",
+    "source": "nominatim"
+  },
+  "Ionia, Michigan": {
+    "display_name": "Ionia County, Michigan, United States",
+    "lat": 42.9469688,
+    "lon": -85.0713945,
+    "query": "Ionia, Michigan",
     "source": "nominatim"
   },
   "Joliet, Will County, Illinois": {
@@ -534,6 +562,13 @@
     "note": "Approximate: Sappa Peak / Sappa Creek; township boundary not in OSM",
     "source": "override"
   },
+  "Sevastopol, Door County, Wisconsin": {
+    "display_name": "Town of Sevastopol, Door County, Wisconsin, United States",
+    "lat": 44.9115135,
+    "lon": -87.0490981,
+    "query": "Sevastopol, Door County, Wisconsin",
+    "source": "nominatim"
+  },
   "South Irwin Avenue, Green Bay, Brown County, Wisconsin": {
     "display_name": "South Irwin Avenue, Astor East, Green Bay, Brown County, Wisconsin, 54301, United States",
     "lat": 44.4990042,
@@ -596,6 +631,13 @@
     "lon": 12.842,
     "note": "Krumpos origin village (~5 km from Domažlice), Chodsko region; Nominatim doesn't resolve historical 'Bohemia'",
     "source": "override"
+  },
+  "Trojany (Trojan), Kralovice district, Bohemia": {
+    "lat": null,
+    "lon": null,
+    "note": "Nominatim returned no results for normalized query: Trojany , Kralovice district, Bohemia",
+    "query": "Trojany , Kralovice district, Bohemia",
+    "source": "failed"
   },
   "Wingham, Kent, England": {
     "display_name": "Wingham, Dover, Kent, England, United Kingdom",

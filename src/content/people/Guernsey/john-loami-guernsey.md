@@ -2,7 +2,9 @@
 id: john-loami-guernsey
 name: John Loami Guernsey
 birth: '1857-12-22'
+birth_place: 'Hudson, Steuben County, Indiana'
 death: '1940-02-16'
+death_place: 'Donna, Hidalgo County, Texas'
 gender: M
 parents:
 - Justus George Guernsey (1835-1859)

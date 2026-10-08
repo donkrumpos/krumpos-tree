@@ -5,7 +5,9 @@ aka:
 - Life Martin
 - Lile Martin
 birth: '1869'
+birth_place: 'Sevastopol, Door County, Wisconsin'
 death: '1956-08-05'
+death_place: 'Sturgeon Bay, Door County, Wisconsin'
 gender: M
 parents:
 - Henry Martin (1830-1896, b. Ireland)

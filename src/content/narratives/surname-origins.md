@@ -105,7 +105,13 @@ Settlement areas: Door County (Pfister), Le Sueur County, Minnesota (Schmidt, Vo
 
 | Surname | Origin | Immigrant | Notes |
 |---|---|---|---|
-| **Mielke / Meikle** (originally **Mägli**) | Switzerland (German-speaking; Canton Bern possible, unproven) | Fred Meikle = Frederick Mägli/Magli/Magle (b. c.1848, Switzerland; landed at Milwaukee Oct 1854?; naturalized 1878) | Door County (town of Sturgeon Bay, Clay Banks). Recorded as "Bavaria" (1880) and "Germany" (1900), but as Switzerland in the 1874 marriage, the 1878 naturalization and the 1905/1910 censuses. Parents Conrad and Elizabeth. Wife Mary (Johnsen), b. Bavaria per 1880 and Sweden per 1900. Not related to the Scottish Meikles of Stirlingshire. Revised 2026-10-08. |
+| **Mielke / Meikle** (originally **Mägli**) | **Oberbipp, Canton Bern**, Switzerland (PROBABLE-strong) | Fred Meikle = Frederick Mägli/Magli/Magle (b. April 1848, Switzerland; probably Samuel Mägli, bapt. Oberbipp 9 Apr 1848; came at age 6, c.1854; naturalized 1878) | Parents Conrad Mägli (c.1808–1890, Humboldt, Brown Co.) × Elisabeth Schorer (d. Oberbipp 1850). Brothers Conrad, Gottfried and Gottlieb also settled in Door Co. Recorded as "Bavaria" (1880) and "Germany" (1900), but as Switzerland in the 1874 marriage, the 1878 naturalization and the 1905/1910 censuses. Died 1924, buried Shiloh ("FRED MAGGLE"). Wife Mary Johnson was Swedish (see below). Not related to the Scottish Meikles of Stirlingshire. Revised 2026-10-08. |
+
+## Swedish
+
+| Surname | Origin | Immigrant | Notes |
+|---|---|---|---|
+| **Johnson** (also Johnsen) | Sweden (parish unknown) | Mary Johnson (b. 4 May 1859, Sweden; d. 14 Nov 1938), daughter of John and Mary Johnson; came to Door Co. with her mother in 1873 | Married Fred Maggle (Mägli) 23 Mar 1874, Sturgeon Bay. Farmed at Nasewaupee, then Shiloh; retired to Sawyer. Buried Shiloh Moravian. A sister, "Mrs. Anton Meri", appears in 1909. Her 1880 "Bavaria" was an enumerator error (1938 obituary; 1900, 1920 and 1930 censuses all say Sweden). Added 2026-10-08. |
 
 ---
 
@@ -130,7 +136,7 @@ Settlement areas: Oconto County, Shawano County (Leopolis) — Wisconsin.
 | **Kendall** | Wingham, Kent, England | Traced to **Eastes Kendall (b. c. 1745)**. Stephen Eastes Kendall (c. 1795–1880) married Ann Forstall in Wingham 1819. Son William John emigrated to Le Sueur County, Minnesota. |
 | **Forstall** | Wingham, Kent, England | From the hamlet of **Forstal** near Wingham. Ann Forstall (1793–1875). Surname extinct in English civil registration — zero FreeBMD results. Also indexed as "Fostall" and "Fosball." |
 | **Lambert** | Wingham, Kent, England | Eliza Lambert (b. Jan 20, 1827, Wingham). Same parish as the Kendalls. Married William John Kendall Jan 1850 in Eastry, Kent. 12 children. |
-| **Hutcheson / Hutchinson** | England (specific county unknown) | Thomas Hutcheson (b. England c. 1812; Lockport, NY 1850). Married Sophia Miller in Upper Canada c. 1829. Daughters Eliza (c. 1829) and probably Mary (c. 1831, "Niagara West") were born in Canada. Clerks spelled it Hutcherson, Hutchison and Hutchinson, so the spelling is no evidence of a Scottish origin. |
+| **Hutcheson / Hutchinson** | England (specific county unknown) | Thomas Hutcheson (b. England c. 1812; at **Niagara, Upper Canada, in 1831**; Lockport, NY 1850). Married Sophia Miller in Upper Canada c. 1829. Daughters Eliza (c. 1829) and Mary ("Mary Louisa, of Thomas and Sophia", baptised St Mark's, Niagara, 21 Dec 1831) were born in Canada. Clerks spelled it Hutcherson, Hutchison and Hutchinson, so the spelling is no evidence of a Scottish origin. |
 
 **Moved out of this table (2026-10-08):**
 - **Miller**: Sophia Miller was born in **Canada** c. 1802 and her parents are unknown. The "William Miller of Northumberland × Margaret Laing" link was detached because it rested on a merged FamilySearch profile. See the Canada section below.
@@ -172,7 +178,8 @@ The mother **Mathilda/Mathilida Schneider** (b. c. 1873, Germany) — maiden nam
 | Country | Surnames | Deepest Ancestor |
 |---|---|---|
 | **Germany** | Schmidt, Rabe, Vollmer, Kurtz, Pfister, Schindler, Schneider | Christian Vollmer (1815, Hanover) |
-| **Switzerland** | Mielke/Meikle (Mägli) | Fred Meikle (c. 1848) |
+| **Switzerland** | Mielke/Meikle (Mägli) | Conrad Mägli (c. 1808, Oberbipp, Bern; probable) |
+| **Sweden** | Johnson | Mary Johnson (1859) |
 | **Bohemia/Czech** | Krumpos, Stefl, Kadletz | Joseph Wenzel Stefl (1818, Klattau) |
 | **England** | Kendall, Forstall, Lambert, Hutcheson | Eastes Kendall (c. 1745, Kent) |
 | **Ireland (Ulster)** | Martin, Storm | Henry Martin (1830, near Belfast) |

@@ -2,7 +2,9 @@
 id: henry-martin
 name: Henry Martin
 birth: '1830-08-18'
+birth_place: 'Belfast, Ireland'
 death: '1896-08-11'
+death_place: 'Sevastopol, Door County, Wisconsin'
 aka:
 - Harry Martin
 gender: M

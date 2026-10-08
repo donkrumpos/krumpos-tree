@@ -5,7 +5,9 @@ aka:
 - Mildred Martin
 - Mildred Guernsey
 birth: '1880-03-21'
+birth_place: 'Ionia, Michigan'
 death: '1971-12-15'
+death_place: 'Sturgeon Bay, Door County, Wisconsin'
 gender: F
 parents:
 - John Loami Guernsey (1857-1940)
