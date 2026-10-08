@@ -633,11 +633,11 @@
     "source": "override"
   },
   "Trojany (Trojan), Kralovice district, Bohemia": {
-    "lat": null,
-    "lon": null,
-    "note": "Nominatim returned no results for normalized query: Trojany , Kralovice district, Bohemia",
-    "query": "Trojany , Kralovice district, Bohemia",
-    "source": "failed"
+    "display_name": "Trojany, Kralovice, okres Plzeň-sever, Plzeňský kraj, Czechia",
+    "lat": 49.9838,
+    "lon": 13.4047,
+    "note": "Joseph Krumpos's probable birthplace (reliquary 1878e5aa); Nominatim doesn't resolve the historical 'Bohemia' form",
+    "source": "override"
   },
   "Wingham, Kent, England": {
     "display_name": "Wingham, Dover, Kent, England, United Kingdom",

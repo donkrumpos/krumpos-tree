@@ -88,5 +88,11 @@
     "lon": -80.0,
     "display_name": "Ontario (Upper Canada), Canada",
     "note": "Province-level birthplace only (census 'Canada'); plotted in settled southern Ontario rather than the geographic centroid near Hudson Bay. Niagara-on-the-Lake is probable for Eliza Hutchinson but unproven."
+  },
+  "Trojany (Trojan), Kralovice district, Bohemia": {
+    "lat": 49.9838,
+    "lon": 13.4047,
+    "display_name": "Trojany, Kralovice, okres Plzeň-sever, Plzeňský kraj, Czechia",
+    "note": "Joseph Krumpos's probable birthplace (reliquary 1878e5aa); Nominatim doesn't resolve the historical 'Bohemia' form"
   }
 }
