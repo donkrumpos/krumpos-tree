@@ -94,5 +94,11 @@
     "lon": 13.4047,
     "display_name": "Trojany, Kralovice, okres Plzeň-sever, Plzeňský kraj, Czechia",
     "note": "Joseph Krumpos's probable birthplace (reliquary 1878e5aa); Nominatim doesn't resolve the historical 'Bohemia' form"
+  },
+  "Fair Plain Township, Montcalm County, Michigan": {
+    "lat": 43.2406,
+    "lon": -85.0727,
+    "display_name": "Fair Plain Township, Montcalm County, Michigan, United States",
+    "note": "Nominatim's retry matched Fair Plain in Berrien County (wrong); Almeda Linson and Asa W. Linson died in the Montcalm County township"
   }
 }

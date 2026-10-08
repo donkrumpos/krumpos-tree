@@ -65,7 +65,7 @@ There is a pattern in these lines that repeats like a wound.
 
 Justus George Guernsey died at twenty-four. His son John Loami was two.
 
-Almeda Hinson died at twenty-three. Her daughter Mildred was three.
+Almeda Linson died at twenty-two, three days after burying a newborn daughter. Her daughter Mildred was ten months old.
 
 Gerald Martin died at twenty-eight. His daughter Helen was seven.
 

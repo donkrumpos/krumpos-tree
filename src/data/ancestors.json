@@ -1204,21 +1204,6 @@
     "life_source": "birth-death"
   },
   {
-    "id": "almeda-hinson",
-    "slug": "Hinson/almeda-hinson",
-    "name": "Almeda Hinson",
-    "surname": "Hinson",
-    "birth": "1860",
-    "death": "1883",
-    "birth_place": "",
-    "death_place": "",
-    "generation": 5,
-    "gender": "F",
-    "branch": "martin",
-    "life": [],
-    "life_source": "birth-death"
-  },
-  {
     "id": "eliza-hutchinson",
     "slug": "Hutchinson/eliza-hutchinson",
     "name": "Eliza Hutchinson",
@@ -1308,6 +1293,32 @@
         "year": 1827,
         "place": "Wingham, Kent, England",
         "kind": "born"
+      }
+    ],
+    "life_source": "birth-death"
+  },
+  {
+    "id": "almeda-linson",
+    "slug": "Linson/almeda-linson",
+    "name": "Almeda Linson",
+    "surname": "Linson",
+    "birth": "1859",
+    "death": "1881-02-04",
+    "birth_place": "Michigan",
+    "death_place": "Fair Plain Township, Montcalm County, Michigan",
+    "generation": 5,
+    "gender": "F",
+    "branch": "martin",
+    "life": [
+      {
+        "year": 1859,
+        "place": "Michigan",
+        "kind": "born"
+      },
+      {
+        "year": 1881,
+        "place": "Fair Plain Township, Montcalm County, Michigan",
+        "kind": "died"
       }
     ],
     "life_source": "birth-death"
@@ -1929,6 +1940,58 @@
     "gender": "M",
     "branch": "schmidt",
     "life": [],
+    "life_source": "birth-death"
+  },
+  {
+    "id": "asa-w-linson",
+    "slug": "Linson/asa-w-linson",
+    "name": "Asa W. Linson",
+    "surname": "Linson",
+    "birth": "1814-02",
+    "death": "1889-12-20",
+    "birth_place": "New York",
+    "death_place": "Fair Plain Township, Montcalm County, Michigan",
+    "generation": 6,
+    "gender": "M",
+    "branch": "martin",
+    "life": [
+      {
+        "year": 1814,
+        "place": "New York",
+        "kind": "born"
+      },
+      {
+        "year": 1889,
+        "place": "Fair Plain Township, Montcalm County, Michigan",
+        "kind": "died"
+      }
+    ],
+    "life_source": "birth-death"
+  },
+  {
+    "id": "hannah-walker",
+    "slug": "Linson/hannah-walker",
+    "name": "Hannah Walker",
+    "surname": "Linson",
+    "birth": "1816",
+    "death": "1907-01-09",
+    "birth_place": "New York",
+    "death_place": "Ionia Township, Ionia County, Michigan",
+    "generation": 6,
+    "gender": "F",
+    "branch": "martin",
+    "life": [
+      {
+        "year": 1816,
+        "place": "New York",
+        "kind": "born"
+      },
+      {
+        "year": 1907,
+        "place": "Ionia Township, Ionia County, Michigan",
+        "kind": "died"
+      }
+    ],
     "life_source": "birth-death"
   },
   {

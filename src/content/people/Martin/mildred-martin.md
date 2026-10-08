@@ -11,7 +11,7 @@ death_place: 'Sturgeon Bay, Door County, Wisconsin'
 gender: F
 parents:
 - John Loami Guernsey (1857-1940)
-- Almeda Hinson (1860-1883)
+- Almeda Linson (1859-1881)
 spouses:
 - Lile Martin
 children:
@@ -30,7 +30,7 @@ created: '2026-04-09'
 surname: 'Martin'
 linked_parents:
   - 'Guernsey/john-loami-guernsey'
-  - 'Hinson/almeda-hinson'
+  - 'Linson/almeda-linson'
 linked_spouses:
   - 'Martin/eliphlet-martin'
 linked_children:
@@ -52,7 +52,7 @@ Born March 21, 1880 in Ionia, Michigan. Maiden name Guernsey. Married Lile/Life 
   - John Martin (b. c. 1908, Wisconsin) — Sturgeon Bay (1931)
   - Henry Martin (b. c. 1912, Wisconsin) — Sturgeon Bay (1931)
 - **Father:** John Loami Guernsey (1857–1940)
-- **Mother:** Almeda Hinson (1860–1883) — died when Mildred was 3
+- **Mother:** Almeda Linson (c.1859–1881). She died 4 Feb 1881 at her parents' home in Fair Plain, Montcalm Co., when Mildred was 10 months old, three days after the death of Mildred's newborn sister. Her surname was formerly given here as "Hinson" and her death as 1883 (corrected 2026-10-08; see Linson/almeda-linson.md). Maternal grandparents: Asa W. Linson and Hannah Walker, both New York-born.
 
 ## Sources
 - **1920 US Census, Door County, Wisconsin, ED 69, Sturgeon Bay Ward 1** — "Mildred Martin," wife, age 39, born Michigan. Mother's birthplace: Michigan.
@@ -69,6 +69,6 @@ Born March 21, 1880 in Ionia, Michigan. Maiden name Guernsey. Married Lile/Life 
 
 ## Research target — Guernsey line origins [FLAGGED 2026-06-10]
 The **Guernsey** surname (English/Norman, from the Channel Island of Guernsey) is confirmed as the maiden name but **not traced past Michigan**. It's the English thread on Helen Martin's paternal-grandmother side. Open targets:
-- **John Loami Guernsey (1857–1940)** and **Almeda Hinson (1860–1883)** — Mildred's parents — push the Guernsey/Hinson lines back: when and where did the Guernseys immigrate, and from where (England, or Channel Islands directly)?
-- Hinson is also English — worth a note on that maternal branch.
+- **John Loami Guernsey (1857–1940)** and **Almeda Linson (c.1859–1881)** — Mildred's parents — push the Guernsey/Linson lines back: when and where did the Guernseys immigrate, and from where (England, or Channel Islands directly)?
+- **[2026-10-08]** The maternal line is **Linson**, not Hinson: Asa W. Linson (b. 1814 NY) × Hannah Walker (b. c.1816 NY), in Indiana c.1843–54, then Michigan. Their origin is unknown. The FS pedigree of George W. Guernsey is New England colonial stock (Rehoboth, Connecticut, Washington Co. NY), so the family was American by the colonial period, not 19th-century immigrants.
 - The Guernsey family was in Michigan ≥2 generations by 1880; the immigration point is the thing to find.

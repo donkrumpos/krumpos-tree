@@ -206,6 +206,13 @@
     "query": "England",
     "source": "too-vague"
   },
+  "Fair Plain Township, Montcalm County, Michigan": {
+    "display_name": "Fair Plain Township, Montcalm County, Michigan, United States",
+    "lat": 43.2406,
+    "lon": -85.0727,
+    "note": "Nominatim's retry matched Fair Plain in Berrien County (wrong); Almeda Linson and Asa W. Linson died in the Montcalm County township",
+    "source": "override"
+  },
   "Fall River, Bristol County, Massachusetts": {
     "display_name": "Fall River, Bristol County, Massachusetts, United States",
     "lat": 41.7010642,
@@ -294,6 +301,13 @@
     "lat": 45.3039219,
     "lon": -73.2297415,
     "query": "Iberville, Quebec, Canada",
+    "source": "nominatim"
+  },
+  "Ionia Township, Ionia County, Michigan": {
+    "display_name": "Ionia Township, Ionia County, Michigan, United States",
+    "lat": 42.988076,
+    "lon": -84.9899704,
+    "query": "Ionia Township, Ionia County, Michigan",
     "source": "nominatim"
   },
   "Ionia, Michigan": {
@@ -387,6 +401,12 @@
     "query": "Maple Creek, Outagamie County, Wisconsin",
     "source": "nominatim"
   },
+  "Michigan": {
+    "lat": null,
+    "lon": null,
+    "query": "Michigan",
+    "source": "too-vague"
+  },
   "Montmorency, Quebec, Canada": {
     "display_name": "Montmorency (historical county), near Quebec City, Québec, Canada",
     "lat": 46.8853,
@@ -449,6 +469,12 @@
     "lon": -88.7352076,
     "query": "New London, Outagamie County, Wisconsin",
     "source": "nominatim"
+  },
+  "New York": {
+    "lat": null,
+    "lon": null,
+    "query": "New York",
+    "source": "too-vague"
   },
   "New York, New York": {
     "display_name": "New York, United States",
