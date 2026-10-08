@@ -5,15 +5,15 @@ aka:
 - Joseph Krumpos
 birth: '1845-10-16'
 death: '1920-02-19'
-birth_place: 'Trhanov, Bohemia'
+birth_place: 'Trojany (Trojan), Kralovice district, Bohemia'
 death_place: 'Oconto, Oconto County, Wisconsin'
 gender: M
-immigration: '1867'
+immigration: '1863'
 parents:
-- Ernst Krumpos (b. Bohemia — dates unverified, Ancestry has c. 1797-1836 but 1836 death conflicts with Joseph's 1845 birth)
-- Katherine or Mary Kadlec (b. Bohemia — name unverified, possibly same Kadlec family as Mary Katherine Kadletz who married Joseph Wenzel Stefl)
+- Václav Krumpos (cottager of Trojany no. 8 — PROBABLE, from the 1846 baptism; the 1884 marriage index says "Ernst Krumpus")
+- Marie Sinkule (of Hadačka no. 7 — PROBABLE, from the 1846 baptism; the 1884 marriage index says "Catherine Kadlec")
 spouses:
-- Josephine (c. 1852, Bohemia — first wife)
+- Josephine Fenzel (Fencl) (c. 1852, Bohemia — first wife)
 - Mary Katherine Stefl
 children:
 - Mary Krumpos
@@ -25,6 +25,11 @@ children:
 - Johanna Katherine Krumpos
 - Lawrence Antone Krumpos
 status: confirmed
+uncertain_fields:
+- birth
+- birth_place
+- parents
+- immigration
 tags:
 - '#person'
 - '#krumpos'
@@ -47,6 +52,20 @@ linked_children:
   - 'Krumpos/lawrence-krumpos'
 ---
 # Joseph Frank Krumpos
+## Update 2026-10-07/08: origin re-traced (read this first)
+Full research, with every source and image reference: `creative/widdershins/cert-and-krampus/14-the-krumpos-line.md` §0 (especially §0.10 and §0.11). Short version:
+
+- **Birthplace is most probably Trojany (German *Trojan*), Kralovice district, north of Plzeň, NOT Trhanov.** The 1884 marriage index gives "Trogan, Bohemia"; the Trhanov registers 1822–67 hold no Krumpos or Kadlec at all, while Trojany has a Josef Krumpos **born and baptised 16 Oct 1846 at Trojany no. 8** (Žebnice parish book 08, image 39, Porta fontium). [PROBABLE, not proven]
+- **Parents (probable): Václav Krumpos, cottager (*domkář*) of Trojany no. 8, and Marie Sinkule**, daughter of Jan Sinkule, smallholder of Hadačka no. 7, and Anna Bouda of Černíkovice. Grandparents: **Václav Krumpos, tailor (*krejčí*), and Kateřina Bláha**, of Trojany no. 8.
+- **The open mismatch:** the 1884 Oconto marriage index names his parents "Ernst Krumpus" and "Catherine Kadlec". "Mary Senkola" appears in the same index as the *bride's* mother, which is very likely Joseph's own mother (Marie Sinkule) put in the wrong column. Only the 1884 register image settles it (FHL film 1292398; online image restricted; Oconto Register of Deeds call parked).
+- **Siblings at Trojany no. 8:** Josefa (22 Oct 1844), **Josef (16 Oct 1846)**, Jan (21 Nov 1848), Václav (27 Dec 1850, probably d. 3 Aug 1851), Marie (Aug 1852), Anna (23 Jun 1854), Veronika (18 Jul 1856), Vojtěch (21 Apr 1859). Aunts Kateřina, Marie and Josefa Krumpos also had children at no. 8.
+- **First wife: Josephine Fenzel** (Czech probably *Fencl*), from son Joseph's marriage return, Menominee, Michigan, 8 Oct 1902 (FamilySearch Michigan Marriages 1868–1925, ark 1:1:N3D3-4MB). Lawrence's 1911 Menominee marriage gives his parents as Joseph Krumpos and "Mary Stiffel".
+- **Immigration 1863**, per the 1900 census (not 1867); no passenger list found.
+- **1870:** probably "Crumbers Joseph", 20, sawmill worker, boarding in Oconto East Ward. **1880:** "Joseph Krumpis", Little River. **1898:** "J Krumpos" owns parcel 233, section 32, Town of Little River (plat book), among Czech neighbours.
+- **Vaclav (b. Sept 1879)** is still in the household in 1900 as "Wenzel", so he did not die young.
+- **Albert Krumpus**, naturalized in Oconto 4 Nov 1884, is a possible kinsman (an 1886 marriage gives his parents as James and Mary).
+- The Domažlice/Chodsko section below rested on Trhanov and no longer applies to Joseph's birthplace (Mary Katherine's own origin is also in doubt: her 1884 entry says "Yellow, Pellson Co.", i.e. Plzeň region). Kept below for the record.
+
 ## Summary
 Full name **Joseph Frank Krumpos**. Born October 16, 1845 in Trhanov, Bohemia (near Domazlice). Immigrated 1867. Died February 19, 1920 in Oconto, Oconto Co, Wisconsin. Married twice. Six children from first (unknown) wife, then two children with second wife Mary Katherine (Stefl), married December 6, 1884 in Oconto County, Wisconsin.
 

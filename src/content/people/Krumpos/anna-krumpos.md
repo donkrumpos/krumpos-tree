@@ -4,7 +4,7 @@ name: Anna Krumpos
 birth: '1873'
 death: ''
 gender: F
-parents: [Joseph Frank Krumpos, Unknown first wife]
+parents: [Joseph Frank Krumpos, Josephine Fenzel (Fencl)]
 spouses: []
 children: []
 status: research-target
@@ -27,11 +27,11 @@ linked_children: []
 **Lifespan:** 1873 – …
 
 ## Summary
-Child of Joseph Frank Krumpos and his unknown first wife. Born in Oconto, Wisconsin. Half-sister of Lawrence Antone Krumpos (1889–1986) and Johanna Katherine Krumpos (c. 1886–1936).
+Child of Joseph Frank Krumpos and his first wife, Josephine Fenzel (Fencl). Born in Oconto, Wisconsin. Half-sister of Lawrence Antone Krumpos (1889–1986) and Johanna Katherine Krumpos (c. 1886–1936).
 
 ## Relationships
 - **Father:** Joseph Frank Krumpos (May 1847–Feb 19, 1920)
-- **Mother:** Unknown first wife of Joseph Frank Krumpos
+- **Mother:** Josephine Fenzel (Fencl), first wife of Joseph Frank Krumpos (surname from brother Joseph's 1902 Menominee marriage return; see `creative/widdershins/cert-and-krampus/14-the-krumpos-line.md` §0.11)
 - **Full siblings:** Mary (1871), Joseph Samuel (1876), Josephine (1878), James Ernest (1880), Matthew Jacob (1882)
 - **Half-siblings (father's 2nd marriage):** Johanna Katherine (c. 1886–1936), Lawrence Antone (1889–1986)
 

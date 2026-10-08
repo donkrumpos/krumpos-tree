@@ -60,7 +60,7 @@ Patriarch of the Krumpos family. Born May 2, 1889 in Oconto, Oconto County, Wisc
 
 ## Research Notes
 - Born in Oconto, Wisconsin
-- Half-siblings all born in Oconto area (Little River, Oconto) — children of Joseph's unknown first wife
+- Half-siblings all born in Oconto area (Little River, Oconto) — children of Joseph's first wife, Josephine Fenzel (Fencl)
 - Johanna Katherine was his only full sibling (same parents)
 - Parents married Dec 6, 1884 in Little River, Oconto, WI
 - ~~TIMELINE CONFLICT~~ **RESOLVED:** Marriage to Matilda was April 9, 1922 in Kewaunee, WI — confirmed by his obituary. FamilySearch's "1919/age 21" derives from an earlier erroneous year. Frances died 1921, Lawrence remarried April 9, 1922. Sequence confirmed.
