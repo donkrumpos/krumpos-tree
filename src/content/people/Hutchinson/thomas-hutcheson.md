@@ -7,6 +7,7 @@ aka:
 - Thomas Hutchison
 birth: 'c. 1812'
 birthplace: England (1850 US census)
+birth_place: 'England'
 death: ''
 gender: M
 parents: []

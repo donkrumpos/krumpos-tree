@@ -1,28 +1,37 @@
 ---
 id: fred-meikle
 name: Fred Meikle
-aka: [Frederick Mägli, Fred Magli, Frederick Magle, Frederick Maeghel, Fred Meickle, Frederick Meikle, Fred Mielke, Fred Michaels, Fredrick Mickel, Fred Meikel]
-birth: 'c. 1848 (Apr 1848 per 1900 census)'
-birthplace: Switzerland (1878 naturalization; 1874 marriage index; 1905 and 1910 censuses)
+aka: [Frederick Mägli, Fred Magli, Fred Maggle, Fred Magle, Fred Maegele, Frederick Magle, Frederick Maeghel, Fredrick Marglez, Fred Meickle, Frederick Meikle, Fred Mielke, Fred Michaels, Fredrick Mickel, Fred Meikel, Samuel Mägli (probable baptismal name)]
+birth: 'c. 1848 (Apr 1848 per 1900 census and 1924 obituary; stone "Apr. 9, 1848")'
+birthplace: Switzerland (1878 naturalization; 1874 marriage index; 1905/1910 censuses; 1924 obituary). Oberbipp, Canton Bern is PROBABLE (strong) via the Conrad Mägli × Elisabeth Schorer family
+birth_place: 'Oberbipp, Bern, Switzerland'
+death: '1924-08-09'
+death_place: 'Sturgeon Bay, Door County, Wisconsin'
 gender: M
 parents:
-- Conrad Mägli (Maeghel)
-- Elizabeth (Mägli)
+- Conrad Mägli (c. 1808–1890, d. Humboldt, Brown Co., WI)
+- Elisabeth Schorer (c. 1806–1850, d. Oberbipp, Bern)
 spouses:
-- Mary Johnsen (m. 1874-03-23, Sturgeon Bay)
+- Mary Johnson (1859–1938, b. Sweden; m. 1874-03-23, Sturgeon Bay)
 children:
+- Emma F. Maegele (1874–1892)
+- Sophia Maegele (1877–1878)
+- Emily Meikle (b. Feb 1880)
 - Emil Mielke
-- Ernest Meikle
+- Carl H. Meikle
+- Julia Maegele (1885–1886)
 - Oscar Meikle
-- Iva Meikle
+- Susan C. Meikle (Mrs. Vernon Olson)
+- Josephine Meikle
+- Erka G. S. Meikle
+- Iva Meikle (Mrs. Gordon Lindquist)
+- Norman Magli (b. 1899)
+- Ernest Meikle
+burial: Shiloh Moravian Church Cemetery, Sturgeon Bay, Door County, Wisconsin
 status: probable
 uncertain_fields:
-- canton/parish in Switzerland (Oberbipp, Bern is a SPECULATIVE FS-tree link via a "Samuel" Mägli baptism)
-- parents' identity beyond the given names Conrad and Elizabeth (1874 marriage index only; no image)
-- arrival year (Milwaukee, October 1854 per naturalization; last digit possibly 7)
-- Mary's birthplace (Bavaria 1880, Sweden 1900) and her parents (John and Mary Johnson per 1874 index)
-- death date (9 Aug 1924 per FS tree, unsourced; alive Mar 1917)
-- burial (no memorial found)
+- identification with Samuel Mägli (b. 19 Mar 1848, bapt. 9 Apr 1848, Oberbipp); the given name differs, and the baptism image is viewable only at a FamilySearch center
+- arrival year (Milwaukee, October 1854 per naturalization; age 6 per 1924 obituary)
 tags:
 - '#person'
 - '#mielke'
@@ -35,30 +44,50 @@ linked_parents:
 linked_spouses:
   - ''
 linked_children:
+  - ''
+  - ''
+  - ''
   - 'Mielke/emil-mielke'
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
   - ''
   - ''
   - ''
 ---
 # Fred Meikle
 
-**Emil Mielke's father, and Don's 3x great-grandfather.** The file was created 2026-07-15. It was revised 2026-10-08, first to "German-born" and then, the same day, to **Swiss-born**: his surname was originally **Mägli** (Magli, Magle).
+**Emil Mielke's father, and Don's 3x great-grandfather.** The file was created 2026-07-15. On 2026-10-08 it was revised to **Swiss-born** (surname originally **Mägli**). Session 4 that day identified his parents and confirmed his death.
 
 ## Summary
-Fred was **born in Switzerland c. 1848**. He came to the US as a child and landed at **Milwaukee in October 1854** (or 1857; the last digit is unclear). He declared his intention to naturalize in Door County on 2 Nov 1872 and **was naturalized on 17 Jul 1878** as "Frederick Magle". He renounced "the Republic of Switzerland" and signed by mark. He married **Mary Johnson/Johnsen on 23 Mar 1874 at Sturgeon Bay**. The marriage index names his parents as **Conrad and Elizabeth** and gives his name as "Frederick Maeghel". He farmed in the town of Sturgeon Bay and the Clay Banks area, co-built a saloon at Tornado in 1893, and was living in Sawyer in 1917.
+Fred was **born in Switzerland in April 1848** and came to America at age 6 "with his parents" (1924 obituary). He landed at **Milwaukee in October 1854** (naturalization). He was very probably **Samuel Mägli, born 19 Mar 1848 and baptised 9 Apr 1848 at Oberbipp, Canton Bern**, the youngest son of **Conrad Mägli and Elisabeth Schorer**. His mother died at Oberbipp in 1850. His father brought the family to the Town of Humboldt, Brown Co., where in 1860 "Fredrick" lived with Conrad Sr. and siblings Elizabeth, Conrad, Charles, Godfried and Godleib.
 
-The records spell the surname in many ways: Maeghel (1874), Magle (1872/1878), Michaels (1880), Mickel (1900), Magli (1905, 1910), and Meickle/Meikle (Emil's 1902 marriage and after). "Meikle" is an Americanised form of the Swiss **Mägli** ("MAY-glee"). **The line is Swiss (German-speaking), not Scottish and not German.** The 1880 census birthplace "Bavaria" and the 1900 "Germany" are enumerator errors for a German-speaking Swiss.
+He declared his intention to naturalize in Door County on 2 Nov 1872 and **was naturalized on 17 Jul 1878** as "Frederick Magle". He married **Mary Johnson (b. Sweden, 1859) on 23 Mar 1874 at Sturgeon Bay**. They farmed five years in **Nasewaupee**, then 37 years **at Shiloh**, and retired to **Sawyer** (Fourth Ward) about 1913–16. He co-built a saloon at Tornado in 1893. In 1924 he worked as night watchman at the Fruit Growers Canning company. **He drowned on Saturday 9 Aug 1924**, falling from the Goodrich dock while loading cherries into his rowboat. He was buried from the Shiloh church in the **Shiloh Moravian cemetery**, where his stone reads "FRED MAGGLE".
 
-Known children are Emil (b. 29 Apr 1881), Ernest, Oscar and Iva, all named in Emil's 1970 obituary. Other children: Emily (b. Feb 1880; probably died young), Carl H., Susan C., Josephine (Josie), Erka G. S. and Norman (b. 1899). In 1900, Mary had borne 10 children and 7 were living. Other probable children are **Ella, Bertha and Julius Meikel** (Town of Sturgeon Bay, 1911) and a married daughter, **Mrs. Kloudy**.
+The records spell the surname in many ways: Marglez (1860), Maeghel (1874), Magle (1872/1878/1924), Michaels (1880), Mickel (1900), Magli (1905, 1910, 1924), Maggle (1920, gravestone) and Meickle/Meikle (Emil's 1902 marriage and after). "Meikle" is an Americanised form of the Bernese **Mägli** ("MAY-glee"). **The line is Swiss (German-speaking), not Scottish and not German.**
+
+Children: Emma F. (1874–1892), Sophia (1877–1878), Emily (b. Feb 1880), **Emil** (b. 29 Apr 1881), Carl H. (b. 1883), Julia (1885–1886), Oscar H. (b. 1887), Susan C. (b. 1890, Mrs. Vernon Olson), Josephine (b. 1893), Erka G. S. (b. 1895), Norman (b. 1899), Ernest F. N. (b. 1900) and Iva (Mrs. Gordon Lindquist). In 1924 six survived: Emil, Carl, Oscar, Ernest, Susan and Iva. Ella, Bertha and Julius Meikel (1911) and a Mrs. Kloudy may be children or other kin.
 
 ## Relationships
-- **Parents:** **Conrad and Elizabeth Maeghel (Mägli)**, per the 1874 marriage index (FS XRL8-J2N; no image). SPECULATIVE identification: **Konrad Mägli & Elisabeth Schorer of Oberbipp, Canton Bern**, whose son **Samuel** Mägli was born 19 Mar 1848 and baptised 9 Apr 1848 (FS 68VG-TQVF). The FS tree (L2LT-3SN) attaches this baptism to Fred. The parents' names and the year match, **but the given name does not**, and the same tree gives that couple an older son Friedrich (b. 1837). Unproven.
-- **Possible brother (PROBABLE-weak):** **Conrad Magli**, b. c.1837 Switzerland, a farmer in Nasewaupee in 1880 with wife Wilhelmine (b. Germany) and children Conrad, Godfred, Frederick, Wilhelmine, Julius and Bertha (FS MN4X-62N).
-- **Wife:** Mary (Johnson/Johnsen), b. May 1858 per the 1900 census. Her birthplace is **Bavaria** in 1880 and **Sweden** in 1900. Her parents were **John Johnson and Mary** per the 1874 index. She was about 15 at the March 1874 marriage, so her census age may be understated. The FS tree has "Mary J Johnson 1860–1935" (L58H-2S8), which has not been checked. A "Mary Meikle" appears as a Ward Three property holder in a 1918 tax-sale notice.
-- **Children:** Emil (1881–1970, direct line), Ernest (Green Bay, 1970), Oscar (Chicago, 1970) and Iva (Mrs. Linquist, California, 1970), per Emil's 1970 obituary; see the Summary for the rest. The WHS index birth "Unnamed Female Meikle, Aug 30, 1890, Door County" may be Susan C. (b. Mar 1890 per 1900) or Iva.
-- ~~**Probable father:** William Meikle~~ and ~~**Probable brothers:** Alexander, James, John~~: **withdrawn 2026-10-08.** The Stirlingshire Meikles are unrelated, as Alexander Meikle's 1914 obituary lists all his brothers without Fred. Fred was Swiss.
+- **Parents [PROBABLE-strong]:** **Conrad Mägli** (b. c.1808 Switzerland; d. 4 Apr 1890, Humboldt, Brown Co., aged 80; buried St Mary's, Humboldt) and **Elisabeth Schorer** (b. c.1806; d. 18 Apr 1850, Oberbipp). The 1874 marriage index names Fred's parents as Conrad and Elizabeth.
+- **Siblings (Oberbipp baptisms, children of Conrad × Elisabeth Schorer):** Elisabeth (1829; in Humboldt 1860), Johannes (1831–1854, d. Oberbipp), Jakob (1832), Verena (1834–1853, d. Oberbipp), **Conrad** (b. 15 Aug 1836; d. 18 Nov 1899 Door Co.; Nasewaupee farmer), Hans Ulrich (1838; probably "Charles"/"John" of 1860/1870), Maria (1840), **Gottfried** (b. 24 Jul 1842; "Godfried Magle, of the Town of Sturgeon Bay", Fred's surviving brother in 1924), **Gottlieb** (b. 31 Aug 1845; Nasewaupee 1905) and Samuel (b. 1848, probably Fred himself).
+- **Not this family:** the Conrad Mägli × *Maria* Schorer couple of Oberbipp (children 1824–43) is a different family, probably the Conrad Magly (1806–1871) and Elizabeth Schorer Magly (1804–1886) buried at Etna, Licking Co., Ohio. The FS tree's "Friedrich Mägli 1837–1916" (K484-7GK) and the Find a Grave parent links on Conrad Jr.'s memorial wrongly mix the two families.
+- **Wife:** **Mary Johnson**, b. **4 May 1859 in Sweden** to John and Mary Johnson. She came to Door Co. with her mother (immigrated 1873 per the 1920 census) and d. 14 Nov 1938 in a Sturgeon Bay hospital; buried at Shiloh. The 1880 "Bavaria" was an error. The FS tree profile L58H-2S8 ("1860–1935") attaches another woman's Cook County death.
+- **Children:** see the Summary. Emil (1881–1970) is the direct line.
+- ~~**Probable father:** William Meikle~~ and ~~**Probable brothers:** Alexander, James, John~~: **withdrawn 2026-10-08.** The Stirlingshire Meikles are unrelated.
 
 ## Sources
+- **1860 US census, Town of Humbolt, Brown Co., WI [CONFIRMED, index; image viewed]**: FS household MWML-GZ1 (Fredrick MWML-G87), p. 228, enumerated 24 Aug 1860, P.O. Schiller; image ark 3:1:33SQ-GBS6-CWH. Conrad Marglez 52, Elizabeth 30, Conrad 24, Charles 20, Godfried 18, Godleib 13, Fredrick 8, all b. Switzerland.
+- **1870 US census, Humboldt, Brown Co. [index]**: FS MN9S-FGC. Conrade Magli 62, John 30 (Switzerland) and Wilhelmina 24 (Prussia).
+- **Oberbipp church records [index]** ("Switzerland, Catholic and Reformed Church Records"): Samuel Mägli, b. 19 Mar 1848, bapt. 9 Apr 1848, parents Konrad Mägli & Elisabeth Schorer, FS 68VG-TQVF (image restricted to FamilySearch centers); burial of Elisabeth Mägli-Schorer, d. 18 Apr 1850, aged 44, FS 68VT-R3HK. The sibling baptisms are listed in the session-4 notes.
+- **Father's death [index]**: "Wisconsin, Death Records, 1867-1907", FS XLFZ-X2F (Conrad Magly, 1890, Humboldt, age 80, b. Switzerland); death index VJGR-QK6 (4 Apr 1890). Find a Grave index X9TV-D69J (Conrad Magle, St Mary's Cemetery, Humboldt, 31 Dec 1807–4 Apr 1890). Naturalization index 8TPF-JCPZ (Conrad Margli, 6 May 1856).
+- **Door County Advocate, 15 Aug 1924, p. 1, "DROWNS SATURDAY — Fred Magle, 76, Walks Off Dock in Dark" [CONFIRMED, image read]**: doc `1e8fc801-90a4-4104-8e86-19a1ea0947dc/wsbd0000/20130111/00001494`. Born Switzerland April 1848; came with his parents aged six; married Miss Mary Johnson fifty years ago in March; five years in Nasewaupee, thirty-seven at Shiloh, Sawyer for eight. Funeral from the Shiloh church, interment Shiloh cemetery, Rev. E. F. Helmich. Survivors: wife; Emil, Carl, Oscar, Mrs. Vernon Olson (Sawyer), Mrs. Gordon Lindquist (Chicago), Ernest (Green Bay); brother Godfried Magle, Town of Sturgeon Bay.
+- **Door County News, 14 Aug 1924, p. 1, "AGED MAN MEETS TRAGIC DEATH — Fred Magli of Sawyer…" [CONFIRMED, image read]**: doc `88b0dabc-478c-4621-a4a1-0ae7125b6234/wsbd0000/20120718/00001858`. Aged 76; born Switzerland; came at age 6; the son Oscar found the body. The same survivors are listed, but the brother is given as "Conrad" and the burial as "Bayside". Both are wrong; the Advocate and the stone are right.
+- **Gravestone [CONFIRMED, photo]**: Find a Grave #208337203 (indexed "Fred Maegele"), Shiloh Moravian Church Cemetery. "FATHER / FRED MAGGLE / Apr. 9, 1848 / Aug. 9, 1924". The stone's birth date equals Samuel's baptism date. Children's memorials at Shiloh: Emma F. (31 Jan 1874–22 Oct 1892, "child of F & M", #208336979), Sophia (13 May 1877–6 Jan 1878, #208337073), Julia (4 Jul 1885–6 Mar 1886, #208337033), Josephine (#208337115).
+- **Mary's death [CONFIRMED]**: Door County Advocate, 18 Nov 1938, p. 5, "Pioneer Resident Of Shiloh Is Dead" (doc `1e8fc801-90a4-4104-8e86-19a1ea0947dc/wsbd0000/20131118/00000719`). Gravestone Find a Grave #208337260, "MOTHER / MARY MAGGLE / May 4, 1859 / Nov. 14, 1938". 1920 census FS MFK1-RJG (Sweden, imm. 1873, parents Sweden).
 - **Naturalization, final papers, Door Co. Circuit Court, 17 Jul 1878 [CONFIRMED, image read 2026-10-08]**: FS "Wisconsin, County Naturalization Records, 1807-1992", index ZNG6-XBT2; image ark:/61903/3:1:3QS7-9938-198V ("Door. Declarations of Intention 1861–1903…", image 343/1014, book p. 139). "Frederick Magle of Door County … born in **Switzerland** on or about the year **1848** … arrived … at the port of **Milwaukee** … October, A.D. 185[4]". The declaration was made in the Door Co. Circuit Court on 2 Nov 1872. Witnesses C. A. Masse and Chris. Lenhardt. He renounces "the Republic of Switzerland". Clerk Chris. Daniels. Signed "Frederick his mark Magle".
 - **Declaration index, 17 Jul 1872**: FS ZQYS-NRPZ, "Frederick Magle", age 24, Door Co., vol. 142. Image not viewed.
 - **Marriage, 23 Mar 1874, Sturgeon Bay [CONFIRMED, index only]**: FS "Wisconsin, Marriages, 1836-1930", XRL8-J2N. Frederick Maeghel, b. Switzerland, father Conrad, mother Elizabeth; bride Mary Johnson, father John Johnson, mother Mary. The image is unavailable on FS, so the original is WHS.
@@ -75,7 +104,8 @@ Known children are Emil (b. 29 Apr 1881), Ernest, Oscar and Iva, all named in Em
 - **Door County Democrat, 6 Mar 1917 (Sawyer Short Notes)**: "Mr. and Mrs. Fred Meikle went to…", so he was alive and married, living in Sawyer.
 - Emil Meikle obituary, Door County Advocate, 21 Apr 1970, names "Fred and Mary Meikle". FindAGrave #126311941 (Emil) gives "Fred and Mary (Johnsen) Meikle".
 - **Disproof of the William Meikle link:** Door County Democrat, 10 Apr 1914, "Death of Alex Meikle" (doc `0a8b94b5-…/20120718/00001109`); William's FindAGrave #130602798.
-- Full research notes: krumpos-tree `research_notes/Scottish ancestry gap research/followup_2026-10-08_s3.md`.
+
+- Full research notes: krumpos-tree `research_notes/Scottish ancestry gap research/followup_2026-10-08_s3.md` and `followup_2026-10-08_s4.md`.
 
 ## Research Notes
 - A **separate Meikle/Mikels family** also lived in the town (1956 notice, doc `1e8fc801-90a4-4104-8e86-19a1ea0947dc/wsbd0000/20141103/00001127`). Keep it apart from Fred's family and from William's Scottish family.
@@ -83,7 +113,6 @@ Known children are Emil (b. 29 Apr 1881), Ernest, Oscar and Iva, all named in Em
 - The FS tree's sources for L2LT-3SN also include Cook County (IL) 1912 deaths and 1920/1921 "Fred Maggle" records in Illinois/Michigan. These have not been checked and may belong to other men.
 
 ## Next steps
-1. **Oberbipp, Bern**: view the 1848 baptism image (FS 68VG-TQVF) and look for a Friedrich born c.1848 to a Mägli couple. Check for a Mägli emigration c.1854 (Bern emigration lists) and whether Conrad Magli of Nasewaupee was baptised there.
-2. **Death**: search the Door County archive for Aug 1924 (tree date) under Magli, Meikle and Mickel, and find a burial.
-3. **WHS originals** of the 1874 Maeghel × Johnson and 1902 Meickle × Pfister marriages, for birthplaces and Mary's origin.
-4. **1860 census**: check "Fredrick Marglez", Humboldt, Brown Co. (FS tree source), for the parents' household.
+1. **Oberbipp baptism image** (FS 68VG-TQVF): FamilySearch center or affiliate library only. Check for a second given name (e.g. Samuel Friedrich).
+2. **WHS original** of the 1874 Maeghel × Johnson marriage (birthplaces; Mary's mother).
+3. Mary's mother (Mrs. John Johnson), who came to Door Co. c.1873: find her in the 1875/1880 Door censuses and her death.

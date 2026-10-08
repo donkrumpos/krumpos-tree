@@ -82,5 +82,11 @@
     "lon": -99.53,
     "display_name": "Sappa Creek area, Harlan County, Nebraska",
     "note": "Approximate: Sappa Peak / Sappa Creek; township boundary not in OSM"
+  },
+  "Ontario, Canada": {
+    "lat": 43.6,
+    "lon": -80.0,
+    "display_name": "Ontario (Upper Canada), Canada",
+    "note": "Province-level birthplace only (census 'Canada'); plotted in settled southern Ontario rather than the geographic centroid near Hudson Bay. Niagara-on-the-Lake is probable for Eliza Hutchinson but unproven."
   }
 }

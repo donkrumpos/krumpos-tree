@@ -449,6 +449,21 @@
     "life_source": "birth-death"
   },
   {
+    "id": "gerald-martin-sr",
+    "slug": "Martin/gerald-martin-sr",
+    "name": "Gerald Martin Sr.",
+    "surname": "Martin",
+    "birth": "1903-03-08",
+    "death": "1931-06-14",
+    "birth_place": "",
+    "death_place": "",
+    "generation": 3,
+    "gender": "M",
+    "branch": "martin",
+    "life": [],
+    "life_source": "birth-death"
+  },
+  {
     "id": "hazel-p-mielke",
     "slug": "Mielke/hazel-p-mielke",
     "name": "Hazel P. Mielke",
@@ -709,6 +724,36 @@
         "kind": "died"
       }
     ],
+    "life_source": "birth-death"
+  },
+  {
+    "id": "eliphlet-martin",
+    "slug": "Martin/eliphlet-martin",
+    "name": "Eliphlet Martin",
+    "surname": "Martin",
+    "birth": "1869",
+    "death": "1956-08-05",
+    "birth_place": "",
+    "death_place": "",
+    "generation": 4,
+    "gender": "M",
+    "branch": "martin",
+    "life": [],
+    "life_source": "birth-death"
+  },
+  {
+    "id": "mildred-martin",
+    "slug": "Martin/mildred-martin",
+    "name": "Mildred Amelia Guernsey Martin",
+    "surname": "Martin",
+    "birth": "1880-03-21",
+    "death": "1971-12-15",
+    "birth_place": "",
+    "death_place": "",
+    "generation": 4,
+    "gender": "F",
+    "branch": "martin",
+    "life": [],
     "life_source": "birth-death"
   },
   {
@@ -1105,6 +1150,57 @@
     "life_source": "birth-death"
   },
   {
+    "id": "john-loami-guernsey",
+    "slug": "Guernsey/john-loami-guernsey",
+    "name": "John Loami Guernsey",
+    "surname": "Guernsey",
+    "birth": "1857-12-22",
+    "death": "1940-02-16",
+    "birth_place": "",
+    "death_place": "",
+    "generation": 5,
+    "gender": "M",
+    "branch": "martin",
+    "life": [],
+    "life_source": "birth-death"
+  },
+  {
+    "id": "almeda-hinson",
+    "slug": "Hinson/almeda-hinson",
+    "name": "Almeda Hinson",
+    "surname": "Hinson",
+    "birth": "1860",
+    "death": "1883",
+    "birth_place": "",
+    "death_place": "",
+    "generation": 5,
+    "gender": "F",
+    "branch": "martin",
+    "life": [],
+    "life_source": "birth-death"
+  },
+  {
+    "id": "eliza-hutchinson",
+    "slug": "Hutchinson/eliza-hutchinson",
+    "name": "Eliza Hutchinson",
+    "surname": "Hutchinson",
+    "birth": "c. 1829",
+    "death": "1884-10-17",
+    "birth_place": "Ontario, Canada",
+    "death_place": "",
+    "generation": 5,
+    "gender": "F",
+    "branch": "martin",
+    "life": [
+      {
+        "year": 1829,
+        "place": "Ontario, Canada",
+        "kind": "born"
+      }
+    ],
+    "life_source": "birth-death"
+  },
+  {
     "id": "william-john-kendall",
     "slug": "Kendall/william-john-kendall",
     "name": "William John Kendall",
@@ -1178,12 +1274,53 @@
     "life_source": "birth-death"
   },
   {
+    "id": "henry-martin",
+    "slug": "Martin/henry-martin",
+    "name": "Henry Martin",
+    "surname": "Martin",
+    "birth": "1830-08-18",
+    "death": "1896-08-11",
+    "birth_place": "",
+    "death_place": "",
+    "generation": 5,
+    "gender": "M",
+    "branch": "martin",
+    "life": [],
+    "life_source": "birth-death"
+  },
+  {
     "id": "fred-meikle",
     "slug": "Mielke/fred-meikle",
     "name": "Fred Meikle",
     "surname": "Mielke",
-    "birth": "c. 1848 (Apr 1848 per 1900 census)",
-    "death": "",
+    "birth": "c. 1848 (Apr 1848 per 1900 census and 1924 obituary; stone \"Apr. 9, 1848\")",
+    "death": "1924-08-09",
+    "birth_place": "Oberbipp, Bern, Switzerland",
+    "death_place": "Sturgeon Bay, Door County, Wisconsin",
+    "generation": 5,
+    "gender": "M",
+    "branch": "martin",
+    "life": [
+      {
+        "year": 1848,
+        "place": "Oberbipp, Bern, Switzerland",
+        "kind": "born"
+      },
+      {
+        "year": 1924,
+        "place": "Sturgeon Bay, Door County, Wisconsin",
+        "kind": "died"
+      }
+    ],
+    "life_source": "birth-death"
+  },
+  {
+    "id": "john-pfister-sr",
+    "slug": "Pfister/john-pfister-sr",
+    "name": "John Pfister Sr.",
+    "surname": "Pfister",
+    "birth": "1830-06-19",
+    "death": "1908-01-02",
     "birth_place": "",
     "death_place": "",
     "generation": 5,
@@ -1679,6 +1816,42 @@
     "life_source": "birth-death"
   },
   {
+    "id": "justus-george-guernsey",
+    "slug": "Guernsey/justus-george-guernsey",
+    "name": "Justus George Guernsey",
+    "surname": "Guernsey",
+    "birth": "1835",
+    "death": "1859",
+    "birth_place": "",
+    "death_place": "",
+    "generation": 6,
+    "gender": "M",
+    "branch": "martin",
+    "life": [],
+    "life_source": "birth-death"
+  },
+  {
+    "id": "thomas-hutcheson",
+    "slug": "Hutchinson/thomas-hutcheson",
+    "name": "Thomas Hutcheson",
+    "surname": "Hutchinson",
+    "birth": "c. 1812",
+    "death": "",
+    "birth_place": "England",
+    "death_place": "",
+    "generation": 6,
+    "gender": "M",
+    "branch": "martin",
+    "life": [
+      {
+        "year": 1812,
+        "place": "England",
+        "kind": "born"
+      }
+    ],
+    "life_source": "birth-death"
+  },
+  {
     "id": "ann-forstall",
     "slug": "Kendall/ann-forstall",
     "name": "Ann Forstall",
@@ -1705,6 +1878,42 @@
     "generation": 6,
     "gender": "M",
     "branch": "schmidt",
+    "life": [],
+    "life_source": "birth-death"
+  },
+  {
+    "id": "sophia-miller",
+    "slug": "Miller/sophia-miller",
+    "name": "Sophia Miller",
+    "surname": "Miller",
+    "birth": "c. 1802",
+    "death": "",
+    "birth_place": "Ontario, Canada",
+    "death_place": "",
+    "generation": 6,
+    "gender": "F",
+    "branch": "martin",
+    "life": [
+      {
+        "year": 1802,
+        "place": "Ontario, Canada",
+        "kind": "born"
+      }
+    ],
+    "life_source": "birth-death"
+  },
+  {
+    "id": "catherine-shaffstall",
+    "slug": "Shaffstall/catherine-shaffstall",
+    "name": "Catherine Shaffstall",
+    "surname": "Shaffstall",
+    "birth": "1840",
+    "death": "1902",
+    "birth_place": "",
+    "death_place": "",
+    "generation": 6,
+    "gender": "F",
+    "branch": "martin",
     "life": [],
     "life_source": "birth-death"
   },
@@ -2082,6 +2291,21 @@
         "kind": "died"
       }
     ],
+    "life_source": "birth-death"
+  },
+  {
+    "id": "george-washington-guernsey",
+    "slug": "Guernsey/george-washington-guernsey",
+    "name": "George Washington Guernsey",
+    "surname": "Guernsey",
+    "birth": "1810",
+    "death": "1878",
+    "birth_place": "",
+    "death_place": "",
+    "generation": 7,
+    "gender": "M",
+    "branch": "martin",
+    "life": [],
     "life_source": "birth-death"
   },
   {

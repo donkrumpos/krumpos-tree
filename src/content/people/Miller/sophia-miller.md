@@ -3,6 +3,7 @@ id: sophia-miller
 name: Sophia Miller
 birth: 'c. 1802'
 birthplace: Canada (1850 US census, Lockport NY)
+birth_place: 'Ontario, Canada'
 death: ''
 gender: F
 parents: []

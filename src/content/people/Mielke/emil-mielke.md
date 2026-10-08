@@ -53,7 +53,8 @@ Born April 29, 1881 in the **town of Sturgeon Bay** to **Fred Meikle and Mary (J
 
 ## Relationships
 - **Parents:** Fred Meikle & Mary (Johnsen) Meikle — per FindAGrave, corroborated by Emil's 1970 obituary. Stop rule lifted 2026-07-15; Fred now has his own file: see Mielke/fred-meikle.md.
-- **Siblings (per Emil's 1970 obituary):** Ernest Meikle (Green Bay, 1970), Oscar Meikle (Chicago, 1970), Mrs. Iva Linquist (California, 1970). A WHS index birth "Unnamed Female Meikle, Aug 30, 1890, Door County" is a candidate for Iva.
+- **Siblings (per Emil's 1970 obituary):** Ernest Meikle (Green Bay, 1970), Oscar Meikle (Chicago, 1970), Mrs. Iva Linquist (California, 1970). Also living in 1924 (Fred's obituaries): **Carl** (Sturgeon Bay) and **Susan (Mrs. Vernon Olson)** of Sawyer/Clay Banks. Siblings who died young: Emma F. (1874–1892), Sophia (1877–1878), Julia (1885–1886); see fred-meikle.md.
+- **Paternal grandparents [PROBABLE-strong, 2026-10-08 s4]:** Conrad Mägli (c.1808–1890, Humboldt, Brown Co.) and Elisabeth Schorer (c.1806–1850, Oberbipp, Canton Bern). **Maternal grandparents:** John and Mary Johnson of Sweden (Mary Johnson's 1938 obituary). A WHS index birth "Unnamed Female Meikle, Aug 30, 1890, Door County" is a candidate for Iva.
 - **First wife:** Margaret Pfister (Aug 16, 1876–Feb 17, 1962) — born Fish Creek, Door Co, WI. Hazel's mother. Married **October 16, 1902** (marriage record reportedly spelled her surname "Pfisterer" — older German form). **Divorced before 1930** (per 1930 census). Margaret kept the Mielke surname and lived until 1962.
 - **Second wife:** Tillie H. Karnopp (1883–Sep 19, 1967) — married after Emil's divorce from Margaret (exact date unknown; previously assumed post-1962 widowhood, now known to be post-divorce). Also buried at Bayside Cemetery.
 - **Children:**

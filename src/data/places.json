@@ -429,12 +429,26 @@
     "query": "New York, New York",
     "source": "nominatim"
   },
+  "Oberbipp, Bern, Switzerland": {
+    "display_name": "Oberbipp, Verwaltungskreis Oberaargau, Verwaltungsregion Emmental-Oberaargau, Bern/Berne, 4538, Schweiz/Suisse/Svizzera/Svizra",
+    "lat": 47.2613485,
+    "lon": 7.6610534,
+    "query": "Oberbipp, Bern, Switzerland",
+    "source": "nominatim"
+  },
   "Oconto, Oconto County, Wisconsin": {
     "display_name": "Oconto, Oconto County, Wisconsin, 54153, United States",
     "lat": 44.8880199,
     "lon": -87.8696182,
     "query": "Oconto, Oconto County, Wisconsin",
     "source": "nominatim"
+  },
+  "Ontario, Canada": {
+    "display_name": "Ontario (Upper Canada), Canada",
+    "lat": 43.6,
+    "lon": -80.0,
+    "note": "Province-level birthplace only (census 'Canada'); plotted in settled southern Ontario rather than the geographic centroid near Hudson Bay. Niagara-on-the-Lake is probable for Eliza Hutchinson but unproven.",
+    "source": "override"
   },
   "Oregon, Dane County, Wisconsin": {
     "display_name": "Oregon, Dane County, Wisconsin, 53575, United States",

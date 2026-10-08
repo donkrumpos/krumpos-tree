@@ -228,6 +228,9 @@ def name_variants(name):
     maiden = paren_match.group(1).strip() if paren_match else None
 
     cleaned = re.sub(r'\([^)]*\)', ' ', name)
+    # Strip punctuation the same way normalize_name does, so "Sr." matches "Sr"
+    cleaned = re.sub(r"[''`]", '', cleaned)
+    cleaned = re.sub(r'[^\w\s-]', ' ', cleaned, flags=re.UNICODE)
     cleaned = re.sub(r'\s+', ' ', cleaned).strip()
     parts = cleaned.split()
     parts_lower = [p.lower() for p in parts]
