@@ -254,6 +254,13 @@
     "query": "Germany",
     "source": "too-vague"
   },
+  "Granby, Oswego County, New York": {
+    "display_name": "Town of Granby, Oswego County, New York, 13115, United States",
+    "lat": 43.2653897,
+    "lon": -76.417702,
+    "query": "Granby, Oswego County, New York",
+    "source": "nominatim"
+  },
   "Green Bay, Brown County, Wisconsin": {
     "display_name": "Green Bay, Brown County, Wisconsin, United States",
     "lat": 44.5126379,
@@ -308,6 +315,13 @@
     "lat": 42.988076,
     "lon": -84.9899704,
     "query": "Ionia Township, Ionia County, Michigan",
+    "source": "nominatim"
+  },
+  "Ionia, Ionia County, Michigan": {
+    "display_name": "Ionia, Ionia County, Michigan, United States",
+    "lat": 42.9872547,
+    "lon": -85.0711174,
+    "query": "Ionia, Ionia County, Michigan",
     "source": "nominatim"
   },
   "Ionia, Michigan": {
@@ -371,6 +385,13 @@
     "lat": 44.4424645,
     "lon": -93.7024566,
     "query": "Lexington, Le Sueur County, Minnesota",
+    "source": "nominatim"
+  },
+  "Liberty Township, Crawford County, Ohio": {
+    "display_name": "Liberty Township, Crawford County, Ohio, 44881, United States",
+    "lat": 40.8646381,
+    "lon": -82.9072365,
+    "query": "Liberty Township, Crawford County, Ohio",
     "source": "nominatim"
   },
   "Lorraine, France": {
@@ -574,6 +595,13 @@
     "note": "Robinsonville = today's Champion",
     "source": "override"
   },
+  "Ronald Township, Ionia County, Michigan": {
+    "display_name": "Ronald Township, Ionia County, Michigan, United States",
+    "lat": 43.0761157,
+    "lon": -85.0154481,
+    "query": "Ronald Township, Ionia County, Michigan",
+    "source": "nominatim"
+  },
   "Rouen, Seine-Maritime, Normandy, France": {
     "display_name": "Rouen, Seine-Maritime, Normandie, France métropolitaine, France",
     "lat": 49.4404591,
@@ -664,6 +692,13 @@
     "lon": 13.4047,
     "note": "Joseph Krumpos's probable birthplace (reliquary 1878e5aa); Nominatim doesn't resolve the historical 'Bohemia' form",
     "source": "override"
+  },
+  "Washington County, New York": {
+    "display_name": "Washington County, New York, United States",
+    "lat": 43.2294536,
+    "lon": -73.4471343,
+    "query": "Washington County, New York",
+    "source": "nominatim"
   },
   "Wingham, Kent, England": {
     "display_name": "Wingham, Dover, Kent, England, United Kingdom",

@@ -50,7 +50,7 @@ Born about 1859–61 in Michigan, daughter of **Asa W. Linson** and **Hannah Wal
 - **Husband:** John Loami Guernsey (1857–1940, 9X9W-656)
 - **Daughter:** Mildred Amelia Guernsey Martin (1880–1971), **direct line**
 - **Daughter:** unnamed, b. c. 29 Jan 1881, d. 1 Feb 1881, Fair Plain
-- **Siblings (1870/1880 censuses; FS):** Armina (1843), Anna Elvira (1844–1888, m. Baker), Betsy (1850, Ind.), Esther Ann (1852–1919, m. **Dennis Guernsey**), Catherine J. (1851/54–1900, m. Randall), Emma Polly (1853–1880), Dorcas L. (1856–1916), Myron L. (1858), Alma A. (1865, m. Baker, Britton, Hoover), Alfred (1865–1940)
+- **Siblings (1850/1870/1880 censuses; FS; Michigan death certificates read 2026-10-08):** Armina (b. 10 Jan 1843, NY per 1850 census [Indiana per her death certificate], m. Amos Dodge, d. 1 Apr 1920 Butternut, Bloomer Twp, Montcalm Co.), Anna Elvira ("Alzina", b. c.1844–45 NY, d. 1888, m. Baker), Polly (b. c.1847 Ind.; probably the "Emma Polly" of FS, d. 1880), Betsy ("Elizabeth", b. 1850 Ind.), Esther Ann (b. 20 Jan 1852, Allen Co., Ind., m. **Dennis Guernsey**, d. 7 May 1919 Ionia Twp), Catherine (b. 28 Dec 1852 [sic], m. James Randall, d. **19 Aug 1902** Ronald Twp [formerly given here as 1900]), Dorcas L. (b. 7 Jan 1857 MI, m. Wiggins, d. 31 Oct 1916 Orange Twp, Ionia), Myron L. (1858), Alma A. (1865, m. Baker, Britton, Hoover), Alfred (1865–1940, d. Bingham Twp, Clinton Co.)
 
 ## Sources
 - **Michigan death register, Montcalm Co., 1881** (FS "Michigan, Deaths, 1867-1897", film 2363670, p. 338, rn 340–341; record N3JH-XFZ). **Image read, both pages [CONFIRMED].**
@@ -63,6 +63,6 @@ Born about 1859–61 in Michigan, daughter of **Asa W. Linson** and **Hannah Wal
 - **NUMIDENT, Mildred A. Martin**: parents "John H Guevnsey" and "Amelia Hinson" (transcription errors; the source of the "Hinson" form).
 
 ## Research Notes
-- **Scottish question:** nothing Scottish documented. Linson is a rare name found in New York, Ohio and Indiana, and Walker is common in both England and Scotland. Asa's and Hannah's parents are unknown (see their files).
-- Two Guernsey men married Linson sisters: John Loami (Almeda) and Dennis (Esther Ann). Dennis's relationship to John is unresolved.
+- **Scottish question:** nothing Scottish documented. Linson is a rare name found in New York, Ohio and Indiana, and Walker is common in both England and Scotland. Asa's father was English-born (1880 census). Hannah's parents were John Walker and Catherine Finkle, both New York-born (1907 death certificate). See their files.
+- Two Guernsey men married Linson sisters: John Loami (Almeda) and **his uncle** Dennis (Esther Ann). Dennis (1837–1919) was a son of George Washington Guernsey and a brother of Justus George (1850 census, Fairfield Twp, DeKalb Co., IN). **PROBABLE (s8):** Almeda's grandmother Hannah Walker was a daughter of Catherine Finkle, G. W. Guernsey's second wife, so the Linsons were Guernsey step-kin, which explains both marriages (see hannah-walker.md).
 - **Next:** the 1881 Ionia Co. newspaper (*Ionia Standard*, Feb 1881) for a death notice.

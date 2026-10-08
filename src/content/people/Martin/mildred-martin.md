@@ -64,7 +64,7 @@ Born March 21, 1880 in Ionia, Michigan. Maiden name Guernsey. Married Lile/Life 
 - Born in **Ionia, Michigan** — a small city in central Michigan, county seat of Ionia County.
 - Mother also born in Michigan — the Guernsey family was in Michigan at least two generations by 1880.
 - Lived to age **91** — outlived her son Gerald by 40 years, and likely outlived her husband Life as well.
-- **Albert H. Boyce of Hollywood, California** attended Gerald's 1931 funeral — possibly a Guernsey relative or family friend from Michigan.
+- **Albert H. Boyce of Hollywood, California** attended Gerald's 1931 funeral. **Resolved 2026-10-08 (s8, PROBABLE):** he was a son of Mildred's grandmother Catherine (Shaffstall) Guernsey Boyce and Charles Boyce Jr. of Sevastopol, Door Co., which made him Mildred's half-uncle. Catherine lived in Door County from 1866 until her death in 1902, which is why Mildred came to Sturgeon Bay.
 - FamilySearch record has 12+ sources — further research there could identify her parents and siblings.
 
 ## Research target — Guernsey line origins [FLAGGED 2026-06-10]

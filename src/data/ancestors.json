@@ -1882,13 +1882,19 @@
     "name": "Justus George Guernsey",
     "surname": "Guernsey",
     "birth": "1835",
-    "death": "1859",
-    "birth_place": "",
+    "death": "1860",
+    "birth_place": "Granby, Oswego County, New York",
     "death_place": "",
     "generation": 6,
     "gender": "M",
     "branch": "martin",
-    "life": [],
+    "life": [
+      {
+        "year": 1835,
+        "place": "Granby, Oswego County, New York",
+        "kind": "born"
+      }
+    ],
     "life_source": "birth-death"
   },
   {
@@ -1976,7 +1982,7 @@
     "birth": "1816",
     "death": "1907-01-09",
     "birth_place": "New York",
-    "death_place": "Ionia Township, Ionia County, Michigan",
+    "death_place": "Ronald Township, Ionia County, Michigan",
     "generation": 6,
     "gender": "F",
     "branch": "martin",
@@ -1988,7 +1994,7 @@
       },
       {
         "year": 1907,
-        "place": "Ionia Township, Ionia County, Michigan",
+        "place": "Ronald Township, Ionia County, Michigan",
         "kind": "died"
       }
     ],
@@ -2020,14 +2026,25 @@
     "slug": "Shaffstall/catherine-shaffstall",
     "name": "Catherine Shaffstall",
     "surname": "Shaffstall",
-    "birth": "1840",
-    "death": "1902",
-    "birth_place": "",
-    "death_place": "",
+    "birth": "1840-01-10",
+    "death": "1902-09-28",
+    "birth_place": "Liberty Township, Crawford County, Ohio",
+    "death_place": "Green Bay, Brown County, Wisconsin",
     "generation": 6,
     "gender": "F",
     "branch": "martin",
-    "life": [],
+    "life": [
+      {
+        "year": 1840,
+        "place": "Liberty Township, Crawford County, Ohio",
+        "kind": "born"
+      },
+      {
+        "year": 1902,
+        "place": "Green Bay, Brown County, Wisconsin",
+        "kind": "died"
+      }
+    ],
     "life_source": "birth-death"
   },
   {
@@ -2411,14 +2428,25 @@
     "slug": "Guernsey/george-washington-guernsey",
     "name": "George Washington Guernsey",
     "surname": "Guernsey",
-    "birth": "1810",
-    "death": "1878",
-    "birth_place": "",
-    "death_place": "",
+    "birth": "1810-12-15",
+    "death": "1878-04-04",
+    "birth_place": "Washington County, New York",
+    "death_place": "Ionia, Ionia County, Michigan",
     "generation": 7,
     "gender": "M",
     "branch": "martin",
-    "life": [],
+    "life": [
+      {
+        "year": 1810,
+        "place": "Washington County, New York",
+        "kind": "born"
+      },
+      {
+        "year": 1878,
+        "place": "Ionia, Ionia County, Michigan",
+        "kind": "died"
+      }
+    ],
     "life_source": "birth-death"
   },
   {
