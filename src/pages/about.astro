@@ -1,5 +1,8 @@
 ---
+import { getCollection } from 'astro:content';
 import BaseLayout from '../layouts/BaseLayout.astro';
+
+const peopleCount = (await getCollection('people')).length;
 ---
 <BaseLayout title="About">
   <article class="prose">
@@ -13,7 +16,7 @@ import BaseLayout from '../layouts/BaseLayout.astro';
 
     <h2>What's here</h2>
     <p>
-      Individual profiles for {173} documented ancestors, organized by surname. Each profile includes
+      Individual profiles for {peopleCount} documented ancestors, organized by surname. Each profile includes
       birth and death dates, family relationships (with clickable links where records exist),
       biographical summaries, source citations, and research notes.
     </p>

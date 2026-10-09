@@ -7,7 +7,7 @@ Family tree website at krumpos.org. Astro + Tailwind + Cloudflare Pages.
 Source of truth: `reliquary/corpus/memoir/notes/family-tree/`
 
 Export pipeline: `pnpm export` runs `scripts/export-from-reliquary.py` which:
-- Copies 173 person files into `src/content/people/{Surname}/`
+- Copies every person file (197 as of Oct 2026) into `src/content/people/{Surname}/`
 - Resolves relationship names to slugs (linked_parents, linked_spouses, linked_children)
 - Copies narratives, obituaries, and media files
 - Preserves original frontmatter verbatim, appends computed fields
@@ -29,13 +29,13 @@ pnpm preview   # Local preview
 - pnpm
 
 ## Content collections
-- `people` — 173 ancestor profiles with YAML frontmatter
+- `people` — ancestor profiles with YAML frontmatter (197 as of Oct 2026)
 - `narratives` — lineage narrative, family narrative, indexes
 - `sources` — obituary transcriptions
 
 ## Page structure
 - `/person/{Surname}/{id}` — individual ancestor pages
-- `/surname/{name}` — 28 surname index pages
+- `/surname/{name}` — surname index pages (29 as of Oct 2026)
 - `/branch/{line}` — 4 shareable branch pages (krumpos, coppersmith, martin, schmidt)
 - `/narrative` — full lineage narrative
 - `/themes` — cross-cutting patterns

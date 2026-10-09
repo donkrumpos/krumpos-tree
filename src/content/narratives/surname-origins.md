@@ -157,11 +157,28 @@ Evidence for a Protestant origin: Henry's Methodist Episcopal funeral (Rev. Davi
 
 ---
 
+## Colonial American (New England, New York and Pennsylvania → Indiana/Michigan → Door County) [added 2026-10-08]
+
+This is the ancestry of Mildred (Guernsey) Martin: families that had been in America since the colonial period and moved west by stages. Catherine (Shaffstall) Boyce brought the line to Sevastopol in 1866, and Mildred followed.
+
+| Surname | Origin | Ancestor | Notes |
+|---|---|---|---|
+| **Guernsey** | New England colonial; via **Granby, Oswego Co., NY** | Justus George Guernsey (1835 NY – 1860), son of George Washington Guernsey | The FS pedigree (224 persons) is entirely New England colonial. John Loami Guernsey (b. 1857, probably Ionia, MI; d. 1940, Donna, Texas) was Mildred's father. |
+| **Linson** (not "Hinson") | New York; father of Asa **born in England** (1880 census) | Asa W. Linson (1814 NY – 1889, Fair Plain, Montcalm Co., MI) | DeKalb Co., IN in 1850, then Montcalm/Ionia Co., MI. Daughter Almeda (1859–1881) was Mildred's mother. Asa's parents are unknown. |
+| **Walker** | New York | Hannah Walker (c.1816 NY – 1907), Asa's wife | Her 1907 certificate names her parents as John Walker × Catherine Finkle, all born NY. Catherine is PROBABLY the Catherine (Finkle) Flagg Alexander who later married G. W. Guernsey. |
+| **Finkle** | New York; probably the Palatine German Finkles of Columbia/Schoharie Co. (SPECULATIVE) | Catherine Finkle (c.1797–1892), daughter of John and Dorcas Finkle | Unproven as Hannah's mother; see Linson/hannah-walker.md. |
+| **Shaffstall** (Schoffstall) | **Pennsylvania German**, Lykens Twp, Dauphin Co., PA | Abraham Shaffstall (1809 PA – 1880, Lincoln Co., Kansas) | Crawford Co., OH, then Van Wert Co., OH, then Steuben Co., IN. Daughter Catherine (1840–1902) married Justus Guernsey (1857) and then Charles Boyce at Sturgeon Bay (1866). The FS pedigree is Schoffstall, Haag, Kornmann and Sallade. |
+| **Cobb** | **England** (immigrant Asa Cobb I, b. c.1701, came to New York c.1766), then Orange Co., NY; Clifford Twp, Susquehanna Co., PA; and from 1823 Liberty Twp, Crawford Co., OH | Sarah "Sally" Cobb (1813–1846), daughter of Asa Cobb IV (1781–1867), Squire of Liberty Twp, and Catherine Woods | PROBABLY Catherine Shaffstall's mother. Source: Fred M. Sherwood, *Descendants of Asa Cobb* (1993), online in the FS Digital Library. No Scottish ancestry is claimed for this line. |
+
+---
+
 ## Scottish — no documented line [revised 2026-10-08]
 
 Both former Scottish links failed when checked against the records:
 - **Laing**: Margaret Laing of Rhynd was attached to Sophia Miller only through a FamilySearch profile that merges two or three different couples. The documented William Millar × Margaret Laing family stayed in Rhynd and Perth (children 1804–23), while Sophia was born in Canada c. 1802. The link has been detached.
 - **Meikle**: Fred Meikle was Swiss-born; the surname was originally Mägli (1878 naturalization, 1874 marriage index, 1905/1910 censuses). He is also missing from the Stirlingshire Meikles' 1914 sibling list.
+
+The Guernsey side (Guernsey, Linson, Walker/Finkle, Shaffstall, Cobb), researched 2026-10-08, is New England/New York colonial, Pennsylvania German and English. Nothing Scottish was found there.
 
 A Scottish strand remains *possible* only through Sophia Miller's unknown Upper Canada parents or a deeper Ulster-Scots Martin ancestry. See krumpos-tree `reports/Scottish ancestry gap research.md`.
 
@@ -185,4 +202,5 @@ The mother **Mathilda/Mathilida Schneider** (b. c. 1873, Germany) — maiden nam
 | **Ireland (Ulster)** | Martin, Storm | Henry Martin (1830, near Belfast) |
 | **Belgium** | Coppersmith/Coppesmette, Barette, Lancelle, Potier, etc. | 1700s, Mélin/Beauvechain |
 | **France/Quebec** | Beaudoin/Bodoh, Lajeunesse/Young, Surprenant/Surprise, Desportes, Morin, etc. | Pierre Desportes (1588, Lisieux, Normandy) |
+| **Colonial America** | Guernsey, Linson, Walker, Finkle (probable), Shaffstall (PA German), Cobb (English) | Asa Cobb I (c.1701, England; to New York c.1766) |
 | **Canada (Upper Canada)** | Miller (parents unknown); Hutchinson (born there to an English father and a Canadian mother) | Sophia Miller (c. 1802) |

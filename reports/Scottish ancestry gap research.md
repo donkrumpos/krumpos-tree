@@ -2,6 +2,23 @@
 
 None of Don Krumpos's Scottish ancestry is proven. The two links the local tree treats as Scottish both fail when checked against the records. **Margaret Laing of Rhynd** is attached to Sophia Miller only through a FamilySearch profile that merges two or three different couples. The real William Miller and Margaret Laing family stayed in Rhynd and Perth, baptising children there from 1804 to 1823. Sophia, by contrast, was **born in Canada c.1802**. **Fred Meikle** is almost certainly *not* a son of William Meikle of Stirlingshire: the 1914 obituary of William's eldest son lists every surviving brother, and Fred is missing even though he lived a few miles away. On the documented evidence, Don's lines through these families stop at Henry Martin (born near Belfast, 1830), Thomas Hutcheson (born in England, c.1812), Sophia Miller (born in Canada, c.1802), and Fred and Mary Meikle (origin unknown). The research did fill several real gaps. Eliza Hutchinson's **first husband was John Walker**, and Martin Peters was her second. The Walker children are her own. Henry Martin's sister was **Sarah Ann Martin**, who married John Kehoe in 1881 and died in 1915. Fred Meikle married about **March 1871**. Several unsupported claims in the tree should now be withdrawn. A Scottish strand is still possible through Sophia Miller's unknown Canadian parents, through Fred Meikle if he proves Scottish after all, or through an Ulster-Scots Martin line. All three are open questions, not findings. The cheapest records that would settle them are listed at the end.
 
+## Update after sessions 3–10 (2026-10-08)
+
+The sections below are the original report from sessions 1–2. Later sessions changed several of its conclusions. Session-by-session detail is in `research_notes/Scottish ancestry gap research/followup_2026-10-08_s3.md` … `_s10.md`. **The overall verdict stands: no Scottish ancestor is proven.**
+
+- **Fred Meikle was Swiss, not German or Scottish (s3–s4).** His surname was originally **Mägli**. His 1878 Door Co. naturalization gives "Frederick Magle", b. Switzerland. His parents were Conrad Mägli (c.1808–1890, Humboldt, Brown Co.) and Elisabeth Schorer (d. 1850, Oberbipp, Bern). He is probably Samuel Mägli, baptised at Oberbipp on 9 Apr 1848. He married Mary Johnson (b. Sweden 1859) in 1874, not c.1871. He drowned on 9 Aug 1924. This supersedes the "German Mielke" hypothesis below; records 1, 2 and 8 in the table at the end are done.
+- **Hutchinson / Miller (s5–s6):**
+  - St Mark's, Niagara, baptised "Mary Louisa Hutchinson, of Thomas and Sophia" in 1831. Mary A. (Hutchinson) Lavassor is a probable sister of Eliza.
+  - "Sophia Miller, of William and Margery" (twins with Louisa, 1801) is a probable but unproven identification for Eliza's mother.
+  - The 1848 St Mark's roll lists "Thomas Hutchinson … 4", Town of Niagara.
+  - William and Margery Miller are not on the Loyalist lists. The Upper Canada marriage (record 6) is still not found.
+- **Guernsey side (s7–s10), not covered by the original report:**
+  - Mildred Guernsey's mother was **Almeda Linson** (not "Hinson"), daughter of Asa W. Linson and Hannah Walker.
+  - Hannah's 1907 certificate names her parents as John Walker and Catherine Finkle. Catherine is probably the Catherine (Finkle) Flagg Alexander who became G. W. Guernsey's second wife.
+  - Mildred's grandmother, Catherine Shaffstall (1840–1902), was the daughter of Abraham Shaffstall, a Pennsylvania German from Lykens Twp, Dauphin Co. Her mother was probably Sally Cobb (1813–1846). The Cobbs descend from an English immigrant of c.1766 (Sherwood, *Descendants of Asa Cobb*, 1993).
+  - The rest of the Guernsey pedigree is New England colonial. **Nothing Scottish was found on this side.**
+- **Still open on the original list:** Sarah Ann Kehoe's 1915 certificate (record 3; Don, by hand); the 1862 marriage register image (record 4); the Door Co. probate images (record 5); the Upper Canada Hutchinson × Miller marriage (record 6).
+
 A note on how this report rates evidence. "Confirmed" means a researcher saw the indexed record or the image this session. "Probable" means a strong inference. "Speculative" means a hypothesis. FamilySearch links require a free login. Door County newspaper citations point to the free archive at archive.co.door.wi.us. The archive's search URLs are session-bound, so the document ID is given where one exists.
 
 ## Sophia Miller was Canadian-born and does not belong to the Rhynd family
