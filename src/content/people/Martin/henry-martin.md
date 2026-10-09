@@ -191,7 +191,7 @@ Harry Martin, aged 66 years, of the town of Sevastopol died of cancer of the sto
 
 ### Eliza's Canadian birth
 - The 1870 census lists Eliza as born in **Canada**, not England. The 1920 census (Eliphlet's record) says mother born in England — but Eliphlet was reporting from memory, 36 years after Eliza's death. He may have meant her parents' origin, or may have simply been wrong.
-- Eliza's parents: Thomas Hutcheson (c. 1812, England) and Sophia Miller (c. 1802, **Canada**; her parents are unknown). The former Margaret Laing (Scottish) link was **detached 2026-10-08**; see sophia-miller.md. Eliza was born c. 1829 in Upper Canada, probably in the Niagara district.
+- Eliza's parents: Thomas Hutcheson (c. 1806/12, England; d. Lockport, NY, 24 Aug 1854) and Sophia Miller (c. 1802, **Canada**; her parents are unknown). The former Margaret Laing (Scottish) link was **detached 2026-10-08**; see sophia-miller.md. Eliza was born c. 1829 in Upper Canada, probably in the Niagara district.
 
 ### Father: Henry Martin Sr.
 - FamilySearch shows a father also named **Henry Martin** with no dates — just "Deceased." FamilySearch ID: L1C9-XB2.
@@ -216,3 +216,20 @@ Harry Martin, aged 66 years, of the town of Sevastopol died of cancer of the sto
 8. **Search-spelling key for this family in the Door archive:** "Lifelet" (19 hits), "Eliphlet" (24 hits), phrase "Life Martin", index spelling "Elephlet"; "Henry Martin" + Sevastopol for the father.
 9. **Rev. David Lewis** — identify denomination. If Presbyterian/Methodist, supports Ulster Protestant origin.
 10. ~~Eliphlet's obituary (1956)~~ — **FOUND** (Advocate, Aug 7, 1956, as "Life Martin") — see eliphlet-martin.md.
+
+## Session 11 [2026-10-08]
+- **Estate of Martin Peters [CONFIRMED, image read]:** on 2 Mar 1863 Henry Martin of Sevastopol, "husband of [the] wife of the deceased", petitioned for administration. Martin Peters had died at **Little Sturgeon on 24 Oct 1861**, leaving "wife and four children", personal property worth up to $250 and real estate worth about $1,000. Door Co. probate, FS film 100728701, image 36 (ark 3:1:3QSQ-G9G7-PV9). John Walker died 14 Apr 1859 (image 107). See eliza-hutchinson.md.
+- **Ship, July 1851: still NEGATIVE.** FS "New York Passenger Lists" (coll. 1849782, NARA M237) index. Henry Martin/Marten/Henny/Henery, arrivals 1851, aged 15–26, not German or French:
+  | Ship | M237 roll | Age, origin |
+  |---|---|---|
+  | America | 096 | 20, England |
+  | Kossuth | 098 | 18, Great Britain |
+  | New Brunswick | 099 | 18, Great Britain |
+  | Marmion | 103 (15 Aug) | 16, Ireland |
+  | A H Schultz | 108 | 17, Ireland |
+  - None is on the July 1851 rolls.
+  - Variants Martyn, Martain, Marton, Martine, Marttin and Mertin: nothing.
+  - He may be indexed under a garbled surname or under an initial. A roll-by-roll page check of the July 1851 rolls (≈101–102) is still the only route. The Marmion stays SPECULATIVE.
+- **1862 marriage register image:** not on FS. The persona XRLD-HZ6 has no image link, and FS full text of Door Co. returns only compiled index cards. **NEGATIVE online**; it needs a WHS order.
+- **Mary Lavassor:** her 1854 marriage was found at Grace Church, Lockport, NY (19 Apr 1854), at her father Thomas Hutchinson's house. So the Lavassors, and through them Eliza's 1862 wedding venue, connect back to the Lockport Hutchinsons.
+- Source: krumpos-tree `research_notes/Scottish ancestry gap research/followup_2026-10-08_s11.md`.

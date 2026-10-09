@@ -5,17 +5,20 @@ aka:
 - Thomas Hutchinson
 - Thomas Hutcherson
 - Thomas Hutchison
-birth: 'c. 1812'
+birth: 'c. 1806-1812'
 birthplace: England (1850 US census)
 birth_place: 'England'
-death: ''
+death: '1854-08-24'
+death_place: 'Lockport, Niagara County, New York'
 gender: M
 parents: []
 spouses:
 - Sophia Miller (c. 1802-?)
 children:
 - Eliza Hutchinson (c. 1830-1884)
-burial: ''
+- Mary Hutchinson (c. 1831-1884)
+- Rhoda Hutchinson (c. 1843-1857)
+burial: 'Cold Spring Cemetery, Lockport, Niagara County, New York'
 status: stub
 tags:
 - '#person'
@@ -27,28 +30,31 @@ linked_spouses:
   - 'Miller/sophia-miller'
 linked_children:
   - 'Hutchinson/eliza-hutchinson'
+  - ''
+  - ''
 ---
 # Thomas Hutcheson
 
-**Lifespan:** c. 1812 – ?
+**Lifespan:** c. 1806/1812 – 24 Aug 1854
 
 **FamilySearch ID:** L8RF-177
 
 ## Summary
-Born c. 1812 in **England**. The 1850 census at Lockport, Niagara Co., NY, has "Thomas Hutcherson, 38, labourer, b. England" (FS MCBJ-5WP), and Eliza's 1880 census report also gives her father as born in England. The **"24 Jul 1808, Middlesex"** on his FS profile is an **unsourced legacy NFS entry** and should not be relied on. Married Sophia Miller (c. 1802, Canada), probably c. 1829 in Upper Canada. The family was still in Canada c. 1845 (Rhoda's birth) and at Lockport by 1850. Father of Eliza (c. 1829–1884, direct line), probably Mary (c. 1831–1884), and Rhoda (c. 1845). Don's **4x great-grandfather**.
+Born c. 1806–1812 in **England** (obituary age 48 in 1854 vs. 38 in the 1850 census). The 1850 census at Lockport, Niagara Co., NY, has "Thomas Hutcherson, 38, labourer, b. England" (FS MCBJ-5WP), and Eliza's 1880 census report also gives her father as born in England. The **"24 Jul 1808, Middlesex"** on his FS profile is an **unsourced legacy NFS entry** and should not be relied on. Married Sophia Miller (c. 1802, Canada), probably c. 1829 in Upper Canada. The family was still in Canada c. 1845 (Rhoda's birth) and at Lockport by 1850. Father of Eliza (c. 1829–1884, direct line), Mary (c. 1831–1884, m. Joseph Lavassor at his house in 1854) and Rhoda (c. 1843–1857). **He died at Lockport on 24 Aug 1854, of consumption, and was buried in Cold Spring Cemetery** (Grace Church register; *Niagara Mail* obituary, "formerly of this Town", aged 48). Don's **4x great-grandfather**.
 
 ## Relationships
 - **Wife:** Sophia Miller (c. 1802–?, MCXT-PV1), born in Canada; her parents are unknown
 - **Daughter:** Eliza Hutchinson (c. 1829–1884, K814-2YL), **direct line**. Born in Canada. Married (1) John Walker, (2) Martin Peters, (3) Henry Martin.
-- **Daughter (probable-strong):** Mary A. (Hutchinson) Lavassor (c. 1831–1884); "Mary Louisa Hutchinson, of Thomas and Sophia", baptised St Mark's, Niagara, 21 Dec 1831
-- **Daughter:** Rhoda (c. 1845, Canada)
+- **Daughter (PROBABLE-strong, now near-certain):** Mary A. (Hutchinson) Lavassor (c. 1831–1884); "Mary Louisa Hutchinson, of Thomas and Sophia", baptised St Mark's, Niagara, 21 Dec 1831. She married Joseph Lavassor on 19 Apr 1854 at the Hutchinson house on Cottage St., Lockport, with "the Bride's father" present (session 11).
+- **Daughter:** Rhoda (c. 1843/45, Canada; d. Lockport 10 Dec 1857, "in her 15th year")
+- **Possible children (SPECULATIVE):** Margaret Hutchinson (m. Joseph Fify, Lockport, 3 Dec 1855) and Robert Hutchinson, who witnessed Mary's 1854 wedding together (session 11)
 
 ## Research Notes
 - **Spelling:** the records give Hutcherson, Hutchenson, Hutchison and Hutchinson depending on the clerk. The "Hutcheson" form on FamilySearch carries no weight as evidence of a Scottish origin. ~~Thomas may have been from Northumberland or the Scottish Borders~~: **withdrawn 2026-10-08**. Every record says England, and none gives a county.
 
 ## After 1850 — searches and new family lead [2026-10-08]
 - **1850 US census, Lockport, Niagara Co., NY** (FS MCBJ-5WP/-5WR/-5WT; image 3:1:S3HY-DYZQ-XCL): Thomas Hutcherson 38, labourer, b. England; Sophia 48, b. Canada; Rhoda 5, b. Canada. Married daughter Eliza (Mrs. John Walker) is enumerated in the next dwelling.
-- **Not found after 1850 (NEGATIVE, indexes only):** 1855 NY state census (FS coll. 1937366), with no Hutch* at Lockport (the Royalton Hutcheson family, K67Y-9XH, is a different family); 1860 (coll. 1473181) and 1870 (coll. 1438024) US censuses, with no matching Thomas (b. c.1812 England) or Sophia (b. c.1802 Canada) anywhere; Door County, with no Thomas, Sophia or Rhoda in any record. **Working hypothesis: both died c.1850–55**, or they are indexed under a badly garbled name. No death or burial found.
+- **Not found after 1850 (NEGATIVE, indexes only):** 1855 NY state census (FS coll. 1937366), with no Hutch* at Lockport (the Royalton Hutcheson family, K67Y-9XH, is a different family); 1860 (coll. 1473181) and 1870 (coll. 1438024) US censuses, with no matching Thomas (b. c.1812 England) or Sophia (b. c.1802 Canada) anywhere; Door County, with no Thomas, Sophia or Rhoda in any record. **Working hypothesis: both died c.1850–55**, or they are indexed under a badly garbled name. ~~No death or burial found.~~ **Thomas's death found in session 11 (see below).** Sophia's is still unknown.
 - **Daughter Rhoda (b. c.1845, Canada):** seen only in 1850. The Madoc/Hastings Co. Ontario Rhoda Hutchison is unlinked.
 - **Probable daughter Mary A. (Hutchinson) Lavassor (c.1831–1884) [PROBABLE]:** "born in **Niagara West**, in Canada, about the year 1831" (*Door County Advocate*, 24 Jan 1884, p. 3; FindAGrave #129004940). She married Joseph Lavassor in 1854 and was in Sturgeon Bay from that May. Eliza's 1862 wedding was held at the Lavassor home. See eliza-hutchinson.md. If she is a daughter, the family was in **Niagara Township (Lincoln Co., Upper Canada)** c.1831, so the c.1829 marriage and the children's baptisms should be sought in the Niagara registers (St. Mark's Anglican and St. Andrew's Presbyterian, Niagara-on-the-Lake).
 - Source: krumpos-tree `research_notes/Scottish ancestry gap research/followup_2026-10-08.md`.
@@ -71,3 +77,21 @@ Born c. 1812 in **England**. The 1850 census at Lockport, Niagara Co., NY, has "
 - **1854 Hutchinson × Lavassor marriage:** not in the FS indexes under any spelling tried. Michigan or Brown Co.; offline.
 - **Mary (Lavassor) Haines [CONFIRMED, image read 2026-10-08 s6]:** *Weekly Expositor Independent*, Sturgeon Bay, 20 Nov 1885, p. 3, "Death of Mrs. Haines". She died 14 Nov 1885, of consumption, aged 26, "daughter of the late Mr. and Mrs. Joseph Lavassor, and wife of Tallief [?] Haines". She left two little girls, aged 3 and 1 (Ella and Edna). The notice calls her mother's death in Jan 1884 **"sudden"**. Source: krumpos-tree `research_notes/Scottish ancestry gap research/followup_2026-10-08_s6.md`.
 - Source: krumpos-tree `research_notes/Scottish ancestry gap research/followup_2026-10-08_s3.md`.
+
+## Death at Lockport, 1854, and the Lockport family [2026-10-08, session 11]
+- **Burial [CONFIRMED, image read]:** Grace Church (Episcopal), Lockport, NY, burial register p. 226: "1854 August 26 — Thomas Hutchinson — [age blank] — Consumption — [died] August 24th at 5 P.M. — Cold Spring Cemetery — Chas H. Platt — Services at the house, and at the grave." FS film 008273185, image 86 (ark 3:1:3Q9M-CS5F-4D1H). Found through FS full-text search with the place filter Lockport.
+- **Obituary [CONFIRMED, printed transcript image]:** *Niagara Mail* (Niagara, C.W.), Wednesday, 30 Aug 1854: "At Lockport, N.Y. on Thursday the 24th inst., after a short illness, Mr. Thomas Hutchison, formerly of this Town, aged 48 years." Source: W. Craig Burtch, *The Niagara Mail: 1843–1860* (FS Digital Library, item 879418, identifier 677803, image 60).
+- **Identification: PROBABLE-strong.** The date and place match the church burial. "Formerly of this Town" (Niagara) fits the 1831 baptism and the 1848 St Mark's roll. Lockport fits the 1850 census, which has Thomas there with Eliza next door. And it explains why nobody could find him after 1850.
+- **Age conflict:** 48 in 1854 (b. c.1806) against 38 in the 1850 census (b. c.1812). The FS legacy "24 Jul 1808, Middlesex" is in between and still unsourced. Birth is now recorded as c.1806–1812.
+- **Mary's wedding [CONFIRMED, image read]:** Grace Church marriages p. 168: "1854 April 19 — Joseph Lavassor to Miss Mary Hutchinson — witnesses Robert & Margaret Hutchinson, Messrs. [?] Rankin, Miss Webb [?] & a number of friends — parent or friend: The Bride's father — 8 P.M., dwelling of [blank] Hutchinson, on Cottage St., S. of High St. — Chas H. Platt." Film 008273185, image 63. This is the 1854 marriage that s3 searched for in Michigan and Brown Co. Held at her father's house four months before Thomas died, it makes Mary Lavassor's place as Thomas's daughter, and so Eliza's sister, as near-certain as anything without a direct statement can be.
+- **Rhoda [CONFIRMED, image read]:** Grace Church burials p. 240: "1857 Decr 12 — Rhoda Hutchinson — Typhus fever, Dec 10, P.M. — in her 15th year — [died at] Mrs. Capt. Delano's [?] — Cold Spring Cemetery — C. H. Platt." Image 93. Born c.1843; the 1850 census gave 5.
+- **Margaret and Robert Hutchinson (SPECULATIVE siblings):**
+  - "John Walker and Margaret Hutchinson" witnessed George Ruff × Jane Harris on 20 Jul 1853 at Joseph Dunmill's (image 61). John Walker is very probably Eliza's husband.
+  - "Robert & Margaret Hutchinson" witnessed Mary's 1854 wedding.
+  - "Miss Margaret Hutchinson" married **Joseph Fify** on 3 Dec 1855 at Joseph Demmill's [= Dunmill's], Van Buren St., Lockport, with Hon. E. Ransom as "parent or friend" (image 67).
+  - Daughter Harriet Fify was b. 6 Jan 1858 and bapt. privately 5 May 1858; her parents are given as "Joseph & Margaret (Hutchinson) Fify" (image 39).
+  - No parents are named for Margaret, and she and Robert are not in Thomas's 1850 household.
+- **Sophia:** no burial in the Grace Church register under Hutchinson, 1850–60, and no other Lockport entry. Still unknown after 1854.
+- NEGATIVE: Find a Grave (Thomas Hutch\*, d. 1854); NYS Historic Newspapers, Aug–Oct 1854 (no Lockport papers online for those dates).
+- **Scottish:** nothing new. The "Hutchison" spelling in the Niagara obituary carries no weight. A Scottish Hutchison family is buried at **St Andrew's Presbyterian, Niagara**: Geo., 1773–1831, "a native of Berwicks., Scot.", and Hannah Barrie. Source: Robbins, *Cemeteries and Graves in the Niagara District* (FS DL 1012865), St Andrew's visited 1929. **Nothing links Thomas to that family** (he was an Anglican, and every census says born England). SPECULATIVE at most.
+- Source: krumpos-tree `research_notes/Scottish ancestry gap research/followup_2026-10-08_s11.md`.

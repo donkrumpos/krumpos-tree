@@ -9,11 +9,11 @@ birth_place: 'Ontario, Canada'
 death: '1884-10-17'
 gender: F
 parents:
-- Thomas Hutcheson (c. 1812-?)
+- Thomas Hutcheson (c. 1806-1854)
 - Sophia Miller (c. 1802-?)
 spouses:
-- John Walker (m. by 1850; d. Door Co. c. 1859)
-- Martin Peters (m. 1859/60; d. by 1862)
+- John Walker (m. by 1850; d. Nasewaupee 1859-04-14)
+- Martin Peters (m. 1859/60; d. Little Sturgeon 1861-10-24)
 - Henry Martin (1830-1896, m. 1862-11-12)
 children:
 - Eliphlet Martin (1869-1956)
@@ -21,7 +21,6 @@ burial: Bayside Cemetery, Sturgeon Bay, Door County, Wisconsin
 status: confirmed
 uncertain_fields:
 - exact birth date and place in Canada (Niagara probable: the family was at Niagara in 1831; unproven for Eliza herself)
-- John Walker's death date; Martin Peters's death date
 - spelling of surname (Hutchinson vs Hutcheson vs Hutcherson)
 tags:
 - '#person'
@@ -46,18 +45,18 @@ linked_children:
 
 ## Summary
 Born c. 1829 in **Canada** (Upper Canada, probably the Niagara district). Daughter of Thomas Hutcheson (b. England) and Sophia Miller (b. Canada). Don's **3x great-grandmother**. She married three times:
-1. **John Walker** (b. England c.1827), by 1850 at Lockport, NY. He died in Door County c.1859.
-2. **Martin Peters** (b. Ireland c.1821), in 1859/60. He died by 1862.
+1. **John Walker** (b. England c.1827), by 1850 at Lockport, NY. He died at Nasewaupee, Door Co., on **14 Apr 1859** (probate).
+2. **Martin Peters** (b. Ireland c.1821), in 1859/60. He died at Little Sturgeon on **24 Oct 1861** (probate).
 3. **Henry Martin** (b. 1830 near Belfast), on 12 Nov 1862 at Sturgeon Bay.
 
 The children enumerated as "Peters" in 1860 and as "Martin" in 1870 (Elias, Mary J, Charles, John W and Eliza A) were **her own Walker children**. With Henry she had Eliphlet "Life" Martin (1869–1956, direct line) and his siblings. She died 17 Oct 1884 in Sevastopol after a stroke, when Eliphlet was about 15.
 
 ## Relationships
-- **Father:** Thomas Hutcheson (c. 1812–?, L8RF-177), **born in England** (1850 census; Eliza's 1880 census report). Spelled Hutcherson, Hutchison or Hutchinson depending on the clerk.
+- **Father:** Thomas Hutcheson (c. 1806/12 – 24 Aug 1854, Lockport, NY; L8RF-177), **born in England** (1850 census; Eliza's 1880 census report). Spelled Hutcherson, Hutchison or Hutchinson depending on the clerk.
 - **Mother:** Sophia Miller (c. 1802–?, MCXT-PV1), **born in Canada**. **Her parents are unknown.** The earlier William Miller × Margaret Laing (Rhynd, Scotland) link was detached 2026-10-08; see sophia-miller.md and margaret-laing.md.
-- **Sisters:** Mary A. (Hutchinson) Lavassor (c.1831–1884, probable-strong: "Mary Louisa, of Thomas and Sophia", baptised Niagara 1831); Rhoda (c.1845, Canada).
-- **Husband 1:** John Walker (c.1827, England), married by 1850. Died in Door County c.1859.
-- **Husband 2:** Martin Peters (c.1821, Ireland), farmer in Nasewaupee, married 1859/60. Died by Nov 1862.
+- **Sisters:** Mary A. (Hutchinson) Lavassor (c.1831–1884, probable-strong, now near-certain: "Mary Louisa, of Thomas and Sophia", baptised Niagara 1831; married at her father's house, Lockport, 19 Apr 1854); Rhoda (c.1843/45, Canada; d. Lockport 10 Dec 1857). SPECULATIVE: Margaret (m. Joseph Fify, Lockport, 1855) and Robert Hutchinson.
+- **Husband 1:** John Walker (c.1827, England), married by 1850. Died at Nasewaupee ("late Town of Otumba"), Door Co., 14 Apr 1859, intestate.
+- **Husband 2:** Martin Peters (c.1821, Ireland), farmer in Nasewaupee, married 1859/60. Died at Little Sturgeon, 24 Oct 1861, intestate.
 - **Husband 3:** Henry Martin (1830–1896, b. Ireland), FamilySearch ID LYS2-3P2. Married 12 Nov 1862.
 - **Children by Walker:** Elias (c.1853, NY), Mary J (c.1854, NY), Charles (c.1856), John W (c.1858) and Eliza A (c.1859, later Mrs. Thomas Melville).
 - **Child by Peters (probable):** William (c.1861–62).
@@ -67,7 +66,7 @@ The children enumerated as "Peters" in 1860 and as "Martin" in 1870 (Elias, Mary
 - **FamilySearch Family Tree**: Eliza Hutchinson, K814-2YL. Parents: Thomas Hutcheson (L8RF-177) and Sophia Miller (MCXT-PV1). The birthplace "Niagara-on-the-Lake" is not supported by any of the 21 attached sources.
 - **1850 US Census, Lockport, Niagara Co., NY [image read]**: Eliza Walker, 21, b. Canada, wife of **John Walker**, 23, labourer, b. England, in the dwelling next to her parents' (Thomas Hutcherson 38 England, Sophia 48 Canada, Rhoda 5 Canada). FS image 3:1:S3HY-DYZQ-XCL; MCBJ-5WP, MCBJ-5WT.
 - **Door County marriages naming "John Walker and Eliza Martin" as parents**: Charles Walker × Elizabeth Schumacher, 31 Mar 1880 (FS XRL8-G7Z); Eliza Walker × Thomas Melville, 7 Nov 1878 (FS XRL8-KQH).
-- **Door County probate** (contributor notes; images not yet viewed): Eliza's petition to administer the estate of her husband John Walker, and later papers for the estate of her "late husband Martin Peters" (FS 3QSQ-G9G7-P34V; 3QSQ-G9G7-P93L).
+- **Door County probate [images read, session 11]:** see "Probate files" below (FS film 100728701).
 - **1862 marriage index**, Henry Martin × Eliza Peters, naming her parents "Thomas Hutchison and Sophia Miller" (FS XRLD-HZ6).
 - Maiden name repeated in later records: "Eliza Hutchison" (Henry Jr.'s 1895/96 Michigan marriage, FCT1-QQR); "Lizza Hutchenson" (David W.'s 1901 death, XLC8-2HH); "Elizabeth Hutchinson" (Eliphlet's 1901 marriage, XRVC-8L6).
 - **1880 US Census, Door County, Wisconsin** — Eliza (51), wife of Henry Martin. **Father born England, mother born Canada.** Confirms Thomas Hutcheson was English and Sophia Miller was Canadian-born.
@@ -113,6 +112,37 @@ The children enumerated as "Peters" in 1860 and as "Martin" in 1870 (Elias, Mary
 
 ### Next steps [revised 2026-10-08]
 1. **The Upper Canada marriage of Thomas Hutch\* × Sophia Miller (c.1825–32)**. It is not in St Mark's (1825–32) or St Andrew's (1830–32) as printed in OHS vol. 3 (s5). Next: the Niagara District marriage register, Methodist registers, and St Andrew's before 1830. Eliza's baptism (c.1829) has not been found. Mary's is St Mark's, 21 Dec 1831.
-2. **Mary Hutchinson × Joseph Lavassor marriage (1854)**, which is not in the FS indexes (Michigan or Brown Co., offline). ~~Lavassor probate files~~: done 2026-10-08. Henry Martin was administrator, and the files name no parents or siblings.
-3. **View the Door Co. probate images** for John Walker and Martin Peters (six 3QSQ-G9G7 arks) to get their death dates and heirs.
+2. ~~Mary Hutchinson × Joseph Lavassor marriage (1854)~~: FOUND session 11, Grace Church, Lockport, NY, 19 Apr 1854. ~~Lavassor probate files~~: done 2026-10-08. Henry Martin was administrator, and the files name no parents or siblings.
+3. ~~View the Door Co. probate images~~: DONE session 11 (see "Probate files").
 4. ~~Where in England?~~ Eliza was born in Canada; the England question applies only to her father.
+
+## Probate files and the Lockport family [2026-10-08, session 11]
+**Door County probate case files, FS film 100728701 (images read):**
+
+**John Walker's estate**
+- **Petition for letters of administration** (image 107; ark 3:1:3QSQ-G9G7-P34V).
+  - Petitioner: Eliza Peters of Nasewaupee, "the wife of John Walker, deceased". Signed "Eliza Peters, her mark" (she could not write).
+  - Dated Sturgeon Bay, 6 Jan 1862; sworn 24 Jan 1862 before County Judge M. E. Lyman.
+  - John Walker "departed this life at Nasewaupee, late Town of Otumba, on the fourteenth day of April 1859", without a will. He left real estate worth about **$600**.
+  - "Left him surviving: Eliza Walker his wife, now Eliza Peters, also five children, viz. **Elias Walker, Mary Jane, Charles, John, Eliza A[nn]**."
+- This **CONFIRMS** that the 1860 "Peters" children were John Walker's, and that Eliza is their mother.
+- Other images: a probate notice that letters of administration were issued to Eliza Peters (full text, 1861 file).
+
+**Martin Peters's estate**
+- **Eliza's petition** (image 65; 3QSQ-G9G7-PKM), dated Sturgeon Bay, 2 Dec 1861, "her mark".
+  - She is the "wife of Martin Peters, deceased, who died intestate October 24th [?] 1861, late of the Town of Nasewaupee".
+  - He left real estate in the town of Sturgeon Bay and personal property in Nasewaupee.
+- **Henry Martin's petition** (image 36; 3QSQ-G9G7-PV9), dated Sturgeon Bay, 2 Mar 1863.
+  - Henry Martin of Sevastopol is "husband of [the] wife of the deceased".
+  - Martin Peters "departed this life at **Little Sturgeon** on the **24 day of Oct 1861**".
+  - He left personal property worth up to $250 and real estate worth about $1,000. "Left him surviving: **wife and four children**."
+- **Who were the four children?** They are not named. They could be William (b. c.1861, the probable Peters child) plus some of the Walker stepchildren, or Peters children by an earlier marriage. Unresolved.
+- The remaining arks (PS37 grant of administration, P93L oath, P9YJ sale of land to George Hodgekins for $125) were not re-read. The FS contributor notes describe them.
+
+**Lockport, NY (Grace Church Episcopal register, FS film 008273185; images read):**
+- **Father Thomas Hutchinson** died 24 Aug 1854 of consumption and was buried 26 Aug in Cold Spring Cemetery (image 86). *Niagara Mail* obituary (30 Aug 1854): "formerly of this Town, aged 48".
+- **Sister Mary** married Joseph Lavassor on 19 Apr 1854 at the Hutchinson dwelling, Cottage St., "the Bride's father" present (image 63).
+- **Sister Rhoda** died 10 Dec 1857, "in her 15th year" (image 93).
+- On 20 Jul 1853, "John Walker and Margaret Hutchinson" witnessed a wedding together (image 61). John Walker was probably Eliza's husband; Margaret is a possible sister (SPECULATIVE). Margaret married Joseph Fify in 1855.
+- **Implication:** Eliza and John Walker were still at Lockport in 1853–54. Elias (c.1853) and Mary Jane (c.1854) were born in New York, and the Walkers moved to Door Co. by 1856 (Charles b. WI). Mary Lavassor went to Sturgeon Bay in May 1854, a month after her wedding.
+- Source: krumpos-tree `research_notes/Scottish ancestry gap research/followup_2026-10-08_s11.md`.

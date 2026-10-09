@@ -73,3 +73,6 @@ The **Guernsey** surname (English/Norman, from the Channel Island of Guernsey) i
 - **John Loami Guernsey (1857–1940)** and **Almeda Linson (c.1859–1881)** — Mildred's parents — push the Guernsey/Linson lines back: when and where did the Guernseys immigrate, and from where (England, or Channel Islands directly)?
 - **[2026-10-08]** The maternal line is **Linson**, not Hinson: Asa W. Linson (b. 1814 NY) × Hannah Walker (b. c.1816 NY), in Indiana c.1843–54, then Michigan. Their origin is unknown. The FS pedigree of George W. Guernsey is New England colonial stock (Rehoboth, Connecticut, Washington Co. NY), so the family was American by the colonial period, not 19th-century immigrants.
 - The Guernsey family was in Michigan ≥2 generations by 1880; the immigration point is the thing to find.
+
+## Session 11 [2026-10-08]
+- **1900 US census image read** (Sebastopol town, Door Co., ED 47, image 6, dwelling 56/57): "Mildred G.", relation **"G. Daughter"** (granddaughter of the head, Charles Boyce), b. **Mar 1880, Michigan**, single, father and mother both b. **Michigan**. CONFIRMED (image). The parents' Michigan birthplaces fit John Loami Guernsey (b. Ionia, MI; s10) and Almeda Linson.

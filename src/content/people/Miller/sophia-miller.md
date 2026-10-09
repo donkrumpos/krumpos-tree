@@ -8,9 +8,11 @@ death: ''
 gender: F
 parents: []
 spouses:
-- Thomas Hutcheson (c. 1812-?)
+- Thomas Hutcheson (c. 1806-1854)
 children:
 - Eliza Hutchinson (c. 1830-1884)
+- Mary Hutchinson (c. 1831-1884)
+- Rhoda Hutchinson (c. 1843-1857)
 burial: ''
 status: stub
 tags:
@@ -23,6 +25,8 @@ linked_spouses:
   - 'Hutchinson/thomas-hutcheson'
 linked_children:
   - 'Hutchinson/eliza-hutchinson'
+  - ''
+  - ''
 ---
 # Sophia Miller
 
@@ -37,10 +41,10 @@ Born c. 1802 in **Canada** ("Sophia Hutcherson, 48, Canada" in the 1850 census a
 
 ## Relationships
 - **Parents:** unknown. The William Miller × Margaret Laing link has been withdrawn.
-- **Husband:** Thomas Hutcheson (c. 1812–?, L8RF-177), born in England
+- **Husband:** Thomas Hutcheson (c. 1806/12 – 24 Aug 1854, Lockport, NY; L8RF-177), born in England
 - **Daughter:** Eliza Hutchinson (c. 1829–1884, K814-2YL), **direct line**. Born in Canada. Married (1) John Walker, (2) Martin Peters, (3) Henry Martin.
-- **Daughter (probable):** Mary A. (Hutchinson) Lavassor (c. 1831–1884), born "Niagara West", Canada
-- **Daughter:** Rhoda (c. 1845, Canada), in the 1850 household
+- **Daughter (PROBABLE-strong):** Mary A. (Hutchinson) Lavassor (c. 1831–1884), born "Niagara West", Canada. She married at her father's house in Lockport on 19 Apr 1854 (session 11).
+- **Daughter:** Rhoda (c. 1843/45, Canada; d. Lockport 10 Dec 1857), in the 1850 household
 - **The record most likely to name her father:** the Upper Canada marriage of Thomas Hutch\* × Sophia Miller, c. 1825–32 (Niagara district registers, St. Mark's NOTL, OGS indexes). It has not been found.
 
 ## After 1850 — searches and new family lead [2026-10-08]
@@ -73,3 +77,19 @@ Born c. 1802 in **Canada** ("Sophia Hutcherson, 48, Canada" in the 1850 census a
 - **1854 Hutchinson × Lavassor marriage:** not in the FS indexes under any spelling tried. Michigan or Brown Co.; offline.
 - **Mary (Lavassor) Haines [CONFIRMED, image read 2026-10-08 s6]:** *Weekly Expositor Independent*, 20 Nov 1885, p. 3. She died at Sturgeon Bay on 14 Nov 1885, aged 26, wife of "Tallief" Haines, leaving two girls aged 3 and 1. The notice calls her mother Mary (Hutchinson) Lavassor's death in Jan 1884 "sudden". Source: krumpos-tree `research_notes/Scottish ancestry gap research/followup_2026-10-08_s6.md`.
 - Source: krumpos-tree `research_notes/Scottish ancestry gap research/followup_2026-10-08_s3.md`.
+
+## Session 11 [2026-10-08]
+- **Widowed 24 Aug 1854:** Thomas died at Lockport (Grace Church burial register; *Niagara Mail* obituary). See thomas-hutcheson.md. **Sophia's own death is still unknown.** She has no Grace Church burial under Hutchinson in 1850–60 and no other Lockport church entry. Rhoda, b. c.1843, died at Lockport on 10 Dec 1857 of typhus.
+- **Thomas × Sophia marriage: still NEGATIVE.** Three Douglas A. Robbins compilations in the FS Digital Library were searched by OCR. They are full-text searchable, even though two are "Protected (search only)":
+  - *Early Marriages in the Niagara Peninsula* (1991; FS DL 1009987). Bride index Miller: Amy … Salome, **no Sophia**. The only Hutchinson groom is Jas. Murphet Hutchinson.
+  - *Birth and Baptismal Records from Early Niagara* (FS DL 1012789). **No Hutchinson baptisms**, so no Mary Louisa (1831) and no Rhoda. Its St Mark's coverage seems to begin c.1837.
+  - *Death and Burial Records for Early Niagara* (FS DL 1012790).
+  - Also searched: the Rev. Black marriage register, 1828–42, Gore & Niagara (FS DL 1008208), and Burtch, *The Niagara Mail 1843–1860* (FS DL 879418).
+  - The OGS *St. Mark's baptisms 1792–1856* (FS 734190) is **not** in the Digital Library under any title search tried.
+- **Robbins independently confirms the William × Margery Miller family** (codes RA = Rev. Robert Addison):
+  - Margaret, 15 Jul 1792
+  - **James, 30 Sep 1798** (the OHS printing places him under 1799)
+  - **Sophia and Louisa, 19 Apr 1801**
+  - "Looisa Miller (infant)", buried 25 Sep 1801
+  - There are no other children of William and Margery. The identification with our Sophia stays **PROBABLE**.
+- Source: krumpos-tree `research_notes/Scottish ancestry gap research/followup_2026-10-08_s11.md`.

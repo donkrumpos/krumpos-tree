@@ -87,3 +87,12 @@ Born 10 Jan 1840 in Liberty Township, Crawford County, Ohio (FS date). In 1850, 
 - **Shaffstall** (Schaffstall/Schoffstall) is a Pennsylvania German name, and the Petermans were PA-born too. The German thread in Mildred's ancestry stands, but through a PA German family, not an immigrant one. **Not Scottish.** "Gordon" is only a husband, not an ancestor.
 - "Albert H. Boyce of Hollywood, California", who attended Gerald Martin's 1931 funeral, **was her son** (s9: the 1902 obituary, plus his 1944 Hollywood death record naming Catherine Shafstall). He was Mildred's half-uncle. **CONFIRMED.**
 - **Next:** William and Mary Ann Cady (still unknown after s10); Sally Cobb's parents are now done (s10); Abraham's 1880 Kansas household; the Wisconsin death register image (on microfilm at the Wisconsin Historical Society, or by visiting an FS centre).
+
+## Session 11 [2026-10-08]
+- **1900 US census image read** (ED 47, Sebastopol town, Door Co., image 6 of 34, dwelling 56/57):
+  - Charles Boyce, head, b. May 1840, Delaware, **married 34 years** (so m. 1866, as known)
+  - Catherine, wife, b. Jan 1840, **Ohio**, married 34 years, **mother of 7 children, 6 living**; **father b. Pennsylvania, mother b. Ohio**
+  - Jennie B., Nov 1879; Ruth M., Mar 1883
+  - **Mildred G., "G. Daughter" (granddaughter)**, b. Mar 1880, Michigan, father and mother b. Michigan
+- Father b. PA fits Abraham. **Mother "b. Ohio" is a small tension with Sally Cobb**, who was b. 1813, Clifford Twp, PA, and moved to Ohio in 1823 aged 10. A daughter separated from her mother as an infant could easily have assumed Ohio. Sally stays PROBABLE.
+- "7 children, 6 living" counts her children by both husbands. It doesn't separate the Guernsey children from the Boyce children.

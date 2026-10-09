@@ -1902,18 +1902,23 @@
     "slug": "Hutchinson/thomas-hutcheson",
     "name": "Thomas Hutcheson",
     "surname": "Hutchinson",
-    "birth": "c. 1812",
-    "death": "",
+    "birth": "c. 1806-1812",
+    "death": "1854-08-24",
     "birth_place": "England",
-    "death_place": "",
+    "death_place": "Lockport, Niagara County, New York",
     "generation": 6,
     "gender": "M",
     "branch": "martin",
     "life": [
       {
-        "year": 1812,
+        "year": 1806,
         "place": "England",
         "kind": "born"
+      },
+      {
+        "year": 1854,
+        "place": "Lockport, Niagara County, New York",
+        "kind": "died"
       }
     ],
     "life_source": "birth-death"

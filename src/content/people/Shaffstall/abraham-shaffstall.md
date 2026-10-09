@@ -70,3 +70,20 @@ He is Mildred (Guernsey) Martin's great-grandfather, through his daughter Cather
 - **Elam** (Catherine's brother) served as a private in Co. H, 30th Indiana Infantry (US Civil War Soldiers Index); FS gives his death as 1861/65 in Ohio.
 - **John Adam** was in Sturgeon Bay by 1 Jan 1862, when he married there, and he was still there in the 1870 census with Hannah (b. Norway) and son Albert H. (b. 1865, WI). He later returned to Hudson, Steuben Co., IN, where he died in 1918. He went to Door County **before** his widowed sister Catherine, who married Charles Boyce at Sturgeon Bay in 1866. That is the likeliest reason she went there.
 - Abraham's 1880 Kansas household has not been looked at.
+
+## Session 11 [2026-10-08]
+- **1880 US census, Marion Twp, Lincoln Co., KS** (FS index, coll. 1417683, roll 386):
+  - "A. Shaffstall", 71, farmer, b. Pennsylvania
+  - Susanna, 55, wife, b. Virginia
+  - Calvin, 28, son, b. Ohio
+  - Lucy, 19, dau., b. Indiana
+  - Belle, 15, dau., b. Indiana
+  - grandsons George, 2, and William, 2 months, both b. Kansas
+  - PROBABLE: the age and birthplace fit, and he died in Lincoln Co. in July 1880. Image not viewed.
+- **1860 US census, Salem Twp, Steuben Co., IN** (FS index, coll. 1473181):
+  - Abraham Shaffstall, 51, b. Penna.
+  - Susanna, 35
+  - John, 22; "Eloin" (Elam), 18
+  - Sarah E., 12, b. Ohio; Evine D., 10; Calvin, 8, b. Ohio; Eliza, 7, b. Ohio; David, 5, b. Indiana; Charles, 2
+- **Martha J. (b. c.1845–46): absent in 1860**, as Catherine was absent in 1850. Her parentage and fate are still unknown. Being born before the 1847 remarriage makes her probably Sally Cobb's last child (SPECULATIVE). Sarah E. (c.1848) and the younger children are Susanna's.
+- Source: krumpos-tree `research_notes/Scottish ancestry gap research/followup_2026-10-08_s11.md`.

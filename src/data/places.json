@@ -415,6 +415,13 @@
     "query": "Lincoln County, Kansas",
     "source": "nominatim"
   },
+  "Lockport, Niagara County, New York": {
+    "display_name": "City of Lockport, Niagara County, New York, 14094, United States",
+    "lat": 43.1687104,
+    "lon": -78.696567,
+    "query": "Lockport, Niagara County, New York",
+    "source": "nominatim"
+  },
   "Lorraine, France": {
     "display_name": "Grand Est, France métropolitaine, France",
     "lat": 48.4845157,
