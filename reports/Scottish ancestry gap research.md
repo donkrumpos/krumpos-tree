@@ -24,6 +24,7 @@ The sections below are the original report from sessions 1–2. Later sessions c
   - Robert was naturalized at Lockport in 1862.
   - Sophia is not found in any record after 1854. She probably died there by 1857.
   - No probate was filed for Thomas.
+  - **The Scottish Hutchison family of St Andrew's, Niagara, is excluded:** George Hutchison of Grantham's 1841 will names his children George, David, Jane, Ann and Hannah, with no Thomas. The Thomas × Sophia marriage is still not in any indexed record.
 - **Guernsey side (s7–s10), not covered by the original report:**
   - Mildred Guernsey's mother was **Almeda Linson** (not "Hinson"), daughter of Asa W. Linson and Hannah Walker.
   - Hannah's 1907 certificate names her parents as John Walker and Catherine Finkle. Catherine is probably the Catherine (Finkle) Flagg Alexander who became G. W. Guernsey's second wife.
