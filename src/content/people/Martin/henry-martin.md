@@ -19,7 +19,7 @@ children:
 - John Martin (c. 1857, b. Wisconsin — stepson; John W Walker)
 - Eliza Martin (c. 1860, b. Wisconsin — stepdaughter; Eliza A Walker, later Mrs. Thomas Melville)
 - William Martin (c. 1861, b. Wisconsin — stepson; probably William Peters)
-- Henry Martin Jr. (c. 1865, b. Wisconsin)
+- Henry Lincoln Martin Jr. (1864-1923, b. Sevastopol, Wisconsin; d. Sturgeon Bay 1923-08-12)
 - James Martin (c. 1866, b. Wisconsin)
 - David Martin (c. 1867, b. Wisconsin)
 - Eliphlet Martin (1869-1956, b. Wisconsin)
@@ -242,3 +242,13 @@ Harry Martin, aged 66 years, of the town of Sevastopol died of cancer of the sto
 - **Door Co. card file (FS film 009059106, images 158, 233–234):** death card "Martin, Henry – 65 – Sev. (Aug 15, 1896)" and "son of Henry – Sev. – 'Elias Walker' (Oct 20, 1870)". Family card (see eliza-hutchinson.md, Session 13). **New lead:** Henry Jr's obituary, *Door County News*, Thu 16 Aug 1923 (Door archive; not yet read); Henry Jr's wife "Libbie Stevenson".
 - **Elias Walker, eldest stepson, died 15 Oct 1870** (*Advocate* 20 Oct 1870). The 20 Oct 1870 Sevastopol letter also describes a logging bee and barn dance at "Mr. H. Martin's".
 - Source: krumpos-tree `research_notes/Scottish ancestry gap research/followup_2026-10-09_s13.md`.
+
+## Session 14 [2026-10-09]
+- **Henry Lincoln Martin Jr.'s obituary found and read (CONFIRMED, image):** *Door County Advocate*, Fri 17 Aug 1923, p. 6, "Prominent Farmer Dies — Henry Martin Succumbs To Hemorrhage Sunday At Physicians And Surgeons Hospital".
+  - "Henry Lincoln Martin, prominent Sevastopol farmer for many years, died of cerebral hemmorhage Sunday [12 Aug 1923] shortly after noon at the Physicians and Surgeons hospital." The funeral was held at the Methodist Episcopal church, with the Rev. Dr. Walter J. Patton officiating.
+  - "Mr. Martin was born in Sevastopol in 1864 and has spent all his life here with the exception of 14 years near Marinette and a number of years on a dredge."
+  - He married **Miss Libbie Stevenson in 1896**. She survived him with **eight children**: Mrs. John H. Nelson of Riverton, Wyoming; Irene, Grace, Edna, Julia, Harry and Hallis, at home; and David, of Sturgeon Bay.
+  - **"Life [Eliphalet] Martin and Charles B. Walker, two brothers, also survive."** The half-brother Charles B. Walker was alive in 1923. James, David (the 1896 Card of Thanks signer), John W. Walker, Eliza A. (Mrs. Melville) and William are not named, so they had probably died by 1923.
+  - He was a long-time director of the Door County Fair association.
+  - The card file's "*Door County News*, Thu 16 Aug 1923" is not in the Door archive. The *Advocate* text above is enough.
+- Source: krumpos-tree `research_notes/Scottish ancestry gap research/followup_2026-10-09_s14.md`.

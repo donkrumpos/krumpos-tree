@@ -108,3 +108,8 @@ Born c. 1802 in **Canada** ("Sophia Hutcherson, 48, Canada" in the 1850 census a
 ## Session 13 [2026-10-09]
 - **Indirect support:** Robert Hutchinson of Lockport (b. Mar 1840 Canada, immigrated 1850; PROBABLE son of Thomas and Sophia) gives his **mother's birthplace as Canada** in the 1900 census (father England). That fits a Niagara-born Sophia. Nothing new on Sophia's own death (still NEGATIVE after 1854).
 - Source: krumpos-tree `research_notes/Scottish ancestry gap research/followup_2026-10-09_s13.md`.
+
+## Session 14 [2026-10-09]
+- Robert Hutchinson (PROBABLE son) is now traced to his death at Lockport on 31 Mar 1918 (NYS cert. 15561). His censuses disagree on his mother's birthplace: 1880 says England, 1900 says Canada. His 1891 marriage certificate (cert. 8117) should name his parents, perhaps including Sophia's maiden name (offline order).
+- NYS Death Index 1880–1956: no Sophia Hutchinson in Niagara Co. (consistent with death before 1880).
+- Source: krumpos-tree `research_notes/Scottish ancestry gap research/followup_2026-10-09_s14.md`.

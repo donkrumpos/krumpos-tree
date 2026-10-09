@@ -2,9 +2,9 @@
 
 None of Don Krumpos's Scottish ancestry is proven. The two links the local tree treats as Scottish both fail when checked against the records. **Margaret Laing of Rhynd** is attached to Sophia Miller only through a FamilySearch profile that merges two or three different couples. The real William Miller and Margaret Laing family stayed in Rhynd and Perth, baptising children there from 1804 to 1823. Sophia, by contrast, was **born in Canada c.1802**. **Fred Meikle** is almost certainly *not* a son of William Meikle of Stirlingshire: the 1914 obituary of William's eldest son lists every surviving brother, and Fred is missing even though he lived a few miles away. On the documented evidence, Don's lines through these families stop at Henry Martin (born near Belfast, 1830), Thomas Hutcheson (born in England, c.1812), Sophia Miller (born in Canada, c.1802), and Fred and Mary Meikle (origin unknown). The research did fill several real gaps. Eliza Hutchinson's **first husband was John Walker**, and Martin Peters was her second. The Walker children are her own. Henry Martin's sister was **Sarah Ann Martin**, who married John Kehoe in 1881 and died in 1915. Fred Meikle married about **March 1871**. Several unsupported claims in the tree should now be withdrawn. A Scottish strand is still possible through Sophia Miller's unknown Canadian parents, through Fred Meikle if he proves Scottish after all, or through an Ulster-Scots Martin line. All three are open questions, not findings. The cheapest records that would settle them are listed at the end.
 
-## Update after sessions 3–13 (2026-10-08 to 2026-10-09)
+## Update after sessions 3–14 (2026-10-08 to 2026-10-09)
 
-The sections below are the original report from sessions 1–2. Later sessions changed several of its conclusions. Session-by-session detail is in `research_notes/Scottish ancestry gap research/followup_2026-10-08_s3.md` … `_s11.md`. **The overall verdict stands: no Scottish ancestor is proven.**
+The sections below are the original report from sessions 1–2. Later sessions changed several of its conclusions. Session-by-session detail is in `research_notes/Scottish ancestry gap research/followup_2026-10-08_s3.md` … `followup_2026-10-09_s14.md`. **The overall verdict stands: no Scottish ancestor is proven.**
 
 - **Fred Meikle was Swiss, not German or Scottish (s3–s4).** His surname was originally **Mägli**. His 1878 Door Co. naturalization gives "Frederick Magle", b. Switzerland. His parents were Conrad Mägli (c.1808–1890, Humboldt, Brown Co.) and Elisabeth Schorer (d. 1850, Oberbipp, Bern). He is probably Samuel Mägli, baptised at Oberbipp on 9 Apr 1848. He married Mary Johnson (b. Sweden 1859) in 1874, not c.1871. He drowned on 9 Aug 1924. This supersedes the "German Mielke" hypothesis below; records 1, 2 and 8 in the table at the end are done.
 - **Hutchinson / Miller (s5–s6):**
@@ -33,6 +33,16 @@ The sections below are the original report from sessions 1–2. Later sessions c
   - In April 1863 two of her young children were lost overnight in the Sevastopol woods (an 1875 town history).
   - A Door Co. card file credits Eliza with 11 children. That matches 5 Walker, 1 Peters (William) and 5 Martin children.
   - Martin Peters was a founding trustee of the first Catholic society in Door Co. (1860), alongside (probably) Joseph Lavassor. His "four children" are still unnamed.
+- **Hutchinson at Lockport (s14):**
+  - **Robert Hutchinson died at Lockport on 31 Mar 1918** (NYS Death Index, cert. 15561; obituary in the *Lockport Union-Sun & Journal*, 1 Apr 1918). He was buried in St Patrick's Cemetery.
+  - He is now traced through every census from 1860: an engineer in 1875 and a gas-house worker in 1880.
+  - He married (1) Catharine, b. Ireland, d. 1888; their children were Frank (b. 1867) and Mary, who married Henry W. Carr in 1891. He married (2) **Rebecca Aikens at Lockport on 14 May 1891** (NYS cert. 8117).
+  - His parents are still not named in any record. **The 1891 marriage certificate should name them**, and it is now the best single record to order on this line. It might also give Sophia's maiden name.
+  - Margaret Fify appears in 1865 as "Margret Pheby", 35, b. "Niagara", mother of 4 children. The family is not found after 1870.
+  - **Still nothing Scottish.**
+- **Door County (s14):**
+  - Henry Lincoln Martin Jr. (1864–1923) obituary read (*Advocate*, 17 Aug 1923). His half-brother Charles B. Walker was still living.
+  - An 1863 sheriff's sale names "Joseph Lavassor, Martin Peters and P Ryan, trustees of the First Catholic Society", which confirms that Eliza's second husband and her sister's husband worked together.
 - **Henry Martin's ship (s13):** the FS index for both July 1851 rolls (101–102) was checked exhaustively, and the *E. Buckley* manifest (18 Jul 1851, with an Owen and a Dennis Marten) was read in full. **No Henry Martin.**
 - **Guernsey side (s7–s10), not covered by the original report:**
   - Mildred Guernsey's mother was **Almeda Linson** (not "Hinson"), daughter of Asa W. Linson and Hannah Walker.

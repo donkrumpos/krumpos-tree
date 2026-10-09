@@ -47,7 +47,7 @@ Born c. 1806–1812 in **England** (obituary age 48 in 1854 vs. 38 in the 1850 c
 - **Daughter:** Eliza Hutchinson (c. 1829–1884, K814-2YL), **direct line**. Born in Canada. Married (1) John Walker, (2) Martin Peters, (3) Henry Martin.
 - **Daughter (PROBABLE-strong, now near-certain):** Mary A. (Hutchinson) Lavassor (c. 1831–1884); "Mary Louisa Hutchinson, of Thomas and Sophia", baptised St Mark's, Niagara, 21 Dec 1831. She married Joseph Lavassor on 19 Apr 1854 at the Hutchinson house on Cottage St., Lockport, with "the Bride's father" present (session 11).
 - **Daughter:** Rhoda (c. 1843/45, Canada; d. Lockport 10 Dec 1857, "in her 15th year")
-- **Possible children (SPECULATIVE):** Margaret Hutchinson (m. Joseph Fify, Lockport, 3 Dec 1855) and Robert Hutchinson, who witnessed Mary's 1854 wedding together (session 11)
+- **Probable children (PROBABLE, circumstantial; sessions 12–14):** Margaret Hutchinson (b. Canada c.1830–36; m. Joseph Fify/Pheby/Phoeby, Lockport, 3 Dec 1855; last seen 1870) and Robert Hutchinson (b. Canada c.1838–40; d. Lockport 31 Mar 1918, NYS cert. 15561; m. (1) Catharine, d. 1888, children Frank and Mary (Mrs. Henry W. Carr); (2) Rebecca Aikens, 14 May 1891, cert. 8117). They witnessed Mary's 1854 wedding together (session 11). Kept out of the frontmatter until a record names their parents.
 
 ## Research Notes
 - **Spelling:** the records give Hutcherson, Hutchenson, Hutchison and Hutchinson depending on the clerk. The "Hutcheson" form on FamilySearch carries no weight as evidence of a Scottish origin. ~~Thomas may have been from Northumberland or the Scottish Borders~~: **withdrawn 2026-10-08**. Every record says England, and none gives a county.
@@ -123,3 +123,25 @@ Born c. 1806–1812 in **England** (obituary age 48 in 1854 vs. 38 in the 1850 c
   - **Age conflict:** 1860 gave Joseph 29 and Margaret 24 (index 34); 1870 gives 47 and 49. If Margaret was really born c.1821–26, she would be Thomas's eldest child (Thomas b. c.1806), which is tight but not impossible. Ages are unreliable in both censuses; treat her birth year as c.1821–36.
   - Not found: Phoeby/Phebe/Phifo/Fify variants in 1865, 1875, 1880 or later (index). The family may have died or moved after 1870.
 - Source: krumpos-tree `research_notes/Scottish ancestry gap research/followup_2026-10-09_s13.md`.
+
+## Session 14 [2026-10-09]
+- **Robert Hutchinson's life is now continuous from 1860 to his death in 1918 (still PROBABLE son of Thomas and Sophia).** Each census below was checked against the next; there is only one Robert Hutchinson of the right age at Lockport at each date. The other Lockport man, Robert Hutcheson b. c.1835 England, was a boarder in 1880 and is probably the Robert B. Hutcheson who d. Lockport 29 Jul 1909.
+  - **1865:** not found (index).
+  - **1875 NY state census, Lockport Ward 4, p. 19, line 27 (image read; FS coll. 1918735, film 1577677):** Robert Hutchinson, 28 [sic], **b. Canada**, **engineer**, framed house worth $600; Catherine, 27, b. Ireland; Francis, 8, and Mary, 6, both b. Niagara [Co.]. The ages of both parents are about 10 years low against 1880.
+  - **1880 US census, Lockport, ED 203, sheet 569B, line 67 (image read; coll. 1417683):** "Hutchison, Robert", 39, **works in gas house**, b. **N.Y.**, **father b. Eng., mother b. Eng.**; Catharine, 40, b. Ireland (parents Ireland); Frank, 13; Mary, 11. This is the only census to give his birthplace as New York and his mother's as England.
+  - **Catharine d. 25 Feb 1888** and is buried in St Patrick's Cemetery, Lockport (Find a Grave, b. 1836). The NYS Death Index has Catherine Hutchinson, Lockport, 21 Feb 1888, cert. **6500** (PROBABLE same woman; the dates differ).
+  - **Second marriage, 14 May 1891, Lockport, NYS cert. 8117:** Robert Hutchinson × **Rebecca Aikens** (NYS Marriage Index 1891, Reclaim the Records scans on archive.org, pp. 389 and 6). That date gives "married 9 years" in June 1900.
+  - **Daughter Mary × Henry W. Carr, 12 May 1891, Lockport, cert. 7957** (same index, pp. 389 and 126), two days before Robert's own wedding.
+  - **1892, 1900 and 1910:** as in session 13 (1900: b. Mar 1840 Canada, immigrated 1850, naturalized; father b. England, mother b. Canada).
+  - **Rebecca d. 1 Mar 1911, Lockport, cert. 13648.** She was buried in Corwin Cemetery, Newfane (Find a Grave).
+  - **Robert d. 31 Mar 1918, at home, 153 Saxton St., Lockport; NYS cert. 15561** (NYS Death Index 1880–1956, Reclaim the Records CSV on archive.org). He was buried in **St Patrick's (Catholic) Cemetery**, Lockport.
+    - Obituary, *Lockport Union-Sun & Journal*, 1 Apr 1918 (clipping on Find a Grave memorial 256517598; read): "Robert Hutchinson died on Sunday evening March 31st, at the home 153 Saxton street. He is survived by one daughter and one son, Mrs. Mary Carr and Frank Hutchinson of Lockport." Funeral from St Patrick's church. The clipping names no parents.
+  - **Fit with Thomas's family:** the dates (Canada-born c.1838–41; came to Lockport c.1850; naturalized 1862) are unchanged. The censuses disagree on his parents' birthplaces: 1880 says England/England, 1900 says England/Canada. The Catholic burial was probably through his Irish wife; Thomas's family was Episcopalian at Grace Church.
+  - **Next (offline, ordered):** the 1918 death certificate (cert. 15561) and the 1891 marriage certificate (cert. 8117). New York marriage certificates from 1880 on ask for both sets of parents' names, so cert. 8117 is the better test. Order from the NYS Dept. of Health genealogy unit or the Lockport city clerk.
+- **The Fifys in 1865 = "Pheby" (image read):** 1865 NY state census, Lockport E.D. 2, p. 33, lines 35–38, enumerated 18 Jun 1865 (coll. 1491284). Joseph Pheby, 33, b. England, married once, probably a boatman on the Erie Canal (the occupation is written on the line between his and the line above). **Margaret Pheby, 35, wife, b. "Niagara", mother of 4 children**, married once. Harriet, 7, and William, 5, both b. Niagara.
+  - Margaret's ages are now 24 (1860), 35 (1865) and 49 (1870). The 1865 age gives **b. c.1830**, which would make her about the same age as Eliza (b. Aug 1830) and Mary (bapt. Dec 1831). Still unresolved.
+  - "Mother of 4 children" while only 2 were at home means two children died or lived elsewhere by 1865.
+  - The "Niagara" birthplace sits in the county-of-birth column. It may mean Niagara Co., NY, or the town of Niagara, Upper Canada; 1860 and 1870 both say Canada.
+  - **After 1870: NEGATIVE.** The NYS Death Index (1880–1956) has no Phoeby, Pheby, Fify, Fyfe or similar Joseph, Margaret, Harriet or William in Niagara Co. or anywhere upstate. NY deaths before 1880 are not indexed statewide.
+- **Sophia:** NYS Death Index 1880–1956 has no Sophia Hutchinson in Niagara Co. (consistent with death before 1880).
+- Source: krumpos-tree `research_notes/Scottish ancestry gap research/followup_2026-10-09_s14.md`.
