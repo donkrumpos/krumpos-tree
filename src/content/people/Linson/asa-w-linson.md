@@ -52,7 +52,7 @@ Born February 1814 in New York. **His father was born in England and his mother 
 - **His children's death certificates** (Archives of Michigan, read 2026-10-08) disagree about his birthplace:
   - Esther Ann Guernsey (1919) gives England (informant her son Geo. Guernsey).
   - Dorcas L. Wiggins (1916) gives England.
-  - Armina Dodge (1920) gives N.Y.
+  - Armina Dodge (1920) gives N.Y. Her mother's maiden name on that certificate (re-read s9) is most likely "Flagg", i.e. grandmother Catherine (Finkle) Flagg Guernsey's married name, given by a non-relative informant. SPECULATIVE; see hannah-walker.md.
   - Catherine Randall (1902) gives Indiana [wrong].
   
   The two "England" answers probably repeat what the family knew of *his* father, who was English-born per the 1880 census.
