@@ -2,7 +2,7 @@
 
 None of Don Krumpos's Scottish ancestry is proven. The two links the local tree treats as Scottish both fail when checked against the records. **Margaret Laing of Rhynd** is attached to Sophia Miller only through a FamilySearch profile that merges two or three different couples. The real William Miller and Margaret Laing family stayed in Rhynd and Perth, baptising children there from 1804 to 1823. Sophia, by contrast, was **born in Canada c.1802**. **Fred Meikle** is almost certainly *not* a son of William Meikle of Stirlingshire: the 1914 obituary of William's eldest son lists every surviving brother, and Fred is missing even though he lived a few miles away. On the documented evidence, Don's lines through these families stop at Henry Martin (born near Belfast, 1830), Thomas Hutcheson (born in England, c.1812), Sophia Miller (born in Canada, c.1802), and Fred and Mary Meikle (origin unknown). The research did fill several real gaps. Eliza Hutchinson's **first husband was John Walker**, and Martin Peters was her second. The Walker children are her own. Henry Martin's sister was **Sarah Ann Martin**, who married John Kehoe in 1881 and died in 1915. Fred Meikle married about **March 1871**. Several unsupported claims in the tree should now be withdrawn. A Scottish strand is still possible through Sophia Miller's unknown Canadian parents, through Fred Meikle if he proves Scottish after all, or through an Ulster-Scots Martin line. All three are open questions, not findings. The cheapest records that would settle them are listed at the end.
 
-## Update after sessions 3–12 (2026-10-08)
+## Update after sessions 3–13 (2026-10-08 to 2026-10-09)
 
 The sections below are the original report from sessions 1–2. Later sessions changed several of its conclusions. Session-by-session detail is in `research_notes/Scottish ancestry gap research/followup_2026-10-08_s3.md` … `_s11.md`. **The overall verdict stands: no Scottish ancestor is proven.**
 
@@ -25,6 +25,15 @@ The sections below are the original report from sessions 1–2. Later sessions c
   - Sophia is not found in any record after 1854. She probably died there by 1857.
   - No probate was filed for Thomas.
   - **The Scottish Hutchison family of St Andrew's, Niagara, is excluded:** George Hutchison of Grantham's 1841 will names his children George, David, Jane, Ann and Hannah, with no Thomas. The Thomas × Sophia marriage is still not in any indexed record.
+- **Hutchinson at Lockport (s13):**
+  - **Robert Hutchinson lived on at Lockport until at least 1910.** In the 1900 census (image read) he is b. March 1840 in Canada, came to the US in 1850, was naturalized, and worked as a day labourer. He gives his **father's birthplace as England and his mother's as Canada**, which is exactly Thomas and Sophia. His parents are still not named in any record. His death certificate (after 1910) is the record most likely to name them.
+  - Margaret and Joseph Fify appear in 1870 as **"Phoeby"** (Lockport Ward 2): Joseph works in a stave mill, with Harriet 12 and William 10. They are not found after 1870.
+- **Door County (s13):**
+  - Elias Walker, Eliza's eldest son, died on 15 Oct 1870 of heart disease, at about 17 (*Door County Advocate*, 20 Oct 1870).
+  - In April 1863 two of her young children were lost overnight in the Sevastopol woods (an 1875 town history).
+  - A Door Co. card file credits Eliza with 11 children. That matches 5 Walker, 1 Peters (William) and 5 Martin children.
+  - Martin Peters was a founding trustee of the first Catholic society in Door Co. (1860), alongside (probably) Joseph Lavassor. His "four children" are still unnamed.
+- **Henry Martin's ship (s13):** the FS index for both July 1851 rolls (101–102) was checked exhaustively, and the *E. Buckley* manifest (18 Jul 1851, with an Owen and a Dennis Marten) was read in full. **No Henry Martin.**
 - **Guernsey side (s7–s10), not covered by the original report:**
   - Mildred Guernsey's mother was **Almeda Linson** (not "Hinson"), daughter of Asa W. Linson and Hannah Walker.
   - Hannah's 1907 certificate names her parents as John Walker and Catherine Finkle. Catherine is probably the Catherine (Finkle) Flagg Alexander who became G. W. Guernsey's second wife.

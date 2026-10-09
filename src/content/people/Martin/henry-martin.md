@@ -14,7 +14,7 @@ parents:
 spouses:
 - Eliza Hutchinson (1829-1884, m. 1862-11-12 — widow of John Walker and Martin Peters; "Mrs. Eliza Peters" at the marriage)
 children:
-- Elias Martin (c. 1853, b. New York — stepson; born Walker)
+- Elias Martin (c. 1853, b. New York — stepson; born Walker; d. Sevastopol 1870-10-15)
 - Charles Martin (c. 1856, b. Wisconsin — stepson; born Walker)
 - John Martin (c. 1857, b. Wisconsin — stepson; John W Walker)
 - Eliza Martin (c. 1860, b. Wisconsin — stepdaughter; Eliza A Walker, later Mrs. Thomas Melville)
@@ -233,3 +233,12 @@ Harry Martin, aged 66 years, of the town of Sevastopol died of cancer of the sto
 - **1862 marriage register image:** not on FS. The persona XRLD-HZ6 has no image link, and FS full text of Door Co. returns only compiled index cards. **NEGATIVE online**; it needs a WHS order.
 - **Mary Lavassor:** her 1854 marriage was found at Grace Church, Lockport, NY (19 Apr 1854), at her father Thomas Hutchinson's house. So the Lavassors, and through them Eliza's 1862 wedding venue, connect back to the Lockport Hutchinsons.
 - Source: krumpos-tree `research_notes/Scottish ancestry gap research/followup_2026-10-08_s11.md`.
+
+## Session 13 [2026-10-09]
+- **July 1851 arrival, M237 rolls 101 (1–16 Jul 1851; FHL film 175457) and 102 (17 Jul–4 Aug 1851; film 175458): NEGATIVE in the index, exhaustively.** Mapping: roll N = FHL film 175356+N (Marmion roll 103 = 175459; A H Schultz roll 108 = 175464). The FS index can be ranked by film (`q.filmNumber`), so every indexed Henry/Harry/Hy aged 15–27 on both rolls, and every Martin/Marten/Martyn/Mertin/Morton surname, was listed:
+  - Roll 101: only "Henry Martin, 8, England" (*Queen of the West*). "Henry Mafin, 20, Ireland" (*Empire State*, image 314) was checked on the image: it reads **Magin/Mafin**, not Martin.
+  - Roll 102: no Henry Martin. The ***E. Buckley*** (master David Brown, from Liverpool, sworn 18 Jul 1851; images 34–42, ~380 passengers) carries **"Owen Marten, 20" and "Dennis Marten, 15"**. The whole manifest was read on the images: **no Henry**.
+  - So Henry is either unindexed or garbled beyond both name parts on these rolls, or "July 1851" was approximate (e.g., the Marmion, Aug 1851), or he landed elsewhere (e.g., Quebec) and entered New York overland. A blind read of the other ~1,270 images was not done.
+- **Door Co. card file (FS film 009059106, images 158, 233–234):** death card "Martin, Henry – 65 – Sev. (Aug 15, 1896)" and "son of Henry – Sev. – 'Elias Walker' (Oct 20, 1870)". Family card (see eliza-hutchinson.md, Session 13). **New lead:** Henry Jr's obituary, *Door County News*, Thu 16 Aug 1923 (Door archive; not yet read); Henry Jr's wife "Libbie Stevenson".
+- **Elias Walker, eldest stepson, died 15 Oct 1870** (*Advocate* 20 Oct 1870). The 20 Oct 1870 Sevastopol letter also describes a logging bee and barn dance at "Mr. H. Martin's".
+- Source: krumpos-tree `research_notes/Scottish ancestry gap research/followup_2026-10-09_s13.md`.

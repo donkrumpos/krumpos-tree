@@ -104,3 +104,7 @@ Born c. 1802 in **Canada** ("Sophia Hutcherson, 48, Canada" in the 1850 census a
 - **Inference:** probably she died at Lockport or Niagara between 1854 and 1857, before Rhoda, then 14, was living at Mrs. Delano's. Or she remarried under an unknown name. Unproven.
 - **Probable further children (session 12, PROBABLE circumstantial):** Robert (b. c.1838, Canada) and Margaret (b. Canada; m. Joseph Fify 1855). See thomas-hutcheson.md.
 - Source: krumpos-tree `research_notes/Scottish ancestry gap research/followup_2026-10-08_s12.md`.
+
+## Session 13 [2026-10-09]
+- **Indirect support:** Robert Hutchinson of Lockport (b. Mar 1840 Canada, immigrated 1850; PROBABLE son of Thomas and Sophia) gives his **mother's birthplace as Canada** in the 1900 census (father England). That fits a Niagara-born Sophia. Nothing new on Sophia's own death (still NEGATIVE after 1854).
+- Source: krumpos-tree `research_notes/Scottish ancestry gap research/followup_2026-10-09_s13.md`.

@@ -87,3 +87,6 @@ He is Mildred (Guernsey) Martin's great-grandfather, through his daughter Cather
   - Sarah E., 12, b. Ohio; Evine D., 10; Calvin, 8, b. Ohio; Eliza, 7, b. Ohio; David, 5, b. Indiana; Charles, 2
 - **Martha J. (b. c.1845–46): absent in 1860**, as Catherine was absent in 1850. Her parentage and fate are still unknown. Being born before the 1847 remarriage makes her probably Sally Cobb's last child (SPECULATIVE). Sarah E. (c.1848) and the younger children are Susanna's.
 - Source: krumpos-tree `research_notes/Scottish ancestry gap research/followup_2026-10-08_s11.md`.
+
+## Session 13 [2026-10-09]
+- **Martha J. (b. c.1846): still NEGATIVE.** The FS index has no Martha Shaffstall/Schoffstall/Shoffstall/Schaffstall/Shafstall of the right age after 1850 (only 20th-century Crawford Co. and Dauphin Co. Marthas). Sherwood, *Descendants of Asa Cobb* (FS DL 131993, p. 30), lists no children for Sally (Cobb) Shaffstall; it says only that she married Abraham on 5 Jun 1834, died 4 Aug 1846 and "is buried in Bucyrus". She probably married before 1860; her married name is unknown.
