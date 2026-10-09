@@ -93,3 +93,14 @@ Born c. 1802 in **Canada** ("Sophia Hutcherson, 48, Canada" in the 1850 census a
   - "Looisa Miller (infant)", buried 25 Sep 1801
   - There are no other children of William and Margery. The identification with our Sophia stays **PROBABLE**.
 - Source: krumpos-tree `research_notes/Scottish ancestry gap research/followup_2026-10-08_s11.md`.
+
+## Session 12 [2026-10-08]
+- **Still no trace after 1854. NEGATIVE across every index tried:**
+  - 1855 NY state census (coll. 1937366): no Sophia Hutch\* at Lockport or anywhere in Niagara Co. No Lockport Rhoda (b. c.1841–46) either, so the family may have been missed altogether. The only Lockport Sophias born 1795–1812 are Gibson, Reynale, Tucker and Price. Sophia Price, 58, a head living alone, is the widow of Isaac Price Jr (m. 1827, d. 1840; Find a Grave 60933300, Cold Springs, 1799–1882), so she is a different woman.
+  - US 1860 and 1870, NY 1855, and Canada 1861 (coll. 1460164), 1871, 1881, 1891 and 1901: no Sophia Hutchinson, Hutchison, Hutcheson or Hutcherson b. c.1795–1812 in Canada.
+  - FS Full-Text, Lockport and Niagara Co. NY: no "Sophia Hutchinson" or "Sophia Hutchison" (phrase search). Lockport's full-text corpus is essentially the Grace Church register.
+  - Find a Grave: Sophia Hutchinson or Hutchison, d. 1850–90 (all ±20 years). Those born 1793–1808 with known cemeteries are in CT, VT, OH, England and Scotland. Cold Springs Cemetery has none.
+  - The 1860 Peters and Lavassor households in Door Co. do not include her (s3–s4).
+- **Inference:** probably she died at Lockport or Niagara between 1854 and 1857, before Rhoda, then 14, was living at Mrs. Delano's. Or she remarried under an unknown name. Unproven.
+- **Probable further children (session 12, PROBABLE circumstantial):** Robert (b. c.1838, Canada) and Margaret (b. Canada; m. Joseph Fify 1855). See thomas-hutcheson.md.
+- Source: krumpos-tree `research_notes/Scottish ancestry gap research/followup_2026-10-08_s12.md`.

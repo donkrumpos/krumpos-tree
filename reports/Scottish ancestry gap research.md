@@ -2,7 +2,7 @@
 
 None of Don Krumpos's Scottish ancestry is proven. The two links the local tree treats as Scottish both fail when checked against the records. **Margaret Laing of Rhynd** is attached to Sophia Miller only through a FamilySearch profile that merges two or three different couples. The real William Miller and Margaret Laing family stayed in Rhynd and Perth, baptising children there from 1804 to 1823. Sophia, by contrast, was **born in Canada c.1802**. **Fred Meikle** is almost certainly *not* a son of William Meikle of Stirlingshire: the 1914 obituary of William's eldest son lists every surviving brother, and Fred is missing even though he lived a few miles away. On the documented evidence, Don's lines through these families stop at Henry Martin (born near Belfast, 1830), Thomas Hutcheson (born in England, c.1812), Sophia Miller (born in Canada, c.1802), and Fred and Mary Meikle (origin unknown). The research did fill several real gaps. Eliza Hutchinson's **first husband was John Walker**, and Martin Peters was her second. The Walker children are her own. Henry Martin's sister was **Sarah Ann Martin**, who married John Kehoe in 1881 and died in 1915. Fred Meikle married about **March 1871**. Several unsupported claims in the tree should now be withdrawn. A Scottish strand is still possible through Sophia Miller's unknown Canadian parents, through Fred Meikle if he proves Scottish after all, or through an Ulster-Scots Martin line. All three are open questions, not findings. The cheapest records that would settle them are listed at the end.
 
-## Update after sessions 3–11 (2026-10-08)
+## Update after sessions 3–12 (2026-10-08)
 
 The sections below are the original report from sessions 1–2. Later sessions changed several of its conclusions. Session-by-session detail is in `research_notes/Scottish ancestry gap research/followup_2026-10-08_s3.md` … `_s11.md`. **The overall verdict stands: no Scottish ancestor is proven.**
 
@@ -19,6 +19,11 @@ The sections below are the original report from sessions 1–2. Later sessions c
   - Three Robbins compilations of early Niagara marriages, baptisms and burials (FS Digital Library) have no Thomas × Sophia marriage.
   - Robbins confirms the 1792–1801 children of William and Margery Miller.
   - **Still nothing Scottish on this line.** A Berwickshire Hutchison family buried at St Andrew's, Niagara, is unlinked.
+- **Hutchinson at Lockport (s12):**
+  - **Robert (b. c.1838) and Margaret (m. Joseph Fify 1855) Hutchinson** were both born in Canada and both connected to Hon. Elias Ransom's Lockport household. Robert is in it in 1860; Ransom stood as "parent or friend" at Margaret's wedding. They are now **probable** children of Thomas and Sophia, though no record names their parents.
+  - Robert was naturalized at Lockport in 1862.
+  - Sophia is not found in any record after 1854. She probably died there by 1857.
+  - No probate was filed for Thomas.
 - **Guernsey side (s7–s10), not covered by the original report:**
   - Mildred Guernsey's mother was **Almeda Linson** (not "Hinson"), daughter of Asa W. Linson and Hannah Walker.
   - Hannah's 1907 certificate names her parents as John Walker and Catherine Finkle. Catherine is probably the Catherine (Finkle) Flagg Alexander who became G. W. Guernsey's second wife.
