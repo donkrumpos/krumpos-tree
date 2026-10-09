@@ -145,3 +145,13 @@ Born c. 1806–1812 in **England** (obituary age 48 in 1854 vs. 38 in the 1850 c
   - **After 1870: NEGATIVE.** The NYS Death Index (1880–1956) has no Phoeby, Pheby, Fify, Fyfe or similar Joseph, Margaret, Harriet or William in Niagara Co. or anywhere upstate. NY deaths before 1880 are not indexed statewide.
 - **Sophia:** NYS Death Index 1880–1956 has no Sophia Hutchinson in Niagara Co. (consistent with death before 1880).
 - Source: krumpos-tree `research_notes/Scottish ancestry gap research/followup_2026-10-09_s14.md`.
+
+## Session 15 [2026-10-09]
+- **Robert's children (Robert = PROBABLE son of Thomas and Sophia; unchanged):**
+  - **Frank Hutchinson, b. 18 May 1867, St. Catharines, Ontario; d. 1942, Lockport.** Buried in **Cold Springs Cemetery**, Lockport, Section F, Rose Path, "next to Mary Carr" (Find a Grave 146524167; stone photo; birthplace as given on the memorial; PROBABLE). So Robert and Catharine were in St. Catharines, Lincoln Co., in 1867. Thomas was buried in the same cemetery in 1854.
+  - **Mary K. (Hutchinson) Carr, 1870 – July 1949**, Cold Springs, Section F (Find a Grave 146523107): "Widow of Henry Carr. Daughter of Robert and Catherine Hutchinson." Her obituary is in the *Lockport Union-Sun & Journal*, 28 Jul 1949; buried 30 Jul 1949. **Henry W. Carr d. Lockport 22 Feb 1896** (NYS cert. 7418).
+  - The children's censuses agree with Robert's 1900 entry: father b. Canada, mother b. Ireland (Frank 1910; Mary Carr 1920). In 1900 Frank's parents are given as "Canada Eng" (English Canada). None of these records names Thomas or Sophia.
+  - Frank married **Mary A. Irving** c.1897 (b. c.1864 Canada; father b. Scotland, mother b. Ireland; her Irving siblings boarded with them in 1900). That makes the Irvings a Scottish **in-law** family, not Don's ancestry. They had no children.
+- Rebecca (Aikens) Hutchinson (1900: b. Nov 1859 NY, parents b. NY, 1 child) is not identified further. "Aikens" is probably a first married name.
+- **Next (offline):** cert. 8117 (still first); the Union-Sun obituaries of Frank (1942) and Mary Carr (28 Jul 1949); the St. Catharines Catholic baptism of Francis Hutchinson, May 1867 (St. Catherine of Alexandria); the Cold Springs lot books (Section F).
+- Source: krumpos-tree `research_notes/Scottish ancestry gap research/followup_2026-10-09_s15.md`.
