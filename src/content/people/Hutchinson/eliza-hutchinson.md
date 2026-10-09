@@ -164,3 +164,7 @@ The children enumerated as "Peters" in 1860 and as "Martin" in 1870 (Elias, Mary
 - **Mary Jane Walker after 1861: NEGATIVE.** FS indexes have no Door/WI marriage of a Mary (Jane) Walker or Peters with father John Walker or mother Eliza, and nothing usable in the 1870 census (date filters are ignored, so a broad sweep was not conclusive). "Mrs. Chas. Walker" of the 1896 Card of Thanks is Charles's wife (née Elizabeth Schumacher, m. 1880), not Mary Jane. Not in Henry Jr.'s 1923 obituary.
 - **Sister Margaret (Fify/Pheby):** found in the 1865 NY census as "Margret Pheby", 35, b. "Niagara", mother of 4 children. **Brother Robert:** d. Lockport 31 Mar 1918. Both are in thomas-hutcheson.md, Session 14.
 - Source: krumpos-tree `research_notes/Scottish ancestry gap research/followup_2026-10-09_s14.md`.
+
+## Session 17 [2026-10-09]
+- **Brother Robert Hutchinson (c.1838–1918) CONFIRMED.** His Lockport Catholic marriage of 6 July 1861 names his parents as Thomas Hutchison and Sophia Miller, the same parents as in Eliza's own 1862 marriage. His wife was Catharine Rutledge (Irish). Details in thomas-hutcheson.md.
+- Source: krumpos-tree `research_notes/Scottish ancestry gap research/followup_2026-10-09_s17.md`.

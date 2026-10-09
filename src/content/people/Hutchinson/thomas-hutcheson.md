@@ -18,6 +18,7 @@ children:
 - Eliza Hutchinson (c. 1830-1884)
 - Mary Hutchinson (c. 1831-1884)
 - Rhoda Hutchinson (c. 1843-1857)
+- Robert Hutchinson (c. 1838-1918)
 burial: 'Cold Spring Cemetery, Lockport, Niagara County, New York'
 status: stub
 tags:
@@ -30,6 +31,7 @@ linked_spouses:
   - 'Miller/sophia-miller'
 linked_children:
   - 'Hutchinson/eliza-hutchinson'
+  - ''
   - ''
   - ''
 ---
@@ -164,3 +166,12 @@ Born c. 1806–1812 in **England** (obituary age 48 in 1854 vs. 38 in the 1850 c
 - So the family was at Lockport in 1865 and 1870, and the 1870 census gives Frank b. NY. **Find a Grave's "b. St. Catharines 1867" is now SPECULATIVE.**
 - NEGATIVE: Robert, Catharine and Frank in the 1871 Canada census (all Ontario); a Robert × Catharine/Kate marriage 1855–67 in Lincoln, Welland or Niagara (the Ernestown Robert × Catherine Dunbar, 1863, is a different man).
 - Source: krumpos-tree `research_notes/Scottish ancestry gap research/followup_2026-10-09_s16.md`.
+
+## Session 17 [2026-10-09]
+- **Robert Hutchinson is CONFIRMED as a son of Thomas and Sophia** (added to `children`). His Catholic marriage, Lockport, **6 July 1861** (St. John the Baptist / St. Patrick's register, FS DGS 7900179, image 748; image read): *"Robertum filium Thomae Hutchison et Sophiae Miller; et Catharinam filiam Joannis Rutlege et Catharinae McMahon."* Dispensation from the Chancery for disparity of cult (Robert was not a Catholic). Witnesses John Smith and Margaret Cunningham; Fr. G. Gleeson.
+  - This is the first record to name Robert's parents, and the **second independent record of Sophia's maiden name, Miller** (the first is Eliza's 1862 Door Co. marriage).
+  - **Kate = Catharine RUTLEDGE**, daughter of John Rutledge and Catharine McMahon (Ireland). In 1860 a Kate Rutledge, 25, b. Ireland, was in Titus S. Butler's household, Town of Lockport (index; PROBABLE).
+- **Unbaptized infant of Robert Hutch[inson] and Catharine Rutledge, buried 24 Apr 1862** (St. Patrick's burial register, DGS 7900308, image 568; image read). This is probably one of Kate's "2 children" of the 1865 census.
+- NEGATIVE: St. Patrick's baptisms July 1861–mid-1865 and 1866–70 (no Frank, no Mary; pages 215–216, Oct–Nov 1867, are missing from the film); the St. John's typed baptism abstract Nov 1864–June 1870; St. Patrick's burials Aug 1861–mid-1865 apart from the 1862 infant.
+- Cert. 8117 (1891 marriage) is now only a cross-check.
+- Source: krumpos-tree `research_notes/Scottish ancestry gap research/followup_2026-10-09_s17.md`.

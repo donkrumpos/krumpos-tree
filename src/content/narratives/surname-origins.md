@@ -139,7 +139,7 @@ Settlement areas: Oconto County, Shawano County (Leopolis) — Wisconsin.
 | **Hutcheson / Hutchinson** | England (specific county unknown) | Thomas Hutcheson (b. England c. 1812; at **Niagara, Upper Canada, in 1831**; Lockport, NY 1850). Married Sophia Miller in Upper Canada c. 1829. Daughters Eliza (c. 1829) and Mary ("Mary Louisa, of Thomas and Sophia", baptised St Mark's, Niagara, 21 Dec 1831) were born in Canada. Clerks spelled it Hutcherson, Hutchison and Hutchinson, so the spelling is no evidence of a Scottish origin. |
 
 **Moved out of this table (2026-10-08):**
-- **Miller**: Sophia Miller was born in **Canada** c. 1802 and her parents are unknown. The "William Miller of Northumberland × Margaret Laing" link was detached because it rested on a merged FamilySearch profile. See the Canada section below.
+- **Miller**: Sophia Miller was born in **Canada** c. 1802 and her parents are unknown. Her maiden name is in two independent records: her daughter Eliza's 1862 marriage and her son Robert's 1861 Lockport marriage (session 17). The "William Miller of Northumberland × Margaret Laing" link was detached because it rested on a merged FamilySearch profile. See the Canada section below.
 - **Storm**: Nancy Storm is listed under Irish. Her name comes only from the 1862 marriage index, and her "County Down" origin is unsourced.
 
 The Kent cluster (Kendall, Forstall, Lambert) all came from **Wingham and its surrounding parishes** — a single community that reassembled in Minnesota.

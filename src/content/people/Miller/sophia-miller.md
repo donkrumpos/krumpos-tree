@@ -13,6 +13,7 @@ children:
 - Eliza Hutchinson (c. 1830-1884)
 - Mary Hutchinson (c. 1831-1884)
 - Rhoda Hutchinson (c. 1843-1857)
+- Robert Hutchinson (c. 1838-1918)
 burial: ''
 status: stub
 tags:
@@ -27,6 +28,7 @@ linked_children:
   - 'Hutchinson/eliza-hutchinson'
   - ''
   - ''
+  - ''
 ---
 # Sophia Miller
 
@@ -35,7 +37,7 @@ linked_children:
 **FamilySearch ID:** MCXT-PV1
 
 ## Summary
-Born c. 1802 in **Canada** ("Sophia Hutcherson, 48, Canada" in the 1850 census at Lockport, Niagara Co., NY, FS MCBJ-5WR; also implied by Eliza's 1880 census report, which gives her mother as born in Canada). Her maiden name comes from only one record: her daughter's 1862 Door County marriage, which names "Thomas Hutchison and Sophia Miller" (FS XRLD-HZ6). Married Thomas Hutcheson (c. 1812, England), probably c. 1829 in Upper Canada; no marriage record has been found. Mother of Eliza (c. 1829), probably Mary (c. 1831), and Rhoda (c. 1845). Don's **4x great-grandmother**.
+Born c. 1802 in **Canada** ("Sophia Hutcherson, 48, Canada" in the 1850 census at Lockport, Niagara Co., NY, FS MCBJ-5WR; also implied by Eliza's 1880 census report, which gives her mother as born in Canada). Her maiden name comes from two independent records: her daughter's 1862 Door County marriage, which names "Thomas Hutchison and Sophia Miller" (FS XRLD-HZ6), and her son Robert's 1861 Catholic marriage at Lockport, which names "Thomae Hutchison et Sophiae Miller" (session 17). Married Thomas Hutcheson (c. 1812, England), probably c. 1829 in Upper Canada; no marriage record has been found. Mother of Eliza (c. 1829), probably Mary (c. 1831), and Rhoda (c. 1845). Don's **4x great-grandmother**.
 
 **Parents: unknown.** The earlier link to William Miller and Margaret Laing (Rhynd, Perthshire) was **detached 2026-10-08**. It rested on a merged FamilySearch profile (KH36-ZYD / LZF4-CX5) whose Scottish family stayed in Rhynd and Perth, and no record ties Sophia to that family. The FS tree's "1805 England" birth contradicts the census. See margaret-laing.md and krumpos-tree `reports/Scottish ancestry gap research.md`. Best guess (SPECULATIVE): a Niagara-district family in Upper Canada, whether Loyalist, late-Loyalist or British settler. Niagara Millers are commonly Pennsylvania-German or Loyalist rather than Scottish.
 
@@ -113,3 +115,8 @@ Born c. 1802 in **Canada** ("Sophia Hutcherson, 48, Canada" in the 1850 census a
 - Robert Hutchinson (PROBABLE son) is now traced to his death at Lockport on 31 Mar 1918 (NYS cert. 15561). His censuses disagree on his mother's birthplace: 1880 says England, 1900 says Canada. His 1891 marriage certificate (cert. 8117) should name his parents, perhaps including Sophia's maiden name (offline order).
 - NYS Death Index 1880–1956: no Sophia Hutchinson in Niagara Co. (consistent with death before 1880).
 - Source: krumpos-tree `research_notes/Scottish ancestry gap research/followup_2026-10-09_s14.md`.
+
+## Session 17 [2026-10-09]
+- **Maiden name Miller CONFIRMED by a second record.** Her son Robert's marriage, Lockport, 6 July 1861 (Catholic register of St. John the Baptist / St. Patrick's, FS DGS 7900179, image 748; image read) names him *"filium Thomae Hutchison et Sophiae Miller"*. Robert (c.1838–1918) is therefore CONFIRMED as her son and has been added to `children`.
+- This does not yet prove that she is the St Mark's 1801 "Sophia Miller, of William and Margery", but that identification now rests on a confirmed surname. William and Margery Miller's origin remains the open question for any Scottish or Loyalist ancestry on this line.
+- Source: krumpos-tree `research_notes/Scottish ancestry gap research/followup_2026-10-09_s17.md`.
