@@ -144,11 +144,25 @@
     "query": "Cleveland, Le Sueur County, Minnesota",
     "source": "nominatim"
   },
+  "Clifford Township, Susquehanna County, Pennsylvania": {
+    "display_name": "Clifford Township, Susquehanna County, Pennsylvania, 18413, United States",
+    "lat": 41.6489694,
+    "lon": -75.5987979,
+    "query": "Clifford Township, Susquehanna County, Pennsylvania",
+    "source": "nominatim"
+  },
   "Cordova Township, Le Sueur County, Minnesota": {
     "display_name": "Cordova Township, Le Sueur County, Minnesota, United States",
     "lat": 44.3263223,
     "lon": -93.7072944,
     "query": "Cordova Township, Le Sueur County, Minnesota",
+    "source": "nominatim"
+  },
+  "Crawford County, Ohio": {
+    "display_name": "Crawford County, Ohio, United States",
+    "lat": 40.8705909,
+    "lon": -82.9065596,
+    "query": "Crawford County, Ohio",
     "source": "nominatim"
   },
   "Crooked Lake, Wisconsin": {
@@ -394,11 +408,25 @@
     "query": "Liberty Township, Crawford County, Ohio",
     "source": "nominatim"
   },
+  "Lincoln County, Kansas": {
+    "display_name": "Lincoln County, Kansas, United States",
+    "lat": 39.0343606,
+    "lon": -98.2155504,
+    "query": "Lincoln County, Kansas",
+    "source": "nominatim"
+  },
   "Lorraine, France": {
     "display_name": "Grand Est, France métropolitaine, France",
     "lat": 48.4845157,
     "lon": 6.113035,
     "query": "Lorraine, France",
+    "source": "nominatim"
+  },
+  "Lykens Township, Dauphin County, Pennsylvania": {
+    "display_name": "Lykens Township, Dauphin County, Pennsylvania, 17048, United States",
+    "lat": 40.6189699,
+    "lon": -76.7563547,
+    "query": "Lykens Township, Dauphin County, Pennsylvania",
     "source": "nominatim"
   },
   "Malone, Franklin County, New York": {

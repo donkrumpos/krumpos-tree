@@ -55,6 +55,7 @@ Born March 21, 1880 in Ionia, Michigan. Maiden name Guernsey. Married Lile/Life 
 - **Mother:** Almeda Linson (c.1859–1881). She died 4 Feb 1881 at her parents' home in Fair Plain, Montcalm Co., when Mildred was 10 months old, three days after the death of Mildred's newborn sister. Her surname was formerly given here as "Hinson" and her death as 1883 (corrected 2026-10-08; see Linson/almeda-linson.md). Maternal grandparents: Asa W. Linson and Hannah Walker, both New York-born.
 
 ## Sources
+- **1900 US Census, Sebastopol town, Door County, Wisconsin** (FS index; found 2026-10-08 s10): "Mildred G Boyce", b. Mar 1880, Michigan, in the household of her grandmother Catherine (Shaffstall) Boyce and step-grandfather Charles Boyce. The birth month and state match, so this is PROBABLY Mildred Guernsey, enumerated under the household surname. She was already living in Sevastopol the year before her 1901 marriage.
 - **1920 US Census, Door County, Wisconsin, ED 69, Sturgeon Bay Ward 1** — "Mildred Martin," wife, age 39, born Michigan. Mother's birthplace: Michigan.
 - **FamilySearch person record** — Mildred Amelia Guernsey Martin, 13 sources. Born Mar 21, 1880, Ionia, Michigan. Died Dec 15, 1971, Sturgeon Bay, Door County, Wisconsin.
 - Gerald Martin obituary, Door County News, June 18, 1931 — "the son of Mr. and Mrs. Life Martin."

@@ -77,4 +77,12 @@ Born about 1816 in New York State, the daughter of **John Walker** and **Catheri
     - no Linson in the Ionia or Montcalm USGenWeb obituary files beyond Hannah's 1907 notice
   - **Age problem:** Catherine's censused ages (50 in 1850, 56 in 1860, 70 in 1870) give a birth year of c.1800–04. Only the death age of 95 gives c.1797. If she was born c.1800, she was c.16 at Hannah's birth. That is possible but tight.
   - **Where the Finkles were:** Finkle heads of household in 1810–20 NY were in **Columbia Co.** (Germantown, Ancram, Gallatin, Taghkanic), **Rensselaer** and **Schoharie** (a John Finkle at Germantown 1810, Ancram 1820 and Sharon, Schoharie, 1820). These are Palatine German. None were in Oswego/Onondaga in 1820 or 1830.
+- **Session 10 (2026-10-08): no change, still PROBABLE.**
+  - **Betsy/Elizabeth Linson (b. c.1850, IN):** she appears twice in the 1870 census, in the Guernsey household in Ionia Twp and with Asa and Hannah in Bushnell Twp, Montcalm Co. FS index searches for a later marriage or death (Betsey, Betsy, Elizabeth, Lizzie, Eliza; Linson, Lindson, Linsen) are NEGATIVE. The Archives of Michigan "Linson" index (35 items) has no certificate for her. Its unfamiliar entries are unrelated: Ella C. Sutton, d. 1939, father "Linson Beard"; Catherine E. Post; Mable Cochran; Irene Peterson; Benjamin Linson Hicks.
+  - **New sibling marriages (FS Michigan marriage indexes):**
+    - Polly Linson × Setah Abbott, 1869, Bushnell, Montcalm Co.
+    - Catherine J. Linson × James Randall, 25 Feb 1872, Montcalm Co.
+    - **Dorcas L. Linson × Andrew Jackson Utter**, 12 Aug 1877, Orange, Ionia Co. That explains the "Utter" informant on her 1916 certificate.
+    - Alma A. Linson × Columbus D. Britton, 13 Aug 1887, Montcalm Co.
+  - Asenath Clark (1928) and G. W. Guernsey (1878): the s9 grep of about 500 Ionia USGenWeb transcriptions (Clark and Guernsey included) found no obituary that names Hannah. Not repeated.
 - **Next:** a Granby/Oswego Co. church or town record naming Catherine's children; a fuller Ionia obituary of Catherine (Ionia Standard/Sentinel, May 1892; microfilm at Ionia Community Library), of Hannah (Jan 1907), or of Betsey/Elizabeth Linson.

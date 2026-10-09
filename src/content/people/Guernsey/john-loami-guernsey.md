@@ -2,7 +2,7 @@
 id: john-loami-guernsey
 name: John Loami Guernsey
 birth: '1857-12-22'
-birth_place: 'Hudson, Steuben County, Indiana'
+birth_place: 'Ionia, Michigan'
 death: '1940-02-16'
 death_place: 'Donna, Hidalgo County, Texas'
 gender: M
@@ -37,7 +37,7 @@ linked_children:
 **FamilySearch ID:** 9X9W-656 (photo available)
 
 ## Summary
-Born December 22, 1857, Hudson, Steuben County, Indiana (FS; the 1860 and 1870 censuses say **Michigan**). His father died in 1860, when he was 2. His mother married (2) a Gordon and (3) **Charles Boyce Jr.** (Sturgeon Bay, 30 Jun 1866), and **John grew up in Sevastopol, Door County, Wisconsin**: he is in the Boyce household there in 1870, aged 12, with his brother George (10). That is the Door County connection which later brought his daughter Mildred to Sturgeon Bay. Lived in Ionia, Michigan by 1880. First wife Almeda Linson died 4 Feb 1881 at her parents' home in Fair Plain, Montcalm Co., three days after their newborn daughter (Mildred was 10 months old). Corrected 2026-10-08: formerly "Almeda Hinson, d. 1883". Remarried Sarah E Leslie, August 19, 1891, Rapid River, Delta County, Michigan. Later lived in Louisiana (1900 census), died in Donna, Hidalgo County, Texas in 1940. Wandered far from Michigan — Mildred went to Wisconsin instead.
+Born December 22, 1857, **probably at Ionia, Michigan**. His 1940 Texas death record says "Iona, Michigan" (parents Justice Guernsey × Kathryn Shafstall); his 1891 marriage record says b. Ionia, Michigan; and the 1860, 1870, 1880 and 1900 censuses all say Michigan. Changed 2026-10-08 (s10) from "Hudson, Steuben County, Indiana" (FS tree). Hudson looks like family lore: his mother's 1902 obituary wrongly put *her* own birth at Hudson, where the family later lived. The 1920 census's "Wisconsin" is an outlier. PROBABLE. His father died in 1860, when he was 2. His mother married (2) a Gordon and (3) **Charles Boyce Jr.** (Sturgeon Bay, 30 Jun 1866), and **John grew up in Sevastopol, Door County, Wisconsin**: he is in the Boyce household there in 1870, aged 12, with his brother George (10). That is the Door County connection which later brought his daughter Mildred to Sturgeon Bay. Lived in Ionia, Michigan by 1880. First wife Almeda Linson died 4 Feb 1881 at her parents' home in Fair Plain, Montcalm Co., three days after their newborn daughter (Mildred was 10 months old). Corrected 2026-10-08: formerly "Almeda Hinson, d. 1883". Remarried Sarah E Leslie, August 19, 1891, Rapid River, Delta County, Michigan. Later lived in Louisiana (1900 census), died in Donna, Hidalgo County, Texas in 1940. Wandered far from Michigan — Mildred went to Wisconsin instead.
 
 ## Relationships
 - **Father:** Justus George Guernsey (1835–1860)

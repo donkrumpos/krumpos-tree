@@ -22,7 +22,7 @@ export const branchDefs: Record<string, BranchDef> = {
     title: 'Martin Branch',
     rootId: 'helen-m-martin',
     description: "An Ulster immigrant, a Canadian-born widow, Yankee settlers from Michigan and a Swiss-Swedish family became Door County pioneers. Henry Martin, born near Belfast in 1830, came to America in 1851, reached Sturgeon Bay in 1857 and helped build Sevastopol from nothing. His youngest son Life lived to 87. Life's granddaughter Helen married Clifford Schmidt.",
-    surnames: ['Martin', 'Hutchinson', 'Laing', 'Miller', 'Mielke', 'Pfister', 'Guernsey', 'Linson', 'Shaffstall'],
+    surnames: ['Martin', 'Hutchinson', 'Laing', 'Miller', 'Mielke', 'Pfister', 'Guernsey', 'Linson', 'Shaffstall', 'Cobb'],
   },
   schmidt: {
     title: 'Schmidt Branch',

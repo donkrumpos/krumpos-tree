@@ -1184,7 +1184,7 @@
     "surname": "Guernsey",
     "birth": "1857-12-22",
     "death": "1940-02-16",
-    "birth_place": "Hudson, Steuben County, Indiana",
+    "birth_place": "Ionia, Michigan",
     "death_place": "Donna, Hidalgo County, Texas",
     "generation": 5,
     "gender": "M",
@@ -1192,7 +1192,7 @@
     "life": [
       {
         "year": 1857,
-        "place": "Hudson, Steuben County, Indiana",
+        "place": "Ionia, Michigan",
         "kind": "born"
       },
       {
@@ -2293,6 +2293,32 @@
     "life_source": "birth-death"
   },
   {
+    "id": "sally-cobb",
+    "slug": "Cobb/sally-cobb",
+    "name": "Sarah \"Sally\" Cobb",
+    "surname": "Cobb",
+    "birth": "1813-08-14",
+    "death": "1846-08-04",
+    "birth_place": "Clifford Township, Susquehanna County, Pennsylvania",
+    "death_place": "Crawford County, Ohio",
+    "generation": 7,
+    "gender": "F",
+    "branch": "martin",
+    "life": [
+      {
+        "year": 1813,
+        "place": "Clifford Township, Susquehanna County, Pennsylvania",
+        "kind": "born"
+      },
+      {
+        "year": 1846,
+        "place": "Crawford County, Ohio",
+        "kind": "died"
+      }
+    ],
+    "life_source": "birth-death"
+  },
+  {
     "id": "anne-marie-barbe-logis",
     "slug": "Coppersmith/anne-marie-barbe-logis",
     "name": "Anne Marie Barbe Logis",
@@ -2444,6 +2470,32 @@
       {
         "year": 1878,
         "place": "Ionia, Ionia County, Michigan",
+        "kind": "died"
+      }
+    ],
+    "life_source": "birth-death"
+  },
+  {
+    "id": "abraham-shaffstall",
+    "slug": "Shaffstall/abraham-shaffstall",
+    "name": "Abraham Shaffstall",
+    "surname": "Shaffstall",
+    "birth": "1809-02-08",
+    "death": "1880-07-10",
+    "birth_place": "Lykens Township, Dauphin County, Pennsylvania",
+    "death_place": "Lincoln County, Kansas",
+    "generation": 7,
+    "gender": "M",
+    "branch": "martin",
+    "life": [
+      {
+        "year": 1809,
+        "place": "Lykens Township, Dauphin County, Pennsylvania",
+        "kind": "born"
+      },
+      {
+        "year": 1880,
+        "place": "Lincoln County, Kansas",
         "kind": "died"
       }
     ],
