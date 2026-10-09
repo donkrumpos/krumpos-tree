@@ -155,3 +155,12 @@ Born c. 1806–1812 in **England** (obituary age 48 in 1854 vs. 38 in the 1850 c
 - Rebecca (Aikens) Hutchinson (1900: b. Nov 1859 NY, parents b. NY, 1 child) is not identified further. "Aikens" is probably a first married name.
 - **Next (offline):** cert. 8117 (still first); the Union-Sun obituaries of Frank (1942) and Mary Carr (28 Jul 1949); the St. Catharines Catholic baptism of Francis Hutchinson, May 1867 (St. Catherine of Alexandria); the Cold Springs lot books (Section F).
 - Source: krumpos-tree `research_notes/Scottish ancestry gap research/followup_2026-10-09_s15.md`.
+
+## Session 16 [2026-10-09]
+- **Robert and Kate at Lockport, 1865 and 1870 (images read; CONFIRMED):**
+  - **1865 NY census**, Lockport E.D. 5 (indexed as "Ross"): "Robt" Hutchinson, 30, b. Canada, labourer; **Kate**, 30, wife, b. Ireland, **mother of 2 children**, though no children are in the household (both died? or her children by an earlier marriage?).
+  - **1870 US census**, Lockport Ward 4: Robt Hutchison, 30, engineer, b. Canada, both parents foreign-born; Kate, 36, b. Ireland; **Frank 3, b. New York**; Mary 1, b. NY.
+  - The Petrie family is next door both times, which confirms the "Ross" entry is Robert. In 1870 the Petrie household includes Catherine Ellison, 61, b. Canada (SPECULATIVE; noted only).
+- So the family was at Lockport in 1865 and 1870, and the 1870 census gives Frank b. NY. **Find a Grave's "b. St. Catharines 1867" is now SPECULATIVE.**
+- NEGATIVE: Robert, Catharine and Frank in the 1871 Canada census (all Ontario); a Robert × Catharine/Kate marriage 1855–67 in Lincoln, Welland or Niagara (the Ernestown Robert × Catherine Dunbar, 1863, is a different man).
+- Source: krumpos-tree `research_notes/Scottish ancestry gap research/followup_2026-10-09_s16.md`.
