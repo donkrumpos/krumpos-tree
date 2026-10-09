@@ -168,3 +168,7 @@ The children enumerated as "Peters" in 1860 and as "Martin" in 1870 (Elias, Mary
 ## Session 17 [2026-10-09]
 - **Brother Robert Hutchinson (c.1838–1918) CONFIRMED.** His Lockport Catholic marriage of 6 July 1861 names his parents as Thomas Hutchison and Sophia Miller, the same parents as in Eliza's own 1862 marriage. His wife was Catharine Rutledge (Irish). Details in thomas-hutcheson.md.
 - Source: krumpos-tree `research_notes/Scottish ancestry gap research/followup_2026-10-09_s17.md`.
+
+## Session 18 [2026-10-09]
+- Brother Robert's family: his wife Kate (Catharine Rutledge) d. Lockport 21 Feb 1888; their daughter Mary C. m. Henry W. Carr at St. Patrick's, Lockport, 12 May 1891. Details in thomas-hutcheson.md.
+- Source: krumpos-tree `research_notes/Scottish ancestry gap research/followup_2026-10-09_s18.md`.

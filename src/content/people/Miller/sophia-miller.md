@@ -120,3 +120,7 @@ Born c. 1802 in **Canada** ("Sophia Hutcherson, 48, Canada" in the 1850 census a
 - **Maiden name Miller CONFIRMED by a second record.** Her son Robert's marriage, Lockport, 6 July 1861 (Catholic register of St. John the Baptist / St. Patrick's, FS DGS 7900179, image 748; image read) names him *"filium Thomae Hutchison et Sophiae Miller"*. Robert (c.1838–1918) is therefore CONFIRMED as her son and has been added to `children`.
 - This does not yet prove that she is the St Mark's 1801 "Sophia Miller, of William and Margery", but that identification now rests on a confirmed surname. William and Margery Miller's origin remains the open question for any Scottish or Loyalist ancestry on this line.
 - Source: krumpos-tree `research_notes/Scottish ancestry gap research/followup_2026-10-09_s17.md`.
+
+## Session 18 [2026-10-09]
+- Her granddaughter Mary C. Hutchinson's 1891 Lockport Catholic marriage (St. Patrick's, DGS 7900308, image 493) names her parents as Robert Hutchinson and Catharine Rutledge. Robert's wife Kate d. 21 Feb 1888. Nothing new on Sophia herself.
+- Source: krumpos-tree `research_notes/Scottish ancestry gap research/followup_2026-10-09_s18.md`.
