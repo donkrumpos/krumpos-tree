@@ -387,6 +387,13 @@
     "query": "La Prairie, Montérégie, Quebec, Canada",
     "source": "nominatim"
   },
+  "La Prairie, Quebec, Canada": {
+    "display_name": "La Prairie, Roussillon, Montérégie, Québec, Canada",
+    "lat": 45.4175472,
+    "lon": -73.4891432,
+    "query": "La Prairie, Quebec, Canada",
+    "source": "nominatim"
+  },
   "La Rochelle, Charente-Maritime, France": {
     "display_name": "La Rochelle, Charente-Maritime, Nouvelle-Aquitaine, France métropolitaine, 17000, France",
     "lat": 46.159732,
@@ -656,6 +663,13 @@
     "lat": 49.4404591,
     "lon": 1.0939658,
     "query": "Rouen, Seine-Maritime, Normandy, France",
+    "source": "nominatim"
+  },
+  "Saint-Joseph de Chambly, Quebec, Canada": {
+    "display_name": "Rue Saint-Joseph, Chambly, La Vallée-du-Richelieu, Montérégie, Québec, J3L 1Y4, Canada",
+    "lat": 45.4548874,
+    "lon": -73.2969787,
+    "query": "Saint-Joseph de Chambly, Quebec, Canada",
     "source": "nominatim"
   },
   "Saint-Mathias, Rouville, Quebec, Canada": {

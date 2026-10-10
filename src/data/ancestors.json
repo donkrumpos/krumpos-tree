@@ -2621,6 +2621,27 @@
     "life_source": "birth-death"
   },
   {
+    "id": "charlotte-paquet",
+    "slug": "Paquet/charlotte-paquet",
+    "name": "Charlotte Paquet",
+    "surname": "Paquet",
+    "birth": "1778-02-04",
+    "death": "",
+    "birth_place": "Saint-Joseph de Chambly, Quebec, Canada",
+    "death_place": "",
+    "generation": 8,
+    "gender": "F",
+    "branch": "coppersmith",
+    "life": [
+      {
+        "year": 1778,
+        "place": "Saint-Joseph de Chambly, Quebec, Canada",
+        "kind": "born"
+      }
+    ],
+    "life_source": "birth-death"
+  },
+  {
     "id": "antoine-surprenant",
     "slug": "Bodoh/antoine-surprenant",
     "name": "Antoine Surprenant",
@@ -2689,6 +2710,27 @@
         "year": 1731,
         "place": "Longueuil, Quebec, Canada",
         "kind": "born"
+      }
+    ],
+    "life_source": "birth-death"
+  },
+  {
+    "id": "marie-vigeant",
+    "slug": "Vigeant/marie-vigeant",
+    "name": "Marie Vigeant",
+    "surname": "Vigeant",
+    "birth": "",
+    "death": "1806-03-10",
+    "birth_place": "",
+    "death_place": "Saint-Mathias, Rouville, Quebec, Canada",
+    "generation": 9,
+    "gender": "F",
+    "branch": "coppersmith",
+    "life": [
+      {
+        "year": 1806,
+        "place": "Saint-Mathias, Rouville, Quebec, Canada",
+        "kind": "died"
       }
     ],
     "life_source": "birth-death"
@@ -2787,6 +2829,27 @@
     "life_source": "birth-death"
   },
   {
+    "id": "jean-baptiste-vigeant",
+    "slug": "Vigeant/jean-baptiste-vigeant",
+    "name": "Jean-Baptiste Vigeant",
+    "surname": "Vigeant",
+    "birth": "",
+    "death": "1799-06-04",
+    "birth_place": "",
+    "death_place": "Saint-Mathias, Rouville, Quebec, Canada",
+    "generation": 10,
+    "gender": "M",
+    "branch": "coppersmith",
+    "life": [
+      {
+        "year": 1799,
+        "place": "Saint-Mathias, Rouville, Quebec, Canada",
+        "kind": "died"
+      }
+    ],
+    "life_source": "birth-death"
+  },
+  {
     "id": "jean-bourhis",
     "slug": "Bourhis/jean-bourhis",
     "name": "Jean Bourhis",
@@ -2796,6 +2859,42 @@
     "birth_place": "",
     "death_place": "",
     "generation": 11,
+    "gender": "M",
+    "branch": "coppersmith",
+    "life": [],
+    "life_source": "birth-death"
+  },
+  {
+    "id": "marie-anne-perrier",
+    "slug": "Perrier/marie-anne-perrier",
+    "name": "Marie-Anne Perrier",
+    "surname": "Perrier",
+    "birth": "1694-03-26",
+    "death": "",
+    "birth_place": "La Prairie, Quebec, Canada",
+    "death_place": "",
+    "generation": 11,
+    "gender": "F",
+    "branch": "coppersmith",
+    "life": [
+      {
+        "year": 1694,
+        "place": "La Prairie, Quebec, Canada",
+        "kind": "born"
+      }
+    ],
+    "life_source": "birth-death"
+  },
+  {
+    "id": "laurent-perrier",
+    "slug": "Perrier/laurent-perrier",
+    "name": "Laurent Perrier",
+    "surname": "Perrier",
+    "birth": "",
+    "death": "",
+    "birth_place": "",
+    "death_place": "",
+    "generation": 12,
     "gender": "M",
     "branch": "coppersmith",
     "life": [],
