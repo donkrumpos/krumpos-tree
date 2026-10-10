@@ -429,6 +429,13 @@
     "query": "Lockport, Niagara County, New York",
     "source": "nominatim"
   },
+  "Longueuil, Quebec, Canada": {
+    "display_name": "Longueuil, Agglomération de Longueuil, Montérégie, Québec, Canada",
+    "lat": 45.521906,
+    "lon": -73.4644578,
+    "query": "Longueuil, Quebec, Canada",
+    "source": "nominatim"
+  },
   "Lorraine, France": {
     "display_name": "Grand Est, France métropolitaine, France",
     "lat": 48.4845157,

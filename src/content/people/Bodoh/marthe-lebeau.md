@@ -20,7 +20,7 @@ tags:
 created: '2026-04-06'
 surname: 'Bodoh'
 linked_parents:
-  - ''
+  - 'Lebeau/joseph-lebeau'
   - ''
 linked_spouses:
   - 'Bodoh/louis-surprenant'

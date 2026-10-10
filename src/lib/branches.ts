@@ -16,7 +16,7 @@ export const branchDefs: Record<string, BranchDef> = {
     title: 'Coppersmith Branch',
     rootId: 'dorothy-elaine-coppersmith',
     description: 'Belgian settlers from Melin in Walloon Brabant and French-Canadian river families from the Richelieu Valley. Dorothy Elaine Coppersmith was widowed at 35 and raised seven children with quiet resilience.',
-    surnames: ['Coppersmith', 'Bodoh', 'Kolancheck', 'Siudzinski'],
+    surnames: ['Coppersmith', 'Bodoh', 'Kolancheck', 'Siudzinski', 'Lebeau', 'Viau', 'Bourhis'],
   },
   martin: {
     title: 'Martin Branch',

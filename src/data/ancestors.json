@@ -2600,6 +2600,27 @@
     "life_source": "birth-death"
   },
   {
+    "id": "joseph-lebeau",
+    "slug": "Lebeau/joseph-lebeau",
+    "name": "Joseph Lebeau",
+    "surname": "Lebeau",
+    "birth": "1753",
+    "death": "",
+    "birth_place": "Chambly, Quebec, Canada",
+    "death_place": "",
+    "generation": 8,
+    "gender": "M",
+    "branch": "coppersmith",
+    "life": [
+      {
+        "year": 1753,
+        "place": "Chambly, Quebec, Canada",
+        "kind": "born"
+      }
+    ],
+    "life_source": "birth-death"
+  },
+  {
     "id": "antoine-surprenant",
     "slug": "Bodoh/antoine-surprenant",
     "name": "Antoine Surprenant",
@@ -2647,6 +2668,27 @@
         "year": 1758,
         "place": "Montmorency, Quebec, Canada",
         "kind": "died"
+      }
+    ],
+    "life_source": "birth-death"
+  },
+  {
+    "id": "amable-viau",
+    "slug": "Viau/amable-viau",
+    "name": "Marie-Amable Viau",
+    "surname": "Viau",
+    "birth": "1731-03-17",
+    "death": "",
+    "birth_place": "Longueuil, Quebec, Canada",
+    "death_place": "",
+    "generation": 9,
+    "gender": "F",
+    "branch": "coppersmith",
+    "life": [
+      {
+        "year": 1731,
+        "place": "Longueuil, Quebec, Canada",
+        "kind": "born"
       }
     ],
     "life_source": "birth-death"
@@ -2727,6 +2769,36 @@
         "kind": "died"
       }
     ],
+    "life_source": "birth-death"
+  },
+  {
+    "id": "suzanne-bourhis",
+    "slug": "Bourhis/suzanne-bourhis",
+    "name": "Suzanne Bourhis",
+    "surname": "Bourhis",
+    "birth": "",
+    "death": "",
+    "birth_place": "",
+    "death_place": "",
+    "generation": 10,
+    "gender": "F",
+    "branch": "coppersmith",
+    "life": [],
+    "life_source": "birth-death"
+  },
+  {
+    "id": "jean-bourhis",
+    "slug": "Bourhis/jean-bourhis",
+    "name": "Jean Bourhis",
+    "surname": "Bourhis",
+    "birth": "",
+    "death": "",
+    "birth_place": "",
+    "death_place": "",
+    "generation": 11,
+    "gender": "M",
+    "branch": "coppersmith",
+    "life": [],
     "life_source": "birth-death"
   }
 ]
