@@ -34,9 +34,9 @@ linked_children:
 **Lifespan:** 1850-01-20 — 1904-04-25
 
 ## Summary
-Born in Iberville, Quebec, Canada to Isaac Surprenant (1816–1917) and Julie Guyette (1831–1899). Also known as **Laura Surprise**. French-Canadian emigrant. Married Peter Young on April 30, 1866 in Fond du Lac County, Wisconsin. Died April 25, 1904 in Maple Creek, Outagamie County, Wisconsin at age 54. Buried at St Mary Cemetery, Bear Creek — same cemetery as husband Peter.
+Born in Iberville, Quebec, Canada to Isaac Surprenant (bapt. 1825–1917) and Julie Guyette (1831–1899). Also known as **Laura Surprise**. French-Canadian emigrant. Married Peter Young on April 30, 1866 in Fond du Lac County, Wisconsin. Died April 25, 1904 in Maple Creek, Outagamie County, Wisconsin at age 54. Buried at St Mary Cemetery, Bear Creek — same cemetery as husband Peter.
 
-Died in Maple Creek — the same community where her granddaughter Marie Ellen Bodoh would be born two years later (1906). Mary Young was 15 when her mother died. Her father Isaac lived to **age 100** (d. 1917).
+Died in Maple Creek — the same community where her granddaughter Marie Ellen Bodoh would be born two years later (1906). Mary Young was 15 when her mother died. Her father Isaac died in 1917 at about 92 (baptized 1825; the old "age 100" is withdrawn).
 
 ## Relationships
 - **Spouse:** Peter Young (1847–1918, m. 1866-04-30, Fond du Lac County)
@@ -48,6 +48,6 @@ Died in Maple Creek — the same community where her granddaughter Marie Ellen B
 ## Research Notes
 - Iberville, Quebec is on the Richelieu River, right next to St Athanase (Peter's birthplace). Both communities are now part of Saint-Jean-sur-Richelieu.
 - Parents married September 14, 1847 in Québec, Canada.
-- Father Isaac Surprenant lived to 100 (1816–1917) — died in Deer Creek, Outagamie County.
+- Father Isaac Surprenant (bapt. Iberville 2 Apr 1825 – d. 1917, about 92) died in Deer Creek, Outagamie County.
 - Mother Julie Guyette died 1899 in Maple Creek — same community where Elnora died 1904 and granddaughter Marie was born 1906. Three generations in Maple Creek.
 - Quebec parish records for Iberville should have baptism record under Surprenant.

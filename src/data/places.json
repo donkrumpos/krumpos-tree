@@ -644,6 +644,13 @@
     "query": "Rouen, Seine-Maritime, Normandy, France",
     "source": "nominatim"
   },
+  "Saint-Mathias-sur-Richelieu, Rouville, Quebec, Canada": {
+    "display_name": "Saint-Mathias-sur-Richelieu, Rouville, Montérégie, Québec, Canada",
+    "lat": 45.4728843,
+    "lon": -73.2646582,
+    "query": "Saint-Mathias-sur-Richelieu, Rouville, Quebec, Canada",
+    "source": "nominatim"
+  },
   "Sappa Township, Harlan County, Nebraska": {
     "display_name": "Sappa Creek area, Harlan County, Nebraska",
     "lat": 40.08,

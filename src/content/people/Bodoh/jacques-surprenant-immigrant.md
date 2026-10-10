@@ -33,7 +33,7 @@ linked_children:
 ## Summary
 **IMMIGRANT ANCESTOR.** Born in Mortagne-au-Perche, Normandy, France — the same town as Julien Mercier (1626), another ancestor. Mortagne-au-Perche was a major source of New France colonists. Married Jeanne Denote (1645, St Germain, Amiens, Picardy, France) in La Prairie, 1678.
 
-12 generations to Don: Jacques → Pierre → Antoine → Jacques → Louis → Isaac (lived to 100) → Elnora Surprise → Mary Young → Marie Bodoh → Dorothy → Keith → Don.
+12 generations to Don: Jacques → Pierre → Antoine → Jacques → Louis → Isaac (bapt. 1825, d. 1917) → Elnora Surprise → Mary Young → Marie Bodoh → Dorothy → Keith → Don.
 
 ## Relationships
 - **Spouse:** Jeanne Denote (1645, Amiens, France — d. 1701, La Prairie)

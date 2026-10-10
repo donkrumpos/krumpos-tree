@@ -36,7 +36,7 @@ Settlement area: Fond du Lac County, Outagamie County (Maple Creek, Deer Creek),
 |---|---|---|
 | **Bodoh** | **Beaudoin / Beaudin** (confirmed) | Immigrant ancestor: Jacque Beaudoin (1645, **La Rochelle, France**) married Francoice Durand (1648, **Rouen, Normandy**) in Quebec 1670. Route: France → Quebec → upstate New York (Plattsburgh/Malone) → Wisconsin. |
 | **Young** | **Lajeunesse** (confirmed) | Peter Young = Pierre Lajeunesse. Parents: Henry Lajeunesse & Marguerite Terrien, married 1833 in L'Acadie, Quebec. |
-| **Surprise** | **Surprenant** (confirmed) | Isaac Surprenant (1816–1917, lived to 100). Emigrated from Quebec to Deer Creek, Outagamie County. |
+| **Surprise** | **Surprenant** (confirmed) | Isaac Surprenant (bapt. Iberville 1825 – d. 1917). Emigrated from Quebec to Deer Creek, Outagamie County. |
 | **Guyette** | **Goguet → Goyet → Goyette → Guyette** | Four-generation spelling evolution. Immigrant ancestor: Pierre Goguet (1635, **Picardy, France**). |
 | **Normandin** | Normandin Dit Lamonday | Another "Dit" name. Louise Ludovie Normandin Dit Lamonday, mother of John Beaudin Dit Bodoh (1859). |
 

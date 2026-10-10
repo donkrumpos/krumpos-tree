@@ -33,12 +33,12 @@ linked_children:
 **Lifespan:** 1789-08-14 — 1834-05-20
 
 ## Summary
-Born in La Prairie, Quebec to Jacques Surprenant (1753–1792) and Josephte Baudin (~1755). Married Marthe Lebeau. Father of Isaac Surprenant (1816–1917, lived to 100). Died May 20, 1834 in Iberville at age 44. Isaac was 17 when his father died.
+Born in La Prairie, Quebec to Jacques Surprenant (1753–1792) and Josephte Baudin (~1755). Married Marthe Lebeau. Father of Isaac Surprenant (bapt. 1825–1917). Died May 20, 1834 in Iberville at age 44. Isaac was 9 when his father died.
 
 ## Relationships
 - **Parents:** Jacques Surprenant (1753–1792) & Josephte Baudin (~1755)
 - **Spouse:** Marthe Lebeau (b. 1799)
-- **Children:** Isaac Surprenant (1816–1917) — likely others
+- **Children:** Isaac Surprenant (bapt. 1825–1917) — likely others
 
 ## Sources
 - Little Chute Genealogy (Person ID I124725).

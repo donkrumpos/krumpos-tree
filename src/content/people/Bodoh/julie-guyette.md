@@ -40,7 +40,7 @@ Julie and her mother Madeleine died on the **same day** — April 1, 1899. Julie
 Three generations died in Maple Creek: Julie (1899), her daughter Elnora (1904), and Elnora's daughter Mary Young would later raise her own daughter Marie there (born 1906).
 
 ## Relationships
-- **Spouse:** Isaac Surprenant (1816–1917, m. 1847-09-14, Quebec)
+- **Spouse:** Isaac Surprenant (bapt. 1825–1917, m. 1847-09-14, Quebec)
 - **Children:** Elnora Surprise (1850–1904) — likely others
 
 ## Sources

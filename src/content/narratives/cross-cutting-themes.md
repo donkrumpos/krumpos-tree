@@ -10,14 +10,14 @@ Multiple ancestors lived far beyond their era's norms. Not isolated outliers —
 
 | Person | Lifespan | Age | Line |
 |--------|----------|-----|------|
-| Isaac Surprenant | 1816–1917 | **100** | Surprenant |
 | Marie Sophie Hebert | 1799–1892 | **93** | Balthazar/Hebert |
+| Isaac Surprenant | 1825–1917 | **92** | Surprenant |
 | Joseph Guyette | 1811–1902 | **91** | Guyette |
 | Julien LeBlanc | 1666–1756 | **89** | LeBlanc |
 | Joseph Goyette (grandfather) | 1788–1876 | **87** | Goyette |
 | Madeleine Mary Lavallee | 1816–1899 | **83** | Lavallee |
 
-Isaac Surprenant is the standout — born during the War of 1812, died during World War I. But the clustering matters more than any one case. French-Canadian lines on the Bodoh side show repeated 85+ lifespans across unrelated branches (Surprenant, LeBlanc, Guyette, Hebert). Whether genetic, dietary, or environmental (Richelieu River valley → Wisconsin farmland), something in these families produced resilience.
+Isaac Surprenant was long the standout at "100", but his baptism (Iberville, 2 Apr 1825; found 2026-10-10) puts him at about 92. The clustering matters more than any one case. French-Canadian lines on the Bodoh side show repeated 85+ lifespans across unrelated branches (Surprenant, LeBlanc, Guyette, Hebert). Whether genetic, dietary, or environmental (Richelieu River valley → Wisconsin farmland), something in these families produced resilience.
 
 ---
 
@@ -49,7 +49,7 @@ A counterpoint to the longevity pattern. Multiple ancestors lost parents early:
 | Louis Surprenant | 44 | Isaac Surprenant | 17 |
 | Elnora Surprise | 54 | Mary Young | 15 |
 
-Marie Sophie Hebert lost her mother at 4, then lived to 93. Isaac Surprenant lost his father at 17, then lived to 100. The children who survived early loss became the long-lived ones — or at least, they're the ones we have records for.
+Marie Sophie Hebert lost her mother at 4, then lived to 93. Isaac Surprenant lost his father at 9, then lived to about 92. The children who survived early loss became the long-lived ones — or at least, they're the ones we have records for.
 
 Elnora's death at 54 left 15-year-old Mary Young, who went on to marry John Bodoh and have Marie Ellen — Dorothy Coppersmith's mother. The loss cascaded: Mary raised her children in the same Maple Creek community where her mother and grandmother had died.
 

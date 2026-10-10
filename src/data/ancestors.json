@@ -1489,17 +1489,17 @@
     "slug": "Bodoh/isaac-surprenant",
     "name": "Isaac Surprenant",
     "surname": "Bodoh",
-    "birth": "1816-10-14",
+    "birth": "1825-04-02",
     "death": "1917-08-16",
-    "birth_place": "Québec, Canada",
+    "birth_place": "Iberville, Quebec, Canada",
     "death_place": "Deer Creek, Outagamie County, Wisconsin",
     "generation": 6,
     "gender": "M",
     "branch": "coppersmith",
     "life": [
       {
-        "year": 1816,
-        "place": "Québec, Canada",
+        "year": 1825,
+        "place": "Iberville, Quebec, Canada",
         "kind": "born"
       },
       {
@@ -2257,7 +2257,7 @@
     "surname": "Bodoh",
     "birth": "1799-09-12",
     "death": "",
-    "birth_place": "Richelieu, Quebec, Canada",
+    "birth_place": "Saint-Mathias-sur-Richelieu, Rouville, Quebec, Canada",
     "death_place": "",
     "generation": 7,
     "gender": "F",
@@ -2265,7 +2265,7 @@
     "life": [
       {
         "year": 1799,
-        "place": "Richelieu, Quebec, Canada",
+        "place": "Saint-Mathias-sur-Richelieu, Rouville, Quebec, Canada",
         "kind": "born"
       }
     ],
