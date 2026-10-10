@@ -39,7 +39,7 @@ linked_children:
 **Baptized at La Nativité de La Prairie on 26 Mar 1694, daughter of Laurent Perrier dit Olivier and Marie Bessette** [CONFIRMED, FS index; DGS 005470509 img 25]. She married **Jean Vigeant dit Taupier/Larose** at La Prairie in Jan 1713. The FS index gives 9 Jan and Tanguay 7 Jan; the index entry names no parents. The couple settled at Chambly, where at least nine children were baptized 1714–36 [index]. Her son Jean-Baptiste's 1743 marriage act names his mother as "Marie Anne Olivier" [CONFIRMED, image]. Her husband was buried at Chambly on 7 Oct 1756, aged 84; the index names her as his wife.
 
 ## Relationships
-- **Parents:** Laurent Perrier dit Olivier (Breton immigrant, PROBABLE from Brest) × Marie Bessette (m. La Prairie 5 Aug 1691)
+- **Parents:** Laurent Perrier dit Olivier (Breton immigrant from **Brest, CONFIRMED s7** by his 1690 marriage contract, which calls him "Ollivier Perier" and says his parents lived at Brest) × Marie Bessette (contract 26 Nov 1690; m. La Prairie 5 Aug 1691)
 - **Spouse:** Jean Vigeant dit Taupier/Larose (c.1672–1756), son of François Vigeant × Jeanne Basin of Montlieu, Saintonge (Tanguay)
 - **Children (Chambly, index):** Marie-Jeanne 1714, Louis 1720, **Jean(-Baptiste) 1723** (Don's line), Françoise 1725, Florent-François 1727, Alexandre 1729, Geneviève-Amable 1736, and others
 

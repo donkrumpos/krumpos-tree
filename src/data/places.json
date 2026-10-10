@@ -110,6 +110,13 @@
     "query": "Berthier, Montmagny, Quebec, Canada",
     "source": "nominatim"
   },
+  "Brest, Finistère, France": {
+    "display_name": "Brest, Finistère, Bretagne, France métropolitaine, 29200, France",
+    "lat": 48.3905283,
+    "lon": -4.4860088,
+    "query": "Brest, Finistère, France",
+    "source": "nominatim"
+  },
   "Brown County, Wisconsin (approximate)": {
     "display_name": "Brown County, Wisconsin, United States",
     "lat": 44.4383498,
