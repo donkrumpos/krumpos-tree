@@ -39,7 +39,7 @@ linked_children:
 Through her mother she descends from the Breton immigrant **Laurent Perrier dit Olivier**. The line is Charlotte Paquet → Marie Vigeant → Jean-Baptiste Vigeant → Marie-Anne Perrier → Laurent Perrier.
 
 ## Relationships
-- **Parents:** Joseph Paquet (bur. Saint-Mathias 24 Nov 1794) × Marie Vigeant dit Taupier, m. Chambly 7 Nov 1768
+- **Parents:** Joseph Paquet (bur. Saint-Mathias 24 Nov 1794) × Marie Vigeant dit Taupier, m. Chambly 7 Nov 1768. **Joseph(-Marie) Paquet's own parents (s8, PROBABLE — VERIFY):** Nos Origines no. 1218603, citing PRDH: Joseph-Marie Paquet, bapt. Saint-Laurent, Île d'Orléans, 14 Sep 1740, son of **Philippe Paquet (b. 1708) × Dorothée Plante (b. 5 Apr 1704, d. 3 May 1745)**; d. 22 Nov 1794, bur. Saint-Mathias 24 Nov 1794, which matches the burial already known. He was "28 ans" at the 1768 marriage. Not read in an original.
 - **Spouse:** Louis Lavallée, laboureur at Saint-Mathias (m. 11 Feb 1805). He was bapt. Saint-Joseph de Chambly 8 Aug 1785, son of Jean-Baptiste Lavallée × Madeleine Chossette dit Matelot [index]. The 1805 act agrees: "mineur, âgé de vingt ans, fils de Jean Bte Lavallée, cultivateur dans la seigneurie de Christie, et de Marie Magdeleine Ch[o]sette dit [Matelot]" [image]
 - **Children:** Magdeleine (bapt. 1811, Don's line) and others not researched
 
