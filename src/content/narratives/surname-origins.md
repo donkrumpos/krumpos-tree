@@ -56,7 +56,7 @@ Settlement area: Fond du Lac County, Outagamie County (Maple Creek, Deer Creek),
 | Surname | Notes |
 |---|---|
 | **Balthazar** | Jean Baptiste, Martin, Moises. Quebec origins. Connected via Julia Marie Balthazar → Bodoh marriage. |
-| **Lavallee** | Madeleine Mary Lavallee (1816–1899, La Prairie). Father Alexis died in Rouses Point, NY — Quebec→NY pipeline. |
+| **Lavallee** | Madeleine Mary Lavallee (bapt. Saint-Mathias 9 Feb 1811 – 1899), daughter of Louis Lavallée × Charlotte Paquet (CONFIRMED 2026-10-10; the earlier "Alexis, La Prairie" parents were another family). Through Charlotte Paquet the line reaches Laurent Perrier, born at Brest, Brittany (PROBABLE). |
 | **Lebeau** | Marthe Lebeau (b. 1799, Richelieu). Mother of Isaac Surprenant. |
 | **Lemonde** | Louise Lemonde. Spouse in Surprenant line. |
 | **Terrien** | Louis Terrien, Marguerite Terrien. In both Coppersmith and Lajeunesse branches. |

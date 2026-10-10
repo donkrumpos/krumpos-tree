@@ -14,8 +14,8 @@ Multiple ancestors lived far beyond their era's norms. Not isolated outliers —
 | Isaac Surprenant | 1825–1917 | **92** | Surprenant |
 | Joseph Guyette | 1811–1902 | **91** | Guyette |
 | Julien LeBlanc | 1666–1756 | **89** | LeBlanc |
+| Madeleine Mary Lavallee | 1811–1899 | **88** | Lavallee |
 | Joseph Goyette (grandfather) | 1788–1876 | **87** | Goyette |
-| Madeleine Mary Lavallee | 1816–1899 | **83** | Lavallee |
 
 Isaac Surprenant was long the standout at "100", but his baptism (Iberville, 2 Apr 1825; found 2026-10-10) puts him at about 92. The clustering matters more than any one case. French-Canadian lines on the Bodoh side show repeated 85+ lifespans across unrelated branches (Surprenant, LeBlanc, Guyette, Hebert). Whether genetic, dietary, or environmental (Richelieu River valley → Wisconsin farmland), something in these families produced resilience.
 
@@ -26,7 +26,7 @@ Isaac Surprenant was long the standout at "100", but his baptism (Iberville, 2 A
 Four documented instances of family members dying on the same day or within days of each other:
 
 **Julie Guyette & Madeleine Mary Lavallee — April 1, 1899 (same day)**
-Mother and daughter. Julie died in Maple Creek, Outagamie County. Madeleine died in Fond du Lac County. Different locations, same day. Epidemic? Coincidence? Unresolved. Julie was 67, Madeleine was 83.
+Mother and daughter. Julie died in Maple Creek, Outagamie County. Madeleine died in Fond du Lac County. Different locations, same day. Epidemic? Coincidence? Unresolved. Julie was 67, Madeleine was 88 (bapt. Saint-Mathias 9 Feb 1811; the old "1816" belonged to another family).
 
 **Jacques LeBlanc & Marie Suzanne Rousselin — April 15 & 17, 1710 (2 days apart)**
 Husband and wife. Both immigrant ancestors from France. Both died in Quebec City at age 66 after 44 years of marriage. Their son Julien went on to live to 89.
@@ -70,7 +70,7 @@ Three generations in one community:
 The Coppersmith (Coppesmette) and Lancelle families came from neighboring villages in Walloon Belgium. They married in Robinsonville (Champion), Wisconsin — re-creating Old World proximity in the New World.
 
 ### The Quebec → New York → Wisconsin Pipeline
-Some families went Quebec → upstate New York (Plattsburgh, Malone, Rouses Point in Clinton County) → Wisconsin. Alexis Lavallee died in Rouses Point, NY. The Beaudoin/Bodoh line passed through Plattsburgh/Malone. A migration corridor, not random dispersal.
+Some families went Quebec → upstate New York (Plattsburgh, Malone, Rouses Point in Clinton County) → Wisconsin. The Guyettes had children in Plattsburgh between stays in Quebec. The Beaudoin/Bodoh line passed through Plattsburgh/Malone. A migration corridor, not random dispersal.
 
 ---
 

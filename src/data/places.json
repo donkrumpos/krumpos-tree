@@ -317,6 +317,13 @@
     "query": "Hudson, Steuben County, Indiana",
     "source": "nominatim"
   },
+  "Iberville (Saint-Athanase), Quebec, Canada": {
+    "display_name": "Iberville, Saint-Jean-sur-Richelieu, Le Haut-Richelieu, Montérégie, Québec, Canada",
+    "lat": 45.3039219,
+    "lon": -73.2297415,
+    "query": "Iberville , Quebec, Canada",
+    "source": "nominatim"
+  },
   "Iberville, Quebec, Canada": {
     "display_name": "Iberville, Saint-Jean-sur-Richelieu, Le Haut-Richelieu, Montérégie, Québec, Canada",
     "lat": 45.3039219,
@@ -642,6 +649,13 @@
     "lat": 49.4404591,
     "lon": 1.0939658,
     "query": "Rouen, Seine-Maritime, Normandy, France",
+    "source": "nominatim"
+  },
+  "Saint-Mathias, Rouville, Quebec, Canada": {
+    "display_name": "Saint-Mathias-sur-Richelieu, Rouville, Montérégie, Québec, Canada",
+    "lat": 45.4728843,
+    "lon": -73.2646582,
+    "query": "Saint-Mathias, Rouville, Quebec, Canada",
     "source": "nominatim"
   },
   "Saint-Mathias-sur-Richelieu, Rouville, Quebec, Canada": {

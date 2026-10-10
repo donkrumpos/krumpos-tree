@@ -1569,7 +1569,7 @@
     "surname": "Bodoh",
     "birth": "1831-04-20",
     "death": "1899-04-01",
-    "birth_place": "Canada",
+    "birth_place": "Iberville (Saint-Athanase), Quebec, Canada",
     "death_place": "Maple Creek, Outagamie County, Wisconsin",
     "generation": 6,
     "gender": "F",
@@ -1577,7 +1577,7 @@
     "life": [
       {
         "year": 1831,
-        "place": "Canada",
+        "place": "Iberville (Saint-Athanase), Quebec, Canada",
         "kind": "born"
       },
       {
@@ -2177,17 +2177,17 @@
     "slug": "Bodoh/madeleine-mary-lavallee",
     "name": "Madeleine Mary Lavallee",
     "surname": "Bodoh",
-    "birth": "1816-02-28",
+    "birth": "1811-02-09",
     "death": "1899-04-01",
-    "birth_place": "La Prairie, Montérégie, Quebec, Canada",
+    "birth_place": "Saint-Mathias, Rouville, Quebec, Canada",
     "death_place": "Fond du Lac County, Wisconsin",
     "generation": 7,
     "gender": "F",
     "branch": "coppersmith",
     "life": [
       {
-        "year": 1816,
-        "place": "La Prairie, Montérégie, Quebec, Canada",
+        "year": 1811,
+        "place": "Saint-Mathias, Rouville, Quebec, Canada",
         "kind": "born"
       },
       {
