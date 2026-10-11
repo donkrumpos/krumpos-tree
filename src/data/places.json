@@ -324,6 +324,13 @@
     "query": "Hudson, Steuben County, Indiana",
     "source": "nominatim"
   },
+  "Hôtel-Dieu de Montréal, Montréal, Quebec, Canada": {
+    "display_name": "Hôtel-Dieu (CHUM), Rue Saint-Urbain, Le Plateau-Mont-Royal, Montréal, Agglomération de Montréal, Montréal (région administrative), Québec, H2W 1T7, Canada",
+    "lat": 45.5142867,
+    "lon": -73.5788086,
+    "query": "Hôtel-Dieu de Montréal, Montréal, Quebec, Canada",
+    "source": "nominatim"
+  },
   "Iberville (Saint-Athanase), Quebec, Canada": {
     "display_name": "Iberville, Saint-Jean-sur-Richelieu, Le Haut-Richelieu, Montérégie, Québec, Canada",
     "lat": 45.3039219,

@@ -7,8 +7,8 @@ aka:
 - Jean Bourhis dit Lebreton
 birth: ''
 birth_place: ''
-death: ''
-death_place: ''
+death: '1708'
+death_place: Hôtel-Dieu de Montréal, Montréal, Quebec, Canada
 gender: M
 parents:
 - Jean Bourhis Sr.
@@ -34,10 +34,10 @@ linked_children:
 ---
 # Jean Bourhis
 
-**Lifespan:** c.1658 (?) — buried 19 Nov 1708 (?)
+**Lifespan:** c.1658 (?) — buried 19 Nov 1708
 
 ## Summary
-Immigrant joiner (*menuisier*) at Montréal, and Don's only known **Breton-speaking (Léon)** ancestor. He married **Marie Demers**, daughter of André Demers and Marie Chedeville, at **Notre-Dame de Montréal on 22 Oct 1686**. The act names his parents as **Jean Bourhis and Hélène Le Rousseau**, and he signed it himself [CONFIRMED 2026-10-10, register image]. Four children were baptized at Montréal 1691–1702 [CONFIRMED, index], among them **Suzanne**, Don's ancestor. He was buried at Notre-Dame 19 Nov 1708, "maître menuisier", aged about 50 (Drouin, via WikiTree; PROBABLE).
+Immigrant joiner (*menuisier*) at Montréal, and Don's only known **Breton-speaking (Léon)** ancestor. He married **Marie Demers**, daughter of André Demers and Marie Chedeville, at **Notre-Dame de Montréal on 22 Oct 1686**. The act names his parents as **Jean Bourhis and Hélène Le Rousseau**, and he signed it himself [CONFIRMED 2026-10-10, register image]. Four children were baptized at Montréal 1691–1702 [CONFIRMED, index], among them **Suzanne**, Don's ancestor. He died at the Hôtel-Dieu de Montréal and was buried at Notre-Dame on 19 Nov 1708, "maître menuisier", aged about 50 [CONFIRMED 2026-10-11 s12, register image].
 
 Line of descent: Jean Bourhis → Suzanne Bourhis (m. Viau 1722) → Marie-Amable Viau (b. 1731) → Joseph Lebeau (b. 1753) → Marthe Lebeau (b. 1799) → Isaac Surprenant (b. 1825) → … → Don (11 generations).
 
@@ -49,7 +49,7 @@ Line of descent: Jean Bourhis → Suzanne Bourhis (m. Viau 1722) → Marie-Amabl
 ## Sources
 - Marriage, Notre-Dame de Montréal, 22 Oct 1686 — FS, Montréal Notre-Dame BMS 1642–1699, image 531: "Jean Bourhis fils de Jean Bourhis et d'Helene Le Rousseau … Marie Demers fille d'André Demers et de Marie Chedeville … Témoins Julien Bloys et Jean V[inore?] menuisier." **No place of origin is given.** [CONFIRMED 2026-10-10, image]
 - Children's baptisms, Montréal, 1691–1702 (FS index). [CONFIRMED]
-- Burial, Notre-Dame de Montréal, 19 Nov 1708 (Drouin, cited on WikiTree). PROBABLE.
+- Burial, Notre-Dame de Montréal, 19 Nov 1708 — FS DGS 5455529 (film 375841, Registres 1700–1712), image 496: "Le dixneuvième de Novembre de l'an mil sept cent huit a été inhumé le corps de Jean Bourhis, maître menuisier, décédé à l'Hôtel-Dieu de cette ville, âgé d'environ cinquante ans. Témoins Mre François Vachon prêtre et Jean Quenneville…" **No place of origin is given.** [CONFIRMED 2026-10-11 s12, image]
 - FamilySearch tree: LY2Y-1VX.
 
 ## Research Notes
@@ -69,3 +69,4 @@ Line of descent: Jean Bourhis → Suzanne Bourhis (m. Viau 1722) → Marie-Amabl
   - Indexing note: in the Sept-Saints annual table for 1690 (GG468) a burial of **"le Bourhis, Yves"** (Jul 1690) is filed under **L**. Bourhis entries in these tables can be under L as "Le Bourhis" as well as under B. Yves's relationship to Jean (if any) is unknown.
 - Stub created 2026-10-10 (Celtic-ancestry s3, at Don's request).
 - **s11 (2026-10-11):** mesaieux.com (a secondary genealogy) says Jean Le Bourhis-Lebreton, "maître menuisier et tourneur", moved to **Boucherville in 1694** (his son J.-B. was bapt. at Sainte-Famille, Boucherville, 23 Feb 1697 [index]) and **died at the Hôtel-Dieu de Montréal**, buried 19 Nov 1708. The Hôtel-Dieu patient registers usually record a patient's birthplace, so the 1708 entry is the best remaining proof of Brest (not online; offline batch). The burial act was not located on FS in s11 (not indexed). Brest stays PROBABLE.
+- **s12 (2026-10-11):** the Notre-Dame burial act was found by browsing (not indexed): FS DGS 5455529, image 496 (Nov 1708; image 470 = June 1708, 497 = 28 Nov). It confirms death at the Hôtel-Dieu, "maître menuisier", aged about 50 (so born c.1658), but **gives no origin**. Brest therefore still rests on PRDH/Jetté (PROBABLE); the Hôtel-Dieu patient register (offline) remains the best chance of a birthplace.

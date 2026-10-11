@@ -2855,13 +2855,19 @@
     "name": "Jean Bourhis",
     "surname": "Bourhis",
     "birth": "",
-    "death": "",
+    "death": "1708",
     "birth_place": "",
-    "death_place": "",
+    "death_place": "Hôtel-Dieu de Montréal, Montréal, Quebec, Canada",
     "generation": 11,
     "gender": "M",
     "branch": "coppersmith",
-    "life": [],
+    "life": [
+      {
+        "year": 1708,
+        "place": "Hôtel-Dieu de Montréal, Montréal, Quebec, Canada",
+        "kind": "died"
+      }
+    ],
     "life_source": "birth-death"
   },
   {
