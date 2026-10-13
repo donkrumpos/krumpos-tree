@@ -59,3 +59,4 @@ Born February 1846 in Bavaria. Married **Mary Daum** at St. Peter, Nicollet Coun
 
 ## Research Notes
 - Parents and home town unknown. Next: the 1870 marriage register image, his obituary (Mankato Free Press, Nov 1924), and naturalization papers (Le Sueur Co. district court).
+- **2026-10-13 s3:** Find a Grave index (FS QVGL-SH42): b. **28 Jan 1846**, d. 5 Nov 1924, buried **Le Center**, Le Sueur Co. (the census month was February). The 1900 census (Lexington Twp) gives his immigration as **1870**, so he married Mary Daum within months of landing. The FS marriage index (FD6M-C9W) names only the couple. A web search found no obituary or village. No naturalization is indexed on FS for Le Sueur Co. The Daum lead is under [[mary-daum]].

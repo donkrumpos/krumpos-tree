@@ -1214,9 +1214,9 @@
     "slug": "Coppersmith/joseph-barrette",
     "name": "Joseph Barrette",
     "surname": "Coppersmith",
-    "birth": "1855-01-22",
+    "birth": "1855-03-04",
     "death": "1933-02-18",
-    "birth_place": "Belgium (probably Beauvechain or Mélin, Brabant)",
+    "birth_place": "Beauvechain, Brabant, Belgium",
     "death_place": "",
     "generation": 5,
     "gender": "M",
@@ -1224,7 +1224,7 @@
     "life": [
       {
         "year": 1855,
-        "place": "Belgium (probably Beauvechain or Mélin, Brabant)",
+        "place": "Beauvechain, Brabant, Belgium",
         "kind": "born"
       }
     ],
@@ -1482,7 +1482,7 @@
     "surname": "Pfister",
     "birth": "1846-11",
     "death": "1906-approx",
-    "birth_place": "Germany",
+    "birth_place": "Württemberg, Germany",
     "death_place": "",
     "generation": 5,
     "gender": "F",
@@ -1490,7 +1490,7 @@
     "life": [
       {
         "year": 1846,
-        "place": "Germany",
+        "place": "Württemberg, Germany",
         "kind": "born"
       }
     ],
@@ -1503,12 +1503,18 @@
     "surname": "Pfister",
     "birth": "1830-06-19",
     "death": "1908-01-02",
-    "birth_place": "",
+    "birth_place": "Württemberg, Germany",
     "death_place": "",
     "generation": 5,
     "gender": "M",
     "branch": "martin",
-    "life": [],
+    "life": [
+      {
+        "year": 1830,
+        "place": "Württemberg, Germany",
+        "kind": "born"
+      }
+    ],
     "life_source": "birth-death"
   },
   {
@@ -2619,7 +2625,7 @@
     "slug": "Coppersmith/ferdinand-joseph-goes",
     "name": "Ferdinand Joseph Goes",
     "surname": "Coppersmith",
-    "birth": "",
+    "birth": "1796-approx",
     "death": "",
     "birth_place": "",
     "death_place": "",

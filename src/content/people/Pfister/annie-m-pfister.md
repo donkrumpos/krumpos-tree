@@ -3,7 +3,7 @@ id: annie-m-pfister
 name: Annie M. Pfister
 aka: [Annie M Pfister, Anna Pfisterer, Anna Weidner, Annie Wagner, Annie C Pfister, Christiana Pfisterer]
 birth: '1846-11'
-birth_place: 'Germany'
+birth_place: 'Württemberg, Germany'
 death: '1906-approx'
 gender: F
 parents: []
@@ -33,7 +33,7 @@ linked_children:
 **Lifespan:** November 1846 – c. 1906
 
 ## Summary
-Born November 1846 in Germany to German-born parents. She was the second wife of **John Pfister Sr.** of Fish Creek, Door County, and married him about 1872 (28 years married in 1900). She had 9 children, 8 of them living in 1900. She died about mid-1906, before John. Mother of Margaret Pfister (1876–1962), so a 3×-great-grandmother of Don Krumpos through Hazel P. Mielke.
+Born November 1846 in **Württemberg**, Germany (1880 census image), to Württemberg-born parents. Called **Christiana** in 1880 and Annie in 1900. She was the second wife of **John Pfister Sr.** of Fish Creek, Door County, and married him about 1872 (28 years married in 1900). She had 9 children, 8 of them living in 1900. She died about mid-1906, before John. Mother of Margaret Pfister (1876–1962), so a 3×-great-grandmother of Don Krumpos through Hazel P. Mielke.
 
 The full evidence is in [[john-pfister-sr]] and [[margaret-pfister]]. This profile exists so the pedigree links to her.
 
@@ -49,4 +49,5 @@ The full evidence is in [[john-pfister-sr]] and [[margaret-pfister]]. This profi
 
 ## Research Notes
 - **Given name [2026-10-13]:** the 1880 census calls her **Christiana**, b. 1846. That fits the 1900 index's "Annie **C**" (the image was earlier read as "Annie M"). She was probably Anna Christiana (or Christiana Anna). John Jr. (b. 1871) and Anna (b. 1870) are in her 1880 household, and nothing in the census marks them as stepchildren. The "married c. 1872" from 1900 may be off by two or three years, and the first wife may have had no surviving children. The 1880 image would tell (it has a relationship column).
+- **1880 census image read [2026-10-13 s3]** (FS MN4X-DJ7; Nasewaupee ED 43 p. 3, dwelling 16): "Christiana", 34, wife, keeping house, b. **Württemberg**, both parents b. Württemberg. All five children (Anna 10, John 9, Mary 7, Margaretha 5, William 3) are son/daughter of the head, b. Wisconsin, with mother b. Württemberg. That favours her as the mother of all five. Her line also has a tick in the disability columns, apparently col. 19 ("Insane"). That would fit the 1908 obituary's "long illness in his family". If she spent her last years in a state hospital (Northern Hospital, Winnebago, or Mendota, Madison), her c. 1906 death would be recorded in that county, not Door. A search of the WI death indexes 1904–08 for Pfister/Pfisterer found no match (the Dane Co. Mary Pfister of 1907 is Mary A. Endres of Waunakee).
 - **Maiden name conflict:** Weidner (Find a Grave) vs Wagner (marriage index). The indexer may have read "Weidner" as "Wagner". The WHS original of the 1902 marriage, or Margaret's 1962 death certificate, should settle it.

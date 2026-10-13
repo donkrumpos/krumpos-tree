@@ -52,5 +52,6 @@ Born at **Beauvechain, Brabant, Belgium**, 8 Jul 1827, daughter of **Ferdinand J
 
 ## Research Notes
 - Her death date and burial are not found yet. Check Duvall and Rosiere Catholic cemeteries, and the 1895 and 1905 Wisconsin state censuses.
-- Her 1827 Beauvechain birth record would settle the mother's given name (Albertine vs Catherine).
+- Her 1827 Beauvechain birth record would settle the mother's given name (Albertine vs Catherine). **s3:** FamilySearch has no Beauvechain births film for 1813–1842 (its image groups jump from 1770–1812 to 1843–1860), so the act is not online there. Try AGATHA (agatha.arch.be, State Archives of Belgium) or the Beauvechain population register 1847–1866 (DGS 008189290).
+- **Son Joseph CONFIRMED [2026-10-13 s3]:** Beauvechain birth act no. 10, 5 Mar 1855 (DGS 004341930, image 165): Ferdinand-Joseph Barette, b. 4 Mar 1855, son of Guillaume-Joseph Barette and Eugénie-Joseph Goes, his wife, 28, *ménagère*; her father Ferdinand-Joseph Goes, 58, potter, was a witness. See [[joseph-barrette]].
 - Not the Eugénie Goes who married Jean Joseph Leurquin (children at Saint-Jean-Geest, 1855–56).

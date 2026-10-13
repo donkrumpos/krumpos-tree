@@ -53,6 +53,6 @@ Born at **Mélin, Brabant, Belgium**, 18 Feb 1829, son of Jean François Barette
 - FamilySearch tree: KN7J-D6Q (already joins the Mélin record to the Wisconsin man).
 
 ## Research Notes
-- See [[joseph-barrette]] for the evidence that ties this couple to Joseph (PROBABLE).
+- **Son Joseph CONFIRMED [2026-10-13 s3]:** Beauvechain birth act no. 10, 5 Mar 1855 (DGS 004341930, image 165): Guillaume-Joseph Barette, 27, farmer, b. Mélin, living at Beauvechain, registers his son Ferdinand-Joseph, b. 4 Mar 1855, by his wife Eugénie-Joseph Goes, 28. He signed "Guillaume-J Barette". The couple was living at Beauvechain, the bride's village, in 1855. See [[joseph-barrette]].
 - Son Prosper's 1902 death record (FS XLHZ-FJP) gives the mother as "A. Mannwell". The census and banns say Eugénie/Eugenia.
-- Next steps: his death certificate (WI, 1916) for his parents' names; the Mélin 1829 birth image; the Beauvechain/Mélin 1855 births for Joseph.
+- Next steps: his death certificate (WI, 1916) for his parents' names; the Mélin 1829 birth image; ~~the Beauvechain/Mélin 1855 births for Joseph~~ (done s3); the Beauvechain population register 1847–1866 (DGS 008189290).

@@ -855,5 +855,12 @@
     "lon": null,
     "query": "Wisconsin",
     "source": "too-vague"
+  },
+  "Württemberg, Germany": {
+    "display_name": "Württemberg, Baden-Württemberg, 72393, Deutschland",
+    "lat": 48.3366504,
+    "lon": 9.0994058,
+    "query": "Württemberg, Germany",
+    "source": "nominatim"
   }
 }
