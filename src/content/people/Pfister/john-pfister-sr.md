@@ -161,3 +161,7 @@ The obituary's "Phillip, died 1863 in the line of duty in the south" doesn't mat
 7. Search 1860, 1870, 1880 census images for John Pfister(er) in Door County — would show first wife and children. Also check Ahnapee/Kewaunee 1860.
 8. Confirm Edward/Frank as twins — birth records (Mar 1886, Door County — post-1876 so possibly in the pre-1907 index; not yet searched).
 9. ~~Casper Pfister confirmed as John's son~~ — resolved; dates now from headstone (1893–1975, wife Ethel).
+
+### 2026-10-13 s4
+- **A Charles Pfister in Door Co.:** 1870 census, Gardner, Door Co. (FS index): Charles Pfister, b. 1845 Germany, in a household of unrelated men (probably a lumber camp). A "Chas Pfisterer" died in Door Co. 26 Dec 1896 (WI death index, FS VJP9-2QN), as did a Frank Pfisterer on 18 Dec 1896 (VJP7-KL3). Margaret's 1902 marriage index names her father "Charles Pfister", so a Door Co. Charles of the right surname did exist. He is 15 years younger than John and may be a younger brother or nephew whose name the 1902 clerk borrowed. Unresolved.
+- No 1860 or 1870 census entry for John or Philip was found under Pfister/Pfisterer/Fister/Pfeister variants in Door Co. (FS index; 1875 state census has "John Pfeister", Nasewaupee, MMMY-WM6).

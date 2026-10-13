@@ -1524,7 +1524,7 @@
     "surname": "Rabe",
     "birth": "1824-08-31",
     "death": "1912-05-25",
-    "birth_place": "Germany (Prussia per 1880 census)",
+    "birth_place": "Hanover, Germany (1912 obituary; Prussia per 1880 census)",
     "death_place": "St. Peter, Nicollet County, Minnesota",
     "generation": 5,
     "gender": "F",
@@ -1532,7 +1532,7 @@
     "life": [
       {
         "year": 1824,
-        "place": "Germany (Prussia per 1880 census)",
+        "place": "Hanover, Germany (1912 obituary; Prussia per 1880 census)",
         "kind": "born"
       },
       {
@@ -1602,7 +1602,7 @@
     "surname": "Schmidt",
     "birth": "1822-03-24",
     "death": "1895-02-01",
-    "birth_place": "Germany (Mecklenburg per family research)",
+    "birth_place": "Mecklenburg, Germany",
     "death_place": "St. Peter, Nicollet County, Minnesota",
     "generation": 5,
     "gender": "M",
@@ -1610,7 +1610,7 @@
     "life": [
       {
         "year": 1822,
-        "place": "Germany (Mecklenburg per family research)",
+        "place": "Mecklenburg, Germany",
         "kind": "born"
       },
       {

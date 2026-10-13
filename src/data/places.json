@@ -335,6 +335,13 @@
     "query": "Hanover, Germany",
     "source": "nominatim"
   },
+  "Hanover, Germany (1912 obituary; Prussia per 1880 census)": {
+    "display_name": "Hannover, Region Hannover, Niedersachsen, Deutschland",
+    "lat": 52.3744779,
+    "lon": 9.7385532,
+    "query": "Hanover, Germany",
+    "source": "nominatim"
+  },
   "Hoegaarden, Flemish Brabant, Belgium": {
     "display_name": "Hoegaarden, Leuven, Vlaams-Brabant, Vlaanderen, België / Belgique / Belgien",
     "lat": 50.7741896,
@@ -522,6 +529,13 @@
     "lat": 44.4562201,
     "lon": -88.7016755,
     "query": "Maple Creek, Outagamie County, Wisconsin",
+    "source": "nominatim"
+  },
+  "Mecklenburg, Germany": {
+    "display_name": "Mecklenburg, Deutschland",
+    "lat": 53.7447473,
+    "lon": 11.7952263,
+    "query": "Mecklenburg, Germany",
     "source": "nominatim"
   },
   "Michigan": {
