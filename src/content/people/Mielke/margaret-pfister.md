@@ -7,7 +7,7 @@ death: '1962-02-17'
 birth_place: 'Fish Creek, Door County, Wisconsin'
 death_place: 'Green Bay, Brown County, Wisconsin'
 gender: F
-parents: [John Pfister Sr.]
+parents: [John Pfister Sr., Annie M. Pfister]
 spouses:
 - Emil Mielke (m. 1902-10-16; divorced before 1930)
 children:
@@ -29,6 +29,7 @@ created: '2025-09-17'
 surname: 'Mielke'
 linked_parents:
   - 'Pfister/john-pfister-sr'
+  - 'Pfister/annie-m-pfister'
 linked_spouses:
   - 'Mielke/emil-mielke'
 linked_children:

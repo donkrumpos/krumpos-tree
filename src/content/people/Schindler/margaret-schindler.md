@@ -1,11 +1,14 @@
 ---
 id: margaret-schindler
 name: Margaret Schindler
-aka: [Maggie Schindler, Maggie Kendall, Margarett Kendall, Anna M Kendall]
+aka: [Maggie Schindler, Maggie Kendall, Margarett Kendall, Anna M Kendall, Margaret Schinlere Kendall]
 birth: '1873-approx'
-death: ''
+birth_place: 'Lexington Township, Le Sueur County, Minnesota'
+death: '1937'
 gender: F
-parents: []
+parents:
+- George Schindler (1846-1924)
+- Mary Daum (1846-1929)
 spouses:
 - John H. Kendall (m. 1892-02-02, Le Center, MN)
 children:
@@ -15,19 +18,20 @@ children:
 - Hazel Victoria Kendall
 - Noah Nathan Kendall
 - Delta Kendall
-burial: ''
+burial: 'Yankee Cemetery, Le Sueur County, Minnesota (Find a Grave 154898644)'
 status: confirmed
 uncertain_fields:
 - birth (1866 per 1900 census, ~1872 per 1893 birth register, 1873 per FamilySearch)
-- death
-- parents (both German-born, names unknown)
+- death (year only, from Find a Grave)
 tags:
 - '#person'
 - '#schindler'
 - '#kendall'
 created: '2026-04-07'
 surname: 'Schindler'
-linked_parents: []
+linked_parents:
+  - 'Schindler/george-schindler'
+  - 'Schindler/mary-daum'
 linked_spouses:
   - 'Kendall/john-h-kendall'
 linked_children:
@@ -40,14 +44,14 @@ linked_children:
 ---
 # Margaret Schindler
 
-**Lifespan:** c. 1873 – ?
+**Lifespan:** c. 1873 – 1937
 
 ## Summary
-Born c. 1873 in Lexington, Le Sueur County, Minnesota. Daughter of German-born parents (names unknown). Married John H. Kendall on February 2, 1892 in Le Center, Le Sueur County, Minnesota. Six children (3 sons, 3 daughters). Lived in Lexington Township, Le Sueur County (1900, 1910).
+Born c. 1873 in Lexington, Le Sueur County, Minnesota. Daughter of **George Schindler** (1846–1924) and **Mary Daum** (1846–1929), Bavarian immigrants who married at St. Peter in 1870 and farmed in Lexington Township. Married John H. Kendall on February 2, 1892 in Le Center, Le Sueur County, Minnesota. Six children (3 sons, 3 daughters). Lived in Lexington Township, Le Sueur County (1900, 1910).
 
 ## Relationships
 - **Husband:** John H. Kendall (1870–1944) — m. Feb 2, 1892, Le Center, MN (license issued Jan 29, 1892)
-- **Parents:** Unknown — both born in Germany (per 1900 census)
+- **Parents:** George Schindler (b. Feb 1846 Bavaria, d. 5 Nov 1924 Mankato Twp) & Mary Daum (b. c. 1846 Bavaria, d. 28 May 1929 Cleveland, Le Sueur Co.) — m. 16 Jul 1870, St. Peter, Nicollet Co., MN
 - **Children (6 — 3 sons, 3 daughters):**
   - Mary Jane Kendall (Dec 11, 1893–1971) — **direct line**. m. Frederick John L Schmidt
   - William E. Kendall (c. May 1895–?)
@@ -63,6 +67,14 @@ Born c. 1873 in Lexington, Le Sueur County, Minnesota. Daughter of German-born p
 - Minnesota birth record: Noah Nathan Kendall (Oct 6, 1900) — mother Margaret Schindler, age 26, born Minnesota
 - Return of Deaths, Town of Lexington, 189_ — line 6: "John H. Kendall", Male, age ~15 days. Father: John H. Kendall, birthplace Lexington. Mother: Margaret Kendall, birthplace Lexington.
 - FamilySearch (birth, marriage, children)
+- **1875 Minnesota state census, Lexington, Le Sueur Co.** (FS index): Margaret Schindler, b. 1873 MN, in household of Geo & Mary Schindler with Anna and Augusta.
+- **1880 US census, Lexington, Le Sueur Co.** (FS index, 2026-10-13): George Schindler 34 (b. Germany, parents b. Bavaria), Maria 33 (b. Germany, parents b. Bavaria); children Anna M. 8, **Margaret 7**, Augusta 5, Heinrich 3, Mary 1, all b. MN.
+- **1885 Minnesota state census, Lexington** (FS index): Margaret Schindler, b. 1873, with George, Mary and Anny.
+- **Marriage of George Schindler × Mary Daum, 16 Jul 1870, St. Peter, Nicollet Co., MN** (FS "Minnesota, Marriages, 1849-1950", FD6M-C9W; index only).
+- **Death of Mary Schindler, 28 May 1929, Cleveland, Le Sueur Co.** (FS "Minnesota, Deaths, 1887-2001", Z7SX-FYN2; index): b. 1846 Germany; **father's surname Daum**; spouse George. Also "Minnesota, County Deaths" QP7Q-ZTY4 (father "Daunn").
+- **Death of George Schindler, 5 Nov 1924, Mankato Twp, Blue Earth Co.** (FS ZWPG-2JMM; index): b. 1846 Germany; spouse Mary; parents' names blank.
+- **Find a Grave 154898644**: Margaret "maggie" Schinlere Kendall, 1871–1937, Yankee Cemetery, Le Sueur Co.; spouse John W. Kendall (1869–1944, 154898567); children Hazel Victoria Olsen, Noah Nathan Sr., Delta.
+- Sister Anna Schindler (b. 1872) married Charles W. Sycks (FS "Minnesota, County Marriages", QJGY-YCKF), so the Maggie who married John Kendall in 1892 is Margaret, not Anna.
 
 ## Research Notes
 
@@ -73,11 +85,12 @@ Born c. 1873 in Lexington, Le Sueur County, Minnesota. Daughter of German-born p
 - FamilySearch: 1873
 - The 1866 date from the census is likely wrong — it conflicts with all other sources. Birth c. 1872-1873 is most consistent.
 
-### Parents
-- Both parents born in **Germany** — confirmed by 1900 census
-- No names found. Schindler is a German surname (means "roofer" or "shingler")
-- Margaret was born in Lexington, MN — her parents were German immigrants who settled in Le Sueur County before 1873
-- **Next steps:** Search for Schindler families in Le Sueur County on 1870 and 1880 censuses. Margaret would be in her parents' household as a child (~age 7 in 1880). A Schindler household in Lexington Township with a daughter Margaret born c. 1872-1873 would identify the parents.
+### Parents — SOLVED 2026-10-13
+- **George Schindler** (b. Feb 1846, Bavaria; d. 5 Nov 1924, Mankato Twp, Blue Earth Co.) and **Mary/Maria Daum** (b. c. 1846–47, Bavaria; d. 28 May 1929, Cleveland, Le Sueur Co.). They married 16 Jul 1870 at St. Peter, Nicollet Co. Margaret is in their household in 1875, 1880 and 1885.
+- Siblings: Anna M. (1872, m. Charles W. Sycks), Augusta (1875), Heinrich/Henry (1877), Mary (1879), George Jr. (1885), John (Jan 1892), and probably others (1900 and 1910 censuses).
+- The 1920 census calls Margaret "Anna M Kendall". Her older sister was Anna M., so this is probably an enumerator mix-up and not a middle name.
+- The 1920 census gives George's birthplace as "Germany Hannover". Every other census gives Bavaria.
+- **Next:** George's parents, and the Daum family's home town in Bavaria. Check the St. Peter 1870 marriage register image and Catholic parish records (Lexington/Le Center). George and Mary are both in [[george-schindler]] and [[mary-daum]].
 
 ### Name variants
 - "Maggie" — marriage license (1892), Mary Jane's birth register (1893). Her everyday name.

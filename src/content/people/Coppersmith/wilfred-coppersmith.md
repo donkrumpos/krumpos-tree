@@ -25,7 +25,7 @@ created: '2026-04-06'
 surname: 'Coppersmith'
 linked_parents:
   - 'Coppersmith/frank-coppersmith'
-  - ''
+  - 'Coppersmith/odile-barette'
 linked_spouses:
   - ''
 linked_children: []

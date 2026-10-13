@@ -41,6 +41,13 @@
     "query": "Baden, Germany",
     "source": "nominatim"
   },
+  "Bavaria, Germany": {
+    "display_name": "Bayern, Deutschland",
+    "lat": 48.9467562,
+    "lon": 11.4038717,
+    "query": "Bavaria, Germany",
+    "source": "nominatim"
+  },
   "Bear Creek, Outagamie County, Wisconsin": {
     "display_name": "Bear Creek, Outagamie County, Wisconsin, United States",
     "lat": 44.5302735,
@@ -478,6 +485,13 @@
     "query": "Malone, Franklin County, New York",
     "source": "nominatim"
   },
+  "Mankato Township, Blue Earth County, Minnesota": {
+    "display_name": "Mankato Township, Blue Earth County, Minnesota, United States",
+    "lat": 44.1502658,
+    "lon": -93.9171465,
+    "query": "Mankato Township, Blue Earth County, Minnesota",
+    "source": "nominatim"
+  },
   "Maple Creek, Outagamie County, Wisconsin": {
     "display_name": "Town of Maple Creek, Outagamie County, Wisconsin, United States",
     "lat": 44.4562201,
@@ -769,6 +783,12 @@
     "lon": -87.377042,
     "query": "Sturgeon Bay, Door County, Wisconsin",
     "source": "nominatim"
+  },
+  "Sweden": {
+    "lat": null,
+    "lon": null,
+    "query": "Sweden",
+    "source": "too-vague"
   },
   "Town of Green Bay, Brown County, Wisconsin": {
     "display_name": "Town of Green Bay, Brown County, Wisconsin, United States",

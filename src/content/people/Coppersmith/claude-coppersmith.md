@@ -43,11 +43,11 @@ life:
 surname: 'Coppersmith'
 linked_parents:
   - 'Coppersmith/frank-coppersmith'
-  - ''
+  - 'Coppersmith/odile-barette'
 linked_spouses:
-  - ''
+  - 'Bodoh/marie-bodoh-coppersmith'
 linked_children:
-  - ''
+  - 'Coppersmith/dorothy-elaine-coppersmith'
   - 'Coppersmith/leonard-coppersmith'
   - 'Coppersmith/robert-coppersmith'
   - 'Coppersmith/ronald-coppersmith'

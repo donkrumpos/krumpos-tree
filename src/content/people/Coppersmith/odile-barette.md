@@ -44,7 +44,7 @@ linked_children:
   - 'Coppersmith/claude-coppersmith'
   - 'Coppersmith/harold-coppersmith'
   - 'Coppersmith/geraldine-coppersmith'
-  - ''
+  - 'Coppersmith/agnes-coppersmith'
 ---
 # Odile Clemens (Barette) Coppersmith
 

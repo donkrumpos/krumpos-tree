@@ -20,8 +20,8 @@ linked_spouses:
   - ''
   - ''
 linked_children:
-  - ''
-  - ''
+  - 'Krumpos/donald-a-krumpos'
+  - 'Krumpos/helen-krumpos-schleicher'
   - ''
   - ''
 ---

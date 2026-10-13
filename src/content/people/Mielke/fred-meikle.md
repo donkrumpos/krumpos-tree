@@ -42,7 +42,7 @@ linked_parents:
   - ''
   - ''
 linked_spouses:
-  - ''
+  - 'Mielke/mary-johnson'
 linked_children:
   - ''
   - ''

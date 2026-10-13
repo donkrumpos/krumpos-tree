@@ -18,12 +18,12 @@ created: "2025-09-17"
 surname: 'Krumpos'
 linked_parents:
   - 'Krumpos/donald-howard-krumpos'
-  - ''
+  - 'Coppersmith/dorothy-elaine-coppersmith'
 linked_spouses:
   - ''
 linked_children:
-  - ''
-  - ''
+  - 'Krumpos/donald-a-krumpos'
+  - 'Krumpos/helen-krumpos-schleicher'
   - ''
   - ''
 ---

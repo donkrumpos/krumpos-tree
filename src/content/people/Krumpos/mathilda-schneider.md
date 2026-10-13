@@ -8,7 +8,7 @@ birth_place: 'Kenosha, Kenosha County, Wisconsin'
 death_place: 'Green Bay, Brown County, Wisconsin'
 gender: F
 burial: Mount Calvary Cemetery, De Pere, Wisconsin (Section CA, Lot 24-D)
-parents: [William Schneider, Mathilda (Unknown) Schneider]
+parents: [William Schneider, Mathilde (Schneider) Schneider]
 spouses: [Lawrence Antone Krumpos]
 children: [Dorothy L Krumpos, Donald Howard Krumpos, Jerome Marvin Krumpos, Lawrence F. Krumpos Jr., Lloyd Krumpos, Rosemary Krumpos, Mae Krumpos]
 status: confirmed
@@ -38,10 +38,10 @@ linked_children:
 **Lifespan:** January 25, 1897 – January 3, 1973
 
 ## Summary
-Second spouse of Lawrence Antone Krumpos — married April 9, 1922 in Kewaunee, Wisconsin. Born January 25, 1897 in Kenosha County, Wisconsin. Resided in Kenosha for ~10 years, then Bellevue, Brown County (1940), then De Pere — final address 811 Oak St., De Pere. Died early morning January 3, 1973 in a Green Bay hospital. Buried at Mount Calvary Cemetery, De Pere — Section CA, Lot 24-D, immediately adjacent to Lawrence in Lot 24-C. Member of the Gold Star Mothers (sons Lester and Jerome killed in WWII and Korea) and the Navy Mothers Club (son Donald, U.S. Navy, WWII). Mother of Dorothy L. (1923), Donald H. (1924), Jerome (1928), Larry (1930), Lloyd, Rosemary, Mae/Mable. Daughter of William Schneider and Mathilda (Unknown) Schneider.
+Second spouse of Lawrence Antone Krumpos — married April 9, 1922 in Kewaunee, Wisconsin. Born January 25, 1897 in Kenosha County, Wisconsin. Resided in Kenosha for ~10 years, then Bellevue, Brown County (1940), then De Pere — final address 811 Oak St., De Pere. Died early morning January 3, 1973 in a Green Bay hospital. Buried at Mount Calvary Cemetery, De Pere — Section CA, Lot 24-D, immediately adjacent to Lawrence in Lot 24-C. Member of the Gold Star Mothers (sons Lester and Jerome killed in WWII and Korea) and the Navy Mothers Club (son Donald, U.S. Navy, WWII). Mother of Dorothy L. (1923), Donald H. (1924), Jerome (1928), Larry (1930), Lloyd, Rosemary, Mae/Mable. Daughter of William Schneider and Mathilde (Schneider) Schneider.
 
 ## Relationships
-- **Parents:** William F. Schneider (b. Mar 1872, **Daaden, Germany** (Westerwald, Rhineland-Palatinate); parents both German; arrived NYC age 19 on **SS Noordland** (Red Star Line, Antwerp→New York), occupation Baker; Day Laborer in 1900 census) & Mathilda/Mathilida (Unknown) Schneider (b. c. 1873, **Germany**; parents both German; immigrated **1892**; died 1912, buried Kenosha. 6 children, 6 living per 1900 census.)
+- **Parents:** William F. Schneider (b. Mar 1872, **Daaden, Germany** (Westerwald, Rhineland-Palatinate); parents both German; arrived NYC age 19 on **SS Noordland** (Red Star Line, Antwerp→New York), occupation Baker; Day Laborer in 1900 census) & Mathilda/Mathilida (Schneider) Schneider (b. Apr 1870, **Germany**; maiden name Schneider/Schnieder per 1892 marriage index and sister Anna's NUMIDENT; m. 19 Oct 1892, Kenosha; parents both German; immigrated **1892**; died 1912, buried Kenosha. 6 children, 6 living per 1900 census.)
 - **Siblings (per 1900 census):** Clara (b. Feb 1893, WI), Anna (b. May 1895, WI), Fred (b. c. 1895, WI), **Matilda** (b. Jan 1897, WI), Paul (b. c. 1898/9, WI), [daughter, name unreadable] (b. May 1900, WI)
 - **Husband:** Lawrence Antone Krumpos (1889–1986) — m. April 9, 1922, Kewaunee, WI
 

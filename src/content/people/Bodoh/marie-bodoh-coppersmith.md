@@ -46,7 +46,7 @@ linked_parents:
 linked_spouses:
   - 'Coppersmith/claude-coppersmith'
 linked_children:
-  - ''
+  - 'Coppersmith/dorothy-elaine-coppersmith'
   - 'Coppersmith/leonard-coppersmith'
   - 'Coppersmith/ronald-coppersmith'
   - ''

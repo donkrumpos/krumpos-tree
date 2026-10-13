@@ -31,7 +31,7 @@ linked_parents:
   - 'Krumpos/lawrence-krumpos'
   - 'Krumpos/mathilda-schneider'
 linked_spouses:
-  - ''
+  - 'Coppersmith/dorothy-elaine-coppersmith'
 linked_children:
   - 'Krumpos/keith-lester-krumpos'
   - 'Krumpos/catherine-krumpos'

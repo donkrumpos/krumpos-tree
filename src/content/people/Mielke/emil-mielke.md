@@ -32,7 +32,7 @@ created: '2025-09-17'
 surname: 'Mielke'
 linked_parents:
   - 'Mielke/fred-meikle'
-  - ''
+  - 'Mielke/mary-johnson'
 linked_spouses:
   - 'Mielke/margaret-pfister'
   - ''

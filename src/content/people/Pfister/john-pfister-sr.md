@@ -35,7 +35,7 @@ surname: 'Pfister'
 linked_parents: []
 linked_spouses:
   - ''
-  - ''
+  - 'Pfister/annie-m-pfister'
 linked_children:
   - ''
   - ''

@@ -38,13 +38,13 @@ linked_parents:
   - 'Coppersmith/isidore-coppesmette'
   - 'Coppersmith/celestine-lancelle'
 linked_spouses:
-  - ''
+  - 'Coppersmith/odile-barette'
 linked_children:
   - 'Coppersmith/wilfred-coppersmith'
   - 'Coppersmith/claude-coppersmith'
   - 'Coppersmith/harold-coppersmith'
   - 'Coppersmith/geraldine-coppersmith'
-  - ''
+  - 'Coppersmith/agnes-coppersmith'
 ---
 # Frank Joseph Coppersmith
 

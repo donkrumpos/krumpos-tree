@@ -857,13 +857,19 @@
     "name": "Margaret Schindler",
     "surname": "Schindler",
     "birth": "1873-approx",
-    "death": "",
-    "birth_place": "",
+    "death": "1937",
+    "birth_place": "Lexington Township, Le Sueur County, Minnesota",
     "death_place": "",
     "generation": 4,
     "gender": "F",
     "branch": "schmidt",
-    "life": [],
+    "life": [
+      {
+        "year": 1873,
+        "place": "Lexington Township, Le Sueur County, Minnesota",
+        "kind": "born"
+      }
+    ],
     "life_source": "birth-death"
   },
   {
@@ -887,6 +893,32 @@
       {
         "year": 1920,
         "place": "Cleveland, Le Sueur County, Minnesota",
+        "kind": "died"
+      }
+    ],
+    "life_source": "birth-death"
+  },
+  {
+    "id": "mathilda-unknown-schneider",
+    "slug": "Schneider/mathilda-unknown-schneider",
+    "name": "Mathilde (Schneider) Schneider",
+    "surname": "Schneider",
+    "birth": "1870-04",
+    "death": "1912-07",
+    "birth_place": "Germany",
+    "death_place": "Kenosha, Kenosha County, Wisconsin",
+    "generation": 4,
+    "gender": "F",
+    "branch": "krumpos",
+    "life": [
+      {
+        "year": 1870,
+        "place": "Germany",
+        "kind": "born"
+      },
+      {
+        "year": 1912,
+        "place": "Kenosha, Kenosha County, Wisconsin",
         "kind": "died"
       }
     ],
@@ -1412,6 +1444,53 @@
     "life_source": "birth-death"
   },
   {
+    "id": "mary-johnson",
+    "slug": "Mielke/mary-johnson",
+    "name": "Mary (Johnson) Maggle",
+    "surname": "Mielke",
+    "birth": "1859-05-04",
+    "death": "1938-11-14",
+    "birth_place": "Sweden",
+    "death_place": "Sturgeon Bay, Door County, Wisconsin",
+    "generation": 5,
+    "gender": "F",
+    "branch": "martin",
+    "life": [
+      {
+        "year": 1859,
+        "place": "Sweden",
+        "kind": "born"
+      },
+      {
+        "year": 1938,
+        "place": "Sturgeon Bay, Door County, Wisconsin",
+        "kind": "died"
+      }
+    ],
+    "life_source": "birth-death"
+  },
+  {
+    "id": "annie-m-pfister",
+    "slug": "Pfister/annie-m-pfister",
+    "name": "Annie M. Pfister",
+    "surname": "Pfister",
+    "birth": "1846-11",
+    "death": "1906-approx",
+    "birth_place": "Germany",
+    "death_place": "",
+    "generation": 5,
+    "gender": "F",
+    "branch": "martin",
+    "life": [
+      {
+        "year": 1846,
+        "place": "Germany",
+        "kind": "born"
+      }
+    ],
+    "life_source": "birth-death"
+  },
+  {
     "id": "john-pfister-sr",
     "slug": "Pfister/john-pfister-sr",
     "name": "John Pfister Sr.",
@@ -1447,6 +1526,58 @@
       {
         "year": 1918,
         "place": "Greenlawn, Fairfield Township, Butler County, Ohio",
+        "kind": "died"
+      }
+    ],
+    "life_source": "birth-death"
+  },
+  {
+    "id": "george-schindler",
+    "slug": "Schindler/george-schindler",
+    "name": "George Schindler",
+    "surname": "Schindler",
+    "birth": "1846-02",
+    "death": "1924-11-05",
+    "birth_place": "Bavaria, Germany",
+    "death_place": "Mankato Township, Blue Earth County, Minnesota",
+    "generation": 5,
+    "gender": "M",
+    "branch": "schmidt",
+    "life": [
+      {
+        "year": 1846,
+        "place": "Bavaria, Germany",
+        "kind": "born"
+      },
+      {
+        "year": 1924,
+        "place": "Mankato Township, Blue Earth County, Minnesota",
+        "kind": "died"
+      }
+    ],
+    "life_source": "birth-death"
+  },
+  {
+    "id": "mary-daum",
+    "slug": "Schindler/mary-daum",
+    "name": "Mary Daum",
+    "surname": "Schindler",
+    "birth": "1846-approx",
+    "death": "1929-05-28",
+    "birth_place": "Bavaria, Germany",
+    "death_place": "Cleveland, Le Sueur County, Minnesota",
+    "generation": 5,
+    "gender": "F",
+    "branch": "schmidt",
+    "life": [
+      {
+        "year": 1846,
+        "place": "Bavaria, Germany",
+        "kind": "born"
+      },
+      {
+        "year": 1929,
+        "place": "Cleveland, Le Sueur County, Minnesota",
         "kind": "died"
       }
     ],

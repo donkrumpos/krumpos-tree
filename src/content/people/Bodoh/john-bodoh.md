@@ -30,7 +30,7 @@ linked_spouses:
 linked_children:
   - ''
   - ''
-  - ''
+  - 'Bodoh/marie-bodoh-coppersmith'
 ---
 # John Bodoh
 

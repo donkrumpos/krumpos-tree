@@ -33,7 +33,7 @@ linked_spouses:
   - ''
 linked_children:
   - ''
-  - ''
+  - 'Bodoh/marie-bodoh-coppersmith'
   - ''
   - ''
   - 'Bodoh/lorraine-siudzinski-vincent'

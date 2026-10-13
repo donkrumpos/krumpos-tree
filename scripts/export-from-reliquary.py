@@ -271,6 +271,15 @@ def build_name_lookup(people_dir):
                 maiden_name = f"{first} {maiden}"
                 if maiden_name.lower() not in lookup:
                     lookup[maiden_name.lower()] = slug
+                # "Dorothy Elaine Coppersmith"
+                given = name[:paren_match.start()].strip()
+                full_maiden = f"{given} {maiden}"
+                if full_maiden.lower() not in lookup:
+                    lookup[full_maiden.lower()] = slug
+
+            # File id, e.g. "donald-a-krumpos" in children lists
+            if file_id.lower() not in lookup:
+                lookup[file_id.lower()] = slug
 
     return lookup
 
