@@ -139,6 +139,11 @@ The obituary's "Phillip, died 1863 in the line of duty in the south" doesn't mat
 ### Funeral note
 - The obituary mentions that the letter announcing his death failed to reach relatives, and they didn't learn of his passing until after the funeral. They traveled to his home two days after the burial. Poignant detail about rural communication in 1908.
 
+### 2026-10-13 additions
+- **1880 US census, Nasewaupee, Door Co.** (FS): **John Pfisterer**, 49, b. 1831 Germany, farmer; wife **Christiana**, 34, b. 1846 Germany (= Annie of 1900, "Annie C"); children Anna (1870), John (1871), Mary (1873), Margareth, William, all b. Wisconsin. He still lived in Nasewaupee in June 1880, so the move north came later that year.
+- **Philip Pfister, d. 4 Jan 1869, buried Little Sturgeon, Door Co.** (Find a Grave index, FS W6NP-GDZM). A Philip of the right surname died in the Nasewaupee/Little Sturgeon area in 1869. He may be the obituary's "brother Phillip" (whom the 1908 obituary sent to war and death "in the south"). Or the obituary could have merged this man with David Pfisterer, who did die at Mobile. Open the memorial for dates of birth and the stone.
+- The 1902 marriage index (XRVC-F8D) names Margaret's father **"Charles Pfister"** — another unexplained given name, like "Phillip". The image is not online.
+
 ### Next steps [reworked 2026-07-15 after Civil War identification]
 1. **Pension file (highest yield):** General Index to Pension Files (T288, Fold3/Ancestry) under Pfisterer/Pfesterer/Pfiserer, David, 11th Wis. Inf. Co. E, widow Margaretha — then order the file from NARA. Should contain the 1853 New York marriage proof, children's names/birthdates, possibly German origin, and would **prove or break the David-is-John's-brother link**.
 2. **LEO-BW emigration database, manual browser search** (not scriptable): leo-bw.de Auswanderer module → Personensuche → "Pfister" and "Pfisterer," emigration 1850–1856, North America. Johannes b. ~1830 + David; any Oberamt near Stuttgart is a strong signal.

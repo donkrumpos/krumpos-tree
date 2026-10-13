@@ -1214,14 +1214,20 @@
     "slug": "Coppersmith/joseph-barrette",
     "name": "Joseph Barrette",
     "surname": "Coppersmith",
-    "birth": "1855",
-    "death": "1933",
-    "birth_place": "",
+    "birth": "1855-01-22",
+    "death": "1933-02-18",
+    "birth_place": "Belgium (probably Beauvechain or Mélin, Brabant)",
     "death_place": "",
     "generation": 5,
     "gender": "M",
     "branch": "coppersmith",
-    "life": [],
+    "life": [
+      {
+        "year": 1855,
+        "place": "Belgium (probably Beauvechain or Mélin, Brabant)",
+        "kind": "born"
+      }
+    ],
     "life_source": "birth-death"
   },
   {
@@ -1510,22 +1516,22 @@
     "slug": "Rabe/elizabeth-rabe",
     "name": "Elizabeth Rabe",
     "surname": "Rabe",
-    "birth": "1846-12-12",
-    "death": "1918",
-    "birth_place": "Germany",
-    "death_place": "Greenlawn, Fairfield Township, Butler County, Ohio",
+    "birth": "1824-08-31",
+    "death": "1912-05-25",
+    "birth_place": "Germany (Prussia per 1880 census)",
+    "death_place": "St. Peter, Nicollet County, Minnesota",
     "generation": 5,
     "gender": "F",
     "branch": "schmidt",
     "life": [
       {
-        "year": 1846,
-        "place": "Germany",
+        "year": 1824,
+        "place": "Germany (Prussia per 1880 census)",
         "kind": "born"
       },
       {
-        "year": 1918,
-        "place": "Greenlawn, Fairfield Township, Butler County, Ohio",
+        "year": 1912,
+        "place": "St. Peter, Nicollet County, Minnesota",
         "kind": "died"
       }
     ],
@@ -1588,18 +1594,23 @@
     "slug": "Schmidt/john-schmidt",
     "name": "John Schmidt",
     "surname": "Schmidt",
-    "birth": "1822-approx",
-    "death": "",
-    "birth_place": "Germany",
-    "death_place": "",
+    "birth": "1822-03-24",
+    "death": "1895-02-01",
+    "birth_place": "Germany (Mecklenburg per family research)",
+    "death_place": "St. Peter, Nicollet County, Minnesota",
     "generation": 5,
     "gender": "M",
     "branch": "schmidt",
     "life": [
       {
         "year": 1822,
-        "place": "Germany",
+        "place": "Germany (Mecklenburg per family research)",
         "kind": "born"
+      },
+      {
+        "year": 1895,
+        "place": "St. Peter, Nicollet County, Minnesota",
+        "kind": "died"
       }
     ],
     "life_source": "birth-death"
@@ -2038,6 +2049,48 @@
     "life_source": "life"
   },
   {
+    "id": "eugenie-josephe-goes",
+    "slug": "Coppersmith/eugenie-josephe-goes",
+    "name": "Eugénie Josèphe Goes",
+    "surname": "Coppersmith",
+    "birth": "1827-07-08",
+    "death": "",
+    "birth_place": "Beauvechain, Brabant, Belgium",
+    "death_place": "",
+    "generation": 6,
+    "gender": "F",
+    "branch": "coppersmith",
+    "life": [
+      {
+        "year": 1827,
+        "place": "Beauvechain, Brabant, Belgium",
+        "kind": "born"
+      }
+    ],
+    "life_source": "birth-death"
+  },
+  {
+    "id": "guillaume-joseph-barette",
+    "slug": "Coppersmith/guillaume-joseph-barette",
+    "name": "Guillaume Joseph Barette",
+    "surname": "Coppersmith",
+    "birth": "1829-02-18",
+    "death": "1916-06-04",
+    "birth_place": "Mélin, Brabant, Belgium",
+    "death_place": "",
+    "generation": 6,
+    "gender": "M",
+    "branch": "coppersmith",
+    "life": [
+      {
+        "year": 1829,
+        "place": "Mélin, Brabant, Belgium",
+        "kind": "born"
+      }
+    ],
+    "life_source": "birth-death"
+  },
+  {
     "id": "jacques-joseph-lancelle",
     "slug": "Coppersmith/jacques-joseph-lancelle",
     "name": "Jacques Joseph Lancelle",
@@ -2206,6 +2259,21 @@
         "kind": "born"
       }
     ],
+    "life_source": "birth-death"
+  },
+  {
+    "id": "william-rabe",
+    "slug": "Rabe/william-rabe",
+    "name": "William Rabe",
+    "surname": "Rabe",
+    "birth": "",
+    "death": "",
+    "birth_place": "Germany",
+    "death_place": "",
+    "generation": 6,
+    "gender": "M",
+    "branch": "schmidt",
+    "life": [],
     "life_source": "birth-death"
   },
   {
@@ -2506,6 +2574,21 @@
     "life_source": "birth-death"
   },
   {
+    "id": "albertine-schoensetters",
+    "slug": "Coppersmith/albertine-schoensetters",
+    "name": "Albertine Schoensetters",
+    "surname": "Coppersmith",
+    "birth": "",
+    "death": "",
+    "birth_place": "",
+    "death_place": "",
+    "generation": 7,
+    "gender": "F",
+    "branch": "coppersmith",
+    "life": [],
+    "life_source": "birth-death"
+  },
+  {
     "id": "anne-marie-barbe-logis",
     "slug": "Coppersmith/anne-marie-barbe-logis",
     "name": "Anne Marie Barbe Logis",
@@ -2529,6 +2612,36 @@
         "kind": "died"
       }
     ],
+    "life_source": "birth-death"
+  },
+  {
+    "id": "ferdinand-joseph-goes",
+    "slug": "Coppersmith/ferdinand-joseph-goes",
+    "name": "Ferdinand Joseph Goes",
+    "surname": "Coppersmith",
+    "birth": "",
+    "death": "",
+    "birth_place": "",
+    "death_place": "",
+    "generation": 7,
+    "gender": "M",
+    "branch": "coppersmith",
+    "life": [],
+    "life_source": "birth-death"
+  },
+  {
+    "id": "jean-francois-barette",
+    "slug": "Coppersmith/jean-francois-barette",
+    "name": "Jean François Barette",
+    "surname": "Coppersmith",
+    "birth": "",
+    "death": "",
+    "birth_place": "",
+    "death_place": "",
+    "generation": 7,
+    "gender": "M",
+    "branch": "coppersmith",
+    "life": [],
     "life_source": "birth-death"
   },
   {
@@ -2592,6 +2705,21 @@
         "kind": "born"
       }
     ],
+    "life_source": "birth-death"
+  },
+  {
+    "id": "marie-josephe-meulemans",
+    "slug": "Coppersmith/marie-josephe-meulemans",
+    "name": "Marie Josèphe Meulemans",
+    "surname": "Coppersmith",
+    "birth": "",
+    "death": "",
+    "birth_place": "",
+    "death_place": "",
+    "generation": 7,
+    "gender": "F",
+    "branch": "coppersmith",
+    "life": [],
     "life_source": "birth-death"
   },
   {

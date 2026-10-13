@@ -69,3 +69,7 @@ Birth year (1822) and death date (Oct 16 1889) match Find A Grave memorial #1732
 - Buried at Saint Marys Cemetery, Leopolis, Shawano County, WI — same cemetery as husband Joseph Wenzel Stefl (memorial #17329229)
 - Surname variants: Kadletz, Kadlec
 - Search note: a search for "Mary Stefl" and one for "Katie Stefl" can return what looks like two people — same woman.
+
+### Caveat: is this the right couple? [2026-10-13]
+- The **1884 Oconto marriage index** for Joseph Krumpus × "Mary Stafal" (FS XRGR-Z7X; image restricted) gives the bride's birthplace as **"Yellow, Pellson Co."** (Plzeň district?) and her parents as **"Joseph Stafal"** and **"Mary Senkola (Bohemia)"**. It gives the groom's mother as **"Catherine Kadlec"**. The Krumpos-line study (`creative/widdershins/cert-and-krampus/14-the-krumpos-line.md` §0.1–0.2, §0.10) found that Marie *Sinkule* was the groom's own mother, so the index has probably swapped the two mothers. If so, **Catherine Kadlec would be Mary Stafal's mother**, which agrees with this profile. The father's name "Joseph" agrees too. But file 14 also notes that she arrived only in 1883, and that the Stefl compilation's details for her are muddled. Until the 1884 register image is read (FHL 1292398 / DGS 007615245, on the offline batch list), treat this couple as Mary's parents only PROBABLE.
+- Immigration: **Stephan Stefl, 23, b. Bohemia, arrived New York 1867 on the ship *Bremen*** (FS QVPJ-JLRN, "New York, Passenger Lists"), with a Josef Stefl, 18 (QVPJ-JLRK). Probably the son Stephen. Bremen lists give no home village.

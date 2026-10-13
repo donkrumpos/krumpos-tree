@@ -96,6 +96,12 @@
     "query": "Belgium",
     "source": "nominatim"
   },
+  "Belgium (probably Beauvechain or Mélin, Brabant)": {
+    "lat": null,
+    "lon": null,
+    "query": "Belgium",
+    "source": "too-vague"
+  },
   "Beloeil, Verchères, Quebec, Canada": {
     "display_name": "Beloeil, Vallée-du-Richelieu, Montérégie, Québec, Canada",
     "lat": 45.5667,
@@ -277,6 +283,18 @@
     "source": "nominatim"
   },
   "Germany": {
+    "lat": null,
+    "lon": null,
+    "query": "Germany",
+    "source": "too-vague"
+  },
+  "Germany (Mecklenburg per family research)": {
+    "lat": null,
+    "lon": null,
+    "query": "Germany",
+    "source": "too-vague"
+  },
+  "Germany (Prussia per 1880 census)": {
     "lat": null,
     "lon": null,
     "query": "Germany",
@@ -775,6 +793,13 @@
     "lat": 45.4728843,
     "lon": -73.2646582,
     "query": "St-Mathias-sur-Richelieu, Quebec, Canada",
+    "source": "nominatim"
+  },
+  "St. Peter, Nicollet County, Minnesota": {
+    "display_name": "Saint Peter, Nicollet County, Minnesota, 56082, United States",
+    "lat": 44.3238384,
+    "lon": -93.9585295,
+    "query": "St. Peter, Nicollet County, Minnesota",
     "source": "nominatim"
   },
   "Sturgeon Bay, Door County, Wisconsin": {

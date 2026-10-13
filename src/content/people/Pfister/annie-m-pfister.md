@@ -1,7 +1,7 @@
 ---
 id: annie-m-pfister
 name: Annie M. Pfister
-aka: [Annie M Pfister, Anna Pfisterer, Anna Weidner, Annie Wagner, Annie C Pfister]
+aka: [Annie M Pfister, Anna Pfisterer, Anna Weidner, Annie Wagner, Annie C Pfister, Christiana Pfisterer]
 birth: '1846-11'
 birth_place: 'Germany'
 death: '1906-approx'
@@ -44,7 +44,9 @@ The full evidence is in [[john-pfister-sr]] and [[margaret-pfister]]. This profi
 ## Sources
 - 1900 US census, Fish Creek area, Door Co.: "Annie M" (indexed "Annie C"), b. Nov 1846 Germany, married 28 years, 9 children / 8 living.
 - Find a Grave 126312039 (Margaret Pfister): mother "Anna (née Weidner) Pfisterer" (user-contributed).
-- Emil Meickle × Margaret Pfister marriage, 16 Oct 1902 (FS XRVC-F8D; index only): bride's parents "Charles Pfister" and **"Annie Wagner"**.
+- **1880 US census, Nasewaupee, Door Co.** (FS household of John Pfisterer, b. 1831 Germany, farmer): wife **"Christiana"**, b. **1846**, Germany; children Anna (b. 1870), John (1871), Mary (1873), Margareth, William — all b. Wisconsin.
+- Emil Meickle × Margaret Pfister marriage, 16 Oct 1902 (FS XRVC-F8D; index only, image unavailable online; source detail "2711"): bride's parents "Charles Pfister" and **"Annie Wagner"**.
 
 ## Research Notes
+- **Given name [2026-10-13]:** the 1880 census calls her **Christiana**, b. 1846. That fits the 1900 index's "Annie **C**" (the image was earlier read as "Annie M"). She was probably Anna Christiana (or Christiana Anna). John Jr. (b. 1871) and Anna (b. 1870) are in her 1880 household, and nothing in the census marks them as stepchildren. The "married c. 1872" from 1900 may be off by two or three years, and the first wife may have had no surviving children. The 1880 image would tell (it has a relationship column).
 - **Maiden name conflict:** Weidner (Find a Grave) vs Wagner (marriage index). The indexer may have read "Weidner" as "Wagner". The WHS original of the 1902 marriage, or Margaret's 1962 death certificate, should settle it.

@@ -1,7 +1,7 @@
 ---
 id: anna-maria-kurtz
 name: Anna Maria Kurtz
-aka: [Mary Wallmore, Mary Vollmer]
+aka: [Mary Wallmore, Mary Vollmer, Mary Hohn, Mary Hone, Mary Vollmer Hohn]
 birth: '1837-07-18'
 death: '1915-01-21'
 birth_place: 'Baden, Germany'
@@ -10,6 +10,7 @@ gender: F
 parents: [M Kurtz]
 spouses:
 - Christian Vollmer (m. 1857-12-18, Long Grove, Lake, IL)
+- Louis Hohn (m. after 1894)
 children:
 - Anna Maria Sophia Dorothea Volmer
 - Fred Vollmer
@@ -32,6 +33,7 @@ linked_parents:
   - ''
 linked_spouses:
   - 'Vollmer/christian-vollmer'
+  - ''
 linked_children:
   - ''
   - ''
@@ -75,5 +77,11 @@ Born July 18, 1837 in Baden, Germany. Daughter of M. Kurtz (father's first name 
 - Outlived daughter Minnie by 10 years (Minnie died 1905, age 42)
 - Lived in Cleveland, Le Sueur Co for ~10 years — near daughter Minnie and son-in-law Charles Frederick Schmidt
 - Died in Elysian, Le Sueur Co — same town as German Lake Lutheran Cemetery where Christian and Minnie are buried
-- **A widow for 21 years.** Christian died 1894 when Anna Maria was 57. She lived to 77.
+- ~~A widow for 21 years~~ — **she remarried** (below).
+
+### Remarriage to Louis Hohn; 1915 death certificate [2026-10-13]
+- **1900 US census, Elysian Township and village, Le Sueur Co.** (FS M9SR-KX3): **Mary Hohn**, b. **Jul 1837**, Germany, **immigrated 1855**, wife of **Louis Hohn** (b. Apr 1818, Germany, immigrated 1857). The birth month and year match hers exactly. They married between Christian's death (Aug 1894) and 1900.
+- **Find a Grave index** (FS QVLJ-X2B4): "Mary Vollmer Hohn", b. 18 Jul 1837, d. 21 Jan 1915, buried Elysian.
+- **Minnesota death certificate no. 6464, Cordova Twp, Le Sueur Co., 21 Jan 1915** (FS ZFKM-3JT2, "Minnesota, Deaths, 1887-2001"; index only — image restricted to FamilySearch centers): "**Mary Hone**", 77, b. 1837 Germany. Father indexed as "**Wm? Kurtz**" (the indexer's own question mark). The Deaths and Burials index (FDC4-TYS) reads "M. Kurtz", b. Germany; mother's name blank, b. Germany; she was widowed. So the father's "M" may really be "Wm" — **William Kurtz?** Unconfirmed until the certificate is read.
+- Next: order certificate 6464 from MNHS (People Finder) or view it at a FamilySearch center; her obituary (Elysian Enterprise / Le Center Leader, late Jan 1915) for her parents and Baden home town; Louis Hohn's death record, 1900–15.
 - **Next steps:** (1) Search for Baden emigration records for Kurtz family. (2) Look for 1870 census in Minnesota. (3) Check if death record names her father's full name. (4) Search for other Kurtz families in Lake County, IL area c. 1850s.
