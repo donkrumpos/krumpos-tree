@@ -1,7 +1,7 @@
 ---
 id: gerald-martin-sr
 name: Gerald Martin Sr.
-aka: [Herold Martin]
+aka: [Herold Martin, Gerald E. Martin Sr.]
 birth: '1903-03-08'
 death: '1931-06-14'
 death_place: 'Sturgeon Bay, Door County, Wisconsin'

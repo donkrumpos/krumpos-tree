@@ -16,8 +16,8 @@ spouses:
 - Lile Martin
 children:
 - Gerald Martin Sr.
-- John Martin
-- Henry Martin
+- John A. Martin
+- Henry E. Martin
 burial: Sturgeon Bay, Door County, Wisconsin
 status: confirmed
 uncertain_fields: []
@@ -36,7 +36,7 @@ linked_spouses:
 linked_children:
   - 'Martin/gerald-martin-sr'
   - ''
-  - 'Martin/henry-martin'
+  - ''
 ---
 # Mildred Amelia Guernsey Martin
 

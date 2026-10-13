@@ -11,7 +11,7 @@ spouses:
 children:
 - Clemence Josephine Barrette
 - August Barrette
-- Odile Clemens Barrette
+- Odile Clemens (Barette) Coppersmith
 - Oliver J Barrette
 - Jules J Barrette
 - Clemence Barrette (b. 1889)
@@ -31,7 +31,7 @@ linked_spouses:
 linked_children:
   - ''
   - ''
-  - ''
+  - 'Coppersmith/odile-barette'
   - ''
   - ''
   - ''

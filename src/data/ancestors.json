@@ -733,6 +733,21 @@
     "life_source": "birth-death"
   },
   {
+    "id": "mary-stefl",
+    "slug": "Krumpos/mary-stefl",
+    "name": "Mary Katherine Stefl",
+    "surname": "Krumpos",
+    "birth": "1845-04-16",
+    "death": "1920-03-26",
+    "birth_place": "",
+    "death_place": "",
+    "generation": 4,
+    "gender": "F",
+    "branch": "krumpos",
+    "life": [],
+    "life_source": "birth-death"
+  },
+  {
     "id": "eliphlet-martin",
     "slug": "Martin/eliphlet-martin",
     "name": "Eliphlet Martin",
@@ -1225,6 +1240,27 @@
     "life_source": "birth-death"
   },
   {
+    "id": "mary-katherine-kadletz",
+    "slug": "Kadletz/mary-katherine-kadletz",
+    "name": "Mary Katherine Kadletz",
+    "surname": "Kadletz",
+    "birth": "1822",
+    "death": "1889-10-16",
+    "birth_place": "",
+    "death_place": "Oconto, Wisconsin, USA",
+    "generation": 5,
+    "gender": "F",
+    "branch": "krumpos",
+    "life": [
+      {
+        "year": 1889,
+        "place": "Oconto, Wisconsin, USA",
+        "kind": "died"
+      }
+    ],
+    "life_source": "birth-death"
+  },
+  {
     "id": "william-john-kendall",
     "slug": "Kendall/william-john-kendall",
     "name": "William John Kendall",
@@ -1435,6 +1471,21 @@
         "kind": "born"
       }
     ],
+    "life_source": "birth-death"
+  },
+  {
+    "id": "joseph-wenzel-stefl",
+    "slug": "Stefl/joseph-wenzel-stefl",
+    "name": "Joseph Wenzel Stefl",
+    "surname": "Stefl",
+    "birth": "1818-12-04",
+    "death": "1895-approx",
+    "birth_place": "",
+    "death_place": "",
+    "generation": 5,
+    "gender": "M",
+    "branch": "krumpos",
+    "life": [],
     "life_source": "birth-death"
   },
   {
@@ -2328,18 +2379,23 @@
     "slug": "Coppersmith/anne-marie-barbe-logis",
     "name": "Anne Marie Barbe Logis",
     "surname": "Coppersmith",
-    "birth": "1791",
+    "birth": "1791-05-18",
     "death": "1858",
-    "birth_place": "Belgium (probable Mélin area)",
-    "death_place": "",
+    "birth_place": "Mélin, Brabant Wallon, Belgium",
+    "death_place": "Brown County, Wisconsin (approximate)",
     "generation": 7,
     "gender": "F",
     "branch": "coppersmith",
     "life": [
       {
         "year": 1791,
-        "place": "Belgium (probable Mélin area)",
+        "place": "Mélin, Brabant Wallon, Belgium",
         "kind": "born"
+      },
+      {
+        "year": 1858,
+        "place": "Brown County, Wisconsin (approximate)",
+        "kind": "died"
       }
     ],
     "life_source": "birth-death"

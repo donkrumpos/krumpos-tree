@@ -8,7 +8,7 @@ death: '1834-05-20'
 death_place: Iberville, Quebec, Canada
 gender: M
 parents:
-- Jacques Surprenant
+- Jacques Surprenant (1753)
 - Josephte Baudin
 spouses:
 - Marthe Lebeau

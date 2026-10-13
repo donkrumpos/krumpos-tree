@@ -6,7 +6,7 @@ death: '1895-approx'
 gender: M
 parents: []
 spouses: [Mary Katherine Kadletz]
-children: [Stephen Stefl, Mary Katherine Steffel]
+children: [Stephen Stefl, Mary Katherine Stefl]
 status: research-target
 uncertain_fields:
 - death
@@ -20,7 +20,7 @@ linked_spouses:
   - 'Kadletz/mary-katherine-kadletz'
 linked_children:
   - 'Stefl/stephen-stefl'
-  - ''
+  - 'Krumpos/mary-stefl'
 ---
 # Joseph Wenzel Stefl
 

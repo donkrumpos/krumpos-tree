@@ -18,7 +18,7 @@ spouses:
 - Clarence Lau (m. 1932-05-07, d. Aug 1985)
 children:
 - Helen M. Martin
-- Lester Martin
+- Lester E. Martin Sr.
 - Gerald Martin Jr.
 - JoAnn Schabelle
 - Diane Burt
@@ -39,7 +39,7 @@ linked_spouses:
   - ''
 linked_children:
   - 'Martin/helen-m-martin'
-  - ''
+  - 'Martin/lester-e-martin-sr'
   - ''
   - ''
   - ''

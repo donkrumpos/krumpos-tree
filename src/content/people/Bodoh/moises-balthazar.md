@@ -9,7 +9,7 @@ death_place: Bear Creek, Outagamie County, Wisconsin
 burial: St Mary Cemetery, Bear Creek, Wisconsin
 gender: M
 parents:
-- Martin Balthazar
+- Martin Balthazar (~1790)
 - Marie Sophie Hebert
 spouses:
 - Josephine LeBlanc (m. before 1844)

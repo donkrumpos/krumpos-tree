@@ -6,8 +6,8 @@ birth: '1923-08-13'
 death: '2011-03-09'
 gender: F
 parents:
-- Lawrence Krumpos
-- Mathilda (Schneider)
+- Lawrence Antone Krumpos
+- Matilda Henrietta Schneider
 spouses:
 - Leo D. Matuszak (m. 1942)
 children:
@@ -25,7 +25,7 @@ created: '2025-09-17'
 surname: 'Krumpos'
 linked_parents:
   - 'Krumpos/lawrence-krumpos'
-  - ''
+  - 'Krumpos/mathilda-schneider'
 linked_spouses:
   - ''
 linked_children:

@@ -2,10 +2,10 @@
 id: anne-marie-barbe-logis
 name: Anne Marie Barbe Logis
 aka: ['Marie Barbe Logis']
-birth: '1791'
-birth_place: Belgium (probable Mélin area)
+birth: '1791-05-18'
+birth_place: Mélin, Brabant Wallon, Belgium
 death: '1858'
-death_place: ''
+death_place: Brown County, Wisconsin (approximate)
 gender: F
 parents: []
 spouses:
@@ -16,7 +16,7 @@ children:
 status: confirmed
 uncertain_fields:
 - death year approximate (Geneanet "ca 1858"; MyHeritage "between 1856 and 1860")
-- death place: MyHeritage says Wisconsin (would mean she emigrated with the Copesmettes in March 1856 at age 65); Geneanet doesn't specify. Pending primary verification.
+- death place: MyHeritage says Wisconsin (would mean she emigrated with the Copesmettes in March 1856 at age 65); the Geneanet PenBelGen tree gives Brown County, Wisconsin; the other Geneanet tree doesn't specify. Pending primary verification.
 tags:
 - '#person'
 - '#meuron'
@@ -32,12 +32,12 @@ linked_children:
 ---
 # Anne Marie Barbe Logis
 
-**Lifespan:** 1791 — ca 1858
+**Lifespan:** 1791-05-18 — ca 1858
 
 ## Summary
 Mother of **Désirée Juliana Meuron** (1815–1891, our direct line) and **Hortence Meuron** (1818–1880). Married **Pierre Joseph Meuron** (1789–1818). Widowed at age ~27 when Pierre died February 22, 1818, leaving her with Désirée (age 2) and Hortence (newborn — possibly born after Pierre's death; depends on Hortence's birth month). Raised both daughters as a widow in Mélin, Brabant Wallon, for the next ~38 years.
 
-**Possible Wisconsin emigrant.** MyHeritage records her death as "between 1856 and 1860" in **Wisconsin**, age 64 — meaning she likely crossed the Atlantic with the Copesmette family in March 1856 at age 65 and died in the Walloon Belgian settlement shortly after arrival. Geneanet gives the same approximate death window but **doesn't specify a place** — so the Wisconsin claim is currently MyHeritage-only and worth verifying via Brown / Kewaunee County death records 1856–1860 or Walloon-area Catholic burial records.
+**Possible Wisconsin emigrant.** MyHeritage records her death as "between 1856 and 1860" in **Wisconsin**, age 64 — meaning she likely crossed the Atlantic with the Copesmette family in March 1856 at age 65 and died in the Walloon Belgian settlement shortly after arrival. One Geneanet tree gives the same approximate death window without a place; the PenBelGen tree on Geneanet puts her death in **Brown County, Wisconsin** — so the Wisconsin claim rests on two online trees, not yet a primary record and worth verifying via Brown / Kewaunee County death records 1856–1860 or Walloon-area Catholic burial records.
 
 ## Relationships
 - **Spouse:** Pierre Joseph Meuron (1789–1818, Mélin)
@@ -47,6 +47,7 @@ Mother of **Désirée Juliana Meuron** (1815–1891, our direct line) and **Hort
 
 ## Sources
 - Geneanet (gw.geneanet.org) — birth 1791, death ca 1858; spouse + 2 daughters.
+- Geneanet (PenBelGen tree) — birth **18 May 1791, Mélin**; death ca 1858 in **Brown County, Wisconsin**; spouse and Désirée. (Merged 2026-10-13 from the duplicate file `marie-barbe-logis.md`, created 2026-04-06.)
 - MyHeritage — adds "Anne" as her primary given name; specifies death "between 1856 and 1860" in Wisconsin at age 64.
 
 ## Research Notes

@@ -1,7 +1,7 @@
 ---
 id: jim-krumpos
 name: Jim Krumpos
-aka: []
+aka: [James Krumpos]
 birth: ''
 death: ''
 gender: ''

@@ -9,7 +9,7 @@ death_place: Maple Creek, Outagamie County, Wisconsin
 burial: St Mary Cemetery, Bear Creek, Wisconsin
 gender: F
 parents:
-- Jacques LeBlanc
+- Jacques LeBlanc (1797)
 - Mary Louise Masson
 spouses:
 - Moises Balthazar

@@ -15,7 +15,7 @@ spouses:
 children:
 - Keith Lester Krumpos
 - Catherine Krumpos
-- James Krumpos
+- Jim Krumpos
 - Steven Krumpos
 - Debra Krumpos
 - Kim Krumpos
@@ -35,7 +35,7 @@ linked_spouses:
 linked_children:
   - 'Krumpos/keith-lester-krumpos'
   - 'Krumpos/catherine-krumpos'
-  - 'Krumpos/james-ernest-krumpos'
+  - 'Krumpos/jim-krumpos'
   - 'Krumpos/steven-krumpos'
   - 'Krumpos/debra-krumpos'
   - 'Krumpos/kim-krumpos'

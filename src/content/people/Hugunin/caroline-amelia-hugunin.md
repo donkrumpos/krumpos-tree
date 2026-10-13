@@ -6,10 +6,8 @@ death: '1918-09-13'
 gender: F
 parents: [David Richard Hugunin, Sarah Elizabeth Fuller]
 spouses:
-- John Kendall (m. 1869-04-27, Kasota, MN)
-children:
-- Mary Jane Kendall
-- Noah Nathan Kendall
+- John Kendall (1833–1895) (m. 1869-04-27, Kasota, MN)
+children: []
 burial: Woodlawn Cemetery, Le Center, Le Sueur, Minnesota
 status: confirmed
 tags:
@@ -23,9 +21,7 @@ linked_parents:
   - ''
 linked_spouses:
   - 'Kendall/john-h-kendall'
-linked_children:
-  - 'Kendall/mary-j-kendall'
-  - ''
+linked_children: []
 ---
 # Caroline Amelia Hugunin
 
@@ -36,10 +32,8 @@ Born November 30, 1847 in Wisconsin. Daughter of David Richard Hugunin (age 30 a
 
 ## Relationships
 - **Parents:** David Richard Hugunin (b. c. 1817) & Sarah Elizabeth Fuller (b. c. 1830) — 13-year age gap
-- **Husband:** John Kendall — m. Apr 27, 1869, Kasota, MN
-- **Known children:**
-  - John H. Kendall (b. c. 1869, Lexington, MN) — father of Mary Jane Kendall
-  - At least 7 others (4 sons, 4 daughters total)
+- **Husband:** John Kendall (1833–1895, from Maine) — m. Apr 27, 1869, Kasota, MN
+- **Children:** 4 sons and 4 daughters, not yet named. (Corrected 2026-10-13: John H. Kendall, Mary Jane Kendall and Noah Nathan Kendall were listed here from the early hypothesis; John H.'s father was William John Kendall, so they belong to the other Kendall family — see Research Notes.)
 
 ## Sources
 - FamilySearch (birth, marriage, death, burial, parents)

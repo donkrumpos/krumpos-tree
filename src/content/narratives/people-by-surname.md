@@ -161,7 +161,7 @@
 - [[people/Coppersmith/clemence-liegeois.md|Clemence Josephe Liegeois]]
 
 ## Logis
-- [[people/Coppersmith/marie-barbe-logis.md|Marie Barbe Logis]]
+- [[people/Coppersmith/anne-marie-barbe-logis.md|Anne Marie Barbe Logis]]
 
 ## Martin
 - [[people/Martin/helen-m-martin.md|Helen M Martin]]

@@ -588,6 +588,13 @@
     "query": "Oconto, Oconto County, Wisconsin",
     "source": "nominatim"
   },
+  "Oconto, Wisconsin, USA": {
+    "display_name": "Oconto County, Wisconsin, United States",
+    "lat": 44.9988053,
+    "lon": -88.2480072,
+    "query": "Oconto, Wisconsin, USA",
+    "source": "nominatim"
+  },
   "Ontario, Canada": {
     "display_name": "Ontario (Upper Canada), Canada",
     "lat": 43.6,

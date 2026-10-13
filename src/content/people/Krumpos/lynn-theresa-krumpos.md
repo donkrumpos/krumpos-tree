@@ -6,7 +6,7 @@ birth: ''
 death: ''
 gender: ''
 parents:
-- Lawrence 'Larry' Krumpos
+- Lawrence F. Krumpos Jr.
 - Shirley Baeten
 spouses: []
 children: []
@@ -17,7 +17,7 @@ tags:
 created: '2025-09-17'
 surname: 'Krumpos'
 linked_parents:
-  - ''
+  - 'Krumpos/lawrence-larry-krumpos'
   - ''
 linked_spouses: []
 linked_children: []

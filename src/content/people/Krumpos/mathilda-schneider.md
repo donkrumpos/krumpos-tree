@@ -10,7 +10,7 @@ gender: F
 burial: Mount Calvary Cemetery, De Pere, Wisconsin (Section CA, Lot 24-D)
 parents: [William Schneider, Mathilda (Unknown) Schneider]
 spouses: [Lawrence Antone Krumpos]
-children: [Dorothy L Krumpos, Donald Howard Krumpos, Jerome Marvin Krumpos, Lawrence Larry Krumpos, Lloyd Krumpos, Rosemary Krumpos, Mae Krumpos]
+children: [Dorothy L Krumpos, Donald Howard Krumpos, Jerome Marvin Krumpos, Lawrence F. Krumpos Jr., Lloyd Krumpos, Rosemary Krumpos, Mae Krumpos]
 status: confirmed
 uncertain_fields:
 - mother's maiden name
@@ -28,7 +28,7 @@ linked_children:
   - ''
   - 'Krumpos/donald-howard-krumpos'
   - 'Krumpos/jerome-marvin-krumpos'
-  - ''
+  - 'Krumpos/lawrence-larry-krumpos'
   - 'Krumpos/lloyd-krumpos'
   - 'Krumpos/rosemary-krumpos'
   - 'Krumpos/mae-krumpos'

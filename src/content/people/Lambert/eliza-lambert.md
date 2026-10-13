@@ -10,7 +10,18 @@ parents: []
 spouses:
 - William John Kendall (m. January 1850, Eastry, Kent, England)
 children:
-- at least 5 sons and 7 daughters including John H. Kendall
+- William Stephen Kendall
+- Mary Jane Kendall
+- Amy Eliza Kendall
+- Eliza Amy Kendall
+- James Kendall
+- Sarah Ann Kendall
+- Eliza Kendall
+- Stephen Kendall
+- Edmond Kendall
+- Fanny Harriet Kendall
+- Laura Ellen Kendall
+- John H. Kendall
 burial: Le Sueur, Minnesota
 status: confirmed
 uncertain_fields:
@@ -26,6 +37,17 @@ linked_spouses:
   - 'Kendall/william-john-kendall'
 linked_children:
   - ''
+  - 'Kendall/mary-j-kendall'
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - 'Kendall/stephen-eastes-kendall'
+  - ''
+  - ''
+  - ''
+  - 'Kendall/john-h-kendall'
 ---
 # Eliza Lambert
 

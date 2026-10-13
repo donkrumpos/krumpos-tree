@@ -5,7 +5,7 @@ aka: [Johanna Katherine Ley]
 birth: '1886-07'
 death: '1936'
 gender: F
-parents: [Joseph Frank Krumpos, Mary Katherine Steffel]
+parents: [Joseph Frank Krumpos, Mary Katherine Stefl]
 spouses: [Mr. Ley]
 children: []
 status: confirmed
@@ -18,7 +18,7 @@ created: '2026-04-06'
 surname: 'Krumpos'
 linked_parents:
   - 'Krumpos/joseph-krumpos'
-  - ''
+  - 'Krumpos/mary-stefl'
 linked_spouses:
   - ''
 linked_children: []

@@ -15,7 +15,7 @@ parents:
 spouses:
 - Mildred Amelia Guernsey (1880-1971)
 children:
-- Gerald E. Martin Sr.
+- Gerald Martin Sr.
 - John A. Martin
 - Donna C. Martin (m. Herlache)
 - Henry E. Martin
@@ -35,7 +35,7 @@ linked_parents:
 linked_spouses:
   - ''
 linked_children:
-  - ''
+  - 'Martin/gerald-martin-sr'
   - ''
   - ''
   - ''

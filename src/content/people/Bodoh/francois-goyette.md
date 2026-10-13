@@ -7,7 +7,7 @@ birth_place: St Denis sur Richelieu, Quebec, Canada
 death: ''
 gender: M
 parents:
-- Jacques Goyet
+- Jacques Goyet (1717)
 - Marie Madeleine Plouf
 spouses:
 - Madeleine Guyon Lemoine (m. 1774-02-09)

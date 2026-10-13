@@ -9,7 +9,7 @@ burial_place: 'Saint Marys Cemetery, Leopolis, Shawano County, Wisconsin'
 gender: F
 parents: []
 spouses: [Joseph Wenzel Stefl]
-children: [Stephen Stefl, Mary Katherine Steffel]
+children: [Stephen Stefl, Mary Katherine Stefl]
 status: confirmed
 uncertain_fields:
 - birth_date
@@ -25,7 +25,7 @@ linked_spouses:
   - 'Stefl/joseph-wenzel-stefl'
 linked_children:
   - 'Stefl/stephen-stefl'
-  - ''
+  - 'Krumpos/mary-stefl'
 ---
 # Mary Katherine Kadletz
 

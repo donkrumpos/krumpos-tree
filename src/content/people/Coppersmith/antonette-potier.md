@@ -12,7 +12,7 @@ spouses:
 - Joseph Barrette
 children:
 - Clemence Josephine Barrette
-- Odile Clemens Barrette
+- Odile Clemens (Barette) Coppersmith
 status: confirmed
 tags:
 - '#person'
@@ -26,7 +26,7 @@ linked_spouses:
   - 'Coppersmith/joseph-barrette'
 linked_children:
   - ''
-  - ''
+  - 'Coppersmith/odile-barette'
 ---
 # Antonette Potier
 

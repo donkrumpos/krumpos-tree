@@ -7,9 +7,9 @@ death: '1986-07-28'
 birth_place: 'Oconto, Oconto County, Wisconsin'
 death_place: 'De Pere, Brown County, Wisconsin'
 gender: M
-parents: [Joseph Frank Krumpos, Mary Katherine Steffel]
+parents: [Joseph Frank Krumpos, Mary Katherine Stefl]
 spouses: [Frances Josephine Kosnar, Matilda Henrietta Schneider]
-children: [Kenneth L Krumpos, Harold Krumpos, Lester F Krumpos, Dorothy L Krumpos, Donald Howard Krumpos, Jerome Marvin Krumpos, Lawrence Larry Krumpos, Lloyd Krumpos, Rosemary Krumpos, Mae Krumpos]
+children: [Kenneth L Krumpos, Harold Krumpos, Lester F Krumpos, Dorothy L Krumpos, Donald Howard Krumpos, Jerome Marvin Krumpos, Lawrence F. Krumpos Jr., Lloyd Krumpos, Rosemary Krumpos, Mae Krumpos]
 status: confirmed
 uncertain_fields: []
 tags:
@@ -19,7 +19,7 @@ created: '2025-09-17'
 surname: 'Krumpos'
 linked_parents:
   - 'Krumpos/joseph-krumpos'
-  - ''
+  - 'Krumpos/mary-stefl'
 linked_spouses:
   - 'Krumpos/frances-kosnar'
   - 'Krumpos/mathilda-schneider'
@@ -30,7 +30,7 @@ linked_children:
   - ''
   - 'Krumpos/donald-howard-krumpos'
   - 'Krumpos/jerome-marvin-krumpos'
-  - ''
+  - 'Krumpos/lawrence-larry-krumpos'
   - 'Krumpos/lloyd-krumpos'
   - 'Krumpos/rosemary-krumpos'
   - 'Krumpos/mae-krumpos'
