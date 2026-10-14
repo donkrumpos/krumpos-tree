@@ -15,7 +15,6 @@ children:
 - Mary Schmidt
 - Charles Frederick Schmidt
 - Amelia Ann Schmidt
-- Emilie Schmidt
 burial: Kasota Township, Le Sueur County, Minnesota
 status: confirmed
 uncertain_fields:
@@ -34,7 +33,6 @@ linked_children:
   - 'Schmidt/mary-schmidt'
   - 'Schmidt/charles-frederick-schmidt'
   - ''
-  - ''
 ---
 # John Schmidt
 
@@ -51,7 +49,6 @@ Father of Charles Frederick Schmidt (1863/64–1920). Born 24 Mar 1822 in German
   - Henry T. Schmidt (of St. Peter; alive 1918) — named in his mother's and sister's obituaries
   - Charles Frederick Schmidt (Dec 13, 1863/64–May 1920, born Illinois) — **direct line**
   - Amelia Ann Schmidt (c. 1866–?, born Minnesota; age 14 in 1880 census)
-  - Emilie Schmidt (1882–1966) — *doubtful (see Elizabeth Rabe's notes)*
 
 ## Sources
 - **Obituary, *Saint Peter Tribune*, 6 Feb 1895, p. 3** ("John C. Schmidt Passes Away"; Minnesota Digital Newspaper Hub, MNHS, OCR text read 2026-10-13 s4): "the veteran brick and stone mason, died at his home in North St. Peter last Friday", aged 73, after more than three years of asthma. "Mr. Schmidt was born in **Mecklenberg**, Germany, and came to America in **1852**, making his home first in **Milwaukee**, Wis., afterward in Joliet, Ill. He moved from Joliet to LeSueur county early in the sixties, and founded a home near **Scotch Lake**." Survived by his wife and five living children. Funeral from the family residence.
@@ -63,6 +60,7 @@ Father of Charles Frederick Schmidt (1863/64–1920). Born 24 Mar 1822 in German
 - Children's death records (Charles F. 1920; Elizabeth Hart 1918) name the father "John C. Schmidt", b. Germany.
 
 ## Research Notes
+- **2026-10-14 s5:** the eldest son, Henry T. Schmidt, was born in Germany in 1852 (1910 census), so John and Elizabeth probably married in Germany shortly before sailing; a second obituary of Elizabeth (*Tribune* 29 May 1912) dates the Joliet years 1852–1864 and counts eight children. Frederick Schmidt, St. Peter shoemaker (Mecklenburg, Joliet 1859–65, d. 1898), took the same route, but nothing names him as kin. See [[elizabeth-rabe]]. **Emilie Schmidt (1882–1966) unlinked** as a child: she is missing from Elizabeth's 1912 survivors.
 - **Mecklenburg CONFIRMED by obituary [2026-10-13 s4]:** the 1895 *Tribune* obituary gives Mecklenburg, so the family tradition stands. His given name was probably **Joachim** (a common Mecklenburg name), per his widow's 1912 obituary; "John C." may stand for Joachim C[hristian?]. Next: Mecklenburg emigration records 1852 (Mecklenburg-Schwerin passport/emigration lists, not online), and a Will Co., IL, naturalization or church marriage (did he marry Elizabeth in Germany or in Milwaukee/Joliet? The 1912 obituary has them crossing together in 1852).
 - **Corrected 2026-10-13:** the earlier notes had him alive in Columbus, Ohio, in 1910. That came from the FamilySearch tree conflation of Elizabeth Rabe with an Ohio woman (b. 1846, d. 1918 Butler Co.). He died in 1895, now CONFIRMED by the register image (s3).
 - **1895 register [s3]:** his age of 72 y 10 m 7 d on 1 Feb 1895 works back to **25 Mar 1822**, one day off the gravestone's 24 Mar 1822 (Find a Grave). The register names no parents ("Unknown") and says only "Germany", so it does not test Mecklenburg. That leaves his obituary (St. Peter *Herald* / *Free Press*, early Feb 1895), a church burial entry, and his naturalization (Will Co., IL, or Le Sueur Co., MN).
