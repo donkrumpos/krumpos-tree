@@ -19,7 +19,7 @@ children:
 burial: Bayside Cemetery, Sturgeon Bay, Door County, Wisconsin
 status: confirmed
 uncertain_fields:
-- mother — Anna née Weidner per FindAGrave (secondary); John Sr.'s file has her as "Annie M" from the 1900 census
+- mother — Anna née Weidner per FindAGrave and the 1871 Brown Co. birth index of her brother John (index only); John Sr.'s file has her as "Annie M" from the 1900 census
 - birth date — Aug 16, 1876 (FindAGrave) vs WHS index "Margaret Pfisterer b. Apr 27, 1874, Door Co" (which could also be a cousin from David Pfisterer's family)
 tags:
 - '#person'
@@ -70,6 +70,7 @@ Born August 16, 1876 in Fish Creek, Door County, Wisconsin. Daughter of John Pfi
 - **1930 US Census:** Emil and Margaret listed as **divorced**.
 
 ## Research Notes
+- **2026-10-14 s9 — wife's maiden name Weidner.** The Brown Co. civil birth index for son Johan Carl (John Jr.), b. 27 Apr 1871 at Little Sturgeon (FS XRF7-DVD, VHHK-LNB; index only), names the parents **Johann Pfisterer × Anna Weidner**. So the wife of the 1880 and 1900 censuses was already his wife in 1870–71, and John Jr. was her son. See [[annie-m-pfister]].
 - Born in **Fish Creek, Door County** — a small village on the Door Peninsula, about 25 miles north of Sturgeon Bay. Pfister is a German/Swiss surname.
 - Father: **John Pfister** of Fish Creek. Brother **Casper Pfister** of Sturgeon Bay. Pfister family rooted in Door County.
 - **Moravian Church** — services at West Side Moravian Church, Green Bay. Moravian Church has Bohemian/Czech origins but was well-established in Wisconsin. This is the first non-Lutheran, non-Catholic denomination in the tree.

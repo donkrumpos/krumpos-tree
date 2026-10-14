@@ -903,9 +903,9 @@
     "slug": "Schneider/mathilda-unknown-schneider",
     "name": "Mathilde (Schneider) Schneider",
     "surname": "Schneider",
-    "birth": "1870-04",
+    "birth": "1870-04-25",
     "death": "1912-07",
-    "birth_place": "Germany",
+    "birth_place": "Lautzenbrücken, parish of Kirburg, Amt Hachenburg, Duchy of Nassau (now Westerwaldkreis), Germany",
     "death_place": "Kenosha, Kenosha County, Wisconsin",
     "generation": 4,
     "gender": "F",
@@ -913,7 +913,7 @@
     "life": [
       {
         "year": 1870,
-        "place": "Germany",
+        "place": "Lautzenbrücken, parish of Kirburg, Amt Hachenburg, Duchy of Nassau (now Westerwaldkreis), Germany",
         "kind": "born"
       },
       {
@@ -1622,6 +1622,48 @@
     "life_source": "birth-death"
   },
   {
+    "id": "catharine-luise-horster",
+    "slug": "Schneider/catharine-luise-horster",
+    "name": "Catharine Luise Hörster",
+    "surname": "Schneider",
+    "birth": "1828-02-14",
+    "death": "",
+    "birth_place": "Lautzenbrücken, parish of Kirburg, Duchy of Nassau (now Westerwaldkreis), Germany",
+    "death_place": "",
+    "generation": 5,
+    "gender": "F",
+    "branch": "krumpos",
+    "life": [
+      {
+        "year": 1828,
+        "place": "Lautzenbrücken, parish of Kirburg, Duchy of Nassau (now Westerwaldkreis), Germany",
+        "kind": "born"
+      }
+    ],
+    "life_source": "birth-death"
+  },
+  {
+    "id": "heinrich-ludwig-schneider",
+    "slug": "Schneider/heinrich-ludwig-schneider",
+    "name": "Heinrich Ludwig Schneider",
+    "surname": "Schneider",
+    "birth": "1830-03-28",
+    "death": "",
+    "birth_place": "Lautzenbrücken, parish of Kirburg, Duchy of Nassau (now Westerwaldkreis), Germany",
+    "death_place": "",
+    "generation": 5,
+    "gender": "M",
+    "branch": "krumpos",
+    "life": [
+      {
+        "year": 1830,
+        "place": "Lautzenbrücken, parish of Kirburg, Duchy of Nassau (now Westerwaldkreis), Germany",
+        "kind": "born"
+      }
+    ],
+    "life_source": "birth-death"
+  },
+  {
     "id": "joseph-wenzel-stefl",
     "slug": "Stefl/joseph-wenzel-stefl",
     "name": "Joseph Wenzel Stefl",
@@ -2279,6 +2321,66 @@
     "generation": 6,
     "gender": "M",
     "branch": "schmidt",
+    "life": [],
+    "life_source": "birth-death"
+  },
+  {
+    "id": "elisabethe-margarethe-kramer",
+    "slug": "Schneider/elisabethe-margarethe-kramer",
+    "name": "Elisabethe Margarethe Krämer",
+    "surname": "Schneider",
+    "birth": "",
+    "death": "",
+    "birth_place": "Germany (Westerwald)",
+    "death_place": "",
+    "generation": 6,
+    "gender": "F",
+    "branch": "krumpos",
+    "life": [],
+    "life_source": "birth-death"
+  },
+  {
+    "id": "johann-friedrich-schneider",
+    "slug": "Schneider/johann-friedrich-schneider",
+    "name": "Johann Friedrich Schneider",
+    "surname": "Schneider",
+    "birth": "",
+    "death": "",
+    "birth_place": "Germany (probably Lautzenbrücken, Westerwald)",
+    "death_place": "",
+    "generation": 6,
+    "gender": "M",
+    "branch": "krumpos",
+    "life": [],
+    "life_source": "birth-death"
+  },
+  {
+    "id": "johann-heinrich-horster",
+    "slug": "Schneider/johann-heinrich-horster",
+    "name": "Johann Heinrich Hörster",
+    "surname": "Schneider",
+    "birth": "",
+    "death": "",
+    "birth_place": "Germany (probably Lautzenbrücken, Westerwald)",
+    "death_place": "",
+    "generation": 6,
+    "gender": "M",
+    "branch": "krumpos",
+    "life": [],
+    "life_source": "birth-death"
+  },
+  {
+    "id": "marie-catharine-christine-glockner",
+    "slug": "Schneider/marie-catharine-christine-glockner",
+    "name": "Marie Catharine Christine Glöckner",
+    "surname": "Schneider",
+    "birth": "",
+    "death": "",
+    "birth_place": "Germany (Westerwald)",
+    "death_place": "",
+    "generation": 6,
+    "gender": "F",
+    "branch": "krumpos",
     "life": [],
     "life_source": "birth-death"
   },

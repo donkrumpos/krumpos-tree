@@ -2,29 +2,29 @@
 id: mathilda-unknown-schneider
 name: Mathilde (Schneider) Schneider
 aka: [Matilda Snider, Mathilda (Unknown) Schneider, Mathilda Schneider, Matilda Schneider]
-birth: '1870-04'
-birth_place: 'Germany'
+birth: '1870-04-25'
+birth_place: 'Lautzenbrücken, parish of Kirburg, Amt Hachenburg, Duchy of Nassau (now Westerwaldkreis), Germany'
 death: '1912-07'
 death_place: 'Kenosha, Kenosha County, Wisconsin'
 burial: 'Green Ridge Cemetery, Kenosha (SW, Block 63, Lot 1; buried 5 Jul 1912)'
 gender: F
 parents:
-- Luda Schnieder (PROBABLE — 1892 marriage index; perhaps Ludwig)
-- Louise Horster (PROBABLE — 1892 marriage index)
+- Heinrich Ludwig Schneider
+- Catharine Luise Hörster
 spouses: [Von Wilhem Schneider (m. 1892-10-19, Kenosha)]
 children: [Clara Schneider, Anna Schneider, Fred Schneider, Matilda Henrietta Schneider, Paul Schneider, Aemilia Schneider, Gertrude Schneider, Ester Schneider, Mabel Ruth Schneider]
 status: confirmed
 uncertain_fields:
-- birth
 - death
 tags:
 - '#person'
 - '#schneider'
 created: '2026-04-06'
+updated: '2026-10-14'
 surname: 'Schneider'
 linked_parents:
-  - ''
-  - ''
+  - 'Schneider/heinrich-ludwig-schneider'
+  - 'Schneider/catharine-luise-horster'
 linked_spouses:
   - ''
   - ''
@@ -44,10 +44,10 @@ linked_children:
 **Lifespan:** April 1870 – July 1912
 
 ## Summary
-Mother of Matilda Henrietta (Schneider) Krumpos (1897–1973). Born April 1870 in Germany. Died c. 1912 in Kenosha, Wisconsin (age ~42). Buried at Green Ridge Cemetery, Kenosha, Kenosha County, Wisconsin. Her maiden name was apparently also **Schneider** (spelled Schnieder for her father). Two independent sources give it, though no image has been seen yet: her 1892 marriage index and her daughter Anna's Social Security application. She arrived at Baltimore in April 1892, single, aged 22, bound for Wisconsin, and married William Schneider at Kenosha six months later, on 19 Oct 1892.
+Mother of Matilda Henrietta (Schneider) Krumpos (1897–1973). Born **25 Apr 1870 at Lautzenbrücken** (parish of Kirburg, Westerwald, then the Duchy of Nassau), daughter of **Heinrich Ludwig Schneider**, a miner, and **Catharine Luise Hörster**, both born there (CONFIRMED from the civil register images, 2026-10-14 s9). Died c. 1912 in Kenosha, Wisconsin (age ~42). Buried at Green Ridge Cemetery, Kenosha, Kenosha County, Wisconsin. Her maiden name was apparently also **Schneider** (spelled Schnieder for her father). Two independent sources give it, though no image has been seen yet: her 1892 marriage index and her daughter Anna's Social Security application. She arrived at Baltimore in April 1892, single, aged 22, bound for Wisconsin, and married William Schneider at Kenosha six months later, on 19 Oct 1892.
 
 ## Relationships
-- **Parents (PROBABLE):** "Luda" [Ludwig?] Schnieder & Louise Horster, per the 1892 marriage index
+- **Parents (CONFIRMED, register images):** Heinrich Ludwig Schneider (b. 28 Mar 1830) × Catharine Luise Hörster (b. 14 Feb 1828), m. 28 Nov 1858 at Lautzenbrücken — the 1892 index's "Luda Schnieder & Louise Horster"
 - **Husband:** Von Wilhem Schneider (b. c. 1872, Germany), m. 19 Oct 1892, Kenosha
 - **Children:**
   - Matilda Henrietta Schneider (Jan 25, 1897–1973) — 2nd wife of Lawrence Antone Krumpos
@@ -62,6 +62,8 @@ Mother of Matilda Henrietta (Schneider) Krumpos (1897–1973). Born April 1870 i
   - *The 1900 census also lists an unnamed daughter (b. May 1900), probably Aemilia. Clara, Aemilia and Ester are not survivors in any sibling's obituary.*
 
 ## Sources
+- **Birth, Lautzenbrücken, 1870 no. 1 — IMAGE READ 2026-10-14 s9** (FS catalog 760015, "Kirchenbuchduplikat, 1817-1874", Evangelische Kirche Kirburg, the Nassau civil transcript ("Verzeichniß der Gebornen in dem Kirchspiel Kirburg, Amts Hachenburg"); film 2003138 items 2–3, **DGS 102101265, image 415** of 1139, ark 3:1:3Q9M-CSWK-8SWD-H; open to view). Born **25 April 1870** (year also written out in words), 6 a.m., **Schneider, Mathilde Henriette**, born at **Lautzenbrücken**, daughter (Tochter). Father **Heinrich Ludwig Schneider**, married, Bürger(?), evangelical, living at and born in Lautzenbrücken. Mother **Catharine Louise, née Hörster**, his wife, evangelical, living at and born in Lautzenbrücken. Her second name, Henriette, is the one she gave her daughter Matilda Henrietta (b. 1897). This is the "LANZERYKKE" of the 1892 Baltimore list and the "Luda Schnieder & Louise Horster" of her 1892 marriage index.
+- **Parents' marriage, Lautzenbrücken, 28 Nov 1858, no. 5 — IMAGE READ 2026-10-14 s9** (same film, DGS 102101265, **image 361**, ark 3:1:3Q9M-CSWK-8SW6-N, register p. for 1858). Groom **Heinrich Ludwig Schneider**, b. **28 Mar 1830** at Lautzenbrücken, evangelical, single, miner (Bergmann) at Lautzenbrücken; son of **Johann Friedrich Schneider and Marie Catharine Christine née Glöckner**, farmers (Ehe- und Bauersleute) at Lautzenbrücken. Bride **Catharine Luise Hörster**, b. **14 Feb 1828** at Lautzenbrücken, evangelical, single, of Lautzenbrücken; daughter of **Johann Heinrich Hörster and Elisabethe Margarethe née Krämer**, farmers at Lautzenbrücken. Married by the evangelical pastor of Kirburg; banns 7, 14 and 21 Nov 1858 at Kirburg. (The reading "Glöckner" is good; "Krämer" is probable.)
 - **Wisconsin marriage, 19 Oct 1892, Kenosha** (FS "Wisconsin, Marriages, 1836-1930", XR5J-7PC; index only, no image): groom Wm. Schneider, parents Fried Schneider & Henriette Sanner or Ganner; bride **Mathilde Schneider**, parents **Luda Schnieder & Louise Horster**.
 - **Anna Schneider Mider, Social Security NUMIDENT** (FS 6KS1-YP68; application Apr 1964): b. 5 May 1894, Kenosha; parents William Schneider and **Matilda Schneider** (the SS-5 asks for the mother's maiden name).
 - **Kentucky marriage, 24 May 1917** (FS FW17-3ZF): Samuel Elmer Mider (b. 1894, Cincinnati) × Anna Schneider (b. 1894, Kenosha); her parents Wm. & Matilda Schneider.
@@ -74,6 +76,8 @@ Mother of Matilda Henrietta (Schneider) Krumpos (1897–1973). Born April 1870 i
 - Little Chute Genealogy: Person ID I35589
 
 ## Research Notes
+- **2026-10-14 s9 — SOLVED: "Lanzerykke" = Lautzenbrücken.** Lautzenbrücken (today Westerwaldkreis, by Bad Marienberg) belonged to the evangelical parish of **Kirburg**, not Bad Marienberg. FamilySearch has filmed the Duchy of Nassau's civil transcripts of the Kirburg parish books (catalog 760015; Lautzenbrücken births, marriages and deaths 1817–1874 on film 2003138 items 2–3 = DGS 102101265), and these images are **open**, unlike the Kirburg church books themselves (catalog 146509, DGS 102053602 etc., restricted). Layout of DGS 102101265: Kroppach/Niedermörsbach to c. img 140; Lautzenbrücken c. 150–439 (older volume year by year with births, marriages and deaths; 1856–67 volume with births c. 320–350, marriages 353–371, deaths 374–407; 1868–74 volume 410–438, births 1870 at 415, marriages 1868–72 at 420–426); Langenbach from 440. Her parents married in 1858, so Mathilde (b. 1870, mother aged 42) was a younger child; older siblings should be in the 1859–69 births (imgs c. 320–350, 410–414). Not yet read: the parents' own baptisms (1828, 1830) and the grandparents' marriages in the older volume (c. imgs 150–300, arranged by year), which would carry the line back another generation. The Archion item on the offline list is no longer needed for her.
+- Lautzenbrücken is about 15 km from William Schneider's Daaden, so the couple were near neighbours in Germany.
 - **2026-10-14 s8 — negatives.** FS indexes still have no Mathilde Schneider b. 1869–71 with a father Ludwig anywhere in the German indexes (the nearest are Düsseldorf 1869 and Elberfeld 1871, other parents), and no Schneider × Hörster marriage. GEDBAS (584 Hörster entries) is overwhelmingly Bergisch/Lower Rhine (Solingen, Heiligenhaus, Lank-Latum); its only Louise Horsters are Lank-Latum 1843 and Crossen/Oder 1864, neither her. No free Westerwald Ortsfamilienbuch covering Lautzenbrücken/Bad Marienberg was found. Archion stays the route (offline list).
 - **2026-10-14 s7 — a Westerwald reading, and a correction.** The "Wilhelm Schneider × Johannette Hörster" pair noted in s4 is not Bergisch. Their daughter Elisabetha Schneider (b. 1861) married Otto Ebener on **19 Jul 1880 at Marienstatt, Oberwesterwaldkreis** (FS D47N-D52M, "Germany, Prussia, Marriages"; index only). So Hörster occurs in the **Westerwald**, about 15 km from William Schneider's Daaden (the name is also indexed at Holler, Unterwesterwaldkreis, 1834). That suggests a third reading of "LANZERYKKE": **Lautzenbrücken** (Westerwaldkreis, near Bad Marienberg and Marienstatt), rendered by an English-speaking clerk who wrote ü as y. Like Lengerich, this is unproven. It fits better geographically, since the couple married within six months of landing and her husband was a Westerwälder. No Mathilde Schneider b. 1866–74 with a Hörster/Horster mother is indexed in Hessen-Nassau, and FS indexes little of the Westerwald. The Bad Marienberg (evang.) church books, which cover Lautzenbrücken, are on Archion (offline list). The other Schneider × Hörster pairs found (Baden, Altenheim/Mosbach) are unrelated.
 - **2026-10-14 s6 — fellow passengers read; "Lengerke" reading.** The *Karlsruhe* list (28 Apr 1892) runs over FS 2CSH-Z9X images 772–774 (pp. 261–263; DGS 005576969). Mathilde is on p. 262. Her neighbours are no help: Emilie Merkly (Stuttgart → Ohio), Anna Hoyer (Heinbrechts = Helmbrechts → Md.) and the Henk family ("Plate" → Nebr.). Only four other parties were bound for Wisconsin: Carl Graf, 24 ("Lukko", p. 262 line 3); the Süss family of 8 (Mellendorf, p. 261); August Malk's family of 7 ("Marienhytte", p. 263); and Alois Treuma? ("Rimpach", p. 263). None is from a place resembling hers. The FS index of the list gives no residence. **Clue to the clerk's spelling:** he wrote "Marienhytte" for Marienhütte (y = ü), "Heinbrechts" for Helmbrechts and "Gluckstad" for Glückstadt. So "Lanzerykke" is a phonetic rendering, and **Lengerich, Westphalia, is "Lengerke" in the local Low German.** That fits the sound well and makes Lengerich (Kreis Tecklenburg) the best guess, but it is still unproven. FS indexes have no Schneider × Hörster baptism or marriage at Lengerich or anywhere in Kreis Tecklenburg. The Lengerich (evangelisch) church books are on Archion (offline).

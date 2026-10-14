@@ -300,6 +300,18 @@
     "query": "Germany",
     "source": "too-vague"
   },
+  "Germany (Westerwald)": {
+    "lat": null,
+    "lon": null,
+    "query": "Germany",
+    "source": "too-vague"
+  },
+  "Germany (probably Lautzenbrücken, Westerwald)": {
+    "lat": null,
+    "lon": null,
+    "query": "Germany",
+    "source": "too-vague"
+  },
   "Granby, Oswego County, New York": {
     "display_name": "Town of Granby, Oswego County, New York, 13115, United States",
     "lat": 43.2653897,
@@ -446,6 +458,20 @@
     "lon": -1.1515951,
     "query": "La Rochelle, Charente-Maritime, France",
     "source": "nominatim"
+  },
+  "Lautzenbrücken, parish of Kirburg, Amt Hachenburg, Duchy of Nassau (now Westerwaldkreis), Germany": {
+    "display_name": "Lautzenbrücken, Verbandsgemeinde Bad Marienberg, Westerwaldkreis, Rheinland-Pfalz, Germany",
+    "lat": 50.67,
+    "lon": 7.94,
+    "note": "Mathilde Schneider's birthplace (Kirburg parish, Nassau); historical-jurisdiction string; village-level coordinates (approx.)",
+    "source": "override"
+  },
+  "Lautzenbrücken, parish of Kirburg, Duchy of Nassau (now Westerwaldkreis), Germany": {
+    "display_name": "Lautzenbrücken, Verbandsgemeinde Bad Marienberg, Westerwaldkreis, Rheinland-Pfalz, Germany",
+    "lat": 50.67,
+    "lon": 7.94,
+    "note": "Mathilde Schneider's birthplace (Kirburg parish, Nassau); historical-jurisdiction string; village-level coordinates (approx.)",
+    "source": "override"
   },
   "Lexington Township, Le Sueur County, Minnesota": {
     "display_name": "Lexington Township, Le Sueur County, Minnesota, 56057, United States",
