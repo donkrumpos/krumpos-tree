@@ -42,6 +42,8 @@ The full evidence is in [[john-pfister-sr]] and [[margaret-pfister]]. This profi
 - **Children:** Margaret (1876–1962) is the direct line. For the rest, see john-pfister-sr.md; which children were hers and which were the first wife's is not settled.
 
 ## Sources
+- 1905 Wisconsin state census, Gibraltar, Door Co. (FS index): John "Phfister" (1830) with Mary, Frank and Casper, **no wife present** (index only).
+
 - 1900 US census, Fish Creek area, Door Co.: "Annie M" (indexed "Annie C"), b. Nov 1846 Germany, married 28 years, 9 children / 8 living.
 - Find a Grave 126312039 (Margaret Pfister): mother "Anna (née Weidner) Pfisterer" (user-contributed).
 - **1880 US census, Nasewaupee, Door Co.** (FS household of John Pfisterer, b. 1831 Germany, farmer): wife **"Christiana"**, b. **1846**, Germany; children Anna (b. 1870), John (1871), Mary (1873), Margareth, William — all b. Wisconsin.

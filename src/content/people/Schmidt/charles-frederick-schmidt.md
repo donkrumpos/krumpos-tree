@@ -10,6 +10,7 @@ gender: M
 parents: [John Schmidt, Elizabeth Rabe]
 spouses:
 - Maria Katharina Wilhelmina Vollmer (m. 1883-12-13, St. Peter, MN)
+- Katherine Vargo (m. after 1905; named in his 1920 obituary)
 children:
 - Minnie Elizabeth Schmidt
 - Mamie Caroline Schmidt
@@ -34,6 +35,7 @@ linked_parents:
   - 'Rabe/elizabeth-rabe'
 linked_spouses:
   - 'Vollmer/maria-katharina-wilhelmina-vollmer'
+  - ''
 linked_children:
   - ''
   - ''
@@ -71,6 +73,7 @@ Born December 13, 1864 in Joliet, Will County, Illinois. Son of John Schmidt and
   - Loretta W Schmidt (1902–1982) — the 10th/11th child, born after 1900 census
 
 ## Sources
+- **Obituary, *Saint Peter Herald*, 21 May 1920, p. 13** (MNHS Hub, OCR read 2026-10-14): d. Sun. 16 May 1920, Mankato hospital, appendicitis; b. Joliet 13 Dec 1864; brother of Henry T. Schmidt; widow Katherine (Vargo); 13 children; buried Savage [Savidge] cemetery, Cleveland. CONFIRMED.
 - FamilySearch (birth, marriage, death, burial details)
 - 1900 US Census, Cleveland, Le Sueur County, Minnesota (lines 56–65) — **primary source**
 - 1910 US Census, Cleveland Township, Le Sueur County, Minnesota (line 97)
