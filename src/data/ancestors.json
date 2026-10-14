@@ -878,9 +878,9 @@
     "name": "Charles Frederick Schmidt",
     "surname": "Schmidt",
     "birth": "1864-12-13",
-    "death": "1920-05-19",
+    "death": "1920-05-16",
     "birth_place": "Joliet, Will County, Illinois",
-    "death_place": "Cleveland, Le Sueur County, Minnesota",
+    "death_place": "Mankato (hospital), Blue Earth County, Minnesota",
     "generation": 4,
     "gender": "M",
     "branch": "schmidt",
@@ -892,7 +892,7 @@
       },
       {
         "year": 1920,
-        "place": "Cleveland, Le Sueur County, Minnesota",
+        "place": "Mankato (hospital), Blue Earth County, Minnesota",
         "kind": "died"
       }
     ],

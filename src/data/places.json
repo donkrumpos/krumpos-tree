@@ -510,6 +510,13 @@
     "query": "Malone, Franklin County, New York",
     "source": "nominatim"
   },
+  "Mankato (hospital), Blue Earth County, Minnesota": {
+    "display_name": "Mankato, Blue Earth County, Minnesota, 56001, United States",
+    "lat": 44.1658533,
+    "lon": -94.0028013,
+    "query": "Mankato , Blue Earth County, Minnesota",
+    "source": "nominatim"
+  },
   "Mankato Township, Blue Earth County, Minnesota": {
     "display_name": "Mankato Township, Blue Earth County, Minnesota, United States",
     "lat": 44.1502658,

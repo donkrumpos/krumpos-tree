@@ -74,6 +74,7 @@ Mother of Matilda Henrietta (Schneider) Krumpos (1897–1973). Born April 1870 i
 - Little Chute Genealogy: Person ID I35589
 
 ## Research Notes
+- **2026-10-14 s6 — fellow passengers read; "Lengerke" reading.** The *Karlsruhe* list (28 Apr 1892) runs over FS 2CSH-Z9X images 772–774 (pp. 261–263; DGS 005576969). Mathilde is on p. 262. Her neighbours are no help: Emilie Merkly (Stuttgart → Ohio), Anna Hoyer (Heinbrechts = Helmbrechts → Md.) and the Henk family ("Plate" → Nebr.). Only four other parties were bound for Wisconsin: Carl Graf, 24 ("Lukko", p. 262 line 3); the Süss family of 8 (Mellendorf, p. 261); August Malk's family of 7 ("Marienhytte", p. 263); and Alois Treuma? ("Rimpach", p. 263). None is from a place resembling hers. The FS index of the list gives no residence. **Clue to the clerk's spelling:** he wrote "Marienhytte" for Marienhütte (y = ü), "Heinbrechts" for Helmbrechts and "Gluckstad" for Glückstadt. So "Lanzerykke" is a phonetic rendering, and **Lengerich, Westphalia, is "Lengerke" in the local Low German.** That fits the sound well and makes Lengerich (Kreis Tecklenburg) the best guess, but it is still unproven. FS indexes have no Schneider × Hörster baptism or marriage at Lengerich or anywhere in Kreis Tecklenburg. The Lengerich (evangelisch) church books are on Archion (offline).
 - Born in Germany (Deutschland) — not Bohemian/Czech like the other Krumpos-line families
 - Died young (~42) in Kenosha County — buried July 5, 1912 at Green Ridge Cemetery (SW, Block 63, Lot 1)
 - Family may have moved south from Kewaunee to Kenosha

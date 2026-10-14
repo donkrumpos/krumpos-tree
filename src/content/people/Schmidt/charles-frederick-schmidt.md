@@ -3,9 +3,9 @@ id: charles-frederick-schmidt
 name: Charles Frederick Schmidt
 aka: [Chas. F. Schmidt]
 birth: '1864-12-13'
-death: '1920-05-19'
+death: '1920-05-16'
 birth_place: 'Joliet, Will County, Illinois'
-death_place: 'Cleveland, Le Sueur County, Minnesota'
+death_place: 'Mankato (hospital), Blue Earth County, Minnesota'
 gender: M
 parents: [John Schmidt, Elizabeth Rabe]
 spouses:
@@ -52,7 +52,7 @@ linked_children:
 **Lifespan:** December 13, 1864 – May 16, 1920
 
 ## Summary
-Born December 13, 1864 in Joliet, Will County, Illinois. Son of John Schmidt and Elizabeth Rabe. Married Maria Katharina Wilhelmina Vollmer ("Minnie") on December 13, 1883 in St. Peter, Nicollet County, Minnesota. Eleven children (3 sons, 8 daughters). Occupation: farmer. Died May 19, 1920 in Cleveland, Le Sueur County, Minnesota, age 55. Buried at Savidge Lake Cemetery, Cleveland.
+Born December 13, 1864 in Joliet, Will County, Illinois. Son of John Schmidt and Elizabeth Rabe. Married Maria Katharina Wilhelmina Vollmer ("Minnie") on December 13, 1883 in St. Peter, Nicollet County, Minnesota. Eleven children (3 sons, 8 daughters). Occupation: farmer. Died May 16, 1920 in a Mankato hospital (appendicitis), age 55 (obituary, Saint Peter Herald 21 May 1920). Later married Katherine Vargo. Buried at Savidge Lake Cemetery, Cleveland.
 
 ## Relationships
 - **Parents:** John Schmidt (b. 1822, Mecklenburg) & Elizabeth Rabe (Dec 12, 1846–1918, born Germany/Prussia) — 24-year age gap
@@ -76,6 +76,7 @@ Born December 13, 1864 in Joliet, Will County, Illinois. Son of John Schmidt and
 - 1910 US Census, Cleveland Township, Le Sueur County, Minnesota (line 97)
 
 ## Research Notes
+- **Obituary CONFIRMED [2026-10-14 s6]:** *Saint Peter Herald*, Fri. 21 May 1920, p. 13 (MNHS Hub, OCR read), "Former Cleveland Farmer Dead". It says he was a brother of Henry T. Schmidt of St. Peter and **died in a Mankato hospital on Sunday afternoon (16 May 1920) about 4:30, of appendicitis**. Born Joliet, Illinois, 13 Dec 1864; as a lad he moved with his parents to **Cordova Twp**, where he married Minnie "Vomer" (Vollmer). He farmed in Cleveland Twp for 22 years, then lived at Le Sueur Center and Kilkenny. His first wife died before him; he **later married Katherine Vargo**. He left **13 children**: Mrs. Orange Flowers, Mrs. Geo. Carter, Mrs. Clark Rogers, Fred and Gilbert of Cleveland, Mrs. Geo. Wakefield (Ladysmith, Wis.), Mrs. Fred Wommering ("Halbird", S. Dak., as OCR'd), and Loretta, Marcella, John, Clarence, George and Grace at home. The last five are presumably Katherine's children. The funeral was on Wednesday (19 May) from the Orange Flowers home and the Cleveland M. E. church (Rev. Williams), with burial in the Savage [Savidge] cemetery. **So the death date is 16 May 1920 (Find a Grave's 19 May is the funeral) and the place was a Mankato hospital.**
 - Born in Joliet, Will County, Illinois — second-generation German-American
 - Married on his 19th birthday (Dec 13, 1864 / Dec 13, 1883)
 - Wife Maria died Sep 10, 1905 age 42 — Charles was a widower for 15 years. Buried at German Lake Lutheran Cemetery, Elysian.
