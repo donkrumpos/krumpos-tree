@@ -14,7 +14,7 @@ children:
 - Elizabeth Schmidt (b. 1856)
 - Mary Schmidt
 - Charles Frederick Schmidt
-- Amelia Ann Schmidt
+- Emma Schmidt (b. 1866)
 burial: Kasota Township, Le Sueur County, Minnesota
 status: confirmed
 uncertain_fields:
@@ -23,7 +23,7 @@ tags:
 - '#person'
 - '#schmidt'
 created: '2026-04-07'
-updated: '2026-10-13'
+updated: '2026-10-14'
 surname: 'Schmidt'
 linked_parents: []
 linked_spouses:
@@ -46,9 +46,9 @@ Father of Charles Frederick Schmidt (1863/64–1920). Born 24 Mar 1822 in German
 - **Children:**
   - Elizabeth Schmidt (9 Apr 1856, Joliet – 4 Jun 1918; m. Fred Hart)
   - Mary Schmidt (Dec 15, 1859–Mar 28, 1909, born Illinois)
-  - Henry T. Schmidt (b. Mecklenburg 1852, of St. Peter; alive Sept 1924) — named in his mother's and sister's obituaries
+  - Henry T. Schmidt (Jan 1852, Mecklenburg – 6 Mar 1932, Fullerton, California; hotel keeper of St. Peter; m. Emelia Moring) — named in his mother's and sister's obituaries; see [[elizabeth-rabe]]
   - Charles Frederick Schmidt (Dec 13, 1863/64–May 1920, born Illinois) — **direct line**
-  - Amelia Ann Schmidt (c. 1866–?, born Minnesota; age 14 in 1880 census)
+  - Emma Schmidt (Feb 1866 – 22 Oct 1936; "Amelia Ann" in the 1880 index, age 14; m. Adolph Hermel of Waterville; d. Isle Harbor Twp, Mille Lacs Co.)
 
 ## Sources
 - **Obituary, *Saint Peter Tribune*, 6 Feb 1895, p. 3** ("John C. Schmidt Passes Away"; Minnesota Digital Newspaper Hub, MNHS, OCR text read 2026-10-13 s4): "the veteran brick and stone mason, died at his home in North St. Peter last Friday", aged 73, after more than three years of asthma. "Mr. Schmidt was born in **Mecklenberg**, Germany, and came to America in **1852**, making his home first in **Milwaukee**, Wis., afterward in Joliet, Ill. He moved from Joliet to LeSueur county early in the sixties, and founded a home near **Scotch Lake**." Survived by his wife and five living children. Funeral from the family residence.
@@ -60,6 +60,7 @@ Father of Charles Frederick Schmidt (1863/64–1920). Born 24 Mar 1822 in German
 - Children's death records (Charles F. 1920; Elizabeth Hart 1918) name the father "John C. Schmidt", b. Germany.
 
 ## Research Notes
+- **2026-10-14 s7:** son Henry T. d. 6 Mar 1932 at Fullerton, California; daughter "Amelia Ann" is **Emma (Mrs. Adolph Hermel)**, d. 1936, whose death index names her father John Schmidt. A Brandenburg marriage of a **Joachim Friedrich Schmidt b. 24 Mar 1821 × widow Katharina Elisabeth Butter née Rabe** (Kyritz, 1850) looked like John's but is **ruled out**: the bride was b. 1814, and the couple was still baptizing children at Kyritz in 1855 and 1857. Details are in [[elizabeth-rabe]].
 - **2026-10-14 s6:** son Henry T.'s 1920 census entry gives his birthplace as **Mecklenburg** (FS MWBV-GZ6), which agrees with John's own Mecklenburg origin and suggests a marriage there c. 1851–52. Charles's obituary (*Saint Peter Herald* 21 May 1920) says the family moved to **Cordova Twp** (Le Sueur Co.) "when he was a lad".
 - **2026-10-14 s5:** the eldest son, Henry T. Schmidt, was born in Germany in 1852 (1910 census), so John and Elizabeth probably married in Germany shortly before sailing; a second obituary of Elizabeth (*Tribune* 29 May 1912) dates the Joliet years 1852–1864 and counts eight children. Frederick Schmidt, St. Peter shoemaker (Mecklenburg, Joliet 1859–65, d. 1898), took the same route, but nothing names him as kin. See [[elizabeth-rabe]]. **Emilie Schmidt (1882–1966) unlinked** as a child: she is missing from Elizabeth's 1912 survivors.
 - **Mecklenburg CONFIRMED by obituary [2026-10-13 s4]:** the 1895 *Tribune* obituary gives Mecklenburg, so the family tradition stands. His given name was probably **Joachim** (a common Mecklenburg name), per his widow's 1912 obituary; "John C." may stand for Joachim C[hristian?]. Next: Mecklenburg emigration records 1852 (Mecklenburg-Schwerin passport/emigration lists, not online), and a Will Co., IL, naturalization or church marriage (did he marry Elizabeth in Germany or in Milwaukee/Joliet? The 1912 obituary has them crossing together in 1852).

@@ -29,7 +29,7 @@ Born December 15, 1859 in Illinois. Daughter of John Schmidt (Germany) and Eliza
 
 ## Relationships
 - **Parents:** John Schmidt (b. 1822, Mecklenburg) & Elizabeth Rabe (b. c. 1824, Prussia)
-- **Siblings:** Elizabeth Schmidt (c. 1856–1918), Charles Frederick Schmidt (1864–1920), Amelia Ann Schmidt (c. 1866–?)
+- **Siblings:** Elizabeth Schmidt (c. 1856–1918), Charles Frederick Schmidt (1864–1920), Emma Schmidt (1866–1936, Mrs. Adolph Hermel; "Amelia Ann" in the 1880 index)
 
 ## Sources
 - Minnesota Certificate of Death, Register No. 153, Nicollet County — **primary source**
