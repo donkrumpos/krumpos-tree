@@ -46,7 +46,7 @@ Father of Charles Frederick Schmidt (1863/64–1920). Born 24 Mar 1822 in German
 - **Children:**
   - Elizabeth Schmidt (9 Apr 1856, Joliet – 4 Jun 1918; m. Fred Hart)
   - Mary Schmidt (Dec 15, 1859–Mar 28, 1909, born Illinois)
-  - Henry T. Schmidt (Jan 1852, Mecklenburg – 6 Mar 1932, Fullerton, California; hotel keeper of St. Peter; m. Emelia Moring) — named in his mother's and sister's obituaries; see [[elizabeth-rabe]]
+  - Henry Theodore Schmidt (Jan 1852, Mecklenburg – 6 Mar 1932, Fullerton, California; hotel keeper of St. Peter; m. Emelia Moring, d. Orange Co. 1943) — named in his mother's and sister's obituaries; see [[elizabeth-rabe]]
   - Charles Frederick Schmidt (Dec 13, 1863/64–May 1920, born Illinois) — **direct line**
   - Emma Schmidt (Feb 1866 – 22 Oct 1936; "Amelia Ann" in the 1880 index, age 14; m. Adolph Hermel of Waterville; d. Isle Harbor Twp, Mille Lacs Co.)
 
@@ -62,6 +62,7 @@ Father of Charles Frederick Schmidt (1863/64–1920). Born 24 Mar 1822 in German
 - Son **Henry T. Schmidt**'s death, 6 Mar 1932, Orange Co., California (CA Death Index QKS9-FM9B, age 80; Find a Grave 147799236, Loma Vista Memorial Park, Fullerton; PROBABLE). He is identified through the 1930 Fullerton census (XCD2-CMK, father-in-law of Evelyn Hennessey) and the *Saint Peter Herald* of 30 May 1928, p. 6 (daughters Mrs. B. Hennessey and Mrs. A. Maxson in California). The full citations are in [[elizabeth-rabe]].
 
 ## Research Notes
+- **2026-10-14 s8:** son "Henry T." is **Henry Theodore** (Orange Co. death index card, image read; see [[elizabeth-rabe]]). No 1852 arrival, naturalization or Hamburg-list entry for John/Joachim was found in the free indexes; the Hamburg emigrant lists of 1850–55 (Ancestry, or the FS images browsed by sailing date) are the next place to look for his village.
 - **2026-10-14 s7:** son Henry T. d. 6 Mar 1932 at Fullerton, California; daughter "Amelia Ann" is **Emma (Mrs. Adolph Hermel)**, d. 1936, whose death index names her father John Schmidt. A Brandenburg marriage of a **Joachim Friedrich Schmidt b. 24 Mar 1821 × widow Katharina Elisabeth Butter née Rabe** (Kyritz, 1850) looked like John's but is **ruled out**: the bride was b. 1814, and the couple was still baptizing children at Kyritz in 1855 and 1857. Details are in [[elizabeth-rabe]].
 - **2026-10-14 s6:** son Henry T.'s 1920 census entry gives his birthplace as **Mecklenburg** (FS MWBV-GZ6), which agrees with John's own Mecklenburg origin and suggests a marriage there c. 1851–52. Charles's obituary (*Saint Peter Herald* 21 May 1920) says the family moved to **Cordova Twp** (Le Sueur Co.) "when he was a lad".
 - **2026-10-14 s5:** the eldest son, Henry T. Schmidt, was born in Germany in 1852 (1910 census), so John and Elizabeth probably married in Germany shortly before sailing; a second obituary of Elizabeth (*Tribune* 29 May 1912) dates the Joliet years 1852–1864 and counts eight children. Frederick Schmidt, St. Peter shoemaker (Mecklenburg, Joliet 1859–65, d. 1898), took the same route, but nothing names him as kin. See [[elizabeth-rabe]]. **Emilie Schmidt (1882–1966) unlinked** as a child: she is missing from Elizabeth's 1912 survivors.
