@@ -1684,7 +1684,7 @@
     "name": "Christian Vollmer",
     "surname": "Vollmer",
     "birth": "1815-01-31",
-    "death": "1894-08-15",
+    "death": "1894-08-16",
     "birth_place": "Hanover, Germany",
     "death_place": "Cleveland, Le Sueur County, Minnesota",
     "generation": 5,
@@ -2325,18 +2325,24 @@
     "life_source": "birth-death"
   },
   {
-    "id": "elisabethe-margarethe-kramer",
-    "slug": "Schneider/elisabethe-margarethe-kramer",
-    "name": "Elisabethe Margarethe Krämer",
+    "id": "elisabethe-margarethe-krumm",
+    "slug": "Schneider/elisabethe-margarethe-krumm",
+    "name": "Elisabethe Margarethe Krumm",
     "surname": "Schneider",
-    "birth": "",
+    "birth": "1806-03-20",
     "death": "",
-    "birth_place": "Germany (Westerwald)",
+    "birth_place": "Lautzenbrücken, parish of Kirburg, Duchy of Nassau (now Westerwaldkreis), Germany",
     "death_place": "",
     "generation": 6,
     "gender": "F",
     "branch": "krumpos",
-    "life": [],
+    "life": [
+      {
+        "year": 1806,
+        "place": "Lautzenbrücken, parish of Kirburg, Duchy of Nassau (now Westerwaldkreis), Germany",
+        "kind": "born"
+      }
+    ],
     "life_source": "birth-death"
   },
   {
@@ -2344,14 +2350,20 @@
     "slug": "Schneider/johann-friedrich-schneider",
     "name": "Johann Friedrich Schneider",
     "surname": "Schneider",
-    "birth": "",
+    "birth": "1797-08-27",
     "death": "",
-    "birth_place": "Germany (probably Lautzenbrücken, Westerwald)",
+    "birth_place": "Lautzenbrücken, parish of Kirburg, Duchy of Nassau (now Westerwaldkreis), Germany",
     "death_place": "",
     "generation": 6,
     "gender": "M",
     "branch": "krumpos",
-    "life": [],
+    "life": [
+      {
+        "year": 1797,
+        "place": "Lautzenbrücken, parish of Kirburg, Duchy of Nassau (now Westerwaldkreis), Germany",
+        "kind": "born"
+      }
+    ],
     "life_source": "birth-death"
   },
   {
@@ -2359,14 +2371,25 @@
     "slug": "Schneider/johann-heinrich-horster",
     "name": "Johann Heinrich Hörster",
     "surname": "Schneider",
-    "birth": "",
-    "death": "",
-    "birth_place": "Germany (probably Lautzenbrücken, Westerwald)",
-    "death_place": "",
+    "birth": "1803-05-11",
+    "death": "1834-03-08",
+    "birth_place": "Lautzenbrücken, parish of Kirburg, Duchy of Nassau (now Westerwaldkreis), Germany",
+    "death_place": "Lautzenbrücken, Westerwald, Germany",
     "generation": 6,
     "gender": "M",
     "branch": "krumpos",
-    "life": [],
+    "life": [
+      {
+        "year": 1803,
+        "place": "Lautzenbrücken, parish of Kirburg, Duchy of Nassau (now Westerwaldkreis), Germany",
+        "kind": "born"
+      },
+      {
+        "year": 1834,
+        "place": "Lautzenbrücken, Westerwald, Germany",
+        "kind": "died"
+      }
+    ],
     "life_source": "birth-death"
   },
   {
@@ -2374,14 +2397,20 @@
     "slug": "Schneider/marie-catharine-christine-glockner",
     "name": "Marie Catharine Christine Glöckner",
     "surname": "Schneider",
-    "birth": "",
+    "birth": "1803-06-20",
     "death": "",
-    "birth_place": "Germany (Westerwald)",
+    "birth_place": "Norken, parish of Kirburg, Duchy of Nassau (now Westerwaldkreis), Germany",
     "death_place": "",
     "generation": 6,
     "gender": "F",
     "branch": "krumpos",
-    "life": [],
+    "life": [
+      {
+        "year": 1803,
+        "place": "Norken, parish of Kirburg, Duchy of Nassau (now Westerwaldkreis), Germany",
+        "kind": "born"
+      }
+    ],
     "life_source": "birth-death"
   },
   {
@@ -2901,6 +2930,126 @@
         "kind": "died"
       }
     ],
+    "life_source": "birth-death"
+  },
+  {
+    "id": "anna-maria-benner",
+    "slug": "Schneider/anna-maria-benner",
+    "name": "Anna Maria Benner",
+    "surname": "Schneider",
+    "birth": "",
+    "death": "before 1826-09",
+    "birth_place": "Germany (Westerwald)",
+    "death_place": "",
+    "generation": 7,
+    "gender": "F",
+    "branch": "krumpos",
+    "life": [],
+    "life_source": "birth-death"
+  },
+  {
+    "id": "anna-maria-schneider-horster",
+    "slug": "Schneider/anna-maria-schneider-horster",
+    "name": "Anna Maria Schneider",
+    "surname": "Schneider",
+    "birth": "",
+    "death": "",
+    "birth_place": "Germany (Westerwald)",
+    "death_place": "",
+    "generation": 7,
+    "gender": "F",
+    "branch": "krumpos",
+    "life": [],
+    "life_source": "birth-death"
+  },
+  {
+    "id": "elisabetha-catharina-muller",
+    "slug": "Schneider/elisabetha-catharina-muller",
+    "name": "Elisabetha Catharina Müller",
+    "surname": "Schneider",
+    "birth": "",
+    "death": "",
+    "birth_place": "Germany (Westerwald)",
+    "death_place": "",
+    "generation": 7,
+    "gender": "F",
+    "branch": "krumpos",
+    "life": [],
+    "life_source": "birth-death"
+  },
+  {
+    "id": "johann-christian-krumm",
+    "slug": "Schneider/johann-christian-krumm",
+    "name": "Johann Christian Krumm",
+    "surname": "Schneider",
+    "birth": "",
+    "death": "",
+    "birth_place": "Germany (Westerwald)",
+    "death_place": "",
+    "generation": 7,
+    "gender": "M",
+    "branch": "krumpos",
+    "life": [],
+    "life_source": "birth-death"
+  },
+  {
+    "id": "johann-gerlach-horster",
+    "slug": "Schneider/johann-gerlach-horster",
+    "name": "Johann Gerlach Hörster",
+    "surname": "Schneider",
+    "birth": "",
+    "death": "before 1827-12",
+    "birth_place": "Germany (Westerwald)",
+    "death_place": "",
+    "generation": 7,
+    "gender": "M",
+    "branch": "krumpos",
+    "life": [],
+    "life_source": "birth-death"
+  },
+  {
+    "id": "johann-peter-glockner",
+    "slug": "Schneider/johann-peter-glockner",
+    "name": "Johann Peter Glöckner",
+    "surname": "Schneider",
+    "birth": "",
+    "death": "",
+    "birth_place": "Germany (Westerwald)",
+    "death_place": "",
+    "generation": 7,
+    "gender": "M",
+    "branch": "krumpos",
+    "life": [],
+    "life_source": "birth-death"
+  },
+  {
+    "id": "johannes-daniel-schneider",
+    "slug": "Schneider/johannes-daniel-schneider",
+    "name": "Johannes Daniel Schneider",
+    "surname": "Schneider",
+    "birth": "",
+    "death": "",
+    "birth_place": "Germany (Westerwald)",
+    "death_place": "",
+    "generation": 7,
+    "gender": "M",
+    "branch": "krumpos",
+    "life": [],
+    "life_source": "birth-death"
+  },
+  {
+    "id": "maria-margaretha-weller",
+    "slug": "Schneider/maria-margaretha-weller",
+    "name": "Maria Margaretha Weller",
+    "surname": "Schneider",
+    "birth": "",
+    "death": "",
+    "birth_place": "Germany (Westerwald)",
+    "death_place": "",
+    "generation": 7,
+    "gender": "F",
+    "branch": "krumpos",
+    "life": [],
     "life_source": "birth-death"
   },
   {

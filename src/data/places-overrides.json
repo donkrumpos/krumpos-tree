@@ -112,5 +112,11 @@
     "lon": 7.94,
     "display_name": "Lautzenbrücken, Verbandsgemeinde Bad Marienberg, Westerwaldkreis, Rheinland-Pfalz, Germany",
     "note": "Mathilde Schneider's birthplace (Kirburg parish, Nassau); historical-jurisdiction string; village-level coordinates (approx.)"
+  },
+  "Norken, parish of Kirburg, Duchy of Nassau (now Westerwaldkreis), Germany": {
+    "lat": 50.66,
+    "lon": 7.85,
+    "display_name": "Norken, Verbandsgemeinde Bad Marienberg, Westerwaldkreis, Rheinland-Pfalz, Germany",
+    "note": "Marie Catharine Christine Glöckner's birthplace (Kirburg parish, Nassau); historical-jurisdiction string; village-level coordinates (approx.)"
   }
 }

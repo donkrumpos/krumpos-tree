@@ -3,7 +3,7 @@ id: christian-vollmer
 name: Christian Vollmer
 aka: [C. Wallmore]
 birth: '1815-01-31'
-death: '1894-08-15'
+death: '1894-08-16'
 birth_place: 'Hanover, Germany'
 death_place: 'Cleveland, Le Sueur County, Minnesota'
 gender: M
@@ -81,7 +81,9 @@ Unknown — born in Hanover (Kingdom of Hanover, now Lower Saxony)
 ## Sources
 - **1860 US Census, Ela Township, Lake County, Illinois, Page 358 (stamped 730), line 25, dwelling/family #2446** — **primary source**. Enumerated August 11, 1860. Post Office: Lake Zurich. Listed as "C. Wallmore", age 43, male, Farming, $200 real estate, born Hanover. Household of 7.
 - FamilySearch (birth, marriage, death, burial, residence)
-- Death record — death date appears to be August 15, 1894 (FamilySearch had Aug 16)
+- **Obituary, *Saint Peter Herald*, 17 Aug 1894, p. 5 — OCR READ 2026-10-15 s10** (MNHS Minnesota Digital Newspaper Hub): "Christian Vollmer, one of the pioneer citizens of Cleveland and Le Sueur county, died at his home in Cleveland yesterday morning. Deceased was 78 years of age and his death was the result of general debility and old age. The funeral will occur to-day at ten o'clock from what is known as the Zimmerman church. He was born in Germany in 1816. **In 1856 he came to America and in 1865 settled in Cleveland** where he has since resided. **Four children survive him.**" "Yesterday" = Thursday **16 Aug 1894**.
+- *Saint Peter Tribune*, 22 Aug 1894, p. 3 (Cleveland column; OCR READ s10): "Cleveland and Le Sueur county lost one of its prominent citizens last week Thursday. Christian Vollmer, at the ripe old age of 78 years, was called home." Also Thursday 16 Aug.
+- Death record — death date appears to be August 15, 1894 (FamilySearch had Aug 16). Both 1894 newspapers give Thursday 16 Aug, so 16 Aug is adopted.
 
 ## 1860 Census Household (primary source)
 
@@ -103,6 +105,7 @@ Unknown — born in Hanover (Kingdom of Hanover, now Lower Saxony)
 - Frederick owns $200 in real estate — an adult son contributing to the farm, not a hired hand
 
 ## Research Notes
+- **2026-10-15 s10 — obituary found; immigration 1856.** The St. Peter Herald says he came to America in **1856**, which argues against Henry (b. c. 1852 in **Illinois**, 1860 household) being his son, and with Frederick (b. c. 1833) suggests the 1860 "children" of a first wife were more likely relatives (siblings, nephews) or a household he joined. "Four children survive him" (1894). The "Zimmerman church" is probably the German Lake Lutheran congregation where he is buried (not verified); its burial register is the best hope for his German parish (offline). Negatives: the 1857 Long Grove marriage is not in the Illinois Statewide Marriage Index (no Vollmer × Kurtz, any county) or in FS indexes under Vollmer/Volmer/Follmer/Wallmore/Volmar.
 - Born in **Hanover** — the Kingdom of Hanover was an independent German state until 1866 (annexed by Prussia). Now part of Lower Saxony (Niedersachsen).
 - **Probable first wife:** Frederick (b. c. 1833, Hanover), Caroline (b. c. 1840, Hanover), and Henry (b. c. 1852, Illinois) all predate the Dec 1857 marriage to Anna Maria. Frederick and Caroline were born in Hanover, suggesting Christian married young in Germany. First wife may have died between 1852 (Henry's birth) and 1857 (remarriage). Or the gap between Caroline (1840) and Henry (1852) could indicate two prior wives.
 - Emigrated to Illinois — living in Ela Township, Lake County, IL by 1860 (near Long Grove, where he married Anna Maria). Frederick and Caroline emigrated with him (or came separately) — both born Hanover.

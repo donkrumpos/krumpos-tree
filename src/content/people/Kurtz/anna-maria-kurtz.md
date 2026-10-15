@@ -65,6 +65,7 @@ Born July 18, 1837 in Baden, Germany. Daughter of M. Kurtz (father's first name 
 - **Stepchildren** (from Christian's first wife): Frederick Vollmer (c. 1833), Caroline Vollmer (c. 1840), Henry Vollmer (c. 1852)
 
 ## Sources
+- Daughter Louisa (Vollmer) Kratzke's Minnesota death record, Nicollet Twp, 4 Nov 1937 (FS Z6JG-89ZM, "Minnesota, Deaths, 1887-2001", and FDD1-K6Y; index): parents Christ Vollmer and **Maria Kurtz**. Independent support for the maiden name (index only).
 - FamilySearch (birth, marriage, death, burial, parents)
 - 1860 US Census, Ela Township, Lake County, Illinois — listed as "Mary" age 22, born Baden, in household of "C. Wallmore"
 
@@ -78,6 +79,8 @@ Born July 18, 1837 in Baden, Germany. Daughter of M. Kurtz (father's first name 
 - Lived in Cleveland, Le Sueur Co for ~10 years — near daughter Minnie and son-in-law Charles Frederick Schmidt
 - Died in Elysian, Le Sueur Co — same town as German Lake Lutheran Cemetery where Christian and Minnie are buried
 - ~~A widow for 21 years~~ — **she remarried** (below).
+
+- **2026-10-15 s10 — negatives.** No obituary for her (as Mary Hohn/Hone/Vollmer) in the MNHS Hub, Jan–Feb 1915: the Saint Peter Herald (15, 22, 29 Jan, 12 Feb) and Mankato Free Press hits are other people. The Elysian / Le Center papers aren't in the Hub, so offline. The Long Grove 1857 marriage is not in the Illinois Statewide Marriage Index. FS German baptism indexes have no Anna Maria Kurtz/Kurz b. 18 Jul 1837 (nearest: Jesingen, Württemberg, b. 5 Jul 1837, parents Johannes Kurz × Anna Maria Benzinger, not Baden; unproven, probably not her).
 
 ### Remarriage to Louis Hohn; 1915 death certificate [2026-10-13]
 - **1900 US census, Elysian Township and village, Le Sueur Co.** (FS M9SR-KX3): **Mary Hohn**, b. **Jul 1837**, Germany, **immigrated 1855**, wife of **Louis Hohn** (b. Apr 1818, Germany, immigrated 1857). The birth month and year match hers exactly. They married between Christian's death (Aug 1894) and 1900.

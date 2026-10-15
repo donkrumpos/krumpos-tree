@@ -459,6 +459,13 @@
     "query": "La Rochelle, Charente-Maritime, France",
     "source": "nominatim"
   },
+  "Lautzenbrücken, Westerwald, Germany": {
+    "display_name": "Lautzenbrücken, Bad Marienberg (Westerwald), Westerwaldkreis, Rheinland-Pfalz, Deutschland",
+    "lat": 50.6730799,
+    "lon": 7.9613681,
+    "query": "Lautzenbrücken, Westerwald, Germany",
+    "source": "nominatim"
+  },
   "Lautzenbrücken, parish of Kirburg, Amt Hachenburg, Duchy of Nassau (now Westerwaldkreis), Germany": {
     "display_name": "Lautzenbrücken, Verbandsgemeinde Bad Marienberg, Westerwaldkreis, Rheinland-Pfalz, Germany",
     "lat": 50.67,
@@ -652,6 +659,13 @@
     "lon": -74.0060152,
     "query": "New York, New York",
     "source": "nominatim"
+  },
+  "Norken, parish of Kirburg, Duchy of Nassau (now Westerwaldkreis), Germany": {
+    "display_name": "Norken, Verbandsgemeinde Bad Marienberg, Westerwaldkreis, Rheinland-Pfalz, Germany",
+    "lat": 50.66,
+    "lon": 7.85,
+    "note": "Marie Catharine Christine Glöckner's birthplace (Kirburg parish, Nassau); historical-jurisdiction string; village-level coordinates (approx.)",
+    "source": "override"
   },
   "Oberbipp, Bern, Switzerland": {
     "display_name": "Oberbipp, Verwaltungskreis Oberaargau, Verwaltungsregion Emmental-Oberaargau, Bern/Berne, 4538, Schweiz/Suisse/Svizzera/Svizra",
