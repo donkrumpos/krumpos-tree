@@ -43,6 +43,7 @@ Born April 16, 1845 in Domazlice, Okres Domazlice, Plzensky (Plzen), Czech Repub
 - Little Chute Genealogy: via Joseph Krumpos (I35586)
 
 ## Research Notes
+- **2026-10-16 s16 — 16 Apr 1845 not found in Klatovy, Domažlice or Žlutice (Porta fontium).** Klatovy: the N–Z index has no Steffel Maria/Katharina in 1845 (only Barbara Maria, of Franz the soap-boiler, and Amalia Ludmila, of Wenzel × Nowak). Domažlice (this profile's birthplace): town births 1838–47 (Domažlice 44, imgs 100–101; 16 Apr = Anna Paschil, 17 Apr = Andreas Karl Maly), lower suburb (Domažlice 45, img 105: 10 Apr Grün, c. 24 Apr Kralik) and Leydekauer/Týn suburb (Domažlice 46, img 111: 11 Apr Frana, 26 Apr Turen): **no Stefl**. Žlutice town (the "Yellow, Pellson Co." guess; Žlutice 11, imgs 145–146): 7 Apr, c. 9 Apr, 30 Apr, **no Steffel**. The Domažlice villages (Domažlice 43/47) were not searched. A probable father's baptism (Wenceslaus Steffl, Klatovy 4 Dec 1818) is in Joseph Wenzel Stefl's notes.
 - Surname spelling: original Czech is **Stefl** (parents listed as Stefl on WikiTree). Americanized to **Steffel** in some U.S. records and on WikiTree profile (Steffel-20). This file uses the Czech original.
 - Birthplace: Little Chute Genealogy specifies Domazlice, Okres Domazlice, Plzensky (Plzen), Czech Republic. WikiTree had only "Bohemia."
 - Death date: Little Chute Genealogy lists Mar 25, 1920; WikiTree/Find A Grave say Mar 26, 1920 — one-day discrepancy.
