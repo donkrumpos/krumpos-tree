@@ -56,7 +56,7 @@ Born January 20, 1827 at **Yardley Gobion** in the parish of **Potterspury, Nort
 - 1841 census, Yardley Gobion, Potterspury (HO107/796/8, FS M7QQ-7KY): William Lambert 47, Mary 37, Eliza 15, William 12, Stephen 7, Jessee 5, Rosannah 4, Mary 2, Joseph Stevans 25 — PROBABLE (index).
 - Potterspury baptisms of William Lambert × Mary: William 20 Dec 1829 (J7Y7-ZG3), Thomas 20 Oct 1831 (NVFK-34T), Stephen 14 Apr 1833 (b. 19 Feb; FQQ7-RJD), Jesse 12 Apr 1835 (b. 23 Jan; FWFG-8RC) — PROBABLE (index).
 - 1851 census, Roade, Northamptonshire (SGTT-668): Eliza Lambert b. c. 1826 "Perry Lodge" [Potterspury?], in the household of John Tite Cave — possible match, unconfirmed.
-- 1865 Minnesota census (SPSQ-3LL), 1870 US census (MDH7-GC6), 1875 Minnesota census (MKNK-47P), 1885 Minnesota census (MQFD-Z3X), Lexington, Le Sueur Co.: Eliza Kendall b. England c. 1825–28; the eldest child is Mary J. b. Minnesota 1858.
+- 1865 Minnesota census (SPSQ-3LL), 1870 US census (MDH7-GC6), 1875 Minnesota census (MKNK-47P), 1885 Minnesota census (MQFD-Z3X), Lexington, Le Sueur Co.: Eliza Kendall b. England c. 1825–28; the eldest child is Mary J. b. Minnesota 1858 — PROBABLE (index).
 
 ## Research Notes
 - **Corrected 2026-10-16 (s13).** This profile used to say Eliza was born at Wingham, Kent, and married William John Kendall at Eastry, Kent, in Jan 1850, with 12 children from 1852. That came from a FamilySearch tree that merged two couples:

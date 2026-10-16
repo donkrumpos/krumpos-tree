@@ -74,7 +74,7 @@ Ten children per Geneanet: Clemence Josephine (1880), August (1882), Odile C. (1
   - Joseph Jr. (b. 1897) — Oconto Falls; survived Odile
 
 ## Sources
-- **Civil birth act, Beauvechain, 1855, no. 10 — IMAGE READ 2026-10-13** (FS "Belgium, Brabant, Civil Registration", DGS 004341930, image 165 of 777; Beauvechain births/deaths/banns/marriages 1843–1860; the 1855 annual table on image 173 lists "Barette, Ferdinand Joseph, no. 10"). See Research Notes.
+- **Civil birth act, Beauvechain, 1855, no. 10** — **CONFIRMED** (image read 2026-10-13) (FS "Belgium, Brabant, Civil Registration", DGS 004341930, image 165 of 777; Beauvechain births/deaths/banns/marriages 1843–1860; the 1855 annual table on image 173 lists "Barette, Ferdinand Joseph, no. 10"). See Research Notes.
 - FamilySearch (via Clemence Josephine Barrette's record — names parents, gives ages at birth).
 - FindAGrave / family page for Odile (confirms parents and spouse).
 - **1972 obituary for Odile (Mrs. Frank) Coppersmith** — confirms 4 brothers (August, Oliver, William/Gustave, Jule) + 1 sister (Clemence) predeceased her, and 1 brother (Joseph Jr., Oconto Falls) + 1 sister (Mrs. Emma Mielke, Green Bay) survived her.

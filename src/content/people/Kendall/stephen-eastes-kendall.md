@@ -59,6 +59,7 @@ Born c. 1795 in Wingham, Kent, England. Married Ann Fostall on December 15, 1819
 
 ## Sources
 - FamilySearch (birth, marriage, death, burial)
+- Evidence that this family's son William John is NOT the Minnesota William Kendall (added 2026-10-16 s13): christening of William John Kendall, Wingham, 22 Sep 1822, son of Stephen × Ann (FS CNMG-8ST2) — PROBABLE (index); FreeBMD marriages, Mar quarter 1850, Eastry 5 173: Kendall William John × **Pettitt** Eliza (only names on the page) — PROBABLE (index); 1861 census, Nash, Ash, Kent (FS M75T-DW1): William Kendall b. Wingham c. 1823 with wife Eliza and children William, Mary, Amy, James, Sarah — PROBABLE (index). The Minnesota William's father was "Wm Edward Kendall" (Le Sueur death register 1906, image 515) — **CONFIRMED** (image read 2026-10-16 s13).
 
 ## Research Notes
 - Lived his entire life in east Kent — Wingham, Street, Eastry are all within a few miles of each other
