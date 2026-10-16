@@ -2351,9 +2351,9 @@
     "name": "Johann Friedrich Schneider",
     "surname": "Schneider",
     "birth": "1797-08-27",
-    "death": "",
+    "death": "1859-07-05",
     "birth_place": "Lautzenbrücken, parish of Kirburg, Duchy of Nassau (now Westerwaldkreis), Germany",
-    "death_place": "",
+    "death_place": "Lautzenbrücken, parish of Kirburg, Duchy of Nassau (now Westerwaldkreis), Germany",
     "generation": 6,
     "gender": "M",
     "branch": "krumpos",
@@ -2362,6 +2362,11 @@
         "year": 1797,
         "place": "Lautzenbrücken, parish of Kirburg, Duchy of Nassau (now Westerwaldkreis), Germany",
         "kind": "born"
+      },
+      {
+        "year": 1859,
+        "place": "Lautzenbrücken, parish of Kirburg, Duchy of Nassau (now Westerwaldkreis), Germany",
+        "kind": "died"
       }
     ],
     "life_source": "birth-death"
