@@ -65,7 +65,7 @@ Born July 18, 1837 in Baden, Germany. Daughter of M. Kurtz (father's first name 
 - **Stepchildren** (from Christian's first wife): Frederick Vollmer (c. 1833), Caroline Vollmer (c. 1840), Henry Vollmer (c. 1852)
 
 ## Sources
-- Daughter Louisa (Vollmer) Kratzke's Minnesota death record, Nicollet Twp, 4 Nov 1937 (FS Z6JG-89ZM, "Minnesota, Deaths, 1887-2001", and FDD1-K6Y; index): parents Christ Vollmer and **Maria Kurtz**. Independent support for the maiden name (index only).
+- Daughter Louisa (Vollmer) Kratzke's Minnesota death record, Nicollet Twp, 4 Nov 1937 (FS Z6JG-89ZM, "Minnesota, Deaths, 1887-2001", and FDD1-K6Y; index): parents Christ Vollmer and **Maria Kurtz**. **PROBABLE** (index only, 2026-10-15 s10): independent support for the maiden name.
 - FamilySearch (birth, marriage, death, burial, parents)
 - 1860 US Census, Ela Township, Lake County, Illinois — listed as "Mary" age 22, born Baden, in household of "C. Wallmore"
 
