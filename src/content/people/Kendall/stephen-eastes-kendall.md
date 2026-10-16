@@ -9,14 +9,13 @@ spouses:
 - Ann Forstall (m. 1819-12-15, Wingham, Kent, England)
 children:
 - George Eastes Kendall
-- William John Kendall
 - Thomas Henry Kendall
 - Frederick Fostall Kendall
 - Sarah Anne Kendall
 - James Kendall
 - Harriet Jane Kendall
 burial: Wingham, Kent, England
-status: confirmed
+status: not-direct-line
 uncertain_fields:
 - birth
 - death
@@ -32,7 +31,6 @@ linked_spouses:
   - 'Kendall/ann-forstall'
 linked_children:
   - ''
-  - 'Kendall/william-john-kendall'
   - ''
   - ''
   - ''
@@ -40,6 +38,8 @@ linked_children:
   - ''
 ---
 # Stephen Eastes Kendall
+
+> **Not Don's ancestor (corrected 2026-10-16, s13).** This Kent family was attached to the tree through a FamilySearch merge. Their son William John Kendall (chr. Wingham 22 Sep 1822) married Eliza **Pettitt** at Eastry in 1850 and stayed in Kent (1861 census, Ash). Don's William Kendall (1822–1906, Le Sueur Co., MN) was the son of **Wm Edward Kendall** and married Eliza Lambert at Dudley in 1857. See william-john-kendall.md. The file is kept as research notes only.
 
 **Lifespan:** c. 1795 – c. 1880
 
@@ -50,7 +50,7 @@ Born c. 1795 in Wingham, Kent, England. Married Ann Fostall on December 15, 1819
 - **Wife:** Ann Forstall (1793–1875) — m. Dec 15, 1819, Wingham, Kent, England. See ann-forstall.md.
 - **Children (7):**
   - George Eastes Kendall (1820–)
-  - William John Kendall (Sep 1822–Apr 14, 1906) — emigrated to Minnesota
+  - William John Kendall (chr. 22 Sep 1822) — m. Eliza Pettitt 1850, stayed in Kent (NOT the Minnesota William)
   - Thomas Henry Kendall (1825–)
   - Frederick Fostall Kendall (1827–) — mother's maiden name as middle name
   - Sarah Anne Kendall (1830–)
@@ -63,12 +63,12 @@ Born c. 1795 in Wingham, Kent, England. Married Ann Fostall on December 15, 1819
 ## Research Notes
 - Lived his entire life in east Kent — Wingham, Street, Eastry are all within a few miles of each other
 - Born during the Napoleonic Wars era
-- Son William John emigrated to Minnesota c. 1850s — Stephen stayed in Kent
+- ~~Son William John emigrated to Minnesota~~ wrong: he stayed in Kent (see note at top)
 - "Eastes" is his **father's name** — Eastes Kendall. Not a middle name but a patronymic. Eastes is a Kent surname.
 - Ann's surname: "Fostall" per FamilySearch, "Forstall" per Geni — may be a place-name alias for the hamlet of Forstal near Wingham, not a hereditary surname. See ann-forstall.md for full research.
 - Ann's parents: FamilySearch tree lists Henry (M) and Martha (F) — no surnames. Christening 27 Jan 1793, Wingham. Unverified — need to check attached sources and browse parish register images.
 - Birth: FamilySearch says c. 1795, Geni says 1797 — 2-year discrepancy
 - Death: July 1880, Eastry (Geni narrows to month)
-- Parents: **Eastes Kendall** (1745, Nonington, Kent – 1820) & **Elizabeth Belsey** (1753–1831) — your 5x-great-grandparents. Nonington is another small Kent village, ~3 miles from Wingham.
+- Parents: **Eastes Kendall** (1745, Nonington, Kent – 1820) & **Elizabeth Belsey** (1753–1831) — not Don's ancestors (see note at top). Nonington is another small Kent village, ~3 miles from Wingham.
 - Married at ~22–24, died at ~83–85 — long life for the era
 - English parish records (Wingham) should have baptism, marriage, burial — Church of England

@@ -11,7 +11,7 @@ A narrative of the ancestry of Don Krumpos, traced across Europe and North Ameri
 
 ## I. The Old Countries
 
-In 1745, a man named Eastes Kendall was living in Kent — the Garden of England, the hop fields and orchards of the southeast. His son Stephen Eastes Kendall married Ann Forstall in the parish church at Wingham on December 15, 1819. The Forstalls took their name from a hamlet just outside town. These were people who had been in the same few square miles for centuries. Their son William was born in 1822 and did something nobody in the family had done before: he left. He crossed the Atlantic and landed in Minnesota.
+In the English Midlands, on Watling Street between Towcester and Stony Stratford, lies the hamlet of Yardley Gobion, in the parish of Potterspury, Northamptonshire. There William Lambert married Mary Stevens on October 18, 1825, and their daughter Eliza was born on January 20, 1827, the eldest of at least seven children. By 1857 Eliza was in Dudley, in the Black Country, where she married William Kendall, born in England in 1822 and the son of a William Edward Kendall. Within a year they were in Minnesota. (The tree once made William a Kendall of Wingham, Kent, but that William John Kendall married a different Eliza and never left Kent: two men merged on a genealogy website.)
 
 Across the ocean, on the Niagara frontier of Upper Canada, a girl named Sophia Miller was born around 1802. Who her parents were, nobody has yet found out. The family tree once traced her to a Scottish couple in Perthshire, but that couple stayed in Scotland, and the link turned out to be two different families merged on a genealogy website. Sophia married an English laborer named Thomas Hutcheson, and their daughter Eliza was born around 1829, probably near Niagara. A second daughter, Mary, was born there in about 1831. Eliza was a child of England and the New World. Whatever lay behind her mother is still a blank on the map.
 
@@ -53,7 +53,7 @@ Henry Martin farmed in Sevastopol for thirty-eight years. His house burned down 
 
 But the youngest — Life — survived. Life Martin married Mildred Amelia Guernsey, a woman from Ionia, Michigan, whose father John Loami Guernsey had lost his own father at age two and his first wife at twenty-three. Mildred had lost her mother at three. Life and Mildred settled on Peter Street in Sturgeon Bay and raised four children. Life worked as a laborer. The family attended the Christian Science Society — unusual for Door County, where the churches were Lutheran, Moravian, and Catholic. Life lived to eighty-seven.
 
-Meanwhile, the Schmidt and Kendall lines were converging in Minnesota. Charles Frederick Schmidt — son of John from Mecklenburg and Elizabeth Rabe — married Maria Katharina Wilhelmina Vollmer, whose parents had come from Hanover and Baden. Their son Frederick married Mary Jane Kendall, whose father was descended from the Kendalls and Forstalls of Kent, England, and whose mother Margaret Schindler was the daughter of German immigrants. Frederick and Mary Jane's son Clifford would become Don's maternal grandfather.
+Meanwhile, the Schmidt and Kendall lines were converging in Minnesota. Charles Frederick Schmidt — son of John from Mecklenburg and Elizabeth Rabe — married Maria Katharina Wilhelmina Vollmer, whose parents had come from Hanover and Baden. Their son Frederick married Mary Jane Kendall, whose father's parents were William Kendall and Eliza Lambert of Yardley Gobion, Northamptonshire, married at Dudley in 1857, and whose mother Margaret Schindler was the daughter of German immigrants. Frederick and Mary Jane's son Clifford would become Don's maternal grandfather.
 
 And on the Krumpos side, Lawrence Antone Krumpos — son of the Bohemian immigrant Joseph — married twice. His second wife, Matilda Schneider, gave him a son named Donald. Donald married Dorothy Coppersmith, whose family traced to the Belgian Settlement and the French-Canadian parishes of Quebec. Dorothy carried the gene for Huntington's disease, though no one knew it yet.
 
@@ -85,7 +85,7 @@ The short lives are not the whole story. But they are part of the inheritance.
 
 Stand at the intersection of all these lines and look backward. Here is where Don Krumpos comes from:
 
-**England** — The Kendalls and Forstalls of Wingham, Kent, traced to 1745. Thomas Hutcheson, born in England around 1812, a laborer at Lockport, New York, in 1850.
+**England** — The Lamberts and Stevenses of Yardley Gobion, Northamptonshire, and William Kendall (b. 1822), son of William Edward Kendall, county unknown. Thomas Hutcheson, born in England around 1812, a laborer at Lockport, New York, in 1850.
 
 **Ireland** — Henry Martin, born August 18, 1830, near Belfast, Ulster. Probably Protestant Irish, not Famine Catholic, though whether his people came over with the Plantation, no record says. He became a farmer, a postmaster, a town treasurer in Door County, Wisconsin. His great-great-great-grandson lives seven miles from where he farmed.
 

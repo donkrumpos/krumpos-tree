@@ -10,14 +10,13 @@ spouses:
 - Stephen Eastes Kendall (m. 1819-12-15, Wingham, Kent, England)
 children:
 - George Eastes Kendall
-- William John Kendall
 - Thomas Henry Kendall
 - Frederick Fostall Kendall
 - Sarah Anne Kendall
 - James Kendall
 - Harriet Jane Kendall
 burial: Eastry, Kent, England
-status: partially confirmed
+status: not-direct-line
 uncertain_fields:
 - parents (first names only — no surnames confirmed)
 - birth (christening date confirmed, birth year listed as 1794 on some sources)
@@ -35,7 +34,6 @@ linked_spouses:
   - 'Kendall/stephen-eastes-kendall'
 linked_children:
   - ''
-  - 'Kendall/william-john-kendall'
   - ''
   - ''
   - ''
@@ -43,6 +41,8 @@ linked_children:
   - ''
 ---
 # Ann Forstall
+
+> **Not Don's ancestor (corrected 2026-10-16, s13).** This Kent family was attached to the tree through a FamilySearch merge. Their son William John Kendall (chr. Wingham 22 Sep 1822) married Eliza **Pettitt** at Eastry in 1850 and stayed in Kent (1861 census, Ash). Don's William Kendall (1822–1906, Le Sueur Co., MN) was the son of **Wm Edward Kendall** and married Eliza Lambert at Dudley in 1857. See william-john-kendall.md. The file is kept as research notes only.
 
 **Lifespan:** January 27, 1793 (christening) – December 1875
 
@@ -55,7 +55,7 @@ Christened January 27, 1793 in Wingham, Kent, England. Daughter of Henry and Mar
 - **Mother:** Martha (surname unknown)
 - **Children:**
   - George Eastes Kendall (1820–)
-  - William John Kendall (Sep 1822–Apr 14, 1906) — emigrated to Minnesota
+  - William John Kendall (chr. 22 Sep 1822) — m. Eliza Pettitt 1850, stayed in Kent (NOT the Minnesota William)
   - Thomas Henry Kendall (1825–)
   - Frederick Fostall Kendall (1827–) — mother's maiden name used as middle name
   - Sarah Anne Kendall (1830–)

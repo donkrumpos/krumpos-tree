@@ -129,20 +129,20 @@ Settlement areas: Oconto County, Shawano County (Leopolis) — Wisconsin.
 
 ---
 
-## English (Kent → Minnesota; England → Upper Canada → New York → Wisconsin)
+## English (Midlands → Minnesota; England → Upper Canada → New York → Wisconsin)
 
 | Surname | Origin | Notes |
 |---|---|---|
-| **Kendall** | Wingham, Kent, England | Traced to **Eastes Kendall (b. c. 1745)**. Stephen Eastes Kendall (c. 1795–1880) married Ann Forstall in Wingham 1819. Son William John emigrated to Le Sueur County, Minnesota. |
-| **Forstall** | Wingham, Kent, England | From the hamlet of **Forstal** near Wingham. Ann Forstall (1793–1875). Surname extinct in English civil registration — zero FreeBMD results. Also indexed as "Fostall" and "Fosball." |
-| **Lambert** | Wingham, Kent, England | Eliza Lambert (b. Jan 20, 1827, Wingham). Same parish as the Kendalls. Married William John Kendall Jan 1850 in Eastry, Kent. 12 children. |
+| **Kendall** | England (county unknown) | William Kendall (b. 15 Sep 1822), son of **Wm Edward Kendall** (1906 Le Sueur death register). Married Eliza Lambert at Dudley, Worcestershire, Q1 1857; in Lexington Twp, Le Sueur Co., MN by 1858. |
+| **Lambert** | Yardley Gobion, Potterspury, Northamptonshire | Eliza Lambert (b. 20 Jan 1827), daughter of **William Lambert × Mary Stevens** (m. Potterspury 1825; 1904 Le Sueur death register; 1841 census). |
+| **Stevens** | Northamptonshire | Mary Stevens (c. 1804), wife of William Lambert. |
 | **Hutcheson / Hutchinson** | England (specific county unknown) | Thomas Hutcheson (b. England c. 1812; at **Niagara, Upper Canada, in 1831**; Lockport, NY 1850). Married Sophia Miller in Upper Canada c. 1829. Daughters Eliza (c. 1829) and Mary ("Mary Louisa, of Thomas and Sophia", baptised St Mark's, Niagara, 21 Dec 1831) were born in Canada. Clerks spelled it Hutcherson, Hutchison and Hutchinson, so the spelling is no evidence of a Scottish origin. |
 
 **Moved out of this table (2026-10-08):**
 - **Miller**: Sophia Miller was born in **Canada** c. 1802 and her parents are unknown. Her maiden name is in two independent records: her daughter Eliza's 1862 marriage and her son Robert's 1861 Lockport marriage (session 17). The "William Miller of Northumberland × Margaret Laing" link was detached because it rested on a merged FamilySearch profile. See the Canada section below.
 - **Storm**: Nancy Storm is listed under Irish. Her name comes only from the 1862 marriage index, and her "County Down" origin is unsourced.
 
-The Kent cluster (Kendall, Forstall, Lambert) all came from **Wingham and its surrounding parishes** — a single community that reassembled in Minnesota.
+**Corrected 2026-10-16 (s13):** the Kendalls and Forstalls of Wingham, Kent (Eastes Kendall b. c. 1745, Stephen Eastes Kendall × Ann Forstall) were **detached**. Their son William John Kendall married Eliza Pettitt at Eastry in 1850 and stayed in Kent; Don's William Kendall married Eliza Lambert at Dudley in 1857 and named his father Wm Edward. There is no Kent cluster.
 
 ---
 
@@ -198,7 +198,7 @@ The mother **Mathilda/Mathilida Schneider** (b. c. 1873, Germany) — maiden nam
 | **Switzerland** | Mielke/Meikle (Mägli) | Conrad Mägli (c. 1808, Oberbipp, Bern; probable) |
 | **Sweden** | Johnson | Mary Johnson (1859) |
 | **Bohemia/Czech** | Krumpos, Stefl, Kadletz | Joseph Wenzel Stefl (1818, Klattau) |
-| **England** | Kendall, Forstall, Lambert, Hutcheson | Eastes Kendall (c. 1745, Kent) |
+| **England** | Kendall, Lambert, Stevens, Hutcheson | William Lambert (c. 1794, Northamptonshire) |
 | **Ireland (Ulster)** | Martin, Storm | Henry Martin (1830, near Belfast) |
 | **Belgium** | Coppersmith/Coppesmette, Barette, Lancelle, Potier, etc. | 1700s, Mélin/Beauvechain |
 | **France/Quebec** | Beaudoin/Bodoh, Lajeunesse/Young, Surprenant/Surprise, Desportes, Morin, etc. | Pierre Desportes (1588, Lisieux, Normandy) |

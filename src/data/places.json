@@ -667,6 +667,13 @@
     "note": "Marie Catharine Christine Glöckner's birthplace (Kirburg parish, Nassau); historical-jurisdiction string; village-level coordinates (approx.)",
     "source": "override"
   },
+  "Northamptonshire, England": {
+    "display_name": "Northamptonshire, England, United Kingdom",
+    "lat": 52.3106138,
+    "lon": -0.865913,
+    "query": "Northamptonshire, England",
+    "source": "nominatim"
+  },
   "Oberbipp, Bern, Switzerland": {
     "display_name": "Oberbipp, Verwaltungskreis Oberaargau, Verwaltungsregion Emmental-Oberaargau, Bern/Berne, 4538, Schweiz/Suisse/Svizzera/Svizra",
     "lat": 47.2613485,
@@ -922,6 +929,13 @@
     "lat": 48.3366504,
     "lon": 9.0994058,
     "query": "Württemberg, Germany",
+    "source": "nominatim"
+  },
+  "Yardley Gobion, Potterspury, Northamptonshire, England": {
+    "display_name": "Yardley Road, Moor End, Yardley Gobion, West Northamptonshire, England, NN12 7TT, United Kingdom",
+    "lat": 52.0903015,
+    "lon": -0.8802585,
+    "query": "Yardley Gobion, Potterspury, Northamptonshire, England",
     "source": "nominatim"
   }
 }

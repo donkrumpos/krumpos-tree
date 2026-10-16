@@ -1301,9 +1301,9 @@
   {
     "id": "william-john-kendall",
     "slug": "Kendall/william-john-kendall",
-    "name": "William John Kendall",
+    "name": "William Kendall",
     "surname": "Kendall",
-    "birth": "1822-09",
+    "birth": "1822-09-15",
     "death": "1906-04-14",
     "birth_place": "England",
     "death_place": "Lexington Township, Le Sueur County, Minnesota",
@@ -1357,16 +1357,21 @@
     "surname": "Lambert",
     "birth": "1827-01-20",
     "death": "1904-06-07",
-    "birth_place": "Wingham, Kent, England",
-    "death_place": "",
+    "birth_place": "Yardley Gobion, Potterspury, Northamptonshire, England",
+    "death_place": "Lexington Township, Le Sueur County, Minnesota",
     "generation": 5,
     "gender": "F",
     "branch": "schmidt",
     "life": [
       {
         "year": 1827,
-        "place": "Wingham, Kent, England",
+        "place": "Yardley Gobion, Potterspury, Northamptonshire, England",
         "kind": "born"
+      },
+      {
+        "year": 1904,
+        "place": "Lexington Township, Le Sueur County, Minnesota",
+        "kind": "died"
       }
     ],
     "life_source": "birth-death"
@@ -2207,33 +2212,45 @@
     "life_source": "birth-death"
   },
   {
-    "id": "ann-forstall",
-    "slug": "Kendall/ann-forstall",
-    "name": "Ann Forstall",
-    "surname": "Kendall",
-    "birth": "1793-01-27",
-    "death": "1875-12",
-    "birth_place": "",
+    "id": "mary-stevens",
+    "slug": "Lambert/mary-stevens",
+    "name": "Mary Stevens",
+    "surname": "Lambert",
+    "birth": "1804-approx",
+    "death": "",
+    "birth_place": "Northamptonshire, England",
     "death_place": "",
     "generation": 6,
     "gender": "F",
     "branch": "schmidt",
-    "life": [],
+    "life": [
+      {
+        "year": 1804,
+        "place": "Northamptonshire, England",
+        "kind": "born"
+      }
+    ],
     "life_source": "birth-death"
   },
   {
-    "id": "stephen-eastes-kendall",
-    "slug": "Kendall/stephen-eastes-kendall",
-    "name": "Stephen Eastes Kendall",
-    "surname": "Kendall",
-    "birth": "1795-approx",
-    "death": "1880-approx",
-    "birth_place": "",
+    "id": "william-lambert",
+    "slug": "Lambert/william-lambert",
+    "name": "William Lambert",
+    "surname": "Lambert",
+    "birth": "1794-approx",
+    "death": "",
+    "birth_place": "Northamptonshire, England",
     "death_place": "",
     "generation": 6,
     "gender": "M",
     "branch": "schmidt",
-    "life": [],
+    "life": [
+      {
+        "year": 1794,
+        "place": "Northamptonshire, England",
+        "kind": "born"
+      }
+    ],
     "life_source": "birth-death"
   },
   {

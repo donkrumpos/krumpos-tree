@@ -1,89 +1,57 @@
 ---
 id: william-john-kendall
-name: William John Kendall
-birth: '1822-09'
+name: William Kendall
+birth: '1822-09-15'
 death: '1906-04-14'
 birth_place: 'England'
 death_place: 'Lexington Township, Le Sueur County, Minnesota'
 gender: M
-parents: [Stephen Eastes Kendall, Ann Fostall]
+parents: [Wm Edward Kendall]
 spouses:
-- Eliza Lambert (m. 1850-01, Eastry, Kent, England)
+- Eliza Lambert (m. 1857, Q1, Dudley, Worcestershire, England)
 children:
-- William Stephen Kendall
-- Mary Jane Kendall
-- Amy Eliza Kendall
-- Eliza Amy Kendall
-- James Kendall
-- Sarah Ann Kendall
 - Eliza Kendall
-- Stephen Kendall
 - Edmond Kendall
-- Fanny Harriet Kendall
-- Laura Ellen Kendall
+- Ellen Kendall
 - John H. Kendall
-burial: Le Sueur, Minnesota
+burial: Lexington Township, Le Sueur, Minnesota
 status: confirmed
+uncertain_fields:
+- parents (father "Wm Edward Kendall" from the 1906 death register; mother not given)
+- birth_place (England only; county unknown)
 tags:
 - '#person'
 - '#kendall'
 created: '2026-04-07'
 surname: 'Kendall'
 linked_parents:
-  - 'Kendall/stephen-eastes-kendall'
-  - 'Kendall/ann-forstall'
+  - ''
 linked_spouses:
   - 'Lambert/eliza-lambert'
 linked_children:
-  - ''
-  - 'Kendall/mary-j-kendall'
-  - ''
-  - ''
-  - ''
-  - ''
-  - ''
-  - 'Kendall/stephen-eastes-kendall'
   - ''
   - ''
   - ''
   - 'Kendall/john-h-kendall'
 ---
-# William John Kendall
+# William Kendall
 
-**Lifespan:** September 1822 – April 14, 1906
+**Lifespan:** September 15, 1822 – April 14, 1906
 
 ## Summary
-Born September 1822 in England. Son of Stephen Eastes Kendall (age 28) and Ann Fostall (age 28). Married Eliza Lambert in January 1850 in Eastry, Kent, England. At least 12 children (5 sons, 7 daughters). Emigrated to the United States — living in Lexington Township, Le Sueur County, Minnesota by 1870. Died April 14, 1906 in Lexington Township, age 83. Buried in Le Sueur, Minnesota.
+Born September 15, 1822 in England, son of **Wm Edward Kendall**. Married **Eliza Lambert** of Yardley Gobion, Northamptonshire, at Dudley, Worcestershire, in the first quarter of 1857. The couple emigrated at once: their first child, Mary Jane, was born in Minnesota in 1858. Farmed in **Lexington Township, Le Sueur County, Minnesota** from at least 1865 until his death on April 14, 1906, age 83, a widower (Eliza d. 1904). Buried in Lexington Township.
 
 ## Relationships
-- **Parents:** Stephen Eastes Kendall (c. 1795–c. 1880) & Ann Forstall (1793–1875). See stephen-eastes-kendall.md, ann-forstall.md.
-- **Wife:** Eliza Lambert (1827–1904) — m. Jan 1850, Eastry, Kent, England
-- **Children (12):**
-  - William Stephen Kendall (1852–)
-  - Mary Jane Kendall (1854–)
-  - Amy Eliza Kendall (1856–)
-  - Eliza Amy Kendall (1857–)
-  - James Kendall (1858–)
-  - Sarah Ann Kendall (1860–1907)
-  - Eliza Kendall (1862–)
-  - Stephen Kendall (1862–)
-  - Edmond Kendall (1864–)
-  - Fanny Harriet Kendall (1865–)
-  - Laura Ellen Kendall (1866–1952)
-  - John H. Kendall (1870–1944)
+- **Father:** Wm Edward Kendall (b. England). No profile yet.
+- **Wife:** Eliza Lambert (1827–1904). m. Q1 1857, Dudley.
+- **Children (all born Minnesota):** Mary Jane (1858), Anna (1860), Eliza (1862), Edmond (1864), Ellen "Nellie" (1867), John H. (1870, **direct line**).
 
 ## Sources
-- FamilySearch (birth, marriage, death, burial, parents)
+- Le Sueur County register of deaths, 1906, no. 29, William Kendall: d. 14 Apr 1906, b. Sept 1822, age 83 y 6 m 29 d, widowed, farmer, born England; father **Wm Edward Kendall**, born England; mother blank; d. Lexington Twp; cause heart failure, old age — **CONFIRMED** (image read 2026-10-16 s13) (FS "Minnesota, Deaths, 1887-2001", DGS 007552371, image 515, ark 3:1:3QS7-89DL-41M1). The state-certificate index (FDDT-N94) reads the father as "William R."; death index card FDHF-6SC gives b. 15 Sep 1822.
+- FreeBMD marriages, Mar quarter 1857, Dudley 6c 22: William Kendall and Eliza Lambert — PROBABLE (index). See eliza-lambert.md.
+- 1865 Minnesota census, 1870 US census (MDH7-GC6, age 48, b. England), 1875 and 1885 Minnesota censuses, Lexington, Le Sueur Co.
 
 ## Research Notes
-- **Born in England** — the only confirmed English-origin line in the family tree so far. Every other line is German, Bohemian, or French-Canadian.
-- Lived in Wingham, Kent, England in 1841 (age ~19)
-- Married in Eastry, Kent — a village near Wingham, both in east Kent
-- Emigrated between 1850 (married in England) and 1852 (oldest child William Stephen born — check birthplace for emigration date)
-- First 4-5 children may have been born in England; later children born in Minnesota
-- Eldest child William Stephen (1852) named after both parents' fathers (William/Stephen Eastes)
-- 12 children over 18 years (1852–1870), with John H. as the youngest after a 4-year gap
-- Wife Eliza died 1904, William died 1906 — both in Le Sueur County
-- Mother's surname variants: Fostall (FamilySearch), Forstall (Geni), Fosball (marriage index). Likely derives from hamlet of Forstal near Wingham. Surname extinct in civil registration — zero FreeBMD results. See ann-forstall.md for full research.
-- Brother Frederick Fostall Kendall (1827) preserved the maternal surname as a middle name
-- Siblings: George Eastes (1820), Thomas Henry (1825), Frederick Fostall (1827), Sarah Anne (1830), James (1833), Harriet Jane (1836)
+- **Corrected 2026-10-16 (s13): NOT the Kent William John Kendall.** This profile used to make him William John Kendall, chr. Wingham, Kent, 22 Sep 1822, son of Stephen Eastes Kendall × Ann Forstall, married to "Eliza Lambert" at Eastry in Jan 1850, with 12 children from 1852. That man is real but different. He married **Eliza Pettitt** at Eastry in 1850 (FreeBMD Eastry 5 173) and was still in Kent in 1861 (census, Nash, Ash, M75T-DW1, with children William, Mary, Amy, James, Sarah). Our William was in Minnesota by 1858 and named his father "Wm Edward". The FamilySearch tree merged the two men, probably because they share the birth month (Sept 1822). Stephen Eastes Kendall and Ann Forstall have been detached; their files stay as notes on the Kent family.
+- The middle name "John" came from the Kent man; the Minnesota records just say William. The file id is unchanged so links keep working.
+- Open: his birthplace and Wm Edward Kendall's family. Leads: the 1851 census (where was he before the Dudley marriage?); a GRO marriage certificate (Dudley Q1 1857, 6c 22) would give his residence, occupation and father's occupation (offline order); the 1857 passenger lists to New York/Quebec.

@@ -5,7 +5,7 @@ birth: '1870'
 death: '1944'
 birth_place: 'Lexington, Le Sueur County, Minnesota'
 gender: M
-parents: [William John Kendall, Eliza Lambert]
+parents: [William Kendall, Eliza Lambert]
 spouses:
 - Margaret Schindler (m. 1892-02-02, Le Center, MN)
 children:
@@ -42,10 +42,10 @@ linked_children:
 **Lifespan:** 1870 – 1944
 
 ## Summary
-Born 1870 in Lexington, Le Sueur County, Minnesota. Son of William John Kendall (age 48 at John's birth) and Eliza Lambert (age 43). Married Margaret Schindler on February 2, 1892 in Le Center, Le Sueur County, Minnesota. At least 3 sons and 3 daughters. Lived in Lexington Township (1910), then St. Peter, Nicollet County (1940). Died 1944 in Le Sueur County, age 74.
+Born 1870 in Lexington, Le Sueur County, Minnesota. Son of William Kendall (age 47 at John's birth) and Eliza Lambert (age 43). Married Margaret Schindler on February 2, 1892 in Le Center, Le Sueur County, Minnesota. At least 3 sons and 3 daughters. Lived in Lexington Township (1910), then St. Peter, Nicollet County (1940). Died 1944 in Le Sueur County, age 74.
 
 ## Relationships
-- **Parents:** William John Kendall (b. c. 1822) & Eliza Lambert (b. c. 1827)
+- **Parents:** William Kendall (b. 15 Sep 1822) & Eliza Lambert (b. c. 1827)
 - **Wife:** Margaret Schindler (b. c. 1872, Lexington, MN) — m. Feb 2, 1892, Le Center, MN
 - **Children (6):**
   - Mary Jane Kendall (Dec 11, 1893–1971)
@@ -68,7 +68,7 @@ Born 1870 in Lexington, Le Sueur County, Minnesota. Son of William John Kendall 
 
 ## Research Notes
 - Born in Lexington, Le Sueur Co — deep-rooted local family
-- Father William John Kendall was 48 at John's birth — another late-in-life father
+- Father William Kendall was 47 at John's birth — another late-in-life father
 - Death record lists father as "William Kendall" — confirmed. NOT son of John Kendall Sr. (1833–1895) & Caroline Hugunin.
 - 1920 census lists spouse as "Anna M Kendall" — may be Margaret's middle name, or a second wife, or enumerator error. 1930 census shows "Margret" again.
 - Living in St. Peter by 1940 — same town as Minnesota State Hospital where Mary Schmidt (Schmidt family) died in 1909.
