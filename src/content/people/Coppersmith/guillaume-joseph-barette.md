@@ -46,7 +46,7 @@ linked_children:
 Born at **Mélin, Brabant, Belgium**, 18 Feb 1829, son of Jean François Barette and Marie Josèphe Meulemans, who had both died by 1854. Banns of marriage with **Eugénie Josèphe Goes** of Beauvechain were published at Mélin on 2 July 1854. He emigrated in 1855 and farmed in the **Town of Red River, Kewaunee County, Wisconsin** (1870, 1880, 1910). He died 4 Jun 1916 and is buried at Duvall. Father of Joseph Barrette (1855–1933), and so a great-grandfather of Odile (Barrette) Coppersmith's line.
 
 ## Sources
-- Marriage banns, Mélin, no. 20, 2 Jul 1854 — **IMAGE READ** (FS 6VSW-VB82, "Mélin. Marriage Banns 1805–1870", image 421/555). Gives his birth at Mélin on 18 Feb 1829 and his late parents' names. The groom's occupation is not read with confidence.
+- Marriage banns, Mélin, no. 20, 2 Jul 1854 — **CONFIRMED** (image read) (FS 6VSW-VB82, "Mélin. Marriage Banns 1805–1870", image 421/555). Gives his birth at Mélin on 18 Feb 1829 and his late parents' names. The groom's occupation is not read with confidence.
 - Birth index, Mélin, 1829 (FS 6VSQ-4YTD): "Guillaume Joseph Barette", 20 Feb 1829, parents Jean François Barette × Marie Joseph Meulemens. The index date is probably the registration date.
 - 1870 census, Red River (William 43, b. Belgium); 1880 census, Red River (Guillaume 52); 1910 census, Red River ("William Barrette, Sr.", b. 1828, immigrated 1855).
 - Find a Grave index (FS QVVH-BR23): Guillaume Barrette, b. 18 Feb 1829, d. 4 Jun 1916, buried Duvall.
