@@ -73,6 +73,7 @@ Born February 28, 1863 in Freeport, Stephenson County, Illinois. Daughter of Chr
 - FamilySearch (birth, marriage, death, burial, parents)
 - Marriage Certificate, Le Sueur County District Court, Dec 13, 1883 — **primary source**. Listed as "Minna Volmer." Officiant: L. Emmel, Ev. Luth. Pastor, St. Peter. Witnesses: Hanna Zimmermann, E. Emsett.
 - Find A Grave: headstone photo, German Lake Lutheran Cemetery, Elysian — "MINNIE / Wife of / Charles Schmidt / Born Feb. 28, 1863 / Died Sept. 10, 1905"
+- Death of **Minnie Schmidt**, Le Sueur Co. register of deaths, 1905, p. 121, line 6 — **CONFIRMED** (image read 2026-10-15 s11) (FS "Le Sueur, Minnesota. Death Registers 1870-1909", DGS 007552371, image 542 of 563, ark 3:1:3QS7-99DL-4TT1): female, married, d. **10 Sep 1905**, b. 1863, aged 42, housewife, born **Freeport, Ill.**; father **Christian Vollmer**, mother "**Mary Vollmer**" (the register's maiden-name column repeats the married name), both b. Germany; late residence Cleveland Twp, interment German Lake; undertaker J. G. Worlein(?), Waterville; cause pernicious anaemia (1 yr), contributing chronic gastritis (6 mo); physician R. E. Cavanaugh, M.D., Cleveland; recorded 18 Sep 1905.
 
 ## Research Notes
 - Born in Illinois like husband Charles — both second-generation German-American

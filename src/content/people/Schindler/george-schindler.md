@@ -61,6 +61,7 @@ Born February 1846 in Bavaria. Married **Mary Daum** at St. Peter, Nicollet Coun
 - Minnesota death, 5 Nov 1924, Mankato Twp, Blue Earth Co. (FS ZWPG-2JMM and FDQM-J4D; index): b. 1846 Germany, spouse Mary, parents blank.
 
 ## Research Notes
+- **2026-10-15 s11 — FS Full-Text negatives (target: home village).** "Schindler" in Blue Earth Co. 1924–26: only a 1938 probate naming a Herman Schindler among siblings, and a 1930s insanity file (Elizabeth Schindler). Nothing for George's own 1924 death or estate. The Nicollet Co. death index 1924 (DGS 007552368, img 233) has no Schindler; he died in Blue Earth Co. The "George Schindler" probate/deeds hits elsewhere are Washington Co. people.
 - **2026-10-14 s9 — Anna Mary Scharf's certificate image is restricted.** The FS image behind FD3L-DDF (DGS 004226820 img 39, ark 3:1:3Q9M-C9TK-P31D-8) returns 403 even when signed in, so the certificate stays on the MNHS offline list. Her Find a Grave memorial (204364930) has no obituary; its two photos are the gravestone and a cemetery view.
 - **2026-10-14 s8 — emigration-file and record-detail negatives.**
   - The full Germans-to-America records add only the ship and port: Georg Schindler (KDW4-Z77), farmer, b. 1846 "Bavaria", ship ***Bremen***, departure port given as **Havre**, arrived New York 7 Jul 1870, manifest 00031622. Marie Daum (KD3H-B74) is the only Daum on that date. No village.
