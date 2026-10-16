@@ -2216,18 +2216,23 @@
     "slug": "Lambert/mary-stevens",
     "name": "Mary Stevens",
     "surname": "Lambert",
-    "birth": "1804-approx",
-    "death": "",
-    "birth_place": "Northamptonshire, England",
-    "death_place": "",
+    "birth": "1802-approx",
+    "death": "1874-approx",
+    "birth_place": "Yardley Gobion, Potterspury, Northamptonshire, England",
+    "death_place": "Potterspury, Northamptonshire, England",
     "generation": 6,
     "gender": "F",
     "branch": "schmidt",
     "life": [
       {
-        "year": 1804,
-        "place": "Northamptonshire, England",
+        "year": 1802,
+        "place": "Yardley Gobion, Potterspury, Northamptonshire, England",
         "kind": "born"
+      },
+      {
+        "year": 1874,
+        "place": "Potterspury, Northamptonshire, England",
+        "kind": "died"
       }
     ],
     "life_source": "birth-death"
@@ -2238,17 +2243,22 @@
     "name": "William Lambert",
     "surname": "Lambert",
     "birth": "1794-approx",
-    "death": "",
-    "birth_place": "Northamptonshire, England",
-    "death_place": "",
+    "death": "1875-approx",
+    "birth_place": "Yardley Gobion, Potterspury, Northamptonshire, England",
+    "death_place": "Potterspury, Northamptonshire, England",
     "generation": 6,
     "gender": "M",
     "branch": "schmidt",
     "life": [
       {
         "year": 1794,
-        "place": "Northamptonshire, England",
+        "place": "Yardley Gobion, Potterspury, Northamptonshire, England",
         "kind": "born"
+      },
+      {
+        "year": 1875,
+        "place": "Potterspury, Northamptonshire, England",
+        "kind": "died"
       }
     ],
     "life_source": "birth-death"

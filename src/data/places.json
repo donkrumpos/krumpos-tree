@@ -730,6 +730,13 @@
     "note": "Approximate: Point Comfort Road off Nicolet Drive; exact house unknown",
     "source": "override"
   },
+  "Potterspury, Northamptonshire, England": {
+    "display_name": "Potterspury, West Northamptonshire, England, United Kingdom",
+    "lat": 52.0824668,
+    "lon": -0.895095,
+    "query": "Potterspury, Northamptonshire, England",
+    "source": "nominatim"
+  },
   "Québec City, Quebec, Canada": {
     "display_name": "Québec, Agglomération de Québec, Capitale-Nationale, Québec, Canada",
     "lat": 46.8137431,

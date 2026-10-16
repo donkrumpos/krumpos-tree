@@ -43,8 +43,8 @@ linked_children:
 Born January 20, 1827 at **Yardley Gobion** in the parish of **Potterspury, Northamptonshire**, the eldest child of William Lambert and Mary Stevens (married at Potterspury 18 Oct 1825). In 1841 she was at home in Yardley Gobion with her parents and younger brothers and sisters. Married **William Kendall** at Dudley, Worcestershire, in the first quarter of 1857 (23 Mar 1857 per the FamilySearch "England Marriages" entry). By 1858 they were in **Lexington Township, Le Sueur County, Minnesota**, where all their known children were born. Died there June 7, 1904, age 77, of paralysis (stroke). Buried in Lexington Township.
 
 ## Relationships
-- **Father:** William Lambert (b. c. 1794, Northamptonshire). See william-lambert.md.
-- **Mother:** Mary Stevens (b. c. 1804, Northamptonshire). See mary-stevens.md.
+- **Father:** William Lambert (b. c. 1794 Yardley Gobion, d. 1875?). See william-lambert.md.
+- **Mother:** Mary (Ann) Stevens (b. c. 1802 Yardley Gobion, d. 1874?). See mary-stevens.md.
 - **Siblings (1841 census and Potterspury baptisms):** William (bapt. 20 Dec 1829), Thomas (bapt. 20 Oct 1831; not in the 1841 household), Stephen (b. 19 Feb 1833), Jesse (b. 23 Jan 1835), Rosannah (c. 1837), Mary (c. 1839).
 - **Husband:** William Kendall (1822–1906). m. Q1 1857, Dudley, Worcestershire.
 - **Children (all born Minnesota; 1865/1870/1875 censuses):** Mary Jane (1858), Anna (1860), Eliza (1862), Edmond (1864), Ellen "Nellie" (1867), John H. (1870, **direct line**).
@@ -65,4 +65,6 @@ Born January 20, 1827 at **Yardley Gobion** in the parish of **Potterspury, Nort
 - The s1 note (2026-10-13) set the 1857 Dudley marriage aside as "a different couple". It is in fact ours: it fits her father's name (William), the Minnesota births starting 1858, and the Midlands birthplace.
 - "Yardly" in the death register = **Yardley Gobion**, a hamlet of Potterspury on Watling Street (A5) between Towcester and Stony Stratford. The Lambert × Stevens marriage and all the indexed baptisms are at Potterspury.
 - Her own baptism (c. Jan–Feb 1827) is not indexed. Look in the Potterspury parish register images (FS) and nonconformist registers (the 1833/1835 entries give birth dates, which suggests a chapel register, perhaps the Potterspury Independent chapel).
+- **2026-10-16 s14:** Stephen's and Jesse's entries are in the RG4 nonconformist index (FS collection 1666142), so they come from the **Potterspury Independent chapel** register ("includes Yardley-Gobion", births and baptisms 1739–1837, FS catalog 83060, film 825344 items 4–5, **DGS 4405210**). Its images are restricted at home (403). Eliza is not in the index. The Potterspury parish registers are on fiche only, and the bishop's transcripts (DGS 7568704, 1813–65) are restricted at home too. So her baptism, and William's and Thomas's entries in the chapel book, are on the offline list (FS Center).
+- Her parents stayed in Yardley Gobion all their lives (censuses 1851–71) and probably died there in 1874–75 (FreeBMD).
 - How she got from Northamptonshire to Dudley by 1857 is unknown (domestic service?).
