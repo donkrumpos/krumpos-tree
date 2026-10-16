@@ -2367,14 +2367,20 @@
     "slug": "Pfister/leonhard-christian-weidner",
     "name": "Leonhard Christian Weidner",
     "surname": "Pfister",
-    "birth": "",
+    "birth": "1805-05-21",
     "death": "",
-    "birth_place": "Württemberg, Germany",
+    "birth_place": "Waldbach, Bretzfeld, Germany",
     "death_place": "",
     "generation": 6,
     "gender": "M",
     "branch": "martin",
-    "life": [],
+    "life": [
+      {
+        "year": 1805,
+        "place": "Waldbach, Bretzfeld, Germany",
+        "kind": "born"
+      }
+    ],
     "life_source": "birth-death"
   },
   {
@@ -2383,13 +2389,19 @@
     "name": "Margaretha Gottliebin Stiegele",
     "surname": "Pfister",
     "birth": "",
-    "death": "",
+    "death": "1876-12",
     "birth_place": "Württemberg, Germany",
-    "death_place": "",
+    "death_place": "Eckartsweiler, Öhringen, Germany",
     "generation": 6,
     "gender": "F",
     "branch": "martin",
-    "life": [],
+    "life": [
+      {
+        "year": 1876,
+        "place": "Eckartsweiler, Öhringen, Germany",
+        "kind": "died"
+      }
+    ],
     "life_source": "birth-death"
   },
   {
@@ -2398,9 +2410,9 @@
     "name": "Margaretha Schober",
     "surname": "Pfister",
     "birth": "1801-04",
-    "death": "",
+    "death": "1836-01",
     "birth_place": "Zuffenhausen, Stuttgart, Germany",
-    "death_place": "",
+    "death_place": "Zuffenhausen, Stuttgart, Germany",
     "generation": 6,
     "gender": "F",
     "branch": "martin",
@@ -2409,6 +2421,11 @@
         "year": 1801,
         "place": "Zuffenhausen, Stuttgart, Germany",
         "kind": "born"
+      },
+      {
+        "year": 1836,
+        "place": "Zuffenhausen, Stuttgart, Germany",
+        "kind": "died"
       }
     ],
     "life_source": "birth-death"
@@ -3039,6 +3056,159 @@
         "kind": "died"
       }
     ],
+    "life_source": "birth-death"
+  },
+  {
+    "id": "anna-magdalena-steigmann",
+    "slug": "Pfister/anna-magdalena-steigmann",
+    "name": "Anna Magdalena Steigmann",
+    "surname": "Pfister",
+    "birth": "1773-approx",
+    "death": "1838-04",
+    "birth_place": "Württemberg, Germany",
+    "death_place": "Waldbach, Bretzfeld, Germany",
+    "generation": 7,
+    "gender": "F",
+    "branch": "martin",
+    "life": [
+      {
+        "year": 1773,
+        "place": "Württemberg, Germany",
+        "kind": "born"
+      },
+      {
+        "year": 1838,
+        "place": "Waldbach, Bretzfeld, Germany",
+        "kind": "died"
+      }
+    ],
+    "life_source": "birth-death"
+  },
+  {
+    "id": "georg-friedrich-weidner",
+    "slug": "Pfister/georg-friedrich-weidner",
+    "name": "Georg Friedrich Weidner",
+    "surname": "Pfister",
+    "birth": "",
+    "death": "",
+    "birth_place": "Waldbach, Bretzfeld, Germany",
+    "death_place": "",
+    "generation": 7,
+    "gender": "M",
+    "branch": "martin",
+    "life": [],
+    "life_source": "birth-death"
+  },
+  {
+    "id": "johann-georg-schober",
+    "slug": "Pfister/johann-georg-schober",
+    "name": "Johann Georg Schober",
+    "surname": "Pfister",
+    "birth": "",
+    "death": "",
+    "birth_place": "Württemberg, Germany",
+    "death_place": "",
+    "generation": 7,
+    "gender": "M",
+    "branch": "martin",
+    "life": [],
+    "life_source": "birth-death"
+  },
+  {
+    "id": "johannes-pfisterer-1756",
+    "slug": "Pfister/johannes-pfisterer-1756",
+    "name": "Johannes Pfisterer",
+    "surname": "Pfister",
+    "birth": "1756-09-09",
+    "death": "1805-05",
+    "birth_place": "Zuffenhausen, Stuttgart, Germany",
+    "death_place": "Zuffenhausen, Stuttgart, Germany",
+    "generation": 7,
+    "gender": "M",
+    "branch": "martin",
+    "life": [
+      {
+        "year": 1756,
+        "place": "Zuffenhausen, Stuttgart, Germany",
+        "kind": "born"
+      },
+      {
+        "year": 1805,
+        "place": "Zuffenhausen, Stuttgart, Germany",
+        "kind": "died"
+      }
+    ],
+    "life_source": "birth-death"
+  },
+  {
+    "id": "magdalena-pfizer",
+    "slug": "Pfister/magdalena-pfizer",
+    "name": "Magdalena Pfizer",
+    "surname": "Pfister",
+    "birth": "",
+    "death": "",
+    "birth_place": "Württemberg, Germany",
+    "death_place": "",
+    "generation": 7,
+    "gender": "F",
+    "branch": "martin",
+    "life": [],
+    "life_source": "birth-death"
+  },
+  {
+    "id": "maria-magdalena-siegel",
+    "slug": "Pfister/maria-magdalena-siegel",
+    "name": "Maria Magdalena Siegel",
+    "surname": "Pfister",
+    "birth": "1766-04-27",
+    "death": "1814-03",
+    "birth_place": "Zuffenhausen, Stuttgart, Germany",
+    "death_place": "Zuffenhausen, Stuttgart, Germany",
+    "generation": 7,
+    "gender": "F",
+    "branch": "martin",
+    "life": [
+      {
+        "year": 1766,
+        "place": "Zuffenhausen, Stuttgart, Germany",
+        "kind": "born"
+      },
+      {
+        "year": 1814,
+        "place": "Zuffenhausen, Stuttgart, Germany",
+        "kind": "died"
+      }
+    ],
+    "life_source": "birth-death"
+  },
+  {
+    "id": "melchior-stiegele",
+    "slug": "Pfister/melchior-stiegele",
+    "name": "Melchior Stiegele",
+    "surname": "Pfister",
+    "birth": "",
+    "death": "",
+    "birth_place": "Württemberg, Germany",
+    "death_place": "",
+    "generation": 7,
+    "gender": "M",
+    "branch": "martin",
+    "life": [],
+    "life_source": "birth-death"
+  },
+  {
+    "id": "rosina-deininger",
+    "slug": "Pfister/rosina-deininger",
+    "name": "Rosina Deininger",
+    "surname": "Pfister",
+    "birth": "",
+    "death": "",
+    "birth_place": "Württemberg, Germany",
+    "death_place": "",
+    "generation": 7,
+    "gender": "F",
+    "branch": "martin",
+    "life": [],
     "life_source": "birth-death"
   },
   {

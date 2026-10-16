@@ -227,6 +227,13 @@
     "note": "Actually in Kewaunee County, not Brown — small unincorporated community on Hwy 57",
     "source": "override"
   },
+  "Eckartsweiler, Öhringen, Germany": {
+    "display_name": "Eckartsweiler, Weinsbach, Öhringen, VVG der Stadt Öhringen, Hohenlohekreis, Baden-Württemberg, Deutschland",
+    "lat": 49.2051645,
+    "lon": 9.5392434,
+    "query": "Eckartsweiler, Öhringen, Germany",
+    "source": "nominatim"
+  },
   "Elysian, Le Sueur County, Minnesota": {
     "display_name": "Elysian, Le Sueur County, Minnesota, United States",
     "lat": 44.1988205,

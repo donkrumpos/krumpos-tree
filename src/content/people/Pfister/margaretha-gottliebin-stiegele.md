@@ -1,12 +1,15 @@
 ---
 id: margaretha-gottliebin-stiegele
 name: Margaretha Gottliebin Stiegele
-aka: [Margarethe Gottliebin Stiegele, Margaretha Weidner]
+aka: [Margarethe Gottliebin Stiegele, Margarethe Gottliebin Stingelin, Gottliebin Weidner, Margaretha Weidner]
 birth: ''
 birth_place: 'Württemberg, Germany'
-death: ''
+death: '1876-12'
+death_place: 'Eckartsweiler, Öhringen, Germany'
 gender: F
-parents: []
+parents:
+- Melchior Stiegele
+- Rosina Deininger
 spouses:
 - Leonhard Christian Weidner
 children:
@@ -20,7 +23,9 @@ tags:
 - '#weidner'
 created: '2026-10-16'
 surname: 'Pfister'
-linked_parents: []
+linked_parents:
+  - 'Pfister/melchior-stiegele'
+  - 'Pfister/rosina-deininger'
 linked_spouses:
   - 'Pfister/leonhard-christian-weidner'
 linked_children:
