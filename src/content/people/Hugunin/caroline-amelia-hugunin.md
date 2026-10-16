@@ -6,7 +6,7 @@ death: '1918-09-13'
 gender: F
 parents: [David Richard Hugunin, Sarah Elizabeth Fuller]
 spouses:
-- John Kendall (1833–1895) (m. 1869-04-27, Kasota, MN)
+- John Kendall, 1833–1895 (m. 1869-04-27, Kasota, MN; no profile — not John H. Kendall b. 1870)
 children: []
 burial: Woodlawn Cemetery, Le Center, Le Sueur, Minnesota
 status: confirmed
@@ -20,7 +20,7 @@ linked_parents:
   - ''
   - ''
 linked_spouses:
-  - 'Kendall/john-h-kendall'
+  - ''
 linked_children: []
 ---
 # Caroline Amelia Hugunin

@@ -911,6 +911,13 @@
     "note": "Joseph Krumpos's probable birthplace (reliquary 1878e5aa); Nominatim doesn't resolve the historical 'Bohemia' form",
     "source": "override"
   },
+  "Waldbach, Bretzfeld, Germany": {
+    "display_name": "Waldbach, Bretzfeld, Hohenlohekreis, Baden-Württemberg, Deutschland",
+    "lat": 49.163546,
+    "lon": 9.4076444,
+    "query": "Waldbach, Bretzfeld, Germany",
+    "source": "nominatim"
+  },
   "Washington County, New York": {
     "display_name": "Washington County, New York, United States",
     "lat": 43.2294536,
@@ -943,6 +950,13 @@
     "lat": 52.0903015,
     "lon": -0.8802585,
     "query": "Yardley Gobion, Potterspury, Northamptonshire, England",
+    "source": "nominatim"
+  },
+  "Zuffenhausen, Stuttgart, Germany": {
+    "display_name": "Zuffenhausen, Stuttgart, Baden-Württemberg, Deutschland",
+    "lat": 48.8312987,
+    "lon": 9.1674403,
+    "query": "Zuffenhausen, Stuttgart, Germany",
     "source": "nominatim"
   }
 }

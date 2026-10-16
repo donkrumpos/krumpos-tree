@@ -2,10 +2,13 @@
 id: john-pfister-sr
 name: John Pfister Sr.
 birth: '1830-06-19'
-birth_place: 'Württemberg, Germany'
+aka: [Johannes Pfisterer, John Pfisterer, Johann Pfisterer]
+birth_place: 'Zuffenhausen, Stuttgart, Germany'
 death: '1908-01-02'
 gender: M
-parents: []
+parents:
+- David Pfisterer (1796)
+- Margaretha Schober
 spouses:
 - unknown first wife (died before second wife)
 - Annie M Pfister (second wife, b. Nov 1846, Germany; m. c. 1872; died c. mid-1906)
@@ -24,7 +27,7 @@ children:
 burial: Blossomberg Cemetery, Fish Creek, Door County, Wisconsin
 status: confirmed
 uncertain_fields:
-- parents
+- parents (PROBABLE, FS index of his Zuffenhausen baptism; image not read)
 - first wife's name unknown
 - second wife Annie M Pfister confirmed per 1900 census (indexed as "Annie C" but image shows "Annie M")
 - burial confirmed: Blossomberg Cemetery, Fish Creek (Find A Grave #53504406)
@@ -33,7 +36,9 @@ tags:
 - '#pfister'
 created: '2026-04-08'
 surname: 'Pfister'
-linked_parents: []
+linked_parents:
+  - 'Pfister/david-pfisterer-1796'
+  - 'Pfister/margaretha-schober'
 linked_spouses:
   - ''
   - 'Pfister/annie-m-pfister'
@@ -55,9 +60,10 @@ linked_children:
 **Lifespan:** June 19, 1830 – January 2, 1908
 
 ## Summary
-Born June 19, 1830 in **Württemberg**, Germany (the obituary's "Wittenberg"; the 1880 census image says Württemberg). Emigrated to America in 1853. Arrived in Door County, Wisconsin in the late 1850s with brother Phillip Pfister — among the very first settlers in the county. Located on lands in the northwestern part of Nasewaupee township. Phillip died in the Civil War in 1863; John stayed behind to care for both families. Moved to the northern part of Door County (Gibraltar) in 1880. Twice married, both wives preceded him in death. Eight surviving children. Died January 2, 1908 in Gibraltar, Door County, Wisconsin, age about 77.
+Born June 19, 1830 in **Württemberg**, Germany, very probably at **Zuffenhausen** near Stuttgart as Johannes, son of David Pfisterer × Margaretha Schober (baptised 27 Jun 1830; FS index) (the obituary's "Wittenberg"; the 1880 census image says Württemberg). Emigrated to America in 1853. Arrived in Door County, Wisconsin in the late 1850s with brother Phillip Pfister — among the very first settlers in the county. Located on lands in the northwestern part of Nasewaupee township. Phillip died in the Civil War in 1863; John stayed behind to care for both families. Moved to the northern part of Door County (Gibraltar) in 1880. Twice married, both wives preceded him in death. Eight surviving children. Died January 2, 1908 in Gibraltar, Door County, Wisconsin, age about 77.
 
 ## Relationships
+- **Parents [PROBABLE, 2026-10-16 s17]:** **David Pfisterer** (b. 28 Oct 1796, bur. 13 Mar 1866, Zuffenhausen) × **Margaretha Schober** (b. Apr 1801), m. Zuffenhausen 12 Feb 1822. Siblings: Johann Philipp (b. 6 Feb 1824), Katharina Margaretha (1826–1846), **David (b. 15 Oct 1827)**, Magdalena (b. 1832), Gottlob (1834–1835). See [[david-pfisterer-1796]].
 - **Brother:** "Phillip Pfister" per the 1908 obituary — came to Door County together, died in the Civil War. **Actual identity: David Pfisterer** (proposed 2026-07-15; **confirmed 2026-10-15 s11** by the *Advocate* of 12 Dec 1903, which calls David's widow Mrs. Margaret Binck the widow of John's brother), Pvt, Co. E, 11th Wisconsin Infantry — drafted Mar 23, 1865, died Aug 2, 1865 at Mobile, Alabama, of disease; buried Mobile National Cemetery, Plot 2, Grave 425. No Phillip Pfister (any spelling) exists in any Wisconsin Civil War roster; David Pfisterer is the only Pfisterer, and his widow Margretha (Kleinknecht, b. Stuttgart 1829, m. David 1853 in New York) remarried John Bink Sr. in **Door County** Apr 10, 1866. David's son **Philip Pfisterer, b. Oct 29, 1863, Door County** — likely source of the obituary's name conflation, and "1863" a garble of the son's birth year / draft-era memory. See Civil War connection notes.
 - **First wife:** Unknown — died before second wife
 - **Second wife:** Annie M Pfister — per 1900 census (indexed as "Annie C" but image reads "Annie M"). Born Nov 1846, Germany. Both parents German-born. Married c. 1872 (28 years married in 1900). **9 children born, 8 living.** Died c. mid-1906 ("about a year and a half ago" from Jan 1908 obituary). **Maiden name lead [2026-07-15]: Anna née WEIDNER** — per daughter Margaret's FindAGrave memorial #126312039 (user-contributed, secondary). Emil × Margaret's original 1902 marriage record (WHS Vol 2, p. 243) would confirm it.
@@ -77,6 +83,7 @@ Born June 19, 1830 in **Württemberg**, Germany (the obituary's "Wittenberg"; th
   - Charles Howland (c. Jul 1898, age 1) — listed as grandson or stepson? Born Wisconsin, father from Illinois, mother from Wisconsin. Possibly child of one of the married daughters.
 
 ## Sources
+- Baptism of Johannes Pfisterer, Zuffenhausen (Oberamt Ludwigsburg, Württemberg), **b. 19 Jun 1830**, chr. 27 Jun 1830, son of David Pfisterer × Margaretha Schober — **PROBABLE** (index: "Germany, Births and Baptisms, 1558-1898", FS NH12-JTY; "Deutschland, ausgewählte evangelische Kirchenbücher 1500-1971", FS QPKH-RBHV; found 2026-10-16 s17). The birth date is exactly the obituary's June 19, 1830.
 - **Husband's obituary, *Door County Democrat*, 18 Jan 1908, p. 3 ("Death of John Pfister") — CONFIRMED (OCR read 2026-10-15 s10)** (Door County Library Newspaper Archive, archive.co.door.wi.us, ResCarta doc 8f54ce8d-…/wsbd0000/20120718 series; found by full-text search). "John Pfister died at Fish Creek on January 2nd, 1908, of apoplexy, aged 77 years, 0 [OCR; prob. 6] months and 11 days … born in Germany in 1830 and came to America in 1853 … first settled in the town of Nasewaupee and resided there until 1886 when he moved to Fish Creek … **His wife preceded him to the grave about one year and a half ago.**" Names the eight children (John of Green Bay; William of L'Anse, Mich.; Mrs. M. Felhauver [Felhofer]; Mrs. Emil Meikle of Clay Banks; Mrs. Louis Miller of Sawyer; Miss Mary Pfister and Mrs. Richard Lyman of Fish Creek; Frank, address unknown). An independent second obituary; agrees with the one already transcribed.
 - *The Advocate*, 12 Dec 1903, p. 1 (Nasewaupee column) — **CONFIRMED** (page image read 2026-10-15 s11; Door County Library archive, archive.co.door.wi.us, doc 8f54ce8d-a713-43a4-8c81-e336d5a992e4/wsbd0000/20130111/00000416, page 1): "John Pfister of Gibraltar spent a few days visiting at the home of **Mrs. Margaret Binck** during the week. **Mr. Pfister and Mrs. Binck's first husband were brothers** and among the first settlers of that part of Nasewaupee." The OCR reads "Binok"/"Block" (s10 took it as Block); the image clearly reads **Binck**. She is Margaret (Kleinknecht), widow of **David Pfisterer** (d. Mobile 1865), who married John Bink at Nasewaupee on 10 Apr 1866 (next entry). So this is a contemporary statement that **David Pfisterer was John's brother**.
 - Marriage of John Bink × Margaret Pfisterer, Nasewaupee, 10 Apr 1866, Door Co. certificate 02783 (also "SP43") — **PROBABLE** (index only: Peninsula Genealogical Society, "Door County Pre-1907 Marriages in Sequence, Vol. 1a", from FHL films 1275987/1275988/1275989; read 2026-10-15 s11): husband John Bink b. Germany, parents Michel × Margaret Bink; wife Margaret Pfisterer, parents **Jacob × Christina Kleinknecht**; civil officer P. A. Schaefer; witnesses Andrew Goettelman, P. Schaefer.
@@ -100,6 +107,7 @@ PFISTER — In the town of Gibraltar, Door county, Wis., January 2, 1908, JOHN P
 It was in the latter part of the 50s that John Pfister and his brother Phillip came to this county, and located on lands in the northwestern part of Nasewaupee, being among the very first to penetrate the wilderness, which stretched in an unbroken line in all directions. In 1863 Phillip having been summoned by an imperilled government to assist in subduing an unholy rebellion, his brother John remained behind to look after his own family and that of the absent one. The latter having died in the line of duty in the south, John remained on the place until 1880, when he moved to the northern part of the county, which has been his home ever since. He was born in Wittenberg, Germany, June 19, 1830. He came to America in 1853. He was twice married, both wives having preceded him, the last one about a year and a half ago. The surviving children are eight in number, namely: John, Green Bay; William, L'Anse, Mich.; Mesdames Matt. Felhofer, Sevastopol; Emil Meikle, Clay Banks; Louis Miller, Sturgeon Bay town; Richard Lyman, Gibraltar; Miss Mary and Frank. Owing to the failure of the letter, which was dispatched announcing his death, to reach the relatives in this vicinity, these did not know of the passing away of their father until after the funeral had occurred, but they nevertheless made the trip to the home of the deceased, reaching there two days after the obsequies. Mr. Pfister was an industrious and hard-working man, who had a great deal to contend with owing to a long illness in his family, and he has gone to his final home mourned by grateful children and other near relatives.
 
 ## Research Notes
+- **2026-10-16 s17 — German origin found: Zuffenhausen, son of David Pfisterer × Margaretha Schober (PROBABLE).** FS index: Johannes Pfisterer, b. **19 Jun 1830** (the obituary's exact date), chr. 27 Jun 1830 at **Zuffenhausen**, Oberamt Ludwigsburg, next to Stuttgart. His parents' other children include **Johann Philipp (b. 6 Feb 1824)** and **David (b. 15 Oct 1827)**. So both of the "brother" puzzles are resolved: John had a brother David (d. Mobile 1865, widow Margaret Kleinknecht of Stuttgart) **and** a brother Philipp (the Philip Pfister who died at Little Sturgeon on 4 Jan 1869). Philipp married **Catharine Christine Weidner** (b. 18 Jun 1836, Waldbach, Oberamt Weinsberg; daughter of Leonhard Christian Weidner × Margaretha Gottliebin Stiegele) on 18 Feb 1862 at Waldbach (index), which matches the Door Co. widow "Cathrine Pfisterer, dau. of Christian Weidner" who married Henry Bourton in 1869. So Philipp emigrated after Feb 1862, not in the 1850s as the obituary has it. John's wife Christiana/Annie is probably her sister **Christiana Christina Carolina Weidner, b. 16 Nov 1845** (see [[annie-m-pfister]]). Parents added as PROBABLE stubs ([[david-pfisterer-1796]], [[margaretha-schober]]); the grandparents (Johannes Pfisterer × Maria Magdalena Sigel; Johann Georg Schober × … Pfizer) stay in prose. Images not read (Kirchenbücher collection; Archion). The "Charles Pfister" of the 1902 marriage index is still unexplained (no Karl in the Zuffenhausen family).
 - **2026-10-15 s11 — brother = David, confirmed; a second Pfisterer widow née Weidner.** The 1903 "Mrs. Margaret Block" is **Binck** on the page image: Margaret (Kleinknecht) Pfisterer Bink, David's widow. So the brother who died in the war was David (d. Mobile 1865), as the 2026-07-15 notes proposed; the obituary's "Phillip" is a garble. The PGS Door Co. marriage index (Vol. 1a, 1857–73) also has **Cathrine Pfisterer, daughter of Christian × Christiana Weidner**, marrying Henry Bourton at Nasewaupee on 11 Aug 1869. She was most likely the widow of Philip Pfister (d. 4 Jan 1869, Little Sturgeon). John's wife Anna was also née Weidner, so two Weidner sisters probably married Pfisterer men. The index has no John Pfisterer × Weidner marriage in Door Co. 1857–80 and no Block × Pfisterer marriage.
 - **2026-10-15 s10:** Lead: the brother's widow, Mrs. Margaret Block of Nasewaupee (1903); s11 showed the name is Binck (see above).
 - **2026-10-14 s9 — wife's maiden name Weidner.** The Brown Co. civil birth index for son Johan Carl (John Jr.), b. 27 Apr 1871 at Little Sturgeon (FS XRF7-DVD, VHHK-LNB; index only), names the parents **Johann Pfisterer × Anna Weidner**. So the wife of the 1880 and 1900 censuses was already his wife in 1870–71, and John Jr. was her son. See [[annie-m-pfister]].

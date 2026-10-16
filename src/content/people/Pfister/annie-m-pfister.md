@@ -1,19 +1,23 @@
 ---
 id: annie-m-pfister
 name: Annie M. Pfister
-aka: [Annie M Pfister, Anna Pfisterer, Anna Weidner, Annie Wagner, Annie C Pfister, Christiana Pfisterer]
-birth: '1846-11'
-birth_place: 'Württemberg, Germany'
+aka: [Annie M Pfister, Anna Pfisterer, Anna Weidner, Annie Wagner, Annie C Pfister, Christiana Pfisterer, Christiana Christina Carolina Weidner]
+birth: '1845-11-16'
+birth_place: 'Waldbach, Bretzfeld, Germany'
 death: '1906-approx'
 gender: F
-parents: []
+parents:
+- Leonhard Christian Weidner
+- Margaretha Gottliebin Stiegele
 spouses:
 - John Pfister Sr. (m. c. 1872)
 children:
 - Margaret Pfister
 - Casper Pfister
-status: stub
+status: probable
 uncertain_fields:
+- identification with Christiana Christina Carolina Weidner, b. 16 Nov 1845, Waldbach (index only; censuses give Nov 1846 / c. 1846, and the 1871 index calls her Anna)
+- parents (PROBABLE, follow from that identification)
 - maiden name (Weidner per the 1871 Brown Co. birth index and Find a Grave; Wagner per the 1902 marriage index)
 - death (c. mid-1906, inferred)
 tags:
@@ -21,7 +25,9 @@ tags:
 - '#pfister'
 created: '2026-10-13'
 surname: 'Pfister'
-linked_parents: []
+linked_parents:
+  - 'Pfister/leonhard-christian-weidner'
+  - 'Pfister/margaretha-gottliebin-stiegele'
 linked_spouses:
   - 'Pfister/john-pfister-sr'
 linked_children:
@@ -30,7 +36,7 @@ linked_children:
 ---
 # Annie M. Pfister
 
-**Lifespan:** November 1846 – c. 1906
+**Lifespan:** 16 November 1845 (probable; censuses say 1846) – c. 1906
 
 ## Summary
 Born November 1846 in **Württemberg**, Germany (1880 census image), to Württemberg-born parents. Called **Christiana** in 1880 and Annie in 1900. She was the second wife of **John Pfister Sr.** of Fish Creek, Door County, and married him about 1872 (28 years married in 1900). She had 9 children, 8 of them living in 1900. She died about mid-1906, before John. Mother of Margaret Pfister (1876–1962), so a 3×-great-grandmother of Don Krumpos through Hazel P. Mielke.
@@ -42,6 +48,7 @@ The full evidence is in [[john-pfister-sr]] and [[margaret-pfister]]. This profi
 - **Children:** Margaret (1876–1962) is the direct line. For the rest, see john-pfister-sr.md; which children were hers and which were the first wife's is not settled.
 
 ## Sources
+- Baptism of Christiana Christina Carolina Weidner, Waldbach (Oberamt Weinsberg, Württemberg), b. 16 Nov 1845, chr. 19 Nov 1845, daughter of Leonhard Christian Weidner × Margarethe Gottliebin Stiegele — **PROBABLE** (index: "Germany, Births and Baptisms, 1558-1898", FS NCNJ-XR4; found 2026-10-16 s17). Probably Annie: see Research Notes.
 - **Husband's obituary, *Door County Democrat*, 18 Jan 1908, p. 3 ("Death of John Pfister") — CONFIRMED (OCR read 2026-10-15 s10)** (Door County Library Newspaper Archive, archive.co.door.wi.us, ResCarta doc 8f54ce8d-…/wsbd0000/20120718 series; found by full-text search). "John Pfister died at Fish Creek on January 2nd, 1908, of apoplexy, aged 77 years, 0 [OCR; prob. 6] months and 11 days … born in Germany in 1830 and came to America in 1853 … first settled in the town of Nasewaupee and resided there until 1886 when he moved to Fish Creek … **His wife preceded him to the grave about one year and a half ago.**" Names the eight children (John of Green Bay; William of L'Anse, Mich.; Mrs. M. Felhauver [Felhofer]; Mrs. Emil Meikle of Clay Banks; Mrs. Louis Miller of Sawyer; Miss Mary Pfister and Mrs. Richard Lyman of Fish Creek; Frank, address unknown). An independent second obituary; agrees with the one already transcribed.
 - **Son's civil birth record, Brown Co., Wis., 1871 (PROBABLE, index; found 2026-10-14 s9):** "Wisconsin, Births and Christenings, 1826-1926" (FS XRF7-DVD; extracted from the **Brown County registration of births**, FS film 1306424 = DGS 007616084, batch C00307-6; image restricted): **Johan Carl Pfisterer**, b. **27 Apr 1871** at **Little Sturgeon**, Brown Co. (the Pfisterer settlement on the Door–Brown line), father **Johann Pfisterer**, mother **Anna Weidner**. The WHS "Wisconsin, Birth Index, 1820-1907" (FS VHHK-LNB) has the same child as "Johan C Pfisterer", 27 Apr 1871, Brown. He is the son John (b. 1871, "9" in the 1880 household of John and Christiana Pfisterer). This is the first record other than Margaret's Find a Grave memorial to give her maiden name, and it gives **Weidner**, not the "Wagner" of the 1902 marriage index. It also shows she was John's wife by 1870, so the 1900 census's "married 28 years" is about two years short, and John Jr. was her son, not a first wife's.
 - Husband's probate, Door Co. case 1167 (CONFIRMED, images read s8; full citation in [[john-pfister-sr]]): the petition of Nov 1909 names eight surviving children and **no widow**, so she died before 2 Jan 1908. His will of **7 Dec 1903** leaves everything to daughter Mary and **does not mention a wife**, although she was still alive then by the obituary's reckoning (d. c. mid-1906).
@@ -54,6 +61,7 @@ The full evidence is in [[john-pfister-sr]] and [[margaret-pfister]]. This profi
 - Marriage of Henry Bourton × **Cathrine Pfisterer**, Nasewaupee, Door Co., 11 Aug 1869, certificate 02873 (also listed as 02853) — **PROBABLE** (index only: Peninsula Genealogical Society, "Door County Pre-1907 Marriages in Sequence, Vol. 1a", from FHL films 1275987–1275989; read 2026-10-15 s11): the bride's parents are **Christian Weidner × Christiana Weidner**. Catherine was a widow Pfisterer née **Weidner**, most likely the widow of Philip Pfister (d. Little Sturgeon 4 Jan 1869). See [[john-pfister-sr]].
 
 ## Research Notes
+- **2026-10-16 s17 — probable baptism and parents found.** John's brother Johann Philipp Pfisterer married **Catharine Christine Weidner** (b. 18 Jun 1836) at Waldbach, Oberamt Weinsberg, on 18 Feb 1862 (FS index QPPR-XWN5); her parents were **Leonhard Christian Weidner × Margaretha Gottliebin Stiegele**. She is the Door Co. widow "Cathrine Pfisterer, dau. of Christian Weidner" (1869). The same couple had a daughter **Christiana Christina Carolina, b. 16 Nov 1845** at Waldbach, and no other daughter born 1844–47 survived (Caroline Juliane Christine, b. Nov 1844, d. Dec 1844). Annie was called **Christiana** in 1880 (age 34, b. Württemberg) and was born in November per the 1900 census, so she is very probably this child, and the "two Weidner sisters married to two Pfisterer brothers" inference of s11 holds. The year (1845 vs. the censuses' 1846) and the name Anna (1871 index, 1900) are the weak points. Parents added as PROBABLE stubs ([[leonhard-christian-weidner]], [[margaretha-gottliebin-stiegele]]). The s11 guess "Christian × Christiana" was half right: the father is Leonhard Christian; the mother is Margaretha Gottliebin.
 - **2026-10-16 s12 — Weidner/Bourton negatives.** Door County Library newspaper archive: "Bourton" has only 3 hits (the Oct 1869 notice, its 1909 "forty years ago" reprint, and an 1884 Expositor page); "Weidner" has 407 hits, which as far as checked are 20th-century Sturgeon Bay families; "Christian Weidner" has none, and no issue has Weidner together with Pfister/Pfisterer/Bourton/Bink. So no Weidner obituary there to confirm her parents. The PGS rootsweb marriage index now returns 403 even in the browser (blocked after heavy use), so other Weidner marriages (possible siblings) were not checked.
 - **2026-10-15 s11 — probable parents: Christian × Christiana Weidner.** Catherine Pfisterer, who married Henry Bourton at Nasewaupee in 1869, was the daughter of Christian and Christiana Weidner and the widow of a Pfisterer (probably Philip, d. Jan 1869). Annie was also née Weidner and is called **Christiana** in 1880, perhaps after her mother. So the two women were very probably sisters, two Weidner sisters married to Pfisterer men, and Annie's parents probably Christian × Christiana Weidner. This rests on the marriage index plus inference; no record yet names Annie's parents. Not added to `parents`. The 1903 "Mrs. Margaret Block" is Binck (page image read): David Pfisterer's widow, not a Weidner. Annie's death is still not found. The Door County Library archive has only the *Advocate* and the *Democrat* for 1906 (both read in s10); its other titles are 1880s–1890s or 1909 on. Henry Bourton's family probably came from Belgium, Ozaukee Co. (Bourton households there in 1880), which could be a place to look for Catherine and perhaps Annie (not searched). Chronicling America (loc.gov) was unreachable (Cloudflare/503).
 - **2026-10-15 s10 — Door County papers searched page by page; no death notice.** The Door County Library Newspaper Archive (**archive.co.door.wi.us**, ResCarta-Web, free; it loads fine in Chrome, so the s5 "Cloudflare" note is out of date) has *The Advocate* 1897–1912 and the *Door County Democrat* 1893–1918 with OCR. Its date filter is ignored and results cap at 3,000, but issue IDs are sequential weekly, so every issue can be read via /servlet/RcWebTextData?ext_obj_id=…&pg_idx=N. Read: all *Advocate* issues 23 Mar–Dec 1906 (IDs 00000535–576) and all *Democrat* issues Feb–Nov 1906 (00000685–725), searching for Pfister/Pflster/Plister/Pfisterer/Fister/Weidner/"Mrs. John P". **No death or funeral notice for her.** All 1903–08 "Pfister" hits and every 1905–07 "asylum"/"insane" item were also checked; the only Fish Creek committal is Mrs. Mary Larson (June 1905, to the Northern Hospital). The second obituary (above) repeats "about one year and a half ago". A death that went unreported locally fits a death away from home, e.g. in a state or county hospital (cf. the 1880 "Insane" tick), so the WHS hospital-records item on the offline list remains the best route.

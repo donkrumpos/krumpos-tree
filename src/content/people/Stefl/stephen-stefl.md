@@ -38,6 +38,7 @@ Brother of Mary Katherine (Steffel) Krumpos (1845–1920). Born in Klattau, Klat
 - WikiTree: Stefl-40 (https://www.wikitree.com/wiki/Stefl-40)
 
 ## Research Notes
+- **2026-10-16 s17:** the Domažlice village birth book 1838–47 (Domažlice 47, all villages) has no Steffl/Štefl child, so Dec 1843 there is also negative. The Klatovy marriage index 1834–45 has no Steffl × Kadlec marriage. See Joseph Wenzel Stefl's notes.
 - **2026-10-16 s16:** the Klatovy N–Z birth index (Klatovy 59, img 90) has no Steffel/Stefl boy in 1843 (only Ludmilla and Anna, of other families), so a 26 Dec 1843 birth in Klatovy town or its suburbs is ruled out (the town page for 26 Dec, Klatovy 18 img 304, was already negative in s15). See Joseph Wenzel Stefl's notes for the Klatovy Steffel families.
 - Born December 26, 1843, Klattau, Bohemia (now Klatovy, Czech Republic)
 - Died 1932 — exact date and location unknown

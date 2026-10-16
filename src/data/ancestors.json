@@ -1485,17 +1485,17 @@
     "slug": "Pfister/annie-m-pfister",
     "name": "Annie M. Pfister",
     "surname": "Pfister",
-    "birth": "1846-11",
+    "birth": "1845-11-16",
     "death": "1906-approx",
-    "birth_place": "Württemberg, Germany",
+    "birth_place": "Waldbach, Bretzfeld, Germany",
     "death_place": "",
     "generation": 5,
     "gender": "F",
     "branch": "martin",
     "life": [
       {
-        "year": 1846,
-        "place": "Württemberg, Germany",
+        "year": 1845,
+        "place": "Waldbach, Bretzfeld, Germany",
         "kind": "born"
       }
     ],
@@ -1508,7 +1508,7 @@
     "surname": "Pfister",
     "birth": "1830-06-19",
     "death": "1908-01-02",
-    "birth_place": "Württemberg, Germany",
+    "birth_place": "Zuffenhausen, Stuttgart, Germany",
     "death_place": "",
     "generation": 5,
     "gender": "M",
@@ -1516,7 +1516,7 @@
     "life": [
       {
         "year": 1830,
-        "place": "Württemberg, Germany",
+        "place": "Zuffenhausen, Stuttgart, Germany",
         "kind": "born"
       }
     ],
@@ -2331,6 +2331,83 @@
       {
         "year": 1802,
         "place": "Ontario, Canada",
+        "kind": "born"
+      }
+    ],
+    "life_source": "birth-death"
+  },
+  {
+    "id": "david-pfisterer-1796",
+    "slug": "Pfister/david-pfisterer-1796",
+    "name": "David Pfisterer",
+    "surname": "Pfister",
+    "birth": "1796-10-28",
+    "death": "1866-03",
+    "birth_place": "Zuffenhausen, Stuttgart, Germany",
+    "death_place": "Zuffenhausen, Stuttgart, Germany",
+    "generation": 6,
+    "gender": "M",
+    "branch": "martin",
+    "life": [
+      {
+        "year": 1796,
+        "place": "Zuffenhausen, Stuttgart, Germany",
+        "kind": "born"
+      },
+      {
+        "year": 1866,
+        "place": "Zuffenhausen, Stuttgart, Germany",
+        "kind": "died"
+      }
+    ],
+    "life_source": "birth-death"
+  },
+  {
+    "id": "leonhard-christian-weidner",
+    "slug": "Pfister/leonhard-christian-weidner",
+    "name": "Leonhard Christian Weidner",
+    "surname": "Pfister",
+    "birth": "",
+    "death": "",
+    "birth_place": "Württemberg, Germany",
+    "death_place": "",
+    "generation": 6,
+    "gender": "M",
+    "branch": "martin",
+    "life": [],
+    "life_source": "birth-death"
+  },
+  {
+    "id": "margaretha-gottliebin-stiegele",
+    "slug": "Pfister/margaretha-gottliebin-stiegele",
+    "name": "Margaretha Gottliebin Stiegele",
+    "surname": "Pfister",
+    "birth": "",
+    "death": "",
+    "birth_place": "Württemberg, Germany",
+    "death_place": "",
+    "generation": 6,
+    "gender": "F",
+    "branch": "martin",
+    "life": [],
+    "life_source": "birth-death"
+  },
+  {
+    "id": "margaretha-schober",
+    "slug": "Pfister/margaretha-schober",
+    "name": "Margaretha Schober",
+    "surname": "Pfister",
+    "birth": "1801-04",
+    "death": "",
+    "birth_place": "Zuffenhausen, Stuttgart, Germany",
+    "death_place": "",
+    "generation": 6,
+    "gender": "F",
+    "branch": "martin",
+    "life": [
+      {
+        "year": 1801,
+        "place": "Zuffenhausen, Stuttgart, Germany",
         "kind": "born"
       }
     ],
