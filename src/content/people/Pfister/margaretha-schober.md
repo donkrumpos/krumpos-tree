@@ -51,5 +51,6 @@ Born April 1801, daughter of **Johann Georg Schober** and **Magdalena Pfizer** (
 - Burial, Zuffenhausen, 18 Jan 1836, Margarethe Pfisterer, b. 1802, daughter of Johann Georg Schober × Magdalena Pfetzer, wife of David Pfisterer — **PROBABLE** (index: FS QPKC-QNCS).
 
 ## Research Notes
+- 2026-10-16 s19: FS index searches for her baptism (Margaretha Schober, 1801) and for any child of Johann Georg Schober × Pfizer/Pfetzer other than the 1795 Margaretha Magdalena (Seitter marriage) were negative; the only Schober × Pfizer index hits are the 1822 marriage, the 1836 burial and the sister's 1834 Ludwigsburg (Eglosheim) burial. Parish still unknown.
 - 2026-10-16 s18: death found (1836). Her baptism (15 or 25 Apr 1801) is not indexed and her home parish is unknown (see [[johann-georg-schober]]).
 - 2026-10-16 s17: identified with John Pfister Sr.'s mother through his baptism index (b. 19 Jun 1830, Zuffenhausen). Her death was not searched.
